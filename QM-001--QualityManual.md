@@ -31,6 +31,15 @@ This QMS adopts the definition of *Clinical Investigation* used in
     and Drug Administration as part of an application for a research or
     marketing permit
 
+## 2.0 SCOPE
+
+This Quality Manual defines policies and procedures related to the design and
+conduct of clinical investigations as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
+
+All __NewInstitue__ employees and subcontractors are required to adhere to the
+policies and procedures outlined in this Quality Manual when designing and
+conducting clinical investigations.
+
 __NewInstitue__ does not perform clinical investigations of drugs, biologics,
 or pharmaceutical products.  Therefore, the following standards and guidance
 documents are not considered by this QMS
@@ -45,15 +54,6 @@ the performance, effectiveness, and/or safety of medical devices.  Therefore
 the following standards and guidance documents are not considered by this QMS
 
 -   ISO 14155: Clinical investigation of medical devices for human subjects
-
-## 2.0 SCOPE
-
-This Quality Manual defines policies and procedures related to the design and
-conduct of clinical investigations as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
-
-All __NewInstitue__ employees and subcontractors are required to adhere to the
-policies and procedures outlined in this Quality Manual when designing and
-conducting clinical investigations.
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
@@ -72,6 +72,36 @@ conducting clinical investigations.
 
 ### 3.2 __NewInstitue__ Procedures 
 ----------------------------------------------------------------------
+
+1.  SOP-001: Design Controls Procedure
+
+2.  SOP-002: Document and Records Controls Procedure
+
+3.  SOP-003: Risk Management and Quality Risk Management Procedure
+
+4.  SOP-004: Computer System Validation and Data Integrity Procedure
+
+5.  SOP-005: Study Design Review Procedure
+
+6.  SOP-006: Outsourced Activities Procedure
+
+7.  SOP-007: Investigational Product Management Procedure
+
+8.  SOP-008: Subject Safety and Adverse Event Management Procedure
+
+9.  SOP-009: Data Integrity and Data Management Procedure
+
+10. SOP-010: Monitoring and Oversight Procedure
+
+11. SOP-011: Control of Nonconforming Clinical Investigation Activities Procedure
+
+12. SOP-012: Corrective and Preventive Action Procedure
+
+13. SOP-013: Internal and External Audit Procedure
+
+14. SOP-014: Change Control Procedure
+
+15. SOP-015: Regulatory Compliance Management Procedure
 
 ### 3.3 Terms
 ----------------------------------------------------------------------
