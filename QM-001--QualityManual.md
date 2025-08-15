@@ -68,6 +68,8 @@ the following standards and guidance documents are not considered by this QMS
 
 - ICH E8(R1)
 
+- GAMP v5
+
 - [FDA's Clinical Trials Guidance Documents](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection/clinical-trials-guidance-documents): The FDA's list of guidance documents that represents the agency's current thinking on the conduct of clinical trials, good clinical practice and human subject protection.
 
 ### 3.2 __NewInstitue__ Procedures 
@@ -141,6 +143,14 @@ the following standards and guidance documents are not considered by this QMS
 - TMF
 
 - CAPA
+
+- GAMP
+
+- NIST
+
+- ICH
+
+- ISO
 
 ## 4.0 QMS OVERVIEW
 
@@ -430,7 +440,7 @@ These activities, at a minimum, shall include:
 -   Document and Records Controls (see [section 7.2](QM-001--QualityManual.md#72-document-and-records-controls))
 -   Risk Management and Quality Risk Management (see [section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management))
 -   Computer System Validation and Data Integrity (see [section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity))
--   Protocol Reviews (see [section 7.5](QM-001--QualityManual.md#75-study-design-reviews))
+-   Study Design Reviews (see [section 7.5](QM-001--QualityManual.md#75-study-design-reviews))
 -   Outsourced Activities (see [section 7.6](QM-001--QualityManual.md#76-outsourced-activities))
 -   Investigational Product Management (see [section 7.7](QM-001--QualityManual.md#77-investigational-product-management))
 -   Subject Safety and Adverse Event Management (see [section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management))
@@ -676,42 +686,156 @@ TBD
 
 ** todo: double check and cross reference SOPs and sections of this QM **
 
+### Management Resposibility
+
+- Management Commitment
+  - QM-001 Quality Manual
+    - [Section 5.1](QM-001--QualityManual.md#51-management-commitment)
+  - ISO 9001:2015 
+    - Section 5.1 (Leadership and commitment)
+  - E6(R2)
+    - Section 5.0 (Quality Management)
+
+- Quality Policy
+  - QM-001 Quality Manual
+    - [Section 5.2](QM-001--QualityManual.md#52-quality-policy)
+  - ISO 9001:2015
+    - Section 5.2 (Policy)
+
+- Quality Objectives
+  - QM-001 Quality Manual
+    - [Section 4.1](QM-001--QualityManual.md#41-general-requirements)
+  - ISO 9001:2015
+    - Section 6.2 (Quality objectives and planning to achieve them)
+  - E8(R1)
+    - Section 3 (Desining Quality Into Clinical Studies)
+    - Section 7 (Considerations in Identifying Critical to Quality Factors)
+
+- Resources
+  - QM-001 Quality Manual
+    - [Section 5.3](QM-001--QualityManual.md#53-resources)
+    - [Section 6](QM-001--QualityManual.md#60-resource-management)
+  - ISO 9001:2015
+    - Section 7.1 (Resources)
+  - E6(R2)
+    - Section 4.2 (Adequate Resources)
+
+- Management Reviews
+  - QM-001 Quality Manual
+    - [Section 5.3.3](QM-001--QualityManual.md#533-management-reviews)
+  - ISO 9001:2015
+    - Section 9.3 (Management Review)
+
+### Design and Document Controls
+ 
 - Design Controls
-  - ISO 9001: Sections 8.3 (Design and development of products and services)
-  - ICH E8(R1): Section 3 (Study Design Principles), Section 4 (Study Design Elements)
-  - ICH E6(R2): Section 5.0 (Quality Management), 5.1 (Quality Assurance and Quality Control)
+  - QM-001 Quality Manual
+    - [Section 7.1](QM-001--QualityManual.md#71-design-controls)
+  - SOP-001 Design Controls Procedure
+  - ISO 9001:2015
+    - Section 8.3 (Design and development of products and services)
+  - ICH E8(R1) 
+    - Section 3 (Study Design Principles)
+    - Section 4 (Study Design Elements)
+  - ICH E6(R2)
+    - Section 5.0 (Quality Management)
+    - Section 5.1 (Quality Assurance and Quality Control)
+
 - Document and Records Controls
-  - ISO 9001: Sections 7.5 (Documented information)
+  - QM-001 Quality Manual
+    - [Section 7.2](QM-001--QualityManual.md#72-document-and-records-controls)
+  - SOP-002 Document and Records Controls Procedure
+  - ISO 9001:2015
+    - Sections 7.5 (Documented information)
   - ICH E6(R2): 
-    - Section 8.0 (Essential Documents)
+    - Section 8.0 (Essential Documents for the Conduct of a Clinical Trial)
     - Section 4.9 (Records and Reports)
+
+### Risk Management
+ 
 - Risk Management and Quality Risk Management
-  - ICH E6(R2): Section 5.0 (Quality Management), Annex I (Quality Risk Management)
-  - ICH E8(R1): Section 3.2 (Risk-based approaches)
+  - QM-001 Quality Manual
+    - [Section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management)
+  - SOP-003 Risk Management and Quality Risk Management Procedure
+  - ISO 9001:2015
+    - Section 6.1 (Actions to address risks and opportunities)
+  - ICH E6(R2)
+    - Section 5.0 (Quality Management)
+  - ICH E8(R1)
+    - Section 3.2 (Critical to Quality Factors)
+
 - Computer System Validation and Data Integrity
+  - QM-001 Quality Manual
+    - [Section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity)
+  - SOP-004 Computer System Validation and Data Integrity Procedure
+  - ISO 9001:2015
+    - Section 6.1 (Actions to address risks and opportunities)
+  - ICH E6(R2)
+    - Section 1.65 (Validation of Computerized Systems)
+    - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
+  - ICH E8(R1)
+    - Section 6.1.3 (Data Management)
   - GAMP 5
   - NIST 800-171 
   - NIST 800-53
   - 21 CFR 11
-  - ICH E6(R2): Section 5.5 (Data Management), Annex I (Data integrity principles)
+
+### Outsourced Activities
+
 - Outsourced Activities
-  - ISO 9001: Sections 8.4 (Control of externally provided processes, products and services)
-  - ICH E6(R2): Section 5.2 (Outsourced Activities)
+  - QM-001 Quality Manual
+    - [Section 7.6](QM-001--QualityManual.md#76-outsourced-activities)
+  - SOP-006 Outsourced Activities Procedure
+  - ISO 9001:2015
+    - Section 8.4 (Control of externally provided processes, products and services)
+  - ICH E6(R2)
+    - Section 5.2 (Contract Research Organization (CRO))
+    - Section 5.23 (Multicenter Trials)
+
+### Investigational Product Management
+
+- Investigational Product Management
+  - QM-001 Quality Manual
+    - [Section 7.7](QM-001--QualityManual.md#77-investigational-product-management)
+  - SOP-007 Investigational Product Management Procedure
+  - ICH E6(R2)
+    - Section 5.13 (Manufacturing, Packaging, Labeling, and Coding Investigational Product(s)), 
+    - Section 5.14 (Supplying and Handling Investigational Product(s))
+
+### Subject Safety and Adverse Event Management
+
+- Subject Safety and Adverse Event Management
+  - QM-001 Quality Manual
+    - [Section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management)
+  - SOP-008 Subject Safety and Adverse Event Management Procedure,
+  - ICH E6(R2): 
+    - Section 4.11 (Safety Reporting), 
+    - Section 5.17 (Adverse Drug Reaction Reporting)
+  - ICH E8(R1)
+    - Section 6.2 (Participant Safety during Study Conduct)
+
+- Data Integrity and Data Management
+  - ICH E6(R2): Section 5.5 (Data Management), Annex I (section on data integrity)
+  *** PW TODO This should be merged with SOP-004! ***
+  
+### Audits
+
 - Internal and External Audits
-  - ISO 9001: Section 9.2 (Internal audit)
-  - ICH E6(R2): Section 5.19 (Quality Assurance and Quality Control)
+  - QM-001 Quality Manual
+    - [Section 8.3](QM-001--QualityManual.md#83-internal-and-external-audits)
+  - SOP-013 Internal and External Audit Procedure
+  - ISO 9001
+    - Section 9.2 (Internal audit)
+  - ICH E6(R2):
+    - Section 5.19 (Audit)
   - ISO 19011 (Guidelines for auditing management systems)
+
+
 - Training and Competency Management
   - ISO 9001: Section 7.2 (Competence)
   - ICH E6(R2): Section 5.18 (Training)
-- Investigational Product Management
-  - ICH E6(R2): Section 5.13 (Investigational Product(s)), 5.14 (Randomisation Procedures and Unblinding)
-- Subject Safety and Adverse Event Management
-  - ICH E6(R2): 
-    - Section 4.11 (Safety Reporting), 
-    - Section 5.17 (Safety Reporting)
-- Data Integrity and Data Management
-  - ICH E6(R2): Section 5.5 (Data Management), Annex I (section on data integrity)
+
+
 - Monitoring and Oversight
   - ICH E6(R2): Section 5.18 (Monitoring), Annex I (Risk-based monitoring)
   - ICH E8(R1): Section 5.3 (Monitoring approaches)
