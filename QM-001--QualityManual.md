@@ -34,13 +34,13 @@ This QMS adopts the definition of *Clinical Investigation* used in
 ## 2.0 SCOPE
 
 This Quality Manual defines policies and procedures related to the design and
-conduct of clinical investigations as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
+conduct of *clinical investigations* as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
 
 All __NewInstitue__ employees and subcontractors are required to adhere to the
 policies and procedures outlined in this Quality Manual when designing and
-conducting clinical investigations.
+conducting *clinical investigations*.
 
-__NewInstitue__ does not perform clinical investigations of drugs, biologics,
+__NewInstitue__ does not perform *clinical investigations* of drugs, biologics,
 or pharmaceutical products.  Therefore, the following standards and guidance
 documents are not considered by this QMS
 
@@ -49,11 +49,11 @@ documents are not considered by this QMS
 -   ICH E2A:  Clinical Safety Data Management: Definitions and Standards for Expedited Reporting
 -   FDA Guidance on Data Integrity and Compliance (2018)
 
-Furthermore, __NewInstitue__ does not perform clinical investigations to asses
+Furthermore, __NewInstitue__ does not perform *clinical investigations* to asses
 the performance, effectiveness, and/or safety of medical devices.  Therefore
 the following standards and guidance documents are not considered by this QMS
 
--   ISO 14155: Clinical investigation of medical devices for human subjects
+-   ISO 14155: *Clinical investigation* of medical devices for human subjects
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
@@ -107,7 +107,7 @@ the following standards and guidance documents are not considered by this QMS
 ----------------------------------------------------------------------
 
 -   **Clinical Investigation**: The FDA cites the following CFRs for their
-    definition of clinical investigation: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)), 
+    definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)), 
     [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3(Clinical%20investigation))
     and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3(h)).
     This QMS adopts the definition from 21 CFR 50.3(c): any experiment that
@@ -270,16 +270,15 @@ subjects and in a manner that protects their privacy.
 
 #### 5.3.1 Organization
 
-The functional organization chart included as Appendix A summarizes how
-__NewInstitue__ is structured to ensure responsibilities and authorities are
-defined and communicated within the organization with regard to the design and
-development of medical devices.
+The functional organization chart included as [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart) summarizes how __NewInstitue__ is structured to ensure responsibilities
+and authorities are defined and communicated within the organization with
+regard to the design and conuct of *clinical investigations*.
 
 __NewInstitue__ clearly establishes and documents the responsibilities,
 authority, and interrelation of employees who manage, perform, and verify work
-which affects quality as shown in Appendix A.
+which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart).
 
-All employees assigned to a clinical investigation must have requisite
+All employees assigned to a *clinical investigation* must have requisite
 training as identified in the applicable Clinical Study Protocol.
 
 #### 5.3.2 Management Representative Responsibilities
@@ -287,10 +286,10 @@ training as identified in the applicable Clinical Study Protocol.
 __NewInstitue__ **SHALL** appoint a Management Representative with the
 following minimum responsibilities:
 
--   Authority to prevent initiation or continuation of clinical investigations
+-   Authority to prevent initiation or continuation of *clinical investigations*
     that do not meet quality standards or regulatory requirements until the
     deficiency or unsatisfactory condition is corrected. When a dispute occurs
-    concerning the quality of a clinical investigation, the issue is brought
+    concerning the quality of a *clinical investigation*, the issue is brought
     before Executive Management for resolution.
 
 -   Promotes awareness of Good Clinical Practice (GCP) requirements, 
@@ -302,7 +301,8 @@ following minimum responsibilities:
 
 -   Responsible for coordinating periodic internal audits of all clinical
     investigation activities covered by this Quality Manual. Internal Audits
-    are described in section **tbd** below.
+    are described in [section 8.3](QM-001--QualityManual.md#83-internal-and-external-audits)
+    below.
 
 -   Maintains this Quality Manual and distributes controlled copies of
     the Quality Manual.
@@ -320,7 +320,7 @@ following minimum responsibilities:
 
 -   Maintains oversight of investigator qualifications and training compliance
 
-### 5.3.3 Management Reviews
+#### 5.3.3 Management Reviews
 
 __NewInstitue__ **SHALL** conduct an annual Management Review. This review
 assesses the continuing QMS suitability, adequacy and effectiveness,
@@ -328,7 +328,7 @@ identifying opportunities for improvement and needed changes. At each
 Management Review meeting, the following topics MAY be considered for
 discussion:
 
--   Status of all clinical investigation activities and study portfolio
+-   Status of all *clinical investigation* activities and study portfolio
 
 -   Subject safety, adverse events, and data integrity issues
 
@@ -394,7 +394,7 @@ maintain and improve the QMS.
 
 Executive Management shall ensure that all employees and subcontractors
 involved in activities that affect the quality, safety and reliability of
-clinical investigations conducted by __NewInstitue__ meet minimum levels of
+*clinical investigations* conducted by __NewInstitue__ meet minimum levels of
 competence.
 
 Executive Management shall provide awareness training to all employees to make
@@ -416,26 +416,26 @@ Executive Management **shall** be responsible for deciding which clinical
 investigations should be designed and conducted. For each of these
 studies, Executive Management **shall** be responsible for providing
 adequate systems, equipment, and infrastructure to support the design,
-conduct, reporting and support of clinical investigations conducted under this
+conduct, reporting and support of *clinical investigations* conducted under this
 QMS.
 
 ## 7.0 STUDY REALIZATION
 ----------------------------------------------------------------------
 
 Study realization activities include all activities required to design,
-conduct, monitor, analyze, and report clinical investigations within this QMS.
+conduct, monitor, analyze, and report *clinical investigations* within this QMS.
 These activities, at a minimum, shall include:
 
--   Design Controls (see section 7.1)
--   Document and Records Controls (see section 7.2)
--   Risk Management and Quality Risk Management (see section 7.3)
--   Computer System Validation and Data Integrity (see section 7.4)
--   Protocol Reviews (see section 7.5)
--   Outsourced Activities (see section 7.6)
--   Investigational Product Management (see section 7.7)
--   Subject Safety and Adverse Event Management (see section 7.8)
--   Data Integrity and Data Management (see section 7.9)
--   Monitoring and Oversight (see section 7.10)
+-   Design Controls (see [section 7.1](QM-001--QualityManual.md#71-design-controls))
+-   Document and Records Controls (see [section 7.2](QM-001--QualityManual.md#72-document-and-records-controls))
+-   Risk Management and Quality Risk Management (see [section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management))
+-   Computer System Validation and Data Integrity (see [section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity))
+-   Protocol Reviews (see [section 7.5](QM-001--QualityManual.md#75-study-design-reviews))
+-   Outsourced Activities (see [section 7.6](QM-001--QualityManual.md#76-outsourced-activities))
+-   Investigational Product Management (see [section 7.7](QM-001--QualityManual.md#77-investigational-product-management))
+-   Subject Safety and Adverse Event Management (see [section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management))
+-   Data Integrity and Data Management (see [section 7.9](QM-001--QualityManual.md#79-data-integrity-and-data-management))
+-   Monitoring and Oversight (see [section 7.10](QM-001--QualityManual.md#710-monitoring-and-oversight))
 
 ### 7.1 Design Controls
 ----------------------------------------------------------------------
@@ -454,11 +454,11 @@ procedure that minimally addresses the document and record control requirements
 contained in ISO 9001, ICH E6(R2) Section 8.0, and applicable regulatory
 guidance documents.
 
-Documents and records related to clinical investigations shall be created and
+Documents and records related to *clinical investigations* shall be created and
 maintained in accordance with the Document and Records Controls Procedure,
 SOP-002.
 
-A Trial Master File (TMF) **SHALL** be created for each clinical investigation.
+A Trial Master File (TMF) **SHALL** be created for each *clinical investigation*.
 Study documents and records identified in the SOPs, work instructions, and
 study plans **SHALL** be maintained in the study TMF.
 
@@ -470,7 +470,7 @@ Risk Management procedure that minimally addresses applicable requirements in
 ISO 9001 Section 6.1, ICH E6(R2) Section 5.0, and applicable FDA guidance
 documents.
 
-All risk management activities related to clinical investigations **SHALL** be
+All risk management activities related to *clinical investigations* **SHALL** be
 performed and documented in accordance with the Risk Management and Quality
 Risk Management Procedure, SOP-003.
 
@@ -483,10 +483,10 @@ Integrity procedure that minimally addresses applicable requirements in
 applicable FDA guidance documents.
 
 All computer system validation and data integrity activities related to
-clinical investigations shall be performed and documented in accordance with
+*clinical investigations* shall be performed and documented in accordance with
 the Computer System Validation and Data Integrity Procedure, SOP-004.
 
-All computer systems used in clinical investigations shall be considered for
+All computer systems used in *clinical investigations* shall be considered for
 validation in accordance with GAMP 5 risk-based principles as described in the
 Computer System Validation Procedure.
 
@@ -497,7 +497,7 @@ __NewInstitue__ **SHALL** establish and maintain a Study Design Review
 procedure that minimally addresses applicable requirements in ICH E6(R2)
 Section 6.0, ICH E8(R1), and applicable regulatory guidance documents.
 
-All Study Design Reviews related to clinical investigations shall be
+All Study Design Reviews related to *clinical investigations* shall be
 performed and documented in accordance with the Study Design Review Procedure,
 SOP-005.
 
@@ -512,12 +512,12 @@ procedure that minimally addresses the following:
     laboratories, data management services, statistical services, and other
     outsourced service providers
 
-The conduct of clinical investigations may incorporate services provided by
+The conduct of *clinical investigations* may incorporate services provided by
 CROs, central laboratories, and other service providers as well as custom
 services developed by third parties to specifications prepared by
 __NewInstitue__.
 
-Outsourced activities related to clinical investigations shall be performed and
+Outsourced activities related to *clinical investigations* shall be performed and
 documented in accordance with the Outsourced Activities Procedure, SOP-006.
 
 ### 7.7 Investigational Product Management
@@ -542,14 +542,14 @@ Investigational product management activities **SHALL** be performed and
 documented in accordance with the Investigational Product Management Procedure,
 SOP-007.
 
-## 7.8 Subject Safety and Adverse Event Management
+### 7.8 Subject Safety and Adverse Event Management
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Subject Safety and Adverse
 Event Management procedure that minimally addresses the following:
 
 -   **Safety Monitoring**: Procedures for ongoing safety assessment and subject
-    safety monitoring throughout the clinical investigation
+    safety monitoring throughout the *clinical investigation*
 -   **Adverse Event Reporting**: Procedures for identification, documentation,
     assessment, and expedited reporting of adverse events and serious adverse
     events
@@ -558,7 +558,7 @@ Subject safety and adverse event management activities shall be performed and
 documented in accordance with the Subject Safety and Adverse Event Management
 Procedure, SOP-008.
 
-## 7.9 Data Integrity and Data Management
+### 7.9 Data Integrity and Data Management
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Data Integrity and Data
@@ -570,7 +570,7 @@ All data integrity and data management activities related to clinical
 investigations **SHALL** be performed and documented in accordance with the Data
 Integrity and Data Management Procedure, SOP-009.
 
-## 7.10 Monitoring and Oversight
+### 7.10 Monitoring and Oversight
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Monitoring and Oversight
@@ -578,7 +578,7 @@ procedure that minimally addresses applicable requirements in ICH E6(R2)
 Section 5.18, ICH E8(R1) Section 6.2 and applicable regulatory
 guidance documents.
 
-All monitoring and oversight activities related to clinical investigations
+All monitoring and oversight activities related to *clinical investigations*
 **SHALL** be performed and documented in accordance with the Monitoring and
 Oversight Procedure, SOP-010.
 
@@ -592,11 +592,11 @@ investigation conduct.
 
 These activities, at a minimum, shall include:
 
-- Control of Nonconforming Clinical Investigation Activities (see section 8.1)
-- Corrective and Preventive Action (CAPA) (see section 8.2)
-- Internal and External Audits (see section 8.3)
-- Change Control (see section 8.4)
-- Regulatory Compliance Management (see section 8.5)
+- Control of Nonconforming Clinical Investigation Activities (see [section 8.1](QM-001--QualityManual.md#81-control-of-nonconforming-clinical-investigation-activities))
+- Corrective and Preventive Action (CAPA) (see [section 8.2](QM-001--QualityManual.md#82-corrective-and-preventive-action-capa))
+- Internal and External Audits (see [section 8.3](QM-001--QualityManual.md#83-internal-and-external-audits))
+- Change Control (see [section 8.4](QM-001--QualityManual.md#84-change-control))
+- Regulatory Compliance Management (see [section 8.5](QM-001--QualityManual.md#85-regulatory-compliance-management))
 
 ### 8.1 Control of Nonconforming Clinical Investigation Activities
 ----------------------------------------------------------------------
@@ -609,9 +609,9 @@ ISO 9001 Section 10.2 and ICH E6(R2) Sections 4.5.3 and 5.0.
 
 This procedure **SHALL** ensure that __NewInstitue__ and its outsourced service
 providers have an effective system to prevent continuation of nonconforming
-clinical investigation activities.
+*clinical investigation* activities.
 
-Control of nonconforming clinical investigation activities **SHALL** be
+Control of nonconforming *clinical investigation* activities **SHALL** be
 performed and documented in accordance with the Control of Nonconforming
 Clinical Investigation Activities Procedure, SOP-011.
 
@@ -622,11 +622,11 @@ __NewInstitue__ **SHALL** establish and maintain a CAPA process that minimally
 requires corrective action be taken to prevent recurrence of a nonconformance
 that has already occurred. The CAPA process shall also require that preventive
 action be taken when a potential nonconformity is identified as the result of
-analysis of clinical investigation records, audit findings, and other relevant
+analysis of *clinical investigation* records, audit findings, and other relevant
 sources of information.  This process should also minimally address applicable
 requirements in ISO 9001 Section 10.2 and ICH E6(R2) Section 5.0
 
-CAPA activities related to clinical investigations **SHALL** be performed and
+CAPA activities related to *clinical investigations* **SHALL** be performed and
 documented in accordance with the Corrective and Preventive Action Procedure,
 SOP-012.
 
@@ -634,12 +634,12 @@ SOP-012.
 ----------------------------------------------------------------------
 
 Audits are a critical tool for improving the QMS and for ensuring the quality, 
-safety, and reliability of clinical investigations conducted within the QMS.
+safety, and reliability of *clinical investigations* conducted within the QMS.
 __NewInstitue__ is committed to performing and participating in internal and
 external audits.
 
 Activities related to planning, conducting, and documenting internal and
-external audits of clinical investigations **SHALL** be performed and 
+external audits of *clinical investigations* **SHALL** be performed and 
 documented in accordance with the Internal and External Audit Procedure,
 SOP-013 and adress applicable requirements in ISO 9001 Section 9.2, ICH E6(R2)
 Section 5.19, and ISO 19011.
@@ -649,10 +649,10 @@ Section 5.19, and ISO 19011.
 
 __NewInstitue__ **SHALL** establish and maintain a Change Control procedure
 that minimally addresses ICH E6(R2) Section 4.5 protocol amendment requirements
-and control of changes to clinical investigation systems, processes, and
+and control of changes to *clinical investigation* systems, processes, and
 procedures.
 
-Change control activities related to clinical investigations shall be performed
+Change control activities related to *clinical investigations* shall be performed
 and documented in accordance with the Change Control Procedure, SOP-014.
 
 ### 8.5 Regulatory Compliance Management
