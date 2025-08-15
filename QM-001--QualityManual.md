@@ -70,6 +70,10 @@ the following standards and guidance documents are not considered by this QMS
 
 - GAMP v5
 
+- NIST 800-171
+
+- NIST 800-53
+
 - [FDA's Clinical Trials Guidance Documents](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection/clinical-trials-guidance-documents): The FDA's list of guidance documents that represents the agency's current thinking on the conduct of clinical trials, good clinical practice and human subject protection.
 
 ### 3.2 __NewInstitue__ Procedures 
@@ -81,7 +85,7 @@ the following standards and guidance documents are not considered by this QMS
 
 3.  SOP-003: Risk Management and Quality Risk Management Procedure
 
-4.  SOP-004: Computer System Validation and Data Integrity Procedure
+4.  SOP-004: Computer System Validation, Data Integrity and Data Management Procedure
 
 5.  SOP-005: Study Design Review Procedure
 
@@ -91,19 +95,17 @@ the following standards and guidance documents are not considered by this QMS
 
 8.  SOP-008: Subject Safety and Adverse Event Management Procedure
 
-9.  SOP-009: Data Integrity and Data Management Procedure
+9.  SOP-009: Monitoring and Oversight Procedure
 
-10. SOP-010: Monitoring and Oversight Procedure
+10. SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure
 
-11. SOP-011: Control of Nonconforming Clinical Investigation Activities Procedure
+11. SOP-011: Corrective and Preventive Action Procedure
 
-12. SOP-012: Corrective and Preventive Action Procedure
+12. SOP-012: Internal and External Audit Procedure
 
-13. SOP-013: Internal and External Audit Procedure
+13. SOP-013: Change Control Procedure
 
-14. SOP-014: Change Control Procedure
-
-15. SOP-015: Regulatory Compliance Management Procedure
+14. SOP-014: Regulatory Compliance Management Procedure
 
 ### 3.3 Terms
 ----------------------------------------------------------------------
@@ -184,13 +186,12 @@ conduct of ethical and reliable *clincal investigations*:
 -   Design Controls
 -   Document and Records Controls
 -   Risk Management and Quality Risk Management
--   Computer System Validation and Data Integrity
+-   Computer System Validation, Data Integrity and Data Management
 -   Outsourced Activities
 -   Internal and External Audits
 -   Training and Competency Management
 -   Investigational Product Management
 -   Subject Safety and Adverse Event Management
--   Data Integrity and Data Management
 -   Monitoring and Oversight
 -   Corrective and Preventive Actions (CAPA)
 -   Management Review and Quality Planning
@@ -484,21 +485,27 @@ All risk management activities related to *clinical investigations* **SHALL** be
 performed and documented in accordance with the Risk Management and Quality
 Risk Management Procedure, SOP-003.
 
-### 7.4 Computer System Validation and Data Integrity
+### 7.4 Computer System Validation, Data Integrity and Data Management
 ----------------------------------------------------------------------
 
-__NewInstitue__ **SHALL** establish and maintain a Computer System Validation and Data
-Integrity procedure that minimally addresses applicable requirements in
-21 CFR Part 11, ICH E6(R2) Section 5.5, GAMP 5, NIST 800-171, NIST 800-53, and
-applicable FDA guidance documents.
+__NewInstitue__ **SHALL** establish and maintain a Computer System Validation,
+Data Integrity and Data Management procedure that minimally addresses
+applicable requirements in 21 CFR Part 11, ICH E6(R2) Section 5.5, GAMP 5,
+NIST 800-171, NIST 800-53, and applicable FDA guidance documents.
 
-All computer system validation and data integrity activities related to
-*clinical investigations* shall be performed and documented in accordance with
-the Computer System Validation and Data Integrity Procedure, SOP-004.
+All computer system validation, data integrity, and data management activities
+related to *clinical investigations* shall be performed and documented in
+accordance with the Computer System Validation, Data Integrity and Data
+Management Procedure, SOP-004.
 
 All computer systems used in *clinical investigations* shall be considered for
 validation in accordance with GAMP 5 risk-based principles as described in the
 Computer System Validation Procedure.
+
+All data integrity and data management activities related to *clinical
+investigations* **SHALL** be performed and documented in accordance with the
+Computer System Validation, Data Integrity and Data Management Procedure,
+SOP-004
 
 ### 7.5 Study Design Reviews
 ----------------------------------------------------------------------
@@ -568,19 +575,7 @@ Subject safety and adverse event management activities shall be performed and
 documented in accordance with the Subject Safety and Adverse Event Management
 Procedure, SOP-008.
 
-### 7.9 Data Integrity and Data Management
-----------------------------------------------------------------------
-
-__NewInstitue__ **SHALL** establish and maintain a Data Integrity and Data
-Management procedure that minimally addresses applicable requirements in
-ICH E6(R2) Section 5.5, FDA Data Integrity Guidance, and applicable regulatory
-guidance documents.
-
-All data integrity and data management activities related to clinical
-investigations **SHALL** be performed and documented in accordance with the Data
-Integrity and Data Management Procedure, SOP-009.
-
-### 7.10 Monitoring and Oversight
+### 7.9 Monitoring and Oversight
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Monitoring and Oversight
@@ -764,7 +759,7 @@ TBD
   - ICH E8(R1)
     - Section 3.2 (Critical to Quality Factors)
 
-- Computer System Validation and Data Integrity
+- Computer System Validation, Data Integrity and Data Management
   - QM-001 Quality Manual
     - [Section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity)
   - SOP-004 Computer System Validation and Data Integrity Procedure
@@ -775,6 +770,7 @@ TBD
     - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
   - ICH E8(R1)
     - Section 6.1.3 (Data Management)
+    - Section 6.2.3 (Data Monitoring Committee)
   - GAMP 5
   - NIST 800-171 
   - NIST 800-53
@@ -814,9 +810,7 @@ TBD
   - ICH E8(R1)
     - Section 6.2 (Participant Safety during Study Conduct)
 
-- Data Integrity and Data Management
-  - ICH E6(R2): Section 5.5 (Data Management), Annex I (section on data integrity)
-  *** PW TODO This should be merged with SOP-004! ***
+***PW***
   
 ### Audits
 
