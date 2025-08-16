@@ -12,9 +12,9 @@ This Quality Manual (QM) establishes the Quality Management System (QMS) for
 __NewInstitue__.  Policies and procedures required for compliance are shown 
 using the word **“SHALL”**.
 
-This QMS complies with applicable sections of ISO-9001, ISO-19011, ICH E6(R2),
-ICH E8(R1), applicable Clinical Trials Guidance Documents published by the FDA and 
-international standards.
+This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018, 
+ICH E6(R2), ICH E8(R1), applicable Clinical Trials Guidance Documents published
+by the FDA and international standards.
 
 *Clinical Investigations* conducted by __NewInstitue__ are conducted in
 accordance with this QMS and in a manner consistent with best practices.
@@ -53,7 +53,7 @@ Furthermore, __NewInstitue__ does not perform *clinical investigations* to asses
 the performance, effectiveness, and/or safety of medical devices.  Therefore
 the following standards and guidance documents are not considered by this QMS
 
--   ISO 14155: *Clinical investigation* of medical devices for human subjects
+-   ISO-14155: *Clinical investigation* of medical devices for human subjects
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
@@ -62,7 +62,7 @@ the following standards and guidance documents are not considered by this QMS
 
 - ISO-9001:2015
 
-- ISO-19011
+- ISO-19011:2018
 
 - ICH E6(R2)
 
@@ -268,13 +268,11 @@ trained staff.
 
 __NewInstitue__'s quality policy is as follows:
 
-```
-__NewInstitue__ collects high quality, multi-modal human health data in order
-to answer specific research questions to better understand the nature of
-various diseases, human health and longevity.  Data is collected, stored,
-transmitted, analysed and distributed in accordance with the consent of the
-subjects and in a manner that protects their privacy.
-```
+>   __NewInstitue__ collects high quality, multi-modal human health data in
+    order to answer specific research questions to better understand the nature
+    of various diseases, human health and longevity.  Data is collected, stored,
+    transmitted, analysed and distributed ethically and in accordance with the
+    consent of the subjects and in a manner that protects their privacy.
 
 ### 5.3 Resources 
 ----------------------------------------------------------------------
@@ -451,7 +449,7 @@ These activities, at a minimum, shall include:
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Design Control procedure that
-minimally addresses applicable requirements in ISO 9001, ICH E6(R2),
+minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
 ICH E8(R1), and applicable regulatory guidance documents.  All clinical
 investigation design activities shall be performed and documented in accordance
 with the Design Controls Procedure, SOP-001.
@@ -461,8 +459,8 @@ with the Design Controls Procedure, SOP-001.
 
 __NewInstitue__ **SHALL** establish and maintain a Document and Records Control
 procedure that minimally addresses the document and record control requirements
-contained in ISO 9001, ICH E6(R2) Section 8.0, and applicable regulatory
-guidance documents.
+contained in ISO-9001:2015, ICH E6(R2) Sections 4.9 and 8.0, and applicable
+regulatory guidance documents.
 
 Documents and records related to *clinical investigations* shall be created and
 maintained in accordance with the Document and Records Controls Procedure,
@@ -470,15 +468,15 @@ SOP-002.
 
 A Trial Master File (TMF) **SHALL** be created for each *clinical investigation*.
 Study documents and records identified in the SOPs, work instructions, and
-study plans **SHALL** be maintained in the study TMF.
+study plans **SHALL** be maintained in the TMF.
 
 ### 7.3 Risk Management and Quality Risk Management
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Risk Management and Quality
 Risk Management procedure that minimally addresses applicable requirements in
-ISO 9001 Section 6.1, ICH E6(R2) Section 5.0, and applicable FDA guidance
-documents.
+ISO-9001:2015 Section 6.1, ICH E6(R2) Section 5.0, ICH E8(R1) Section 3.2 and
+applicable FDA guidance documents.
 
 All risk management activities related to *clinical investigations* **SHALL** be
 performed and documented in accordance with the Risk Management and Quality
@@ -489,8 +487,9 @@ Risk Management Procedure, SOP-003.
 
 __NewInstitue__ **SHALL** establish and maintain a Computer System Validation,
 Data Integrity and Data Management procedure that minimally addresses
-applicable requirements in 21 CFR Part 11, ICH E6(R2) Section 5.5, GAMP 5,
-NIST 800-171, NIST 800-53, and applicable FDA guidance documents.
+applicable requirements in ISO-9001:2015 Section 6.1, 21 CFR Part 11, ICH E6(R2)
+Section 5.5, GAMP 5, NIST 800-171, NIST 800-53, and applicable FDA guidance
+documents.
 
 All computer system validation, data integrity, and data management activities
 related to *clinical investigations* shall be performed and documented in
@@ -499,7 +498,8 @@ Management Procedure, SOP-004.
 
 All computer systems used in *clinical investigations* shall be considered for
 validation in accordance with GAMP 5 risk-based principles as described in the
-Computer System Validation Procedure.
+Computer System Validation, Data Integrity and Data Management Procedure,
+SOP-004.
 
 All data integrity and data management activities related to *clinical
 investigations* **SHALL** be performed and documented in accordance with the
@@ -510,8 +510,9 @@ SOP-004
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Study Design Review
-procedure that minimally addresses applicable requirements in ICH E6(R2)
-Section 6.0, ICH E8(R1), and applicable regulatory guidance documents.
+procedure that minimally addresses applicable requirements in ISO-9001:2015 
+Section 8.3, ICH E6(R2) Sections 5.0, 5.1 and 6.0, ICH E8(R1) Section 5, and
+applicable regulatory guidance documents.
 
 All Study Design Reviews related to *clinical investigations* shall be
 performed and documented in accordance with the Study Design Review Procedure,
@@ -521,7 +522,8 @@ SOP-005.
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain an Outsourced Activities
-procedure that minimally addresses the following:
+procedure that minimally addresses applicable requirements in ISO-9001:2015
+Section 8.4 and ICH E6(R2) Sections 5.2 and 5.23 and the following:
 
 -   Creation and maintenance of a Qualified Vendor List (QVL)
 -   Vendor qualification for Contract Research Organizations (CROs),
@@ -533,14 +535,15 @@ CROs, central laboratories, and other service providers as well as custom
 services developed by third parties to specifications prepared by
 __NewInstitue__.
 
-Outsourced activities related to *clinical investigations* shall be performed and
-documented in accordance with the Outsourced Activities Procedure, SOP-006.
+Outsourced activities related to *clinical investigations* shall be performed
+and documented in accordance with the Outsourced Activities Procedure, SOP-006.
 
 ### 7.7 Investigational Product Management
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain an Investigational Product
-Management procedure that minimally addresses the following:
+Management procedure that minimally addresses applicable requirements in
+ICH E6(R2) Sections 5.13 and 5.14 and the following:
 
 -   **Accountability**: Procedures that describe how investigational products
     are tracked, dispensed, and accounted for throughout the clinical
@@ -562,7 +565,8 @@ SOP-007.
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Subject Safety and Adverse
-Event Management procedure that minimally addresses the following:
+Event Management procedure that minimally addresses applicable requirements in
+ICH E6(R2) Sections 4.11 and 5.17, ICH E8(R1) Section 6.2 and the following:
 
 -   **Safety Monitoring**: Procedures for ongoing safety assessment and subject
     safety monitoring throughout the *clinical investigation*
@@ -595,9 +599,9 @@ These activities, at a minimum, shall include:
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Monitoring and Oversight
-procedure that minimally addresses applicable requirements in ICH E6(R2)
-Section 5.18, ICH E8(R1) Section 6.2 and applicable regulatory
-guidance documents.
+procedure that minimally addresses applicable requirements in ISO-9001:2015
+Section 9.1, ICH E6(R2) Section 5.18, ICH E8(R1) Sections 6.2.1 and 6.2.3 and
+applicable regulatory guidance documents.
 
 All monitoring and oversight activities related to *clinical investigations*
 **SHALL** be performed and documented in accordance with the Monitoring and
@@ -610,7 +614,7 @@ __NewInstitue__ **SHALL** establish and maintain a Control of Nonconforming
 Clinical Investigation Activities procedure that provides for identification,
 review, and disposition of protocol deviations, GCP violations,
 and other nonconforming activities and minimally addresses applicable sections of 
-ISO 9001 Section 10.2 and ICH E6(R2) Sections 4.5.3 and 5.0.
+ISO-9001:2015 Section 10.2 and ICH E6(R2) Section 5.20.
 
 This procedure **SHALL** ensure that __NewInstitue__ and its outsourced service
 providers have an effective system to prevent continuation of nonconforming
@@ -629,7 +633,7 @@ that has already occurred. The CAPA process shall also require that preventive
 action be taken when a potential nonconformity is identified as the result of
 analysis of *clinical investigation* records, audit findings, and other relevant
 sources of information.  This process should also minimally address applicable
-requirements in ISO 9001 Section 10.2 and ICH E6(R2) Section 5.0
+requirements in ISO-9001:2015 Section 10.2 and ICH E6(R2) Section 5.20.
 
 CAPA activities related to *clinical investigations* **SHALL** be performed and
 documented in accordance with the Corrective and Preventive Action Procedure,
@@ -646,27 +650,27 @@ external audits.
 Activities related to planning, conducting, and documenting internal and
 external audits of *clinical investigations* **SHALL** be performed and 
 documented in accordance with the Internal and External Audit Procedure,
-SOP-012 and adress applicable requirements in ISO 9001 Section 9.2, ICH E6(R2)
-Section 5.19, and ISO 19011.
+SOP-012 and adress applicable requirements in ISO-9001:2015 Section 9.2,
+ICH E6(R2) Section 5.19, and ISO-19011:2018.
 
 ### 8.5 Change Control
 ----------------------------------------------------------------------
 
-__NewInstitue__ **SHALL** establish and maintain a Change Control procedure
-that minimally addresses ICH E6(R2) Section 4.5 protocol amendment requirements
-and control of changes to *clinical investigation* systems, processes, and
-procedures.
+__NewInstitue__ **SHALL** establish and maintain a Change Control procedure to
+control changes to *clinical investigation* systems, processes, and procedures
+that minimally addresses applicable requirements in ISO-9001:2015 Section 8.5.6
+and ICH E6(R2) Sections 4.5 and 6.
 
-Change control activities related to *clinical investigations* shall be performed
-and documented in accordance with the Change Control Procedure, SOP-013.
+Change control activities related to *clinical investigations* shall be
+performed and documented in accordance with the Change Control Procedure, SOP-013.
 
 ### 8.6 Regulatory Compliance Management
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Regulatory Compliance
 Management procedure that minimally addresses requirements for maintaining
-compliance with applicable regulations including ICH E6(R2), local GCP
-requirements, and regulatory authority communications.
+compliance with applicable regulations including ICH E6(R2) Sections 3.0 and
+4.1, local GCP requirements, and regulatory authority communications.
 
 Regulatory compliance management activities shall be performed and documented
 in accordance with the Regulatory Compliance Management Procedure, SOP-014.
@@ -679,28 +683,26 @@ TBD
 ## Appendix B Cross-Reference Guide 
 ----------------------------------------------------------------------
 
-** todo: double check and cross reference SOPs and sections of this QM **
-
 ### Management Responsibility
 
 - Management Commitment
   - QM-001 Quality Manual
     - [Section 5.1](QM-001--QualityManual.md#51-management-commitment)
-  - ISO 9001:2015 
+  - ISO-9001:2015 
     - Section 5.1 (Leadership and commitment)
-  - E6(R2)
+  - ICH E6(R2)
     - Section 5.0 (Quality Management)
 
 - Quality Policy
   - QM-001 Quality Manual
     - [Section 5.2](QM-001--QualityManual.md#52-quality-policy)
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 5.2 (Policy)
 
 - Quality Objectives
   - QM-001 Quality Manual
     - [Section 4.1](QM-001--QualityManual.md#41-general-requirements)
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 6.2 (Quality objectives and planning to achieve them)
   - ICH E8(R1)
     - Section 3 (Desining Quality Into Clinical Studies)
@@ -710,7 +712,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 5.3](QM-001--QualityManual.md#53-resources)
     - [Section 6](QM-001--QualityManual.md#60-resource-management)
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 7.1 (Resources)
   - ICH E6(R2)
     - Section 4.2 (Adequate Resources)
@@ -718,7 +720,7 @@ TBD
 - Training and Competency Management
   - QM-001 Quality Manual
     - [Section 6.1.1](QM-001--QualityManual.md#611-people)
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 7.2 (Competence)
   - ICH E6(R2)
     - Section 4.1 (Investigator’s Qualifications and Agreements)
@@ -728,7 +730,7 @@ TBD
 - Management Review and Quality Planning
   - QM-001 Quality Manual
     - [Section 5.3.3](QM-001--QualityManual.md#533-management-reviews)
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 6.1 (Actions to address risks and opportunities)
     - Section 9.3 (Management Review)
   - ICH E6(R2)
@@ -740,20 +742,20 @@ TBD
   - QM-001 Quality Manual
     - [Section 7.1](QM-001--QualityManual.md#71-design-controls)
   - SOP-001 Design Controls Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 8.3 (Design and development of products and services)
-  - ICH E8(R1) 
-    - Section 3 (Study Design Principles)
-    - Section 4 (Study Design Elements)
   - ICH E6(R2)
     - Section 5.0 (Quality Management)
     - Section 5.1 (Quality Assurance and Quality Control)
+  - ICH E8(R1) 
+    - Section 3 (Study Design Principles)
+    - Section 4 (Study Design Elements)
 
 - Document and Records Controls
   - QM-001 Quality Manual
     - [Section 7.2](QM-001--QualityManual.md#72-document-and-records-controls)
   - SOP-002 Document and Records Controls Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Sections 7.5 (Documented information)
   - ICH E6(R2): 
     - Section 8.0 (Essential Documents for the Conduct of a Clinical Trial)
@@ -765,7 +767,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management)
   - SOP-003 Risk Management and Quality Risk Management Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 6.1 (Actions to address risks and opportunities)
   - ICH E6(R2)
     - Section 5.0 (Quality Management)
@@ -776,7 +778,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity)
   - SOP-004 Computer System Validation and Data Integrity Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 6.1 (Actions to address risks and opportunities)
   - ICH E6(R2)
     - Section 1.65 (Validation of Computerized Systems)
@@ -795,7 +797,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 7.5](QM-001--QualityManual.md#75-study-design-reviews)
   - SOP-005 Study Design Review Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 8.3 (Design and development of products and services)
   - ICH E6(R2)
     - Section 5.0 (Quality Management)
@@ -810,7 +812,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 7.6](QM-001--QualityManual.md#76-outsourced-activities)
   - SOP-006 Outsourced Activities Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 8.4 (Control of externally provided processes, products and services)
   - ICH E6(R2)
     - Section 5.2 (Contract Research Organization (CRO))
@@ -832,7 +834,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management)
   - SOP-008 Subject Safety and Adverse Event Management Procedure,
-  - ICH E6(R2): 
+  - ICH E6(R2)
     - Section 4.11 (Safety Reporting), 
     - Section 5.17 (Adverse Drug Reaction Reporting)
   - ICH E8(R1)
@@ -844,7 +846,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 8.1](QM-001--QualityManual.md#81-monitoring-and-oversight)
   - SOP-009 Monitoring and Oversight Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 9.1 (Monitoring, measurement, analysis and evaluation)
   - ICH E6(R2) 
     - Section 5.18 (Monitoring)
@@ -856,7 +858,7 @@ TBD
   - QM-001 Quality Manual
     - [Section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-clinical-investigation-activities)
   - SOP-010 Control of Nonconforming Clinical Investigation Activities Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
   - ICH E6(R2) 
     - Section 5.20 (Noncompliance)
@@ -865,26 +867,26 @@ TBD
   - QM-001 Quality Manual
     - [Section 8.3](QM-001--QualityManual.md#83-corrective-and-preventive-action-capa)
   - SOP-011: Corrective and Preventive Action Procedure 
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
-  - ICH E6(R2):
+  - ICH E6(R2)
     - Section 5.20 (Noncompliance)
 
 - Internal and External Audits
   - QM-001 Quality Manual
     - [Section 8.4](QM-001--QualityManual.md#84-internal-and-external-audits)
   - SOP-012 Internal and External Audit Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 9.2 (Internal audit)
   - ICH E6(R2)
     - Section 5.19 (Audit)
-  - ISO 19011 (Guidelines for auditing management systems)
+  - ISO-19011 (Guidelines for auditing management systems)
 
 - Change Control
   - QM-001 Quality Manual
     - [Section 8.5](QM-001--QualityManual.md#85-change-control)
   - SOP-013 Change Control Procedure
-  - ISO 9001:2015
+  - ISO-9001:2015
     - Section 8.5.6 (Control of changes)
   - ICH E6(R2)
     - Section 4.5 (Compliance with Protocol)
