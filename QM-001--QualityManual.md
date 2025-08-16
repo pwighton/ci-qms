@@ -60,21 +60,21 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.1 References
 ----------------------------------------------------------------------
 
-- ISO-9001:2015
-
-- ISO-19011:2018
-
-- ICH E6(R2)
-
-- ICH E8(R1)
-
-- GAMP v5
-
-- NIST 800-171
-
-- NIST 800-53
-
 - [FDA's Clinical Trials Guidance Documents](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection/clinical-trials-guidance-documents): The FDA's list of guidance documents that represents the agency's current thinking on the conduct of clinical trials, good clinical practice and human subject protection.
+
+- [GAMP v5](https://guidance-docs.ispe.org/doi/book/10.1002/9781946964571): A Risk-Based Approach to Compliant GxP Computerized Systems
+
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+
+- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
+
+- [ISO-19011:2018](https://www.iso.org/standard/70017.html): Guidelines for auditing management systems
+
+- [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
+
+- [NIST 800-171](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final): Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
+
+- [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final): Security and Privacy Controls for Information Systems and Organizations
 
 ### 3.2 __NewInstitue__ Procedures 
 ----------------------------------------------------------------------
