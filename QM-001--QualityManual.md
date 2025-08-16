@@ -110,6 +110,18 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.3 Terms
 ----------------------------------------------------------------------
 
+-   **Adverse Event**: Any untoward medical occurrence in a patient or clinical
+    investigation subject administered a pharmaceutical product and which does
+    not necessarily have a causal relationship with this treatment.
+    `[ICH E6(R2) 1.2]`
+
+-   **Audit**: A systematic and independent examination of trial-related
+    activities and documents to determine whether the evaluated trial-related
+    activities were conducted, and the data were recorded, analyzed, and
+    accurately reported according to the protocol, sponsor's standard operating
+    procedures (SOPs), good clinical practice (GCP), and the applicable
+    regulatory requirement(s). `[ICH E6(R2) 1.6]`
+
 -   **Clinical Investigation**: The FDA cites the following CFRs for their
     definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)), 
     [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3(Clinical%20investigation))
@@ -122,6 +134,48 @@ the following standards and guidance documents are not considered by this QMS
     under these sections of the act, but the results of which are intended to
     be submitted later to, or held for inspection by, the Food and Drug
     Administration as part of an application for a research or marketing permit.
+
+-   **Contract Research Organization (CRO)**: A person or an organization 
+    (commercial, academic, or other) contracted by the sponsor to perform one or
+    more of a sponsor's trial-related duties and functions. `[ICH E6(R2) 1.20]`
+
+-   **Good Clinical Practice (GCP)**: A standard for the design, conduct,
+    performance, monitoring, auditing, recording, analyses, and reporting of
+    clinical trials that provides assurance that the data and reported results
+    are credible and accurate, and that the rights, integrity, and
+    confidentiality of trial subjects are protected. `[ICH E6(R2) 1.24]`
+
+-   **Investigator**: A person responsible for the conduct of the clinical
+    trial at a trial site. If a trial is conducted by a team of individuals at
+    a trial site, the investigator is the responsible leader of the team and
+    may be called the principal investigator. `[ICH E6(R2) 1.34]`
+
+-   **Monitoring**: The act of overseeing the progress of a clinical trial, and
+    of ensuring that it is conducted, recorded, and reported in accordance with
+    the protocol, standard operating procedures (SOPs), GCP, and the applicable
+    regulatory requirement(s). `[ICH E6(R2) 1.38]`
+
+-   **Multicenter Trial**: A clinical trial conducted according to a single
+    protocol but at more than one site, and therefore, carried out by more than
+    one investigator. `[ICH E6(R2) 1.40]`
+
+-   **Sponsor**: An individual, company, institution, or organization that
+    takes responsibility for the initiation, management, and/or financing of a
+    clinical trial. `[ICH E6(R2) 1.53]`
+
+-   **Subject**: An individual who participates in a clinical trial, either as
+    a recipient of the investigational product(s) or as a control.
+    `[ICH E6(R2) 1.57]`
+
+-   **Trial Master File (TMF)**: A collection of essential documents that
+    individually and collectively permit evaluation of the conduct of a
+    clinical investigation and the quality of the data produced. These
+    documents serve to demonstrate the compliance of the investigator, sponsor,
+    and monitor with the standards of Good Clinical Practice and with all
+    applicable regulatory requirements.
+
+-   **Trial Site**: The location(s) where trial-related activities are actually
+    conducted. `[ICH E6(R2) 1.59]`
 
 ### 3.4 Acronyms
 ----------------------------------------------------------------------
