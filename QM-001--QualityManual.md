@@ -126,33 +126,34 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.4 Acronyms
 ----------------------------------------------------------------------
 
-- CFR
+- **CAPA**:  Corrective and Preventive Action
 
-- QMS
+- **CFR**:   Code of Federal Regulations
 
-- QM
+- **CRO**:   Contract Research Organization
 
-- FDA
+- **FDA**:   U.S. Food and Drug Administration
 
-- SOP
+- **GAMP**:  Good Automated Manufacturing Practice
 
-- WI
+- **GCP**:   Good Clinical Practice
 
-- GCP
+- **ICH**:   The International Council for Harmonisation of Technical
+             Requirements for Pharmaceuticals for Human Use
 
-- CRO
+- **ISO**:   International Organization for Standardization
 
-- TMF
+- **NIST**:  National Institute of Standards and Technology
 
-- CAPA
+- **QM**:    Quality Manual
 
-- GAMP
+- **QMS**:   Quality Management System
 
-- NIST
+- **SOP**:   Standard Operating Procedure
 
-- ICH
+- **TMF**:   Trial Master File
 
-- ISO
+- **WI**:    Work Instriuction
 
 ## 4.0 QMS OVERVIEW
 
@@ -758,8 +759,8 @@ TBD
   - ISO-9001:2015
     - Sections 7.5 (Documented information)
   - ICH E6(R2): 
-    - Section 8.0 (Essential Documents for the Conduct of a Clinical Trial)
     - Section 4.9 (Records and Reports)
+    - Section 8.0 (Essential Documents for the Conduct of a Clinical Trial)
 
 ### Risk Management
  
@@ -801,8 +802,8 @@ TBD
     - Section 8.3 (Design and development of products and services)
   - ICH E6(R2)
     - Section 5.0 (Quality Management)
-    - Section 6.0 (Clinical Trial Protocol and Protocol Amendment(s))
     - Section 5.1 (Quality Assurance and Quality Control)
+    - Section 6.0 (Clinical Trial Protocol and Protocol Amendment(s))
   - ICH E8(R1)
     - Section 5 (Design Elements and Data Sources for Clinical Studies)
 
