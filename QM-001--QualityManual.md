@@ -153,7 +153,7 @@ the following standards and guidance documents are not considered by this QMS
 
 - **TMF**:   Trial Master File
 
-- **WI**:    Work Instriuction
+- **WI**:    Work Instruction
 
 ## 4.0 QMS OVERVIEW
 
@@ -170,19 +170,19 @@ provisions of the QM and the QMS.
 
 The QM identifies several Standard Operating Procedures (SOPs) and Work
 Instructions (WIs). These SOPs and WIs identify activities, documents and
-records to be produced as part of desining and conducting *clincal
+records to be produced as part of designing and conducting *clinical
 investigations*. Documents may include specifications, study plans, reports,
 etc. Records may include meeting minutes, test results, etc. and provide
 evidence that activities required by SOPs have been performed.
 
 __NewInstitue__ Executive Management is responsible for periodically assessing
 the effectiveness of the QMS against defined quality objectives in order to
-ensure __NewInstitue__'s *clincal investigations* are developed and conducted
-in a manner consistent with the QMS and that its *clincal investigations* are
+ensure __NewInstitue__'s *clinical investigations* are developed and conducted
+in a manner consistent with the QMS and that its *clinical investigations* are
 conducted ethically and produce high-quality, reliable scientific data.
 
 The following processes have been identified as critical to the design and
-conduct of ethical and reliable *clincal investigations*:
+conduct of ethical and reliable *clinical investigations*:
 
 -   Design Controls
 -   Document and Records Controls
@@ -204,7 +204,7 @@ conduct of ethical and reliable *clincal investigations*:
 
 Documentation is the cornerstone of an effective QMS. __NewInstitue__
 **“SHALL”** establish and maintain procedures for the control of documents and
-records related to the desiged, conduct, validation and support of all
+records related to the design, conduct, validation and support of all
 *clinical investigations* under this QMS.
 
 The QMS documentation hierarchy is shown in Figure 1 and includes:
@@ -258,7 +258,7 @@ The purpose of each level of documentation is as follows:
 ----------------------------------------------------------------------
 
 __NewInstitue__'s Executive Management is committed to implementing an
-effective QMS that addresses all relevant aspects of clinical investiation
+effective QMS that addresses all relevant aspects of clinical investigation
 design, conduct, reporting and support. This commitment is demonstrated through
 the establishment of the QMS and the Quality Policy (shown below) and is
 supported by providing the necessary resources, equipment and appropriately
@@ -272,7 +272,7 @@ __NewInstitue__'s quality policy is as follows:
 >   __NewInstitue__ collects high quality, multi-modal human health data in
     order to answer specific research questions to better understand the nature
     of various diseases, human health and longevity.  Data is collected, stored,
-    transmitted, analysed and distributed ethically and in accordance with the
+    transmitted, analyzed and distributed ethically and in accordance with the
     consent of the subjects and in a manner that protects their privacy.
 
 ### 5.3 Resources 
@@ -282,7 +282,7 @@ __NewInstitue__'s quality policy is as follows:
 
 The functional organization chart included as [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart) summarizes how __NewInstitue__ is structured to ensure responsibilities
 and authorities are defined and communicated within the organization with
-regard to the design and conuct of *clinical investigations*.
+regard to the design and conduct of *clinical investigations*.
 
 __NewInstitue__ clearly establishes and documents the responsibilities,
 authority, and interrelation of employees who manage, perform, and verify work
@@ -395,7 +395,7 @@ limited to:
 -   Systems, equipment and infrastructure
 
 Resources include those required to support the design, conduct, and reporting
-of clinical inestigations by __NewInstitue__.
+of clinical investigations by __NewInstitue__.
 
 Resources to be provided also include those required to implement, support,
 maintain and improve the QMS.
@@ -651,7 +651,7 @@ external audits.
 Activities related to planning, conducting, and documenting internal and
 external audits of *clinical investigations* **SHALL** be performed and 
 documented in accordance with the Internal and External Audit Procedure,
-SOP-012 and adress applicable requirements in ISO-9001:2015 Section 9.2,
+SOP-012 and address applicable requirements in ISO-9001:2015 Section 9.2,
 ICH E6(R2) Section 5.19, and ISO-19011:2018.
 
 ### 8.5 Change Control
