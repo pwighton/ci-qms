@@ -159,6 +159,10 @@ the following standards and guidance documents are not considered by this QMS
     protocol but at more than one site, and therefore, carried out by more than
     one investigator. `[ICH E6(R2) 1.40]`
 
+-   **Protocol**: A document that describes the objective(s), design,
+    methodology, statistical considerations, and organization of a trial.
+    `[ICH E6(R2) 1.44]`
+
 -   **Sponsor**: An individual, company, institution, or organization that
     takes responsibility for the initiation, management, and/or financing of a
     clinical trial. `[ICH E6(R2) 1.53]`
