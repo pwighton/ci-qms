@@ -79,7 +79,7 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.2 __NewInstitue__ Procedures 
 ----------------------------------------------------------------------
 
-1.  SOP-001: Design Controls Procedure
+1.  [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 
 2.  SOP-002: Document and Records Controls Procedure
 
@@ -87,7 +87,7 @@ the following standards and guidance documents are not considered by this QMS
 
 4.  SOP-004: Computer System Validation, Data Integrity and Data Management Procedure
 
-5.  SOP-005: Study Design Review Procedure
+5.  [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md)
 
 6.  SOP-006: Outsourced Activities Procedure
 
