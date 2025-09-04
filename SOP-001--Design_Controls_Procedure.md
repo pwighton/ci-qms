@@ -84,3 +84,8 @@ Design Phases covered:
 - Design Validation Phase
 - Design Transfer to Study Conduct Phase
 
+
+Discuss content and format of Trial Master File (TMF)
+Discuss other essential documents
+
+

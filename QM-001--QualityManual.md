@@ -81,19 +81,19 @@ the following standards and guidance documents are not considered by this QMS
 
 1.  [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 
-2.  SOP-002: Document and Records Controls Procedure
+2.  [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 
-3.  SOP-003: Risk Management and Quality Risk Management Procedure
+3.  [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
 
-4.  SOP-004: Computer System Validation, Data Integrity and Data Management Procedure
+4.  [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
 
 5.  [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md)
 
-6.  SOP-006: Outsourced Activities Procedure
+6.  [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
 
-7.  SOP-007: Investigational Product Management Procedure
+7.  [SOP-007: Investigational Product Management Procedure](SOP-007--Investigational_Product_Management_Procedure.md)
 
-8.  SOP-008: Subject Safety and Adverse Event Management Procedure
+8.  [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
 
 9.  SOP-009: Monitoring and Oversight Procedure
 
