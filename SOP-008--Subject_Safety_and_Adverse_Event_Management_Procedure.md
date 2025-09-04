@@ -30,7 +30,7 @@ Sites reporting safety events are qualified and overseen according to
 [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md).
 
 Safety monitoring activities are part of overall study oversight under
-[SOP-009: Monitoring and Oversight Procedure](todo).
+[SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md).
 
 This procedure applies to all NewInstitute employees and subcontractors involved in:
 

@@ -95,17 +95,17 @@ the following standards and guidance documents are not considered by this QMS
 
 8.  [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
 
-9.  SOP-009: Monitoring and Oversight Procedure
+9.  [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
 
-10. SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure
+10. [SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure](SOP-010--Control_of_Nonconforming_Clinical_Investigation_Activities_Procedure.md)
 
-11. SOP-011: Corrective and Preventive Action Procedure
+11. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
 
-12. SOP-012: Internal and External Audit Procedure
+12. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
 
 13. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
-14. SOP-014: Regulatory Compliance Management Procedure
+14. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
 
 ### 3.3 Terms
 ----------------------------------------------------------------------
