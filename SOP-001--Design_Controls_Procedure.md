@@ -29,12 +29,12 @@ investigations* up to final approval, including but not limited to:
 
 Design changes during the development phase are managed under this procedure.
 Changes to approved protocols and study documents after design approval are
-managed under [SOP-013: Change Control Procedure](todo).
+managed under [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
 
 This procedure defines how to develop study designs through systematic phases 
 from concept to final deliverables. Formal review meetings, approval authorities, 
 and go/no-go decision gates at key milestones are managed under 
-[SOP-005: Study Design Review Procedure](todo)
+[SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md).
 
 This procedure applies to all __NewInstitue__ employees and subcontractors
 involved in:

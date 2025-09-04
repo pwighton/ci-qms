@@ -103,7 +103,7 @@ the following standards and guidance documents are not considered by this QMS
 
 12. SOP-012: Internal and External Audit Procedure
 
-13. SOP-013: Change Control Procedure
+13. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 14. SOP-014: Regulatory Compliance Management Procedure
 
