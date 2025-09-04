@@ -19,10 +19,10 @@ This procedure manages changes to study designs that were initially developed
 under [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 and approved under [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md).
 
-This procedure manages the complete change control process (impact assessment, 
-approval, implementation) for all study modifications. It may use review 
-criteria from SOP-005 to ensure consistent evaluation standards, but owns the 
-full change management workflow from request to closure.
+This procedure manages the complete change control process (impact assessment,
+approval, implementation) for all study modifications after approval. It may
+use review  criteria from SOP-005 to ensure consistent evaluation standards, but
+this procedure owns the full change management workflow from request to closure.
 
 Changes identified through nonconformances, deviations, or CAPA activities are
 initiated through [SOP-010: Control of Nonconforming Clinical Investigation
