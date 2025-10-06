@@ -58,11 +58,11 @@ involved in:
 
 1.  [QM-001: Quality Manual](QM-001--QualityManual.md)
 
-2.  [SOP-002: Document and Records Controls Procedure](todo)
+2.  [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 
 3.  [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md)
 
-4.  [SOP-013: Change Control Procedure](todo)
+4.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
 -----------------------------------------------------------------------

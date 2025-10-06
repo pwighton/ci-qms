@@ -22,7 +22,7 @@ under SOP-001.
 
 Reviews of changes to approved and active studies are conducted according to
 this procedure, while the change process itself is managed under
-[SOP-013: Change Control Procedure](todo).
+[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
@@ -36,7 +36,7 @@ this procedure, while the change process itself is managed under
 
 2.  [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 
-3.  [SOP-013: Change Control Procedure](todo)
+3.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
 -----------------------------------------------------------------------

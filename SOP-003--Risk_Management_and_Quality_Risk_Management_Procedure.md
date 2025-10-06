@@ -24,7 +24,7 @@ Risks identified during study design are initially assessed under
 using the framework established here.
 
 Risk-based monitoring plans developed under this procedure are executed
-according to [SOP-009: Monitoring and Oversight Procedure](todo)
+according to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
 
 This procedure applies to all __NewInstitue__ employees involved in:
 
