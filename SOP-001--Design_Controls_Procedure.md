@@ -6,7 +6,7 @@
 
 This Standard Operating Procedure (SOP) provides *minimum*
 requirements (requirements are expressed using the word **shall**)
-for the design of *clinical investigations* by
+for the design of *observational studies* by
 __NewInstitue__.  It ensures that study designs are appropriately planned,
 verified, validated, and controlled to meet scientific objectives while
 maintaining subject safety, privacy and data integrity.

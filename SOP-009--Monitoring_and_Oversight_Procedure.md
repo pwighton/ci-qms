@@ -5,7 +5,7 @@
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
-monitoring and oversight of *clinical investigations* conducted by
+monitoring and oversight of *observational studies* conducted by
 __NewInstitue__. It ensures that studies are conducted in accordance with the
 protocol, GCP, and regulatory requirements while maintaining data quality and
 subject safety.
@@ -13,14 +13,14 @@ subject safety.
 ## 2.0 SCOPE
 
 This procedure applies to all monitoring and oversight activities for
-NewInstitute clinical investigations, utilizing risk-based monitoring
-approaches appropriate for each *clinical investigation*.
+NewInstitute *observational studies*, utilizing risk-based monitoring
+approaches appropriate for each *observational study*.
 
 The risk-based monitoring approach is developed using
 [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
 
 Monitoring findings may identify nonconformances managed under
-[SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure](SOP-010--Control_of_Nonconforming_Clinical_Investigation_Activities_Procedure.md).
+[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
 
 Sites being monitored are qualified according to
 [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md).

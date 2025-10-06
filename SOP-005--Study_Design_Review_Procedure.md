@@ -5,7 +5,7 @@
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the formal review and
-approval process for *clinical investigation* designs developed by __NewInstitue__.
+approval process for *observational studies* designs developed by __NewInstitue__.
 It ensures that study designs are systematically evaluated against scientific,
 ethical, regulatory, operational, and quality requirements at defined decision
 gates.
@@ -13,7 +13,7 @@ gates.
 ## 2.0 SCOPE
 
 This procedure applies to all formal review and approval of design activities of
-*clinical investigations* at __NewInstitue__.
+*observational studies* at __NewInstitue__.
 
 This procedure defines when and how to review study designs created under
 [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).

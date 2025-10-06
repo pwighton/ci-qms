@@ -3,9 +3,9 @@
 ----------------------------------------------------------------------
 
 ## 1.0 PURPOSE
-
+`fds`
 __NewInstitue__ is a health-sciences focused institute that designs and 
-conducts *clinical investigations* by collecting human health data in order to
+conducts *observational studies* by collecting human health data in order to
 answer specific scientific questions.
 
 This Quality Manual (QM) establishes the Quality Management System (QMS) for
@@ -16,8 +16,11 @@ This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018,
 ICH E6(R2), ICH E8(R1), applicable Clinical Trials Guidance Documents published
 by the FDA and international standards.
 
-*Clinical Investigations* conducted by __NewInstitue__ are conducted in
+*Observational studies* conducted by __NewInstitue__ are conducted in
 accordance with this QMS and in a manner consistent with best practices.
+
+An *observational study* is defined as only the control arm of a *clinical
+investigation*
 
 This QMS adopts the definition of *Clinical Investigation* used in
 [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
@@ -34,11 +37,11 @@ This QMS adopts the definition of *Clinical Investigation* used in
 ## 2.0 SCOPE
 
 This Quality Manual defines policies and procedures related to the design and
-conduct of *clinical investigations* as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
+conduct of *observational studies* as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
 
 All __NewInstitue__ employees and subcontractors are required to adhere to the
 policies and procedures outlined in this Quality Manual when designing and
-conducting *clinical investigations*.
+conducting *observational studies*.
 
 __NewInstitue__ does not perform *clinical investigations* of drugs, biologics,
 or pharmaceutical products.  Therefore, the following standards and guidance
@@ -46,14 +49,14 @@ documents are not considered by this QMS
 
 -   ICH E3: Structure and Content of Clinical Study Reports
 -   ICH Q9: Quality Risk Management of pharmaceutical quality
--   ICH E2A:  Clinical Safety Data Management: Definitions and Standards for Expedited Reporting
+-   ICH E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting
 -   FDA Guidance on Data Integrity and Compliance (2018)
 
 Furthermore, __NewInstitue__ does not perform *clinical investigations* to asses
 the performance, effectiveness, and/or safety of medical devices.  Therefore
 the following standards and guidance documents are not considered by this QMS
 
--   ISO-14155: *Clinical investigation* of medical devices for human subjects
+-   ISO-14155: Clinical investigation of medical devices for human subjects
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
@@ -97,7 +100,7 @@ the following standards and guidance documents are not considered by this QMS
 
 9.  [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
 
-10. [SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure](SOP-010--Control_of_Nonconforming_Clinical_Investigation_Activities_Procedure.md)
+10. [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
 
 11. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
 
@@ -159,6 +162,9 @@ the following standards and guidance documents are not considered by this QMS
     protocol but at more than one site, and therefore, carried out by more than
     one investigator. `[ICH E6(R2) 1.40]`
 
+-   **Observational Study**: A *clinical investigation* in which no intervention
+    is administered and only the control arm is performed.
+
 -   **Protocol**: A document that describes the objective(s), design,
     methodology, statistical considerations, and organization of a trial.
     `[ICH E6(R2) 1.44]`
@@ -173,10 +179,10 @@ the following standards and guidance documents are not considered by this QMS
 
 -   **Trial Master File (TMF)**: A collection of essential documents that
     individually and collectively permit evaluation of the conduct of a
-    clinical investigation and the quality of the data produced. These
-    documents serve to demonstrate the compliance of the investigator, sponsor,
-    and monitor with the standards of Good Clinical Practice and with all
-    applicable regulatory requirements.
+    clinical investigation or observational study and the quality of the data
+    produced. These documents serve to demonstrate the compliance of the
+    investigator, sponsor, and monitor with the standards of Good Clinical
+    Practice and with all applicable regulatory requirements.
 
 -   **Trial Site**: The location(s) where trial-related activities are actually
     conducted. `[ICH E6(R2) 1.59]`
@@ -218,9 +224,9 @@ the following standards and guidance documents are not considered by this QMS
 ### 4.1 General Requirements
 ----------------------------------------------------------------------
 
-This QMS applies to *clinical investigations* designed and conducted by
+This QMS applies to *observational studies* designed and conducted by
 __NewInstitue__. All __NewInstitue__ employees and subcontractors who are
-involved in the design and conduct of *clinical investigations* are responsible
+involved in the design and conduct of *observational studies* are responsible
 for understanding and complying with applicable provisions of this Quality
 Manual (QM) and the __NewInstitue__ QMS. __NewInstitue__ Executive Management
 is ultimately responsible for assuring that personnel can and do comply with all
@@ -228,19 +234,19 @@ provisions of the QM and the QMS.
 
 The QM identifies several Standard Operating Procedures (SOPs) and Work
 Instructions (WIs). These SOPs and WIs identify activities, documents and
-records to be produced as part of designing and conducting *clinical
-investigations*. Documents may include specifications, study plans, reports,
+records to be produced as part of designing and conducting *observational
+studies*. Documents may include specifications, study plans, reports,
 etc. Records may include meeting minutes, test results, etc. and provide
 evidence that activities required by SOPs have been performed.
 
 __NewInstitue__ Executive Management is responsible for periodically assessing
 the effectiveness of the QMS against defined quality objectives in order to
-ensure __NewInstitue__'s *clinical investigations* are developed and conducted
-in a manner consistent with the QMS and that its *clinical investigations* are
+ensure __NewInstitue__'s *observational studies* are developed and conducted
+in a manner consistent with the QMS and that its *observational studies* are
 conducted ethically and produce high-quality, reliable scientific data.
 
 The following processes have been identified as critical to the design and
-conduct of ethical and reliable *clinical investigations*:
+conduct of ethical and reliable *observational studies*:
 
 -   Design Controls
 -   Document and Records Controls
@@ -263,7 +269,7 @@ conduct of ethical and reliable *clinical investigations*:
 Documentation is the cornerstone of an effective QMS. __NewInstitue__
 **“SHALL”** establish and maintain procedures for the control of documents and
 records related to the design, conduct, validation and support of all
-*clinical investigations* under this QMS.
+*observational studies* under this QMS.
 
 The QMS documentation hierarchy is shown in Figure 1 and includes:
 
@@ -316,7 +322,7 @@ The purpose of each level of documentation is as follows:
 ----------------------------------------------------------------------
 
 __NewInstitue__'s Executive Management is committed to implementing an
-effective QMS that addresses all relevant aspects of clinical investigation
+effective QMS that addresses all relevant aspects of observational study
 design, conduct, reporting and support. This commitment is demonstrated through
 the establishment of the QMS and the Quality Policy (shown below) and is
 supported by providing the necessary resources, equipment and appropriately
@@ -340,13 +346,13 @@ __NewInstitue__'s quality policy is as follows:
 
 The functional organization chart included as [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart) summarizes how __NewInstitue__ is structured to ensure responsibilities
 and authorities are defined and communicated within the organization with
-regard to the design and conduct of *clinical investigations*.
+regard to the design and conduct of *observational studies*.
 
 __NewInstitue__ clearly establishes and documents the responsibilities,
 authority, and interrelation of employees who manage, perform, and verify work
 which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart).
 
-All employees assigned to a *clinical investigation* must have requisite
+All employees assigned to a *observational study* must have requisite
 training as identified in the applicable Clinical Study Protocol.
 
 #### 5.3.2 Management Representative Responsibilities
@@ -354,10 +360,10 @@ training as identified in the applicable Clinical Study Protocol.
 __NewInstitue__ **SHALL** appoint a Management Representative with the
 following minimum responsibilities:
 
--   Authority to prevent initiation or continuation of *clinical investigations*
+-   Authority to prevent initiation or continuation of *observational studies*
     that do not meet quality standards or regulatory requirements until the
     deficiency or unsatisfactory condition is corrected. When a dispute occurs
-    concerning the quality of a *clinical investigation*, the issue is brought
+    concerning the quality of a *observational study*, the issue is brought
     before Executive Management for resolution.
 
 -   Promotes awareness of Good Clinical Practice (GCP) requirements, 
@@ -396,7 +402,7 @@ identifying opportunities for improvement and needed changes. At each
 Management Review meeting, the following topics MAY be considered for
 discussion:
 
--   Status of all *clinical investigation* activities and study portfolio
+-   Status of all *observational study  * activities and study portfolio
 
 -   Subject safety, adverse events, and data integrity issues
 
@@ -453,7 +459,7 @@ limited to:
 -   Systems, equipment and infrastructure
 
 Resources include those required to support the design, conduct, and reporting
-of clinical investigations by __NewInstitue__.
+of observational studies by __NewInstitue__.
 
 Resources to be provided also include those required to implement, support,
 maintain and improve the QMS.
@@ -462,7 +468,7 @@ maintain and improve the QMS.
 
 Executive Management shall ensure that all employees and subcontractors
 involved in activities that affect the quality, safety and reliability of
-*clinical investigations* conducted by __NewInstitue__ meet minimum levels of
+*observational studies* conducted by __NewInstitue__ meet minimum levels of
 competence.
 
 Executive Management shall provide awareness training to all employees to make
@@ -485,14 +491,14 @@ Executive Management **shall** be responsible for deciding which clinical
 investigations should be designed and conducted. For each of these
 studies, Executive Management **shall** be responsible for providing
 adequate systems, equipment, and infrastructure to support the design,
-conduct, reporting and support of *clinical investigations* conducted under this
+conduct, reporting and support of *observational studies* conducted under this
 QMS.
 
 ## 7.0 STUDY REALIZATION
 ----------------------------------------------------------------------
 
 Study realization activities include all activities required to design,
-conduct, monitor, analyze, and report *clinical investigations* within this QMS.
+conduct, monitor, analyze, and report *observational studies* within this QMS.
 These activities, at a minimum, shall include:
 
 -   Design Controls (see [section 7.1](QM-001--QualityManual.md#71-design-controls))
@@ -521,11 +527,11 @@ procedure that minimally addresses the document and record control requirements
 contained in ISO-9001:2015, ICH E6(R2) Sections 4.9 and 8.0, and applicable
 regulatory guidance documents.
 
-Documents and records related to *clinical investigations* shall be created and
+Documents and records related to *observational studies* shall be created and
 maintained in accordance with the Document and Records Controls Procedure,
 SOP-002.
 
-A Trial Master File (TMF) **SHALL** be created for each *clinical investigation*.
+A Trial Master File (TMF) **SHALL** be created for each *observational study*.
 Study documents and records identified in the SOPs, work instructions, and
 study plans **SHALL** be maintained in the TMF.
 
@@ -537,7 +543,7 @@ Risk Management procedure that minimally addresses applicable requirements in
 ISO-9001:2015 Section 6.1, ICH E6(R2) Section 5.0, ICH E8(R1) Section 3.2 and
 applicable FDA guidance documents.
 
-All risk management activities related to *clinical investigations* **SHALL** be
+All risk management activities related to *observational studies* **SHALL** be
 performed and documented in accordance with the Risk Management and Quality
 Risk Management Procedure, SOP-003.
 
@@ -551,11 +557,11 @@ Section 5.5, GAMP 5, NIST 800-171, NIST 800-53, and applicable FDA guidance
 documents.
 
 All computer system validation, data integrity, and data management activities
-related to *clinical investigations* shall be performed and documented in
+related to *observational studies* shall be performed and documented in
 accordance with the Computer System Validation, Data Integrity and Data
 Management Procedure, SOP-004.
 
-All computer systems used in *clinical investigations* shall be considered for
+All computer systems used in *observational studies* shall be considered for
 validation in accordance with GAMP 5 risk-based principles as described in the
 Computer System Validation, Data Integrity and Data Management Procedure,
 SOP-004.
@@ -573,7 +579,7 @@ procedure that minimally addresses applicable requirements in ISO-9001:2015
 Section 8.3, ICH E6(R2) Sections 5.0, 5.1 and 6.0, ICH E8(R1) Section 5, and
 applicable regulatory guidance documents.
 
-All Study Design Reviews related to *clinical investigations* shall be
+All Study Design Reviews related to *observational studies* shall be
 performed and documented in accordance with the Study Design Review Procedure,
 SOP-005.
 
@@ -589,12 +595,12 @@ Section 8.4 and ICH E6(R2) Sections 5.2 and 5.23 and the following:
     laboratories, data management services, statistical services, and other
     outsourced service providers
 
-The conduct of *clinical investigations* may incorporate services provided by
+The conduct of *observational studies* may incorporate services provided by
 CROs, central laboratories, and other service providers as well as custom
 services developed by third parties to specifications prepared by
 __NewInstitue__.
 
-Outsourced activities related to *clinical investigations* shall be performed
+Outsourced activities related to *observational studies* shall be performed
 and documented in accordance with the Outsourced Activities Procedure, SOP-006.
 
 ### 7.7 Investigational Product Management
@@ -628,7 +634,7 @@ Event Management procedure that minimally addresses applicable requirements in
 ICH E6(R2) Sections 4.11 and 5.17, ICH E8(R1) Section 6.2 and the following:
 
 -   **Safety Monitoring**: Procedures for ongoing safety assessment and subject
-    safety monitoring throughout the *clinical investigation*
+    safety monitoring throughout the *observational study*
 -   **Adverse Event Reporting**: Procedures for identification, documentation,
     assessment, and expedited reporting of adverse events and serious adverse
     events
@@ -662,26 +668,26 @@ procedure that minimally addresses applicable requirements in ISO-9001:2015
 Section 9.1, ICH E6(R2) Section 5.18, ICH E8(R1) Sections 6.2.1 and 6.2.3 and
 applicable regulatory guidance documents.
 
-All monitoring and oversight activities related to *clinical investigations*
+All monitoring and oversight activities related to *observational studies*
 **SHALL** be performed and documented in accordance with the Monitoring and
 Oversight Procedure, SOP-009.
 
-### 8.2 Control of Nonconforming Clinical Investigation Activities
+### 8.2 Control of Nonconforming Activities
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Control of Nonconforming
-Clinical Investigation Activities procedure that provides for identification,
-review, and disposition of protocol deviations, GCP violations,
-and other nonconforming activities and minimally addresses applicable sections of 
-ISO-9001:2015 Section 10.2 and ICH E6(R2) Section 5.20.
+Activities procedure that provides for identification, review, and disposition
+of protocol deviations, GCP violations, and other nonconforming activities and
+minimally addresses applicable sections of ISO-9001:2015 Section 10.2 and ICH
+E6(R2) Section 5.20.
 
 This procedure **SHALL** ensure that __NewInstitue__ and its outsourced service
 providers have an effective system to prevent continuation of nonconforming
-*clinical investigation* activities.
+*observational study* activities.
 
-Control of nonconforming *clinical investigation* activities **SHALL** be
+Control of nonconforming *observational study* activities **SHALL** be
 performed and documented in accordance with the Control of Nonconforming
-Clinical Investigation Activities Procedure, SOP-010.
+Observational Study Activities Procedure, SOP-010.
 
 ### 8.3 Corrective and Preventive Action (CAPA)
 ----------------------------------------------------------------------
@@ -690,11 +696,11 @@ __NewInstitue__ **SHALL** establish and maintain a CAPA process that minimally
 requires corrective action be taken to prevent recurrence of a nonconformance
 that has already occurred. The CAPA process shall also require that preventive
 action be taken when a potential nonconformity is identified as the result of
-analysis of *clinical investigation* records, audit findings, and other relevant
+analysis of *observational study* records, audit findings, and other relevant
 sources of information.  This process should also minimally address applicable
 requirements in ISO-9001:2015 Section 10.2 and ICH E6(R2) Section 5.20.
 
-CAPA activities related to *clinical investigations* **SHALL** be performed and
+CAPA activities related to *observational studies* **SHALL** be performed and
 documented in accordance with the Corrective and Preventive Action Procedure,
 SOP-011.
 
@@ -702,12 +708,12 @@ SOP-011.
 ----------------------------------------------------------------------
 
 Audits are a critical tool for improving the QMS and for ensuring the quality, 
-safety, and reliability of *clinical investigations* conducted within the QMS.
+safety, and reliability of *observational studies* conducted within the QMS.
 __NewInstitue__ is committed to performing and participating in internal and
 external audits.
 
 Activities related to planning, conducting, and documenting internal and
-external audits of *clinical investigations* **SHALL** be performed and 
+external audits of *observational studies* **SHALL** be performed and 
 documented in accordance with the Internal and External Audit Procedure,
 SOP-012 and address applicable requirements in ISO-9001:2015 Section 9.2,
 ICH E6(R2) Section 5.19, and ISO-19011:2018.
@@ -716,11 +722,11 @@ ICH E6(R2) Section 5.19, and ISO-19011:2018.
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Change Control procedure to
-control changes to *clinical investigation* systems, processes, and procedures
+control changes to *observational study* systems, processes, and procedures
 that minimally addresses applicable requirements in ISO-9001:2015 Section 8.5.6
 and ICH E6(R2) Sections 4.5 and 6.
 
-Change control activities related to *clinical investigations* shall be
+Change control activities related to *observational studies* shall be
 performed and documented in accordance with the Change Control Procedure, SOP-013.
 
 ### 8.6 Regulatory Compliance Management
@@ -916,7 +922,7 @@ TBD
 - Control of Nonconforming Clinical Investigation Activities
   - QM-001 Quality Manual
     - [Section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-clinical-investigation-activities)
-  - SOP-010 Control of Nonconforming Clinical Investigation Activities Procedure
+  - SOP-010 Control of Nonconforming Observational Study Activities Procedure
   - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
   - ICH E6(R2) 

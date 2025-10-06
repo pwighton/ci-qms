@@ -7,7 +7,7 @@
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 implementing corrective and preventive actions to address systemic issues,
 prevent recurrence of nonconformances, and drive continuous improvement in
-*clinical investigations* conducted by __NewInstitue__.
+*observational studies* conducted by __NewInstitue__.
 
 ## 2.0 SCOPE
 
@@ -16,7 +16,7 @@ quality issues, trends, or risks identified during __NewInstitue__ *clinical
 investigations* and QMS operations.
 
 Individual nonconformances are initially managed under
-[SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure](SOP-010--Control_of_Nonconforming_Clinical_Investigation_Activities_Procedure.md),
+[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md),
 with systemic issues escalated to this CAPA procedure.
 
 CAPAs may result in changes managed under [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).

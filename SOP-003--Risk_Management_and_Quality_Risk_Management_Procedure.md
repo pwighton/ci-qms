@@ -6,7 +6,7 @@
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 identifying, assessing, controlling, and monitoring risks associated with
-*clinical investigations* conducted by __NewInstitue__. It ensures that risks to
+*observational studies* conducted by __NewInstitue__. It ensures that risks to
 study participants, data quality, and study integrity are proactively managed
 throughout the study lifecycle.
 

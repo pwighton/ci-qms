@@ -5,14 +5,14 @@
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
-managing investigational products used in *clinical investigations* conducted
+managing investigational products used in *observational studies* conducted
 by __NewInstitue__. It ensures proper accountability, storage, handling, and
 documentation throughout the product lifecycle.
 
 ## 2.0 SCOPE
 
 This procedure applies to all investigational products used in __NewInstitue__
-*clinical investigations*.
+*observational studies*.
 
 For the purposes of this SOP, "investigational products" refers to any materials, 
 devices, or products provided to study participants specifically for research 
@@ -30,7 +30,7 @@ Documentation of product management is controlled under
 with records maintained in the TMF.
 
 Product-related deviations (e.g., temperature excursions) are managed under
-[SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure](todo).
+[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
 
 Risk assessment for product management is performed using
 [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).

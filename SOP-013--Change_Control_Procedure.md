@@ -5,7 +5,7 @@
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
-managing changes to approved *clinical investigation* documents, systems, and
+managing changes to approved *observational study* documents, systems, and
 processes conducted by __NewInstitue__. It ensures that all changes are
 assessed for impact, properly reviewed, approved, implemented, and documented
 to maintain study integrity and compliance.
@@ -25,11 +25,11 @@ use review  criteria from SOP-005 to ensure consistent evaluation standards, but
 this procedure owns the full change management workflow from request to closure.
 
 Changes identified through nonconformances, deviations, or CAPA activities are
-initiated through [SOP-010: Control of Nonconforming Clinical Investigation
-Activities Procedure](todo) or [SOP-011: Corrective and Preventive Action Procedure](todo)
+initiated through [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md) or
+[SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
 and managed through this procedure.
 
-This procedure does not apply to changes to *clinical investigations* in the
+This procedure does not apply to changes to *observational studies* in the
 design phase (before they have received final approval).  Changes to *clinical
 investigations* in the design phase are managed by [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).
 

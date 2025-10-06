@@ -6,13 +6,13 @@
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 selecting, qualifying, contracting, and overseeing external organizations that
-perform *clinical investigation* activities on behalf of __NewInstitue__.
+perform *observational study* activities on behalf of __NewInstitue__.
 It ensures that outsourced activities maintain the same quality standards as
 internally conducted work.
 
 ## 2.0 SCOPE
 
-This procedure applies to all outsourced *clinical investigation* activities and
+This procedure applies to all outsourced *observational study* activities and
 services where __NewInstitue__ retains sponsor responsibilities.
 
 Vendor computer systems are subject to assessment under
@@ -26,9 +26,7 @@ and be maintained in the TMF.
 Vendor-related risks are assessed using the framework in
 [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
 
-Vendor performance issues may trigger [SOP-011: Corrective and Preventive Action
-Procedure](todo) or [SOP-010: Control of Nonconforming Clinical Investigation Activities
-Procedure](todo).
+Vendor performance issues may trigger [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md) or [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 

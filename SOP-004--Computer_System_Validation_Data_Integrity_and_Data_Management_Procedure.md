@@ -6,14 +6,14 @@
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 validating computer systems, ensuring data security and integrity, and managing
-electronic data throughout *clinical investigations* conducted by
+electronic data throughout *observational studies* conducted by
 __NewInstitue__. It ensures compliance with electronic records requirements and
 protection of data confidentiality.
 
 ## 2.0 SCOPE
 
 This procedure applies to all computer systems, electronic data, and information
-technology infrastructure used in *clinical investigations*.
+technology infrastructure used in *observational studies*.
 
 This procedure implements technical controls for risks identified under
 [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)

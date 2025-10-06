@@ -5,13 +5,15 @@
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
-maintaining regulatory compliance throughout all *clinical investigations*
+maintaining regulatory compliance throughout all *observational studies*
 conducted by __NewInstitue__. It ensures adherence to applicable regulations,
 manages regulatory communications, and maintains inspection readiness.
 
 ## 2.0 SCOPE
 
-This procedure applies to all regulatory compliance activities for NewInstitute clinical investigations conducted in accordance with applicable local and international regulations.
+This procedure applies to all regulatory compliance activities for NewInstitute
+*observational studies* conducted in accordance with applicable local and
+international regulations.
 
 Regulatory documents are controlled under
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md) and maintained in the TMF.

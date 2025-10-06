@@ -1,5 +1,5 @@
 # __NewInstitue__ Quality Manual
-## SOP-010: Control of Nonconforming Clinical Investigation Activities Procedure
+## SOP-010: Control of Nonconforming Observational Study Activities Procedure
 -----------------------------------------------------------------------
 
 ## 1.0 PURPOSE
@@ -7,12 +7,12 @@
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 identifying, documenting, evaluating, and managing activities that do not
 conform to protocol requirements, GCP standards, or regulatory requirements
-during *clinical investigations* conducted by __NewInstitue__.
+during *observational studies* conducted by __NewInstitue__.
 
 ## 2.0 SCOPE
 
 This procedure applies to all nonconforming activities identified during the
-conduct of __NewInstitue__ *clinical investigations*.
+conduct of __NewInstitue__ *observational studies*.
 
 Nonconformances are often identified through
 [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)

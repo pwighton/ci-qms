@@ -13,7 +13,7 @@ subject welfare.
 ## 2.0 SCOPE
 
 This procedure applies to all safety monitoring and adverse event management
-activities during __NewInstitue__ clinical investigations, recognizing that
+activities during __NewInstitue__ observational studies, recognizing that
 observational studies typically have different safety profiles than
 interventional trials.
 

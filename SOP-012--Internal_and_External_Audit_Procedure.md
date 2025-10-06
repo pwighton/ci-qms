@@ -6,14 +6,14 @@
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 planning, conducting, reporting, and following up on internal and external
-audits of *clinical investigations* and quality system processes at
+audits of *observational studies* and quality system processes at
 __NewInstitue__. It ensures independent verification of compliance with
 protocols, procedures, GCP, and regulatory requirements.
 
 ## 2.0 SCOPE
 
 This procedure applies to all audit activities related to __NewInstitue__
-*clinical investigations* and QMS processes.
+*observational studies* and QMS processes.
 
 Audit findings requiring systemic correction are managed under
 [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md).

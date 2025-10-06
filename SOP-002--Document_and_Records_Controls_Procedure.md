@@ -6,14 +6,14 @@
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 creating, reviewing, approving, distributing, maintaining, and archiving
-documents and records related to *clinical investigations* conducted by
+documents and records related to *observational studies* conducted by
 __NewInstitue__. It ensures document integrity, traceability and compliance with
 regulatory requirements.
 
 ## 2.0 SCOPE
 
 This procedure applies to all controlled documents and records generated or
-received during the design, conduct, and reporting of *clinical investigations*
+received during the design, conduct, and reporting of *observational studies*
 
 Documents and records created during study design are initially developed under
 [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md) and
