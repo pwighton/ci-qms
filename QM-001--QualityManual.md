@@ -352,7 +352,7 @@ __NewInstitue__ clearly establishes and documents the responsibilities,
 authority, and interrelation of employees who manage, perform, and verify work
 which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart).
 
-All employees assigned to a *observational study* must have requisite
+All employees assigned to an *observational study* must have requisite
 training as identified in the applicable Clinical Study Protocol.
 
 #### 5.3.2 Management Representative Responsibilities
@@ -643,13 +643,13 @@ Subject safety and adverse event management activities shall be performed and
 documented in accordance with the Subject Safety and Adverse Event Management
 Procedure, SOP-008.
 
-## 8.0 MEASUREMENTS, ANALYSIS AND IMPROVEMENT
+## 8.0 QUALITY OVERSIGHT ACTIVITIES
 ----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain procedures for measurement,
-analysis, monitoring, and improvement. Statistical methods and other techniques
-may be used to demonstrate conformity and effectiveness of clinical
-investigation conduct.
+analysis, monitoring, and improvement of *observational studies* it is
+conducting or sponsoring. Statistical methods and other techniques may be used
+to demonstrate conformity and effectiveness of clinical investigation conduct.
 
 These activities, at a minimum, shall include:
 
