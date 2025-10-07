@@ -71,6 +71,8 @@ the following standards and guidance documents are not considered by this QMS
 
 - [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
 
+- [ICH Q9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q9r1-quality-risk-management) Quality Risk Management
+
 - [ISO-19011:2018](https://www.iso.org/standard/70017.html): Guidelines for auditing management systems
 
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
@@ -542,8 +544,8 @@ study plans **SHALL** be maintained in the TMF.
 
 __NewInstitue__ **SHALL** establish and maintain a Risk Management and Quality
 Risk Management procedure that minimally addresses applicable requirements in
-ISO-9001:2015 Section 6.1, ICH E6(R2) Section 5.0, ICH E8(R1) Section 3.2 and
-applicable FDA guidance documents.
+ISO-9001:2015 Section 6.1, ICH E6(R2) Section 5.0, ICH E8(R1) Section 3.2,
+ICH Q9(R1) and applicable FDA guidance documents.
 
 All risk management activities related to *observational studies* **SHALL** be
 performed and documented in accordance with the Risk Management and Quality
@@ -870,6 +872,7 @@ TBD
     - Section 5.0 (Quality Management)
   - ICH E8(R1)
     - Section 3.2 (Critical to Quality Factors)
+  - ICH Q9(R1) (Quality Risk Management)
 
 - Computer System Validation, Data Integrity and Data Management
   - QM-001 Quality Manual
