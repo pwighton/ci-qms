@@ -110,6 +110,8 @@ the following standards and guidance documents are not considered by this QMS
 
 14. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
 
+15. [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+
 ### 3.3 Terms
 ----------------------------------------------------------------------
 
@@ -643,6 +645,36 @@ Subject safety and adverse event management activities shall be performed and
 documented in accordance with the Subject Safety and Adverse Event Management
 Procedure, SOP-008.
 
+### 7.9 Software Development and Validation
+----------------------------------------------------------------------
+
+__NewInstitue__ **SHALL** establish and maintain an Observational Study Software
+Development and Validation procedure that minimally addresses applicable
+requirements in 21 CFR Part 11, ICH E6(R2) Sections 4.9 and 5.5, GAMP 5, and
+applicable FDA guidance documents including:
+
+-   "Electronic Systems, Electronic Records, and Electronic Signatures in
+    Clinical Investigations" (2023).
+-   "Digital Health Technologies for Remote Data Acquisition in Clinical
+    Investigations Guidance for Industry, Investigators, and Other Stakeholders"
+    (2023).
+
+This procedure **SHALL** apply to:
+
+-   Software used to collect subject data (including but not limited to wearable
+    devices, mobile applications, web-based applications, and electronic data
+    capture systems)
+-   Software used to process, transform, or analyze subject data
+
+All software development activities related to observational studies **SHALL**
+be performed and documented in accordance with the Observational Study Software
+Development and Validation Procedure, SOP-015.
+
+Software used collect or process *observational study* data **SHALL** maintain
+version control and data integrity in accordance with ALCOA+ principles
+(Attributable, Legible, Contemporaneous, Original, Accurate, Complete,
+Consistent, Enduring, and Available).
+
 ## 8.0 QUALITY OVERSIGHT ACTIVITIES
 ----------------------------------------------------------------------
 
@@ -904,6 +936,21 @@ TBD
     - Section 5.17 (Adverse Drug Reaction Reporting)
   - ICH E8(R1)
     - Section 6.2 (Participant Safety during Study Conduct)
+
+### Observational Study Software Development and Validation
+
+- Observational Study Software Development and Validation
+  - QM-001 Quality Manual
+    - Section 7.9 (link todo)
+  - SOP-015 Observational Study Software Development and Validation Procedure
+  - 21 CFR Part 11 (Electronic Records; Electronic Signatures)
+  - ICH E6(R2)
+    - Section 4.9 (Records and Reports)
+    - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
+  - GAMP 5 (Good Automated Manufacturing Practice)
+  - FDA Guidance
+    - "Electronic Systems, Electronic Records, and Electronic Signatures in Clinical Investigations" (2023)
+    - "Digital Health Technologies for Remote Data Acquisition in Clinical Investigations" (2023)
 
 ### Measurements, Analysis and Improvement
 
