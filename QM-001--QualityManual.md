@@ -71,6 +71,10 @@ the following standards and guidance documents are not considered by this QMS
 
 - [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
 
+- [ICH E9](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9-statistical-principles-clinical-trials): Statistical Principles for Clinical Trials (1998)
+
+- [ICH E9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9r1-statistical-principles-clinical-trials-addendum-estimands-and-sensitivity-analysis-clinical): Statistical Principles for Clinical Trials: Addendum: Estimands and Sensitivity Analysis in Clinical Trials (2021)
+
 - [ICH Q9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q9r1-quality-risk-management) Quality Risk Management
 
 - [ISO-19011:2018](https://www.iso.org/standard/70017.html): Guidelines for auditing management systems
@@ -519,9 +523,9 @@ These activities, at a minimum, shall include:
 
 __NewInstitue__ **SHALL** establish and maintain a Design Control procedure that
 minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
-ICH E8(R1), and applicable regulatory guidance documents.  All clinical
-investigation design activities shall be performed and documented in accordance
-with the Design Controls Procedure, SOP-001.
+ICH E8(R1), ICH E9, ICH E9(R1) and applicable regulatory guidance documents.
+All *observational study* design activities shall be performed and documented
+in accordance with the Design Controls Procedure, SOP-001.
 
 ### 7.2 Document and Records Controls
 ----------------------------------------------------------------------
@@ -849,7 +853,9 @@ TBD
   - ICH E8(R1) 
     - Section 3 (Study Design Principles)
     - Section 4 (Study Design Elements)
-
+  - ICH E9 (Statistical Principles for Clinical Trials)
+  - ICH E9(R1) (Statistical Principles for Clinical Trials: Addendum: Estimands and Sensitivity Analysis in Clinical Trials)
+  
 - Document and Records Controls
   - QM-001 Quality Manual
     - [Section 7.2](QM-001--QualityManual.md#72-document-and-records-controls)

@@ -88,4 +88,11 @@ Design Phases covered:
 Discuss content and format of Trial Master File (TMF)
 Discuss other essential documents
 
+Design controls **SHALL** include statistical considerations for study design,
+including but not limited to:
 
+-   Sample size determination and power calculations
+-   Randomization procedures (when applicable)
+-   Statistical analysis planning
+-   Definition of estimands and sensitivity analyses
+-   Handling of missing data
