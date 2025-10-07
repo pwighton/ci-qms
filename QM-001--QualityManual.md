@@ -838,7 +838,7 @@ TBD
 - Design Controls
   - QM-001 Quality Manual
     - [Section 7.1](QM-001--QualityManual.md#71-design-controls)
-  - SOP-001 Design Controls Procedure
+  - [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
   - ISO-9001:2015
     - Section 8.3 (Design and development of products and services)
   - ICH E6(R2)
@@ -851,7 +851,7 @@ TBD
 - Document and Records Controls
   - QM-001 Quality Manual
     - [Section 7.2](QM-001--QualityManual.md#72-document-and-records-controls)
-  - SOP-002 Document and Records Controls Procedure
+  - [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
   - ISO-9001:2015
     - Sections 7.5 (Documented information)
   - ICH E6(R2): 
@@ -863,7 +863,7 @@ TBD
 - Risk Management and Quality Risk Management
   - QM-001 Quality Manual
     - [Section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management)
-  - SOP-003 Risk Management and Quality Risk Management Procedure
+  - [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
   - ISO-9001:2015
     - Section 6.1 (Actions to address risks and opportunities)
   - ICH E6(R2)
@@ -874,7 +874,7 @@ TBD
 - Computer System Validation, Data Integrity and Data Management
   - QM-001 Quality Manual
     - [Section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity)
-  - SOP-004 Computer System Validation and Data Integrity Procedure
+  - [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
   - ISO-9001:2015
     - Section 6.1 (Actions to address risks and opportunities)
   - ICH E6(R2)
@@ -893,7 +893,7 @@ TBD
 - Study Design Reviews
   - QM-001 Quality Manual
     - [Section 7.5](QM-001--QualityManual.md#75-study-design-reviews)
-  - SOP-005 Study Design Review Procedure
+  - [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md)
   - ISO-9001:2015
     - Section 8.3 (Design and development of products and services)
   - ICH E6(R2)
@@ -908,7 +908,7 @@ TBD
 - Outsourced Activities
   - QM-001 Quality Manual
     - [Section 7.6](QM-001--QualityManual.md#76-outsourced-activities)
-  - SOP-006 Outsourced Activities Procedure
+  - [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
   - ISO-9001:2015
     - Section 8.4 (Control of externally provided processes, products and services)
   - ICH E6(R2)
@@ -920,7 +920,7 @@ TBD
 - Investigational Product Management
   - QM-001 Quality Manual
     - [Section 7.7](QM-001--QualityManual.md#77-investigational-product-management)
-  - SOP-007 Investigational Product Management Procedure
+  - [SOP-007: Investigational Product Management Procedure](SOP-007--Investigational_Product_Management_Procedure.md)
   - ICH E6(R2)
     - Section 5.13 (Manufacturing, Packaging, Labeling, and Coding Investigational Product(s)), 
     - Section 5.14 (Supplying and Handling Investigational Product(s))
@@ -930,7 +930,7 @@ TBD
 - Subject Safety and Adverse Event Management
   - QM-001 Quality Manual
     - [Section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management)
-  - SOP-008 Subject Safety and Adverse Event Management Procedure,
+  - [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
   - ICH E6(R2)
     - Section 4.11 (Safety Reporting), 
     - Section 5.17 (Adverse Drug Reaction Reporting)
@@ -941,8 +941,8 @@ TBD
 
 - Observational Study Software Development and Validation
   - QM-001 Quality Manual
-    - Section 7.9 (link todo)
-  - SOP-015 Observational Study Software Development and Validation Procedure
+    - [Section 7.9](QM-001--QualityManual.md#79-software-development-and-validation)
+  - [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
   - 21 CFR Part 11 (Electronic Records; Electronic Signatures)
   - ICH E6(R2)
     - Section 4.9 (Records and Reports)
@@ -957,7 +957,7 @@ TBD
 - Monitoring and Oversight
   - QM-001 Quality Manual
     - [Section 8.1](QM-001--QualityManual.md#81-monitoring-and-oversight)
-  - SOP-009 Monitoring and Oversight Procedure
+  - [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
   - ISO-9001:2015
     - Section 9.1 (Monitoring, measurement, analysis and evaluation)
   - ICH E6(R2) 
@@ -969,7 +969,7 @@ TBD
 - Control of Nonconforming Clinical Investigation Activities
   - QM-001 Quality Manual
     - [Section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-clinical-investigation-activities)
-  - SOP-010 Control of Nonconforming Observational Study Activities Procedure
+  - [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
   - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
   - ICH E6(R2) 
@@ -978,7 +978,7 @@ TBD
 - Corrective and Preventive Actions (CAPA)
   - QM-001 Quality Manual
     - [Section 8.3](QM-001--QualityManual.md#83-corrective-and-preventive-action-capa)
-  - SOP-011: Corrective and Preventive Action Procedure 
+  - [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
   - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
   - ICH E6(R2)
@@ -987,7 +987,7 @@ TBD
 - Internal and External Audits
   - QM-001 Quality Manual
     - [Section 8.4](QM-001--QualityManual.md#84-internal-and-external-audits)
-  - SOP-012 Internal and External Audit Procedure
+  - [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
   - ISO-9001:2015
     - Section 9.2 (Internal audit)
   - ICH E6(R2)
@@ -997,7 +997,7 @@ TBD
 - Change Control
   - QM-001 Quality Manual
     - [Section 8.5](QM-001--QualityManual.md#85-change-control)
-  - SOP-013 Change Control Procedure
+  - [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
   - ISO-9001:2015
     - Section 8.5.6 (Control of changes)
   - ICH E6(R2)
@@ -1007,7 +1007,7 @@ TBD
 - Regulatory Compliance Management
   - QM-001 Quality Manual
     - [Section 8.6](QM-001--QualityManual.md#86-regulatory-compliance-management)
-  - SOP-014 Regulatory Compliance Management Procedure
+  - [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
   - ICH E6(R2)
     - Section 3.0 (Institutional Review Board/Independent Ethics Committee), 
     - Section 4.1 (Investigator's Qualifications and Agreements)
