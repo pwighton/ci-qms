@@ -49,7 +49,6 @@ or pharmaceutical products.  Therefore, the following standards and guidance
 documents are not considered by this QMS
 
 -   ICH E3: Structure and Content of Clinical Study Reports
--   ICH Q9: Quality Risk Management of pharmaceutical quality
 -   ICH E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting
 -   FDA Guidance on Data Integrity and Compliance (2018)
 
