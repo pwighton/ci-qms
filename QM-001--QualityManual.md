@@ -13,8 +13,9 @@ __NewInstitue__.  Policies and procedures required for compliance are shown
 using the word **“SHALL”**.
 
 This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018, 
-ICH E6(R2), ICH E8(R1), applicable Clinical Trials Guidance Documents published
-by the FDA and international standards.
+21 CFR Parts 11 and 54, ICH E6(R2), ICH E8(R1), ICH E9(R1), ICH Q9(R1), 
+GAMP 5, NIST 800-171, NIST 800-53, and applicable Clinical Trials Guidance 
+Documents published by the FDA.
 
 *Observational studies* conducted by __NewInstitue__ are conducted in
 accordance with this QMS and in a manner consistent with best practices.
