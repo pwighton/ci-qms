@@ -63,6 +63,8 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.1 References
 ----------------------------------------------------------------------
 
+- [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11): Electronic Records, Electronic Signatures
+
 - [21 CFR Part 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54): Financial Disclosure by Clinical Investigators
 
 - [FDA's Clinical Trials Guidance Documents](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection/clinical-trials-guidance-documents): The FDA's list of guidance documents that represents the agency's current thinking on the conduct of clinical trials, good clinical practice and human subject protection.
