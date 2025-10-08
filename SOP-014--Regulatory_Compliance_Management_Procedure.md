@@ -63,3 +63,8 @@ Covered Activities
 - Regulatory document management
 - Registration and notification requirements
 - Regulatory commitment tracking and fulfillment
+- Collection and maintenance of financial disclosure information from all
+  investigators (internal and external) as required by 21 CFR Part 54
+- Documentation of financial interests and arrangements
+- Timely submission of financial disclosure information to regulatory
+  authorities, when required.

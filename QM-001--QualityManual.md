@@ -63,6 +63,8 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.1 References
 ----------------------------------------------------------------------
 
+- [21 CFR Part 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54): Financial Disclosure by Clinical Investigators
+
 - [FDA's Clinical Trials Guidance Documents](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection/clinical-trials-guidance-documents): The FDA's list of guidance documents that represents the agency's current thinking on the conduct of clinical trials, good clinical practice and human subject protection.
 
 - [GAMP v5](https://guidance-docs.ispe.org/doi/book/10.1002/9781946964571): A Risk-Based Approach to Compliant GxP Computerized Systems
@@ -773,8 +775,17 @@ performed and documented in accordance with the Change Control Procedure, SOP-01
 __NewInstitue__ **SHALL** establish and maintain a Regulatory Compliance
 Management procedure that minimally addresses requirements for maintaining
 compliance with applicable regulations including ICH E6(R2) Sections 3.0 and
-4.1, local GCP requirements, and regulatory authority communications.
+4.1, 21 CFR Part 54, local GCP requirements, and regulatory authority
+communications.
 
+This procedure **SHALL** address:
+
+-   Collection and maintenance of financial disclosure information from all
+    investigators (internal and external) as required by 21 CFR Part 54
+-   Documentation of financial interests and arrangements
+-   Timely submission of financial disclosure information to regulatory
+    authorities, when required.
+    
 Regulatory compliance management activities shall be performed and documented
 in accordance with the Regulatory Compliance Management Procedure, SOP-014.
 
@@ -1020,3 +1031,4 @@ TBD
   - ICH E6(R2)
     - Section 3.0 (Institutional Review Board/Independent Ethics Committee), 
     - Section 4.1 (Investigator's Qualifications and Agreements)
+  - 21 CFR Part 54 (Financial Disclosure by Clinical Investigators)
