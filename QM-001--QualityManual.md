@@ -414,7 +414,7 @@ identifying opportunities for improvement and needed changes. At each
 Management Review meeting, the following topics MAY be considered for
 discussion:
 
--   Status of all *observational study  * activities and study portfolio
+-   Status of all *observational study* activities and study portfolio
 
 -   Subject safety, adverse events, and data integrity issues
 
