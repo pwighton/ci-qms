@@ -493,6 +493,7 @@ certain that all employees are made aware of the:
 -   GCP principles and their legal and ethical responsibilities
 -   Requirements for protection of subject rights, safety, and welfare
 -   Data integrity principles and their role in maintaining data quality
+-   Financial disclosure obligations for investigators
 
 All training requirements should be documented in each Clinical Study Protocol.
 All training shall be documented in training records.
