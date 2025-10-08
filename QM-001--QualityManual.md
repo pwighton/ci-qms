@@ -521,6 +521,7 @@ These activities, at a minimum, shall include:
 -   Outsourced Activities (see [section 7.6](QM-001--QualityManual.md#76-outsourced-activities))
 -   Investigational Product Management (see [section 7.7](QM-001--QualityManual.md#77-investigational-product-management))
 -   Subject Safety and Adverse Event Management (see [section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management))
+-   Software Development and Validation (see [section 7.9](QM-001--QualityManual.md#79-software-development-and-validation))
 
 ### 7.1 Design Controls
 ----------------------------------------------------------------------
@@ -676,9 +677,10 @@ This procedure **SHALL** apply to:
     capture systems)
 -   Software used to process, transform, or analyze subject data
 
-All software development activities related to observational studies **SHALL**
-be performed and documented in accordance with the Observational Study Software
-Development and Validation Procedure, SOP-015.
+All software development activities related to software used to collect or 
+process *observational study* data **SHALL** be performed and documented in
+accordance with the Observational Study Software Development and Validation
+Procedure, SOP-015.
 
 Software used collect or process *observational study* data **SHALL** maintain
 version control and data integrity in accordance with ALCOA+ principles
