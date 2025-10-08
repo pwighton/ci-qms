@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------
 
 ## 1.0 PURPOSE
-`fds`
+
 __NewInstitue__ is a health-sciences focused institute that designs and 
 conducts *observational studies* by collecting human health data in order to
 answer specific scientific questions.
