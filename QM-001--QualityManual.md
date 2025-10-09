@@ -38,7 +38,7 @@ This QMS adopts the definition of *Clinical Investigation* used in
 ## 2.0 SCOPE
 
 This Quality Manual defines policies and procedures related to the design and
-conduct of *observational studies* as defined by the US FDA in [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
+conduct of *observational studies*.
 
 All __NewInstitue__ employees and subcontractors are required to adhere to the
 policies and procedures outlined in this Quality Manual when designing and
@@ -269,6 +269,7 @@ conduct of ethical and reliable *observational studies*:
 -   Training and Competency Management
 -   Investigational Product Management
 -   Subject Safety and Adverse Event Management
+-   Software Development and Validation
 -   Monitoring and Oversight
 -   Corrective and Preventive Actions (CAPA)
 -   Management Review and Quality Planning
