@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## QM-001
-----------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "QM-001"
+---
 
 ## 1.0 PURPOSE
 
@@ -61,7 +62,6 @@ the following standards and guidance documents are not considered by this QMS
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 References
-----------------------------------------------------------------------
 
 - [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11): Electronic Records, Electronic Signatures
 
@@ -90,7 +90,6 @@ the following standards and guidance documents are not considered by this QMS
 - [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final): Security and Privacy Controls for Information Systems and Organizations
 
 ### 3.2 __NewInstitue__ Procedures 
-----------------------------------------------------------------------
 
 1.  [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 
@@ -123,7 +122,6 @@ the following standards and guidance documents are not considered by this QMS
 15. [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
 
 ### 3.3 Terms
-----------------------------------------------------------------------
 
 -   **Adverse Event**: Any untoward medical occurrence in a patient or clinical
     investigation subject administered a pharmaceutical product and which does
@@ -200,7 +198,6 @@ the following standards and guidance documents are not considered by this QMS
     conducted. `[ICH E6(R2) 1.59]`
 
 ### 3.4 Acronyms
-----------------------------------------------------------------------
 
 - **CAPA**:  Corrective and Preventive Action
 
@@ -234,7 +231,6 @@ the following standards and guidance documents are not considered by this QMS
 ## 4.0 QMS OVERVIEW
 
 ### 4.1 General Requirements
-----------------------------------------------------------------------
 
 This QMS applies to *observational studies* designed and conducted by
 __NewInstitue__. All __NewInstitue__ employees and subcontractors who are
@@ -277,7 +273,6 @@ conduct of ethical and reliable *observational studies*:
 -   Regulatory Compliance Management
 
 ### 4.2 QMS Documentation
-----------------------------------------------------------------------
 
 Documentation is the cornerstone of an effective QMS. __NewInstitue__
 **“SHALL”** establish and maintain procedures for the control of documents and
@@ -332,7 +327,6 @@ The purpose of each level of documentation is as follows:
 ## 5.0 MANAGEMENT RESPONSIBILITY
 
 ### 5.1 Management Commitment
-----------------------------------------------------------------------
 
 __NewInstitue__'s Executive Management is committed to implementing an
 effective QMS that addresses all relevant aspects of observational study
@@ -342,7 +336,6 @@ supported by providing the necessary resources, equipment and appropriately
 trained staff.
 
 ### 5.2 Quality Policy
-----------------------------------------------------------------------
 
 __NewInstitue__'s quality policy is as follows:
 
@@ -353,7 +346,6 @@ __NewInstitue__'s quality policy is as follows:
     consent of the subjects and in a manner that protects their privacy.
 
 ### 5.3 Resources 
-----------------------------------------------------------------------
 
 #### 5.3.1 Organization
 
@@ -461,7 +453,6 @@ essential study documents subject to inspection.
 ## 6.0 RESOURCE MANAGEMENT 
 
 ### 6.1 Provision of Resources
-----------------------------------------------------------------------
 
 Executive Management is responsible for providing appropriate resources
 to accomplish planned activities. Resources may include but not be
@@ -509,7 +500,6 @@ conduct, reporting and support of *observational studies* conducted under this
 QMS.
 
 ## 7.0 STUDY REALIZATION
-----------------------------------------------------------------------
 
 Study realization activities include all activities required to design,
 conduct, monitor, analyze, and report *observational studies* within this QMS.
@@ -526,7 +516,6 @@ These activities, at a minimum, shall include:
 -   Software Development and Validation (see [section 7.9](QM-001--QualityManual.md#79-software-development-and-validation))
 
 ### 7.1 Design Controls
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Design Control procedure that
 minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
@@ -535,7 +524,6 @@ All *observational study* design activities shall be performed and documented
 in accordance with the Design Controls Procedure, SOP-001.
 
 ### 7.2 Document and Records Controls
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Document and Records Control
 procedure that minimally addresses the document and record control requirements
@@ -551,7 +539,6 @@ Study documents and records identified in the SOPs, work instructions, and
 study plans **SHALL** be maintained in the TMF.
 
 ### 7.3 Risk Management and Quality Risk Management
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Risk Management and Quality
 Risk Management procedure that minimally addresses applicable requirements in
@@ -563,7 +550,6 @@ performed and documented in accordance with the Risk Management and Quality
 Risk Management Procedure, SOP-003.
 
 ### 7.4 Computer System Validation, Data Integrity and Data Management
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Computer System Validation,
 Data Integrity and Data Management procedure that minimally addresses
@@ -587,7 +573,6 @@ Computer System Validation, Data Integrity and Data Management Procedure,
 SOP-004
 
 ### 7.5 Study Design Reviews
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Study Design Review
 procedure that minimally addresses applicable requirements in ISO-9001:2015 
@@ -599,7 +584,6 @@ performed and documented in accordance with the Study Design Review Procedure,
 SOP-005.
 
 ### 7.6 Outsourced Activities
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain an Outsourced Activities
 procedure that minimally addresses applicable requirements in ISO-9001:2015
@@ -619,7 +603,6 @@ Outsourced activities related to *observational studies* shall be performed
 and documented in accordance with the Outsourced Activities Procedure, SOP-006.
 
 ### 7.7 Investigational Product Management
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain an Investigational Product
 Management procedure that minimally addresses applicable requirements in
@@ -642,7 +625,6 @@ documented in accordance with the Investigational Product Management Procedure,
 SOP-007.
 
 ### 7.8 Subject Safety and Adverse Event Management
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Subject Safety and Adverse
 Event Management procedure that minimally addresses applicable requirements in
@@ -659,7 +641,6 @@ documented in accordance with the Subject Safety and Adverse Event Management
 Procedure, SOP-008.
 
 ### 7.9 Software Development and Validation
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain an Observational Study Software
 Development and Validation procedure that minimally addresses applicable
@@ -690,7 +671,6 @@ version control and data integrity in accordance with ALCOA+ principles
 Consistent, Enduring, and Available).
 
 ## 8.0 QUALITY OVERSIGHT ACTIVITIES
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain procedures for measurement,
 analysis, monitoring, and improvement of *observational studies* it is
@@ -707,7 +687,6 @@ These activities, at a minimum, shall include:
 - Regulatory Compliance Management (see [section 8.6](QM-001--QualityManual.md#86-regulatory-compliance-management))
 
 ### 8.1 Monitoring and Oversight
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Monitoring and Oversight
 procedure that minimally addresses applicable requirements in ISO-9001:2015
@@ -719,7 +698,6 @@ All monitoring and oversight activities related to *observational studies*
 Oversight Procedure, SOP-009.
 
 ### 8.2 Control of Nonconforming Activities
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Control of Nonconforming
 Activities procedure that provides for identification, review, and disposition
@@ -736,7 +714,6 @@ performed and documented in accordance with the Control of Nonconforming
 Observational Study Activities Procedure, SOP-010.
 
 ### 8.3 Corrective and Preventive Action (CAPA)
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a CAPA process that minimally
 requires corrective action be taken to prevent recurrence of a nonconformance
@@ -751,7 +728,6 @@ documented in accordance with the Corrective and Preventive Action Procedure,
 SOP-011.
 
 ### 8.4 Internal and External Audits
-----------------------------------------------------------------------
 
 Audits are a critical tool for improving the QMS and for ensuring the quality, 
 safety, and reliability of *observational studies* conducted within the QMS.
@@ -765,7 +741,6 @@ SOP-012 and address applicable requirements in ISO-9001:2015 Section 9.2,
 ICH E6(R2) Section 5.19, and ISO-19011:2018.
 
 ### 8.5 Change Control
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Change Control procedure to
 control changes to *observational study* systems, processes, and procedures
@@ -776,7 +751,6 @@ Change control activities related to *observational studies* shall be
 performed and documented in accordance with the Change Control Procedure, SOP-013.
 
 ### 8.6 Regulatory Compliance Management
-----------------------------------------------------------------------
 
 __NewInstitue__ **SHALL** establish and maintain a Regulatory Compliance
 Management procedure that minimally addresses requirements for maintaining
@@ -796,12 +770,10 @@ Regulatory compliance management activities shall be performed and documented
 in accordance with the Regulatory Compliance Management Procedure, SOP-014.
 
 ## Appendix A __NewInstitue__'s Organization Chart
-----------------------------------------------------------------------
 
 TBD
 
 ## Appendix B Cross-Reference Guide 
-----------------------------------------------------------------------
 
 ### Management Responsibility
 
