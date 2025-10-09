@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-004: Computer System Validation, Data Integrity and Data Management Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-004: Computer System Validation, Data Integrity and Data Management Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -35,21 +36,16 @@ This procedure applies to all NewInstitute employees and vendors involved in:
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 GAMP 5 Framework
 

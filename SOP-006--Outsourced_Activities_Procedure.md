@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-006: Outsourced Activities Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-006: Outsourced Activities Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -31,21 +32,16 @@ Vendor performance issues may trigger [SOP-011: Corrective and Preventive Action
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Covered Activities
 

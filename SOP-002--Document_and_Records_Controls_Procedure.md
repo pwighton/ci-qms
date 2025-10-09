@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-002: Document and Records Controls Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-002: Document and Records Controls Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -29,21 +30,16 @@ for specifics.
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Difference between document and record
 

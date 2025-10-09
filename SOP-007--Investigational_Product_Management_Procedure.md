@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-007: Investigational Product Management Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-007: Investigational Product Management Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -47,13 +48,10 @@ involved in:
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 -   **Investigational Product**: Any materials, devices, or products provided
     to study participants specifically for research data collection purposes. 
@@ -62,12 +60,10 @@ involved in:
     participants as part of the study protocol.
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Special Considerations for Observational Studies:
 

@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-001: Design Controls Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-001: Design Controls Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -51,10 +52,8 @@ involved in:
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 1.  [QM-001: Quality Manual](QM-001--QualityManual.md)
 
@@ -65,15 +64,12 @@ involved in:
 4.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Design Phases covered:
 
@@ -83,7 +79,6 @@ Design Phases covered:
 - Design Verification Phase
 - Design Validation Phase
 - Design Transfer to Study Conduct Phase
-
 
 Discuss content and format of Trial Master File (TMF)
 Discuss other essential documents

@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-014: Observational Study Software Development and Validation Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-015: Observational Study Software Development and Validation Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -41,7 +42,6 @@ and [SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Proc
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 - 21 CFR Part 11 (Electronic Records; Electronic Signatures)
 
@@ -56,10 +56,8 @@ and [SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Proc
   Signatures in Clinical Investigations" (2023)
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 -   **ALCOA+ Principles**: Data integrity principles requiring data to be
     Attributable, Legible, Contemporaneous, Original, Accurate, Complete,
@@ -82,7 +80,6 @@ and [SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Proc
     reproducibility.
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 - **ALCOA+**
 
@@ -97,7 +94,6 @@ and [SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Proc
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Covered Activities
 

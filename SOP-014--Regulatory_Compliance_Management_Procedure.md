@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-014: Regulatory Compliance Management Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-014: Regulatory Compliance Management Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -33,23 +34,18 @@ Vendor regulatory compliance is assessed under
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 - TMF
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Covered Activities
 

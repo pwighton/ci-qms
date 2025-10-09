@@ -1,6 +1,7 @@
-# __NewInstitue__ Quality Manual
-## SOP-005: Study Design Review Procedure
------------------------------------------------------------------------
+---
+title: "__NewInstitue__ Quality Manual"
+subtitle: "SOP-005: Study Design Review Procedure"
+---
 
 ## 1.0 PURPOSE
 
@@ -27,10 +28,8 @@ this procedure, while the change process itself is managed under
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
------------------------------------------------------------------------
 
 ### 3.2 __NewInstitue__ References 
------------------------------------------------------------------------
 
 1.  [QM-001: Quality Manual](QM-001--QualityManual.md)
 
@@ -39,15 +38,12 @@ this procedure, while the change process itself is managed under
 3.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
------------------------------------------------------------------------
 
 ### 3.4 Acronyms
------------------------------------------------------------------------
 
 ## 4.0
 
 ### 4.1 Overview
------------------------------------------------------------------------
 
 Review Gates Covered:
 
