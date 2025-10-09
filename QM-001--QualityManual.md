@@ -339,11 +339,12 @@ trained staff.
 
 __NewInstitue__'s quality policy is as follows:
 
->   __NewInstitue__ collects high quality, multi-modal human health data in
-    order to answer specific research questions to better understand the nature
-    of various diseases, human health and longevity.  Data is collected, stored,
-    transmitted, analyzed and distributed ethically and in accordance with the
-    consent of the subjects and in a manner that protects their privacy.
+>   __NewInstitue__ collects high quality, multi-modal human health data and
+    other associated data in order to answer specific research questions to
+    better understand the nature of various diseases, human health and
+    longevity.  Data is collected, stored, transmitted, analyzed and
+    distributed ethically and in accordance with the consent of the subjects
+    and in a manner that protects their privacy.
 
 ### 5.3 Resources 
 
