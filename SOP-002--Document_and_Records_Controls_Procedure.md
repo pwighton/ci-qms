@@ -35,9 +35,27 @@ for specifics.
 
 ### 3.3 Terms
 
-- Clinical Study Protocol
+-   **Document**: Controlled information that provides instructions,
+    requirements, or specifications for performing work. Documents are expected
+    to evolve over time, with revisions subject to formal review and approval
+    processes. Examples include SOPs, work instructions, study protocols,
+    and plans.
+
+-   **Record**: Fixed evidence of activities performed or results achieved.
+    Records are created at a point in time and, once completed, are not altered
+    except through formal correction processes. Records provide objective
+    evidence that work was performed in accordance with established procedures
+    and requirements. Examples include completed case report forms, signed
+    informed consent forms, training records, and test results.
+
+-   **Study Protocol**: A document that describes the objective(s), design,
+    methodology, statistical considerations, and organization of a trial.
+    `[ICH E6(R2) 1.44]`
 
 ### 3.4 Acronyms
+
+- SOPs
+- QMS
 
 ## 4.0
 
@@ -46,14 +64,26 @@ the QMS. Document and records control provides consistency throughout
 the design and conduct of an *observational study*. Part of establishing an
 effective document and records control process requires establishing a central
 document and records repository that is readily accessible to staff members. In
-addition, document and records control provide support to internal and
+addition, document and records control provides support to internal and
 external auditors and inspectors by providing official copies of
 controlled documents and records for review.
 
-todo: Explain the difference between document and record
-- A document is expected to change over time.  Their revisions are controlled
-and subject to approval
-- A record is created once and not significantly altered afterwards
+Documents and records serve different functions within the QMS and are managed
+accordingly:
+
+-   **Documents** are controlled information that is expected to evolve over
+    time. Examples include SOPs, work instructions, protocols, and plans.
+    Documents undergo formal revision processes, with each revision requiring
+    review and approval before release. Documents provide instructions or
+    requirements for how work should be performed.
+
+-   **Records** are fixed evidence of activities performed or results achieved.
+    Examples include completed case report forms, informed consent forms,
+    meeting minutes, training records, and test results. Records are created at
+    a point in time and are not altered after completion (except through formal
+    corrections as described in Section 5.3.5). Records provide objective
+    evidence that work was performed according to documented procedures and
+    requirements.
 
 Essential requirements of an effective document and records control
 system include:
@@ -89,7 +119,7 @@ Required documents and records are submitted to the document control
 system and **shall** only be released by the QA representative.
 
 The __NewInstitue__ Project Manager is responsible for assuring that
-all required documents and records are identified in the Clinical Study
+all required documents and records are identified in the Study
 Protocol and are created at the appropriate time during the project.
 
 The Project Manager is responsible for assuring that documents and
@@ -103,18 +133,13 @@ control.
 
 ## 4.2 Document Identification and Numbering
 
-Every document **shall** have a unique number as illustrated below:
+Every document **shall** have a unique identifier.
 
-| Document Type | Example numbering |
-| --- | --- |
-| SOPs and WIs: | SOP-XXX, WI-XXX; where XXX is a number from 001-999 |
-| Project documents: | Number: YYYY where YYYY is a number from 0001-9999 |
-
-The QA representative **shall** maintain a document numbering log. All
-persons creating documents **shall** request a document number from
+The QA representative **shall** maintain a document log. All
+persons creating documents **shall** request a unique document identifier from
 the QA representative.
 
-In addition to a unique document number, each document **shall** have
+In addition to a unique document identifier, each document **shall** have
 a revision. Revision numbers are as follows: ZZ where ZZ is a number
 from 00-99. The initial revision of a new document is 00.
 
@@ -211,8 +236,7 @@ approver or by another person that has access to pertinent background
 information upon which to base their decisions.
 
 When all comments and issues are resolved, the QA representative
-prints a Master Document (paper), which is circulated for the required
-approval signatures.
+circulates the final draft for the required approval signatures.
 
 All document changes are formally released through document control
 and the document revision number is incremented.
@@ -248,13 +272,14 @@ use as part of the document distribution process.
 
 ## 4.9 Retention of obsolete documents
 
-The original signed copies of obsolete controlled documents are
-retained for at least two (2) years or the expected lifetime of the
-medical device – whichever is longer.
+The original copies of obsolete controlled documents shall be retained for the
+same period as essential study documents, which is at least two (2) years after
+the formal discontinuation of the study or as required by applicable regulatory
+requirements, whichever is longer. (`ICH E6(R1) 5.5.11`)
 
 ## 4.10 Master Documents and Controlled Copies
 
-Document control retains the signed paper copy of all released
+Document control retains the signed copy of all released
 documents. These Master Documents are preserved for a retention period
 defined above and used only for the purpose of generating controlled
 copies.
@@ -272,9 +297,9 @@ devices.
 ## 4.11 Master Document List
 
 The QA representative manages a list of all controlled documents
-including their number, title and revision. Only current document
+including their unique identifier, title and revision. Only current document
 revisions are displayed on the master list. The QA representative is
-able to produce a paper master document list at any time. Superseded
+able to produce a master document list at any time. Superseded
 and obsolete documents have expiry dates corresponding with the date
 that they were made obsolete or replaced by a newer revision.
 
@@ -282,50 +307,46 @@ that they were made obsolete or replaced by a newer revision.
 
 The record control process establishes requirements for the creation,
 control storage, and retention of records. This procedure applies to
-all records required to demonstrate conformity of products and the
+all records required to demonstrate conformity of study conduct  and the
 quality system including but not limited to records in the following
 categories:
 
--   Design History Files (DHF)
+-   Study Files (including protocol, amendments, and administrative documents)
 
 -   Risk Management Files (RMF)
 
 -   Regulatory Records
 
--   Device Master Record (DMR)
+-   Informed Consent Records
 
--   Complaint Files and Device Recall Records
+-   Subject Records (including case report forms, source documentation, and eligibility verification)
 
--   Distribution Records
+-   Data Management Records
 
--   Quality Records
+-   Adverse Event and Safety Records
+
+-   Quality Records (including audit reports, deviations, and corrective actions)
 
 -   Training Records
 
--   Testing Records
+-   Monitoring Records 
 
--   Purchasing Records
+-   Laboratory and Testing Records (if applicable)
 
--   Labeling Records
-
--   Inspection Records
+-   Vendor/Contractor Records (including agreements and qualifications)
 
 ## 5.1 General
 
 Records are established to provide evidence that products, processes
-and the quality system conform to regulatory requirements.
+and the quality system conform to QMS requirements.
 
 Records are created as part of performing a task, operation, or
-activity called out in SOPs, work instructions or Project Plans.
+activity called out in SOPs, work instructions or Study Protocol.
 
-All records required that are required to demonstrate compliance with
-quality and regulatory requirement exist as paper records. Although
-these records may also exist electronically, it is always the paper
-record with the handwritten signature that is considered the official
-record.
-
-The QA representative maintains all required records on paper in a
-locked, fireproof file cabinet or equivalent.
+The QA representative maintains all required records in secure electronic 
+systems that comply with applicable regulations (e.g., 21 CFR Part 11)
+or as paper records in locked, fireproof storage. The  Study Protocol
+**shall** document the location and format of study-specific records.
 
 ## 5.2 Required Content
 
