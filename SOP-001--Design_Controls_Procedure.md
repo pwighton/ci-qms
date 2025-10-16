@@ -134,7 +134,7 @@ The primary focus is on Phase 1 activities.
 
 ### 4.2 Roles and Responsibilities
 
-**todo:** Define key roles (e.g Study Director/PI, Protocol Author, Statistician, Data Manager, Quality Reviewer, Approvers, etc.]
+**todo:** Define key roles (e.g Study Director/PI, Protocol Author, Statistician, Data Manager, Quality Reviewer, Approvers, etc.
 
 ### 4.3 Design Controls Framework
 
@@ -288,7 +288,7 @@ with SOP-002.
 
 #### 5.10.1 Requirements
 
-**todo:** Final approval per SOP-005; criteria for readiness to begin study conduct]
+**todo:** Final approval per SOP-005; criteria for readiness to begin study conduct
 
 #### 5.10.2 Transfer Activities
 
