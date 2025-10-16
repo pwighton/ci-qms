@@ -178,7 +178,7 @@ with SOP-002.
 
 #### 5.3.4 Essential Documents and Records
 
-**todo:** Protocol, protocol amendments, sample informed consent, investigator brochure, etc.]
+**todo:** Protocol, protocol amendments, sample informed consent, investigator brochure, etc.
 
 ### 5.4 Statistical Planning
 
