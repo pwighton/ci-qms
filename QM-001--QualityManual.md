@@ -175,14 +175,14 @@ the following standards and guidance documents are not considered by this QMS
 -   **Observational Study**: A *clinical investigation* in which no intervention
     is administered and only the control arm is performed.
 
--   **Protocol**: A document that describes the objective(s), design,
-    methodology, statistical considerations, and organization of a trial.
-    `[ICH E6(R2) 1.44]`
-
 -   **Sponsor**: An individual, company, institution, or organization that
     takes responsibility for the initiation, management, and/or financing of a
     clinical trial. `[ICH E6(R2) 1.53]`
 
+-   **Study Protocol**: A document that describes the objective(s), design,
+    methodology, statistical considerations, and organization of a trial.
+    `[ICH E6(R2) 1.44]`
+    
 -   **Subject**: An individual who participates in a clinical trial, either as
     a recipient of the investigational product(s) or as a control.
     `[ICH E6(R2) 1.57]`
@@ -359,7 +359,7 @@ authority, and interrelation of employees who manage, perform, and verify work
 which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart).
 
 All employees assigned to an *observational study* must have requisite
-training as identified in the applicable Clinical Study Protocol.
+training as identified in the applicable Study Protocol.
 
 #### 5.3.2 Management Representative Responsibilities
 
@@ -488,7 +488,7 @@ certain that all employees are made aware of the:
 -   Data integrity principles and their role in maintaining data quality
 -   Financial disclosure obligations for investigators
 
-All training requirements should be documented in each Clinical Study Protocol.
+All training requirements should be documented in each Study Protocol.
 All training shall be documented in training records.
 
 #### 6.1.2 Systems, Equipment and Infrastructure
