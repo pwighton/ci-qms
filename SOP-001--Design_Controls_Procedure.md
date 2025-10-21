@@ -168,13 +168,11 @@ with SOP-002 (pw todo link).
 Desgin and development activities are subdivided into several phases:
 - Study Concept and Feasibility (Section 5.2)
 - Protocol Development (Section 5.3)
-- Statistical Planning (Section 5.4)
-- Data Collection Design (Section 5.5)
-- Risk Assessment and Mitigation (Section 5.6)
-- Regulatory and Ethics Documentation (Section 5.7)
-- Design Verification (Section 5.8)
-- Design Validation (Sectino 5.9)
-- Design Transfer and Study Initiation Approval (Section 5.10)
+- Statistical Planning and Data Collection Design (Section 5.4)
+- Regulatory and Ethics Documentation (Section 5.5)
+- Design Verification (Section 5.7)
+- Design Validation (Sectino 5.8)
+- Design Transfer and Study Initiation Approval (Section 5.9)
 
 
 ### 5.2 Study Concept and Feasibility
@@ -409,23 +407,190 @@ Protocol development **shall** integrate with:
 - **SOP-015 (Observational Study Software Development and Validation)**:
   Specifications for any custom software or data collection tools
 
-### 5.4 Statistical Planning
+### 5.4 Statistical Planning and Data Collection Design
 
-#### 5.4.1 Requirements
+#### 5.4.1 Overview
 
-**todo:** Statistical considerations per ICH E9/E9(R1); sample size, estimands, analysis methods
+Statistical planning and data collection design are interdependent activities
+that define what data will be collected, how it will be collected, and how it
+will be analyzed to address the study objectives. These activities ensure that
+the study generates high-quality data suitable for the planned statistical
+analyses and that the statistical approach is appropriate for the data
+collection methods and study design.
 
-#### 5.4.2 Design Inputs
+#### 5.4.2 Requirements
 
-**todo:** Scientific objectives, endpoints, assumptions
+The following **shall** be addressed during statistical planning and data
+collection design:
 
-#### 5.4.3 Design Outputs
+**Statistical Planning Requirements:**
+- Sample size determination with justification per ICH E9
+- Definition of estimands per ICH E9(R1)
+- Primary and secondary endpoints clearly defined
+- Statistical methods for analysis of endpoints
+- Handling of missing data
+- Sensitivity analyses
+- Interim analysis procedures (if applicable)
+- Criteria for study success or termination
+- Randomization procedures (if applicable)
 
-**todo:** SAP, sample size justification, randomization specifications if applicable
+**Data Collection Design Requirements:**
+- Case Report Forms (CRFs) or electronic data capture (EDC) specifications
+- Data collection tools and equipment specifications (e.g., wearables, mobile
+  applications, sensors)
+- Data validation rules and edit checks
+- Data flow and data management procedures
+- Source data identification and verification procedures
+- Data quality control procedures
+- Data dictionary and variable definitions
 
-#### 5.4.4 Essential Documents and Records
+#### 5.4.3 Design Inputs
 
-**todo:** SAP, statistical methods documentation
+Design inputs for statistical planning and data collection design include:
+
+- Study Protocol (from Section 5.3)
+- Study objectives and research questions
+- Subject population characteristics
+- Available data collection technologies and infrastructure
+- Data management system capabilities per SOP-004
+- Regulatory and scientific standards for data collection and analysis
+- Risk assessment findings per SOP-003
+- Historical data or preliminary data (if available)
+
+#### 5.4.4 Design Outputs
+
+Design outputs from statistical planning and data collection design **shall**
+include:
+
+**Statistical Planning Outputs:**
+
+- **Statistical Analysis Plan (SAP)**: Detailed document describing all
+  planned statistical analyses, including:
+  - Definition of analysis populations (e.g., intent-to-treat, per-protocol)
+  - Primary and secondary endpoints with definitions
+  - Estimands per ICH E9(R1) including treatment, population, variable,
+    population-level summary, and handling of intercurrent events
+  - Statistical methods for each analysis
+  - Handling of missing data and sensitivity analyses
+  - Multiplicity adjustments (if applicable)
+  - Interim analysis procedures (if applicable)
+  - Software to be used for statistical analyses
+
+- **Sample Size Justification**: Documentation of sample size calculations
+  including:
+  - Assumptions (effect size, variability, significance level, power)
+  - Calculation methods
+  - Justification for assumptions
+  - Accounting for expected attrition or missing data
+
+- **Randomization Specifications** (if applicable): Documentation of
+  randomization procedures including randomization schedule, block size,
+  stratification factors, and procedures for generating and maintaining the
+  randomization list per ICH E6(R2) 8.2.15.
+
+**Data Collection Design Outputs:**
+
+- **Case Report Forms (CRFs)**: Sample or blank CRFs (electronic or paper)
+  showing all data elements to be collected. CRFs **shall** include:
+  - Clear instructions for completion
+  - Data collection timepoints
+  - Consistent terminology with the protocol
+  - Fields for required data elements per protocol
+  - Version number and version date
+
+- **Data Collection Tool Specifications**: Technical specifications for any
+  data collection tools, equipment, or systems including:
+  - Wearable devices (e.g., activity trackers, continuous glucose monitors)
+  - Mobile applications
+  - Web-based data entry systems
+  - Electronic patient-reported outcome (ePRO) systems
+  - Medical devices or sensors
+  - Data export formats and interfaces
+
+- **Data Management Plan**: Comprehensive plan describing:
+  - Data flow from source to database
+  - Database structure and design
+  - Data validation procedures and edit checks
+  - Query management procedures
+  - Data quality control and quality assurance procedures
+  - Data security and access controls per SOP-004
+  - Backup and disaster recovery procedures
+  - Data transfer procedures (if applicable)
+  - Database lock procedures
+
+- **Data Dictionary**: Detailed documentation of all variables including:
+  - Variable names and labels
+  - Data types and formats
+  - Allowable values and ranges
+  - Units of measurement
+  - Derivation rules for calculated variables
+  - Mapping to source data
+
+- **Instructions for Data Collection**: Detailed instructions for
+  investigators and site staff on:
+  - How to complete CRFs
+  - How to use data collection tools and equipment
+  - Data collection procedures and timing
+  - Source documentation requirements
+  - Query resolution procedures
+
+- **Normal Values/Ranges for Laboratory and Medical Procedures**: Documentation
+  of normal values or reference ranges for all laboratory tests, vital signs,
+  and other measurements included in the protocol per ICH E6(R2) 8.2.11.
+
+- **Laboratory and Technical Procedures Documentation**: For any central
+  laboratories or technical facilities:
+  - Certifications or accreditations per ICH E6(R2) 8.2.12
+  - Laboratory manuals and standard operating procedures
+  - Sample collection, handling, and shipping procedures
+  - Chain of custody procedures (if applicable)
+
+All design outputs listed above **shall** be included in the TMF.
+
+#### 5.4.5 Computer System Validation
+
+All computerized systems used for data collection, data management, and
+statistical analysis **shall** be validated per SOP-004: Computer System
+Validation, Data Integrity and Data Management Procedure.
+
+For custom software or applications developed specifically for the study (e.g.,
+mobile apps, wearable device software), development and validation **shall**
+follow SOP-015: Observational Study Software Development and Validation
+Procedure.
+
+Validation documentation **shall** be included in the TMF.
+
+#### 5.4.6 Review and Approval
+
+Statistical planning and data collection design outputs **shall** undergo
+review per SOP-005. The review **shall** assess:
+
+- Statistical validity and appropriateness of methods
+- Adequacy of sample size and power
+- Completeness and clarity of SAP per ICH E9 and E9(R1)
+- Appropriateness of estimands and sensitivity analyses
+- Completeness and clarity of CRFs
+- Feasibility of data collection procedures
+- Adequacy of data validation and quality control procedures
+- Consistency between protocol, SAP, CRFs, and data collection tools
+- Computer system validation status per SOP-004
+- Compliance with data integrity principles (ALCOA+)
+- Risk mitigation strategies for data quality
+
+Records of the review and approval process **shall** be included in the TMF.
+
+#### 5.4.7 Integration with Other Procedures
+
+Statistical planning and data collection design **shall** integrate with:
+
+- **SOP-003 (Risk Management)**: Risk assessment for data collection methods
+  and identification of critical data elements
+- **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
+  Validation of all computerized systems used for data collection and
+  management; data integrity and security requirements
+- **SOP-005 (Study Design Review)**: Design Output Review decision gate
+- **SOP-015 (Observational Study Software Development and Validation)**:
+  Development and validation of custom data collection software
 
 ### 5.5 Data Collection Design
 
