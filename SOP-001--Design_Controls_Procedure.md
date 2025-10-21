@@ -6,7 +6,7 @@ subtitle: "SOP-001: Design Controls Procedure"
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) provides *minimum*
-requirements (requirements are expressed using the word **shall**)
+requirements (requirements are expressed using the word **SHALL**)
 for the design of *observational studies* by
 __NewInstitue__.  It ensures that study designs are appropriately planned,
 verified, validated, and controlled to meet scientific objectives while
@@ -133,7 +133,7 @@ control across all three temporal phases
 -   **Phase 2**: During the conduct of the study
 -   **Phase 3**: After Completion or Termination of the study
 
-The primary focus is on Phase 1 activities.
+The primary focus of this SOP is on Phase 1 activities.
 
 ### 4.2 Roles and Responsibilities
 
@@ -154,7 +154,7 @@ A complete listing of essential documents and records, including their purpose
 and detailed SOP section references, is provided in Appendix A.
 
 Not all documents listed in Appendix A (pw todo link) will be applicable to every 
-*observational study*. The study protocol shall identify which documents are
+*observational study*. The study protocol **SHALL** identify which documents are
 required for that specific study.
 
 ## 5.0 PHASE 1: BEFORE THE CLINICAL PHASE OF THE STUDY
@@ -162,7 +162,7 @@ required for that specific study.
 ### 5.1 Overview
 
 This section defines requirements for design and development activities before
-study initiation. All design activities **shall** be documented in accordance
+study initiation. All design activities **SHALL** be documented in accordance
 with SOP-002 (pw todo link).
 
 Desgin and development activities are subdivided into several phases:
@@ -173,7 +173,6 @@ Desgin and development activities are subdivided into several phases:
 - Design Verification (Section 5.6)
 - Design Validation (Sectino 5.7)
 - Design Transfer and Study Initiation Approval (Section 5.8)
-
 
 ### 5.2 Study Concept and Feasibility
 
@@ -187,7 +186,7 @@ detailed protocol development.
 
 #### 5.2.2 Requirements
 
-The following **shall** be addressed during the study concept and feasibility
+The following **SHALL** be addressed during the study concept and feasibility
 phase:
 
 - **Scientific Rationale**: Clear articulation of the research question, study
@@ -206,8 +205,8 @@ phase:
 
 #### 5.2.3 Creation of the Trial Master File (TMF)
 
-The TMF **shall** be established during this phase to house all essential
-documents and study records. The TMF structure **shall** be organized per
+The TMF **SHALL** be established during this phase to house all essential
+documents and study records. The TMF structure **SHALL** be organized per
 SOP-002 and ICH E6(R2) Section 8 to accommodate documents from all three 
 phases (before, during, and after study conduct).
   
@@ -225,11 +224,11 @@ Design inputs for the study concept and feasibility phase include:
 
 #### 5.2.5 Design Outputs
 
-Design outputs from the study concept and feasibility phase **shall** include:
+Design outputs from the study concept and feasibility phase **SHALL** include:
 
 - **Design Input Documentation**: Formal documentation of requirements,
   constraints, scientific rationale, and background information that will guide
-  protocol development. This documentation shall include:
+  protocol development. This documentation **SHALL** include:
   - Research question and study objectives
   - Scientific background and rationale
   - Preliminary design approach
@@ -252,14 +251,14 @@ Design outputs from the study concept and feasibility phase **shall** include:
   and data collection methods. While not required for observational studies
   without an investigational product, such a document can be valuable for
   training and ensuring consistent understanding across sites. If prepared,
-  it **shall** be maintained in the TMF per ICH E6(R2) 8.2.1.
+  it **SHALL** be maintained in the TMF per ICH E6(R2) 8.2.1.
 
-All Design Outputs listed above **shall** be included in the TMF
+All Design Outputs listed above **SHALL** be included in the TMF
 
 #### 5.2.6 Review and Approval
 
-Design outputs **shall** undergo review per SOP-005 prior to proceeding to
-protocol development. The review **shall** assess:
+Design outputs **SHALL** undergo review per SOP-005 prior to proceeding to
+protocol development. The review **SHALL** assess:
 
 - Scientific merit and innovation
 - Alignment with organizational priorities
@@ -267,11 +266,11 @@ protocol development. The review **shall** assess:
 - Preliminary ethical and regulatory considerations
 - Identified risks and mitigation strategies
 
-Records of the review and approval process **shall** be included in the TMF
+Records of the review and approval process **SHALL** be included in the TMF
 
 #### 5.2.7 Integration with Other Procedures
 
-Activities in this phase **shall** integrate with:
+Activities in this phase **SHALL** integrate with:
 
 - **SOP-003 (Risk Management)**: Preliminary risk identification for the study
   concept
@@ -293,7 +292,7 @@ after design verification and validation activities are complete.
 
 #### 5.3.2 Requirements
 
-The protocol **shall** address all elements required by ICH E6(R2) Section 6,
+The protocol **SHALL** address all elements required by ICH E6(R2) Section 6,
 including but not limited to:
 
 - **General Information**: Title, protocol identification, version and date,
@@ -323,7 +322,7 @@ including but not limited to:
 - **Publication Policy**: Plans for dissemination of results
 
 For observational studies, sections related to investigational products,
-randomization, and blinding **may** be omitted if not applicable.
+randomization, and blinding **MAY** be omitted if not applicable.
 
 #### 5.3.3 Design Inputs
 
@@ -339,10 +338,10 @@ Design inputs for protocol development include:
 
 #### 5.3.4 Design Outputs
 
-Design outputs from protocol development **shall** include:
+Design outputs from protocol development **SHALL** include:
 
 - **Study Protocol**: Complete protocol document addressing all required
-  elements per ICH E6(R2) Section 6. The protocol **shall** include version
+  elements per ICH E6(R2) Section 6. The protocol **SHALL** include version
   number, version date, and amendment history if applicable.
 
 - **Protocol Synopsis**: Brief summary of the protocol (optional but
@@ -354,20 +353,20 @@ Design outputs from protocol development **shall** include:
 
 - **Sample Informed Consent Form**: Draft informed consent form and any other
   written information to be provided to subjects. The informed consent
-  **shall** address all elements required by ICH E6(R2) Section 4.8 and
+  **SHALL** address all elements required by ICH E6(R2) Section 4.8 and
   applicable regulatory requirements.
 
-All design outputs listed above **shall** be included in the TMF.
+All design outputs listed above **SHALL** be included in the TMF.
 
 #### 5.3.5 Protocol Amendments
 
 Protocol amendments during Phase 1 (before study initiation) are managed under
 this procedure as part of design development.
 
-Protocol amendments after study initiation (Phase 2) **shall** be managed per
+Protocol amendments after study initiation (Phase 2) **SHALL** be managed per
 SOP-013: Change Control Procedure.
 
-All protocol amendments **shall**:
+All protocol amendments **SHALL**:
 - Clearly identify changes from the previous version
 - Include amendment number, date, and rationale for changes
 - Undergo appropriate review and approval per SOP-005
@@ -376,8 +375,8 @@ All protocol amendments **shall**:
 
 #### 5.3.6 Review and Approval
 
-The protocol and other design outputs from this phase **shall** undergo formal
-design review per SOP-005. The review **shall** assess:
+The protocol and other design outputs from this phase **SHALL** undergo formal
+design review per SOP-005. The review **SHALL** assess:
 
 - Scientific validity and merit
 - Completeness per ICH E6(R2) Section 6 requirements
@@ -389,12 +388,12 @@ design review per SOP-005. The review **shall** assess:
 - Consistency with design inputs
 - Clarity and completeness of procedures
 
-Records of the protocol review and approval process **shall** be included in
+Records of the protocol review and approval process **SHALL** be included in
 the TMF.
 
 #### 5.3.7 Integration with Other Procedures
 
-Protocol development **shall** integrate with:
+Protocol development **SHALL** integrate with:
 
 - **SOP-003 (Risk Management)**: Risk assessment to identify critical-to-
   quality factors and inform monitoring strategy
@@ -420,7 +419,7 @@ collection methods and study design.
 
 #### 5.4.2 Requirements
 
-The following **shall** be addressed during statistical planning and data
+The following **SHALL** be addressed during statistical planning and data
 collection design:
 
 **Statistical Planning Requirements:**
@@ -459,7 +458,7 @@ Design inputs for statistical planning and data collection design include:
 
 #### 5.4.4 Design Outputs
 
-Design outputs from statistical planning and data collection design **shall**
+Design outputs from statistical planning and data collection design **SHALL**
 include:
 
 **Statistical Planning Outputs:**
@@ -491,7 +490,7 @@ include:
 **Data Collection Design Outputs:**
 
 - **Case Report Forms (CRFs)**: Sample or blank CRFs (electronic or paper)
-  showing all data elements to be collected. CRFs **shall** include:
+  showing all data elements to be collected. CRFs **SHALL** include:
   - Clear instructions for completion
   - Data collection timepoints
   - Consistent terminology with the protocol
@@ -545,25 +544,25 @@ include:
   - Sample collection, handling, and shipping procedures
   - Chain of custody procedures (if applicable)
 
-All design outputs listed above **shall** be included in the TMF.
+All design outputs listed above **SHALL** be included in the TMF.
 
 #### 5.4.5 Computer System Validation
 
 All computerized systems used for data collection, data management, and
-statistical analysis **shall** be validated per SOP-004: Computer System
+statistical analysis **SHALL** be validated per SOP-004: Computer System
 Validation, Data Integrity and Data Management Procedure.
 
 For custom software or applications developed specifically for the study (e.g.,
-mobile apps, wearable device software), development and validation **shall**
+mobile apps, wearable device software), development and validation **SHALL**
 follow SOP-015: Observational Study Software Development and Validation
 Procedure.
 
-Validation documentation **shall** be included in the TMF.
+Validation documentation **SHALL** be included in the TMF.
 
 #### 5.4.6 Review and Approval
 
-Statistical planning and data collection design outputs **shall** undergo
-review per SOP-005. The review **shall** assess:
+Statistical planning and data collection design outputs **SHALL** undergo
+review per SOP-005. The review **SHALL** assess:
 
 - Statistical validity and appropriateness of methods
 - Adequacy of sample size and power
@@ -577,11 +576,11 @@ review per SOP-005. The review **shall** assess:
 - Compliance with data integrity principles (ALCOA+)
 - Risk mitigation strategies for data quality
 
-Records of the review and approval process **shall** be included in the TMF.
+Records of the review and approval process **SHALL** be included in the TMF.
 
 #### 5.4.7 Integration with Other Procedures
 
-Statistical planning and data collection design **shall** integrate with:
+Statistical planning and data collection design **SHALL** integrate with:
 
 - **SOP-003 (Risk Management)**: Risk assessment for data collection methods
   and identification of critical data elements
@@ -604,7 +603,7 @@ investigator qualifications and financial disclosure compliance.
 
 #### 5.5.2 Requirements
 
-The following **shall** be addressed during regulatory and ethics documentation
+The following **SHALL** be addressed during regulatory and ethics documentation
 preparation:
 
 **Ethics Documentation:**
@@ -647,7 +646,7 @@ Design inputs for regulatory and ethics documentation include:
 
 #### 5.5.4 Design Outputs
 
-Design outputs for regulatory and ethics documentation **shall** include:
+Design outputs for regulatory and ethics documentation **SHALL** include:
 
 **Informed Consent Documentation:**
 
@@ -661,7 +660,7 @@ Design outputs for regulatory and ethics documentation **shall** include:
   - Contact information for questions
   - Compensation or costs (if applicable)
   - Consequences of withdrawal
-  - New findings that may affect willingness to participate
+  - New findings that MAY affect willingness to participate
   - Number of subjects to be enrolled
   - Statement that the study involves research
 
@@ -740,43 +739,43 @@ Design outputs for regulatory and ethics documentation **shall** include:
   responsibilities, obligations, and financial arrangements per ICH E6(R2)
   8.2.18
 
-All design outputs listed above **shall** be included in the TMF.
+All design outputs listed above **SHALL** be included in the TMF.
 
 #### 5.5.5 IRB/IEC Review and Approval
 
 Following preparation of regulatory and ethics documentation, the study
-**shall** be submitted to an appropriately constituted IRB/IEC for review and
+**SHALL** be submitted to an appropriately constituted IRB/IEC for review and
 approval before study initiation.
 
-The IRB/IEC submission and approval process **shall** comply with:
+The IRB/IEC submission and approval process **SHALL** comply with:
 - ICH E6(R2) Section 3 (Institutional Review Board/Independent Ethics
   Committee)
 - 21 CFR Part 56 (if applicable)
 - Local regulatory requirements
 - Institutional policies
 
-IRB/IEC approval documentation **shall** be obtained and maintained in the TMF
+IRB/IEC approval documentation **SHALL** be obtained and maintained in the TMF
 before:
 - Study initiation
 - Implementation of any protocol amendments
 - Use of revised informed consent forms
 
-Continuing review by the IRB/IEC **shall** be conducted per IRB/IEC
+Continuing review by the IRB/IEC **SHALL** be conducted per IRB/IEC
 requirements and ICH E6(R2) throughout study conduct (Phase 2).
 
 #### 5.5.6 Regulatory Authority Authorization (if applicable)
 
 For studies requiring regulatory authority review or authorization, submissions
-**shall** be prepared and submitted per applicable requirements.
+**SHALL** be prepared and submitted per applicable requirements.
 
-Regulatory authority approval or acknowledgment documentation **shall** be
+Regulatory authority approval or acknowledgment documentation **SHALL** be
 obtained and maintained in the TMF per ICH E6(R2) 8.2.9 before study
 initiation (if required).
 
 #### 5.5.7 Review and Approval
 
-Regulatory and ethics documentation **shall** undergo review per SOP-005. The
-review **shall** assess:
+Regulatory and ethics documentation **SHALL** undergo review per SOP-005. The
+review **SHALL** assess:
 
 - Completeness of informed consent per ICH E6(R2) Section 4.8 requirements
 - Appropriateness of language and readability for target subject population
@@ -787,11 +786,11 @@ review **shall** assess:
 - Adequacy of insurance and indemnity coverage (if required)
 - Completeness of agreements between parties
 
-Records of the review and approval process **shall** be included in the TMF.
+Records of the review and approval process **SHALL** be included in the TMF.
 
 #### 5.5.8 Integration with Other Procedures
 
-Regulatory and ethics documentation **shall** integrate with:
+Regulatory and ethics documentation **SHALL** integrate with:
 
 - **SOP-002 (Document and Records Controls)**: Management and version control
   of regulatory and ethics documents
@@ -820,7 +819,7 @@ right?"), while validation confirms the design is fit for its intended purpose
 
 #### 5.6.2 Requirements
 
-Design verification activities **shall** confirm that:
+Design verification activities **SHALL** confirm that:
 
 - Design outputs address all design input requirements
 - Protocol content meets ICH E6(R2) Section 6 requirements
@@ -836,7 +835,7 @@ Design verification activities **shall** confirm that:
 
 #### 5.6.3 Verification Activities
 
-Design verification **shall** be conducted through one or more of the following
+Design verification **SHALL** be conducted through one or more of the following
 activities:
 
 **Document Review:**
@@ -869,23 +868,23 @@ activities:
 
 #### 5.6.4 Verification Personnel
 
-Design verification activities **shall** be conducted by personnel who are:
+Design verification activities **SHALL** be conducted by personnel who are:
 
 - Qualified through education, training, and/or experience to perform the
   verification activity
 - Independent of the personnel who developed the design output being verified
   (verification should not be performed solely by the original author)
 
-Verification may be conducted by internal personnel or qualified external
+Verification **MAY** be conducted by internal personnel or qualified external
 reviewers.
 
 #### 5.6.5 Design Outputs
 
-Design outputs from verification activities **shall** include:
+Design outputs from verification activities **SHALL** include:
 
 - **Design Verification Reports**: Documentation of verification activities
   performed, findings, and confirmation that design outputs meet design input
-  requirements. Reports **shall** include:
+  requirements. Reports **SHALL** include:
   - Description of verification activities performed
   - Identification of reviewers and their qualifications
   - Findings and observations
@@ -915,12 +914,12 @@ Design outputs from verification activities **shall** include:
 - **Informed Consent Readability Assessment**: Documentation of readability
   assessment and any revisions made
 
-All verification reports and documentation **shall** be included in the TMF.
+All verification reports and documentation **SHALL** be included in the TMF.
 
 #### 5.6.6 Resolution of Verification Findings
 
 Any deficiencies, inconsistencies, or issues identified during design
-verification **shall** be:
+verification **SHALL** be:
 
 - Documented in verification reports
 - Reviewed and assigned to appropriate personnel for resolution
@@ -928,27 +927,27 @@ verification **shall** be:
 - Re-verified to confirm adequate resolution
 - Documented with evidence of resolution
 
-Design outputs **shall not** proceed to design validation or final approval
+Design outputs **SHALL not** proceed to design validation or final approval
 until all verification findings are adequately resolved.
 
 #### 5.6.7 Review and Approval
 
-Design verification activities and results **shall** undergo review per
+Design verification activities and results **SHALL** undergo review per
 SOP-005 as part of the Design Output Review or Verification Review decision
 gate.
 
-Verification reports **shall** be reviewed and approved by qualified personnel
+Verification reports **SHALL** be reviewed and approved by qualified personnel
 to confirm:
 - Verification activities were adequate and appropriate
 - All design inputs have been addressed in design outputs
 - Deficiencies have been adequately resolved
 - Design is ready to proceed to validation
 
-Records of verification review and approval **shall** be included in the TMF.
+Records of verification review and approval **SHALL** be included in the TMF.
 
 #### 5.6.8 Integration with Other Procedures
 
-Design verification **shall** integrate with:
+Design verification **SHALL** integrate with:
 
 - **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
   User acceptance testing of computerized systems
@@ -973,7 +972,7 @@ right?"), while validation confirms the design is fit for its intended purpose
 
 #### 5.7.2 Requirements
 
-Design validation activities **shall** confirm that:
+Design validation activities **SHALL** confirm that:
 
 - The study design is scientifically sound and capable of meeting study
   objectives
@@ -989,7 +988,7 @@ Design validation activities **shall** confirm that:
 
 #### 5.7.3 Validation Activities
 
-Design validation **may** be conducted through one or more of the following
+Design validation **MAY** be conducted through one or more of the following
 activities, as appropriate for the specific study:
 
 **Pilot Testing:**
@@ -1033,13 +1032,13 @@ activities, as appropriate for the specific study:
   perspective
 
 Not all validation activities listed above are required for every study. The
-study team **shall** determine which validation activities are appropriate
+study team **SHALL** determine which validation activities are appropriate
 based on study complexity, novel procedures, use of new technologies, and risk
 assessment per SOP-003.
 
 #### 5.7.4 Validation Personnel
 
-Design validation activities **shall** be conducted by personnel who:
+Design validation activities **SHALL** be conducted by personnel who:
 
 - Are qualified through education, training, and/or experience to perform the
   validation activity
@@ -1052,11 +1051,11 @@ feasibility and usability.
 
 #### 5.7.5 Design Outputs
 
-Design outputs from validation activities **shall** include:
+Design outputs from validation activities **SHALL** include:
 
 - **Design Validation Report**: Comprehensive documentation of validation
   activities performed, findings, and confirmation that the study design is
-  fit for its intended purpose. The report **shall** include:
+  fit for its intended purpose. The report **SHALL** include:
   - Description of validation activities performed
   - Identification of validation personnel and their qualifications
   - Validation results and findings
@@ -1088,12 +1087,12 @@ Design outputs from validation activities **shall** include:
 - **System Validation Documentation**: Validation reports for computerized
   systems per SOP-004 and SOP-015
 
-All validation reports and documentation **shall** be included in the TMF.
+All validation reports and documentation **SHALL** be included in the TMF.
 
 #### 5.7.6 Resolution of Validation Findings
 
 Any issues, limitations, or concerns identified during design validation
-**shall** be:
+**SHALL** be:
 
 - Documented in validation reports
 - Assessed for impact on study objectives and data quality
@@ -1102,32 +1101,32 @@ Any issues, limitations, or concerns identified during design validation
 - Re-validated if significant design changes are made
 - Documented with evidence of resolution or mitigation
 
-Significant validation findings that cannot be adequately resolved **may**
+Significant validation findings that cannot be adequately resolved **MAY**
 result in the decision not to proceed with the study, or to modify the study
 design.
 
 #### 5.7.7 Review and Approval
 
-Design validation activities and results **shall** undergo review per SOP-005
+Design validation activities and results **SHALL** undergo review per SOP-005
 as part of the Validation Review decision gate.
 
-Validation reports **shall** be reviewed and approved by qualified personnel
+Validation reports **SHALL** be reviewed and approved by qualified personnel
 to confirm:
 - Validation activities were adequate for the study design and complexity
 - The study design is fit for its intended purpose
 - Issues have been adequately resolved or mitigated
 - The study is ready to proceed to final approval and initiation
 
-Records of validation review and approval **shall** be included in the TMF.
+Records of validation review and approval **SHALL** be included in the TMF.
 
 #### 5.7.8 Relationship to Computer System Validation
 
 Computer system validation activities required by SOP-004 and SOP-015 are
 considered part of design validation. Validation of computerized systems used
-for data collection, data management, and statistical analysis **shall** be
+for data collection, data management, and statistical analysis **SHALL** be
 completed before final design approval and study initiation.
 
-System validation documentation **shall** demonstrate that systems:
+System validation documentation **SHALL** demonstrate that systems:
 - Function as intended
 - Meet user requirements
 - Maintain data integrity per ALCOA+ principles
@@ -1136,7 +1135,7 @@ System validation documentation **shall** demonstrate that systems:
 
 #### 5.7.9 Integration with Other Procedures
 
-Design validation **shall** integrate with:
+Design validation **SHALL** integrate with:
 
 - **SOP-003 (Risk Management)**: Risk-based approach to determining validation
   activities; validation of risk mitigation strategies
@@ -1158,7 +1157,7 @@ the transition from Phase 1 (design) to Phase 2 (study conduct).
 
 #### 5.8.2 Requirements
 
-Before proceeding to study initiation, the following **shall** be completed:
+Before proceeding to study initiation, the following **SHALL** be completed:
 
 **Design Completion:**
 - All design outputs from Sections 5.2 through 5.5 are complete and approved
@@ -1188,7 +1187,7 @@ Before proceeding to study initiation, the following **shall** be completed:
 #### 5.8.3 Protocol Signature and Final Approval
 
 Upon completion of all design, verification, and validation activities, and
-receipt of IRB/IEC approval, the protocol **shall** be formally signed and
+receipt of IRB/IEC approval, the protocol **SHALL** be formally signed and
 approved by:
 
 - Principal Investigator(s) or Study Director
@@ -1196,7 +1195,7 @@ approved by:
 - Statistical lead (as applicable)
 - Other parties as required by organizational policy or regulatory requirements
 
-The signed protocol **shall** be maintained in the TMF per ICH E6(R2) 8.2.7.
+The signed protocol **SHALL** be maintained in the TMF per ICH E6(R2) 8.2.7.
 
 Signatures indicate:
 - Agreement with the final protocol content
@@ -1206,7 +1205,7 @@ Signatures indicate:
 
 #### 5.8.4 Design Transfer Activities
 
-Design transfer activities **shall** include:
+Design transfer activities **SHALL** include:
 
 **Documentation Transfer:**
 - Provision of final approved protocol, SAP, CRFs, and all study materials to
@@ -1236,7 +1235,7 @@ Design transfer activities **shall** include:
 
 #### 5.8.5 Design Outputs
 
-Design outputs from design transfer and study initiation approval **shall**
+Design outputs from design transfer and study initiation approval **SHALL**
 include:
 
 - **Signed Protocol**: Final approved and signed protocol per ICH E6(R2) 8.2.7
@@ -1278,13 +1277,13 @@ include:
   - Training dates and trainer identification
   - Competency assessment results (if applicable)
 
-All design outputs listed above **shall** be included in the TMF per ICH E6(R2)
+All design outputs listed above **SHALL** be included in the TMF per ICH E6(R2)
 8.2.17 (instructions) and 8.2.18 (agreements).
 
 #### 5.8.6 Final Design Review and Approval
 
-A final design review **shall** be conducted per SOP-005 before authorizing
-study initiation. This Final Design Approval review **shall** confirm:
+A final design review **SHALL** be conducted per SOP-005 before authorizing
+study initiation. This Final Design Approval review **SHALL** confirm:
 
 - All design, verification, and validation activities are complete
 - All design review action items have been closed
@@ -1298,17 +1297,17 @@ study initiation. This Final Design Approval review **shall** confirm:
 - Monitoring plan is in place per SOP-009
 - Risk mitigation strategies are documented and in place per SOP-003
 
-The Final Design Approval review **shall** result in a formal decision to:
+The Final Design Approval review **SHALL** result in a formal decision to:
 - Approve study initiation, OR
 - Defer study initiation pending resolution of identified issues, OR
 - Discontinue the study
 
-Records of the Final Design Approval review and decision **shall** be included
+Records of the Final Design Approval review and decision **SHALL** be included
 in the TMF.
 
 #### 5.8.7 Study Initiation
 
-Following Final Design Approval, the study may be initiated. Study initiation
+Following Final Design Approval, the study **MAY** be initiated. Study initiation
 means:
 - Sites are authorized to begin screening and enrolling subjects
 - Phase 2 (During the Clinical Conduct of the Trial) begins
@@ -1317,11 +1316,11 @@ means:
 
 The date of first subject enrollment (first subject screened or first subject
 consented, as defined in the protocol) marks the official study initiation
-date and **shall** be documented in the TMF.
+date and **SHALL** be documented in the TMF.
 
 #### 5.8.8 Integration with Other Procedures
 
-Design transfer and study initiation approval **shall** integrate with:
+Design transfer and study initiation approval **SHALL** integrate with:
 
 - **SOP-002 (Document and Records Controls)**: TMF completeness verification
   and document control
@@ -1346,29 +1345,69 @@ This section provides brief overview and references.
 
 ### 6.2 Design Changes
 
-Protocol amendments and other design changes during study conduct **shall** be
+Protocol amendments and other design changes during study conduct **SHALL** be
 managed according to [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
 
 ### 6.3 Ongoing Design Documentation
 
-Ongoing documentation during study conduct **shall** be maintained per:
+Ongoing documentation during study conduct **SHALL** be maintained per:
 - [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 - [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+- [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 6.4 Essential Documents and Records
 
-**todo:** Essential documents to be maintained during study conduct are defined in ICH E6(R2) Section 8.3 and include:
-investigator updates, safety reports, monitoring reports, communications, etc.
+Essential documents to be maintained in the TMF during Phase 2 include those
+specified in ICH E6(R2) Section 8.3:
+
+**Protocol and Amendment Documentation:**
+- Protocol amendments with version control and rationale per ICH E6(R2) 8.3.1
+- Documentation of protocol deviations
+
+**Regulatory and Ethics Documentation:**
+- IRB/IEC approvals of protocol amendments per ICH E6(R2) 8.3.3
+- IRB/IEC continuing review approvals
+- IRB/IEC correspondence
+- Regulatory authority communications and approvals per ICH E6(R2) 8.3.4
+- Updates to investigator CVs and qualifications per ICH E6(R2) 8.3.2 and
+  8.3.5
+
+**Study Conduct Documentation:**
+- Monitoring visit reports per ICH E6(R2) 8.3.8
+- Relevant communications between parties per ICH E6(R2) 8.3.9
+- Signed informed consent forms per ICH E6(R2) 8.3.10
+- Source documents per ICH E6(R2) 8.3.11
+- Completed case report forms per ICH E6(R2) 8.3.12
+- Documentation of CRF corrections per ICH E6(R2) 8.3.13
+
+**Safety Documentation:**
+- Serious adverse event notifications per ICH E6(R2) 8.3.14
+- Safety reports to IRB/IEC and regulatory authorities
+
+**Laboratory and Data Documentation:**
+- Updates to normal values/ranges per ICH E6(R2) 8.3.6
+- Laboratory certification updates per ICH E6(R2) 8.3.7
+- Signature sheets per ICH E6(R2) 8.3.17
+- Records of retained samples per ICH E6(R2) 8.3.18 (if applicable)
+
+**Product Documentation (if applicable):**
+- Investigational product accountability records per ICH E6(R2) 8.3.16
+  (may not apply to observational studies without investigational products)
+
+Detailed requirements for creating, reviewing, and maintaining these documents
+during study conduct are specified in the applicable SOPs referenced in
+Section 6.3.
 
 ## 7.0 PHASE 3: AFTER COMPLETION OR TERMINATION OF THE STUDY
 
 ### 7.1 Overview
 
-Design closeout activities ensure all design-related documentation is complete and archived.
+Design closeout activities ensure all design-related documentation is complete
+and archived and is managed by [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 7.2 Final Design Documentation
 
-Final documentation **shall** include:
+Final documentation **SHALL** include:
 - Final protocol version with all amendments
 - Final SAP
 - Final data management plan
@@ -1376,7 +1415,7 @@ Final documentation **shall** include:
 
 ### 7.3 Design Review and Lessons Learned
 
-A post-study design review **may** be conducted to identify improvements for future studies.
+A post-study design review **MAY** be conducted to identify improvements for future studies.
 
 ### 7.4 Essential Documents and Records
 
@@ -1385,13 +1424,13 @@ final reports, closeout correspondence, archiving records
 
 ### 7.5 Archiving
 
-All design documentation and essential documents **shall** be archived per SOP-002.
+All design documentation and essential documents **SHALL** be archived per SOP-002.
 
 ## 8.0 TRACEABILITY
 
 ### 8.1 Requirements
 
-**todo:** Design traceability **shall** be maintained throughout the design process to demonstrate:
+**todo:** Design traceability **SHALL** be maintained throughout the design process to demonstrate:
 
 - Scientific objectives -> protocol requirements
 - Protocol requirements -> design outputs (CRFs, SAP, etc.)
@@ -1405,13 +1444,13 @@ todo: Traceability matrix or other methods
 
 ## 9.0 TRAINING
 
-All personnel involved in design activities **shall** be trained on this 
+All personnel involved in design activities **SHALL** be trained on this 
 procedure and maintain documented evidence of training according to 
 [QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people)
 
 ## 10.0 RECORDS
 
-Records generated under this procedure **shall** be maintained in the
+Records generated under this procedure **SHALL** be maintained in the
 Trial Master File (TMF) or QMS records as appropriate, per SOP-002.
 
 Records include but are not limited to:
