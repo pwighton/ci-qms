@@ -356,6 +356,10 @@ Design outputs from protocol development **SHALL** include:
   **SHALL** address all elements required by ICH E6(R2) Section 4.8 and
   applicable regulatory requirements.
 
+- **Monitoring Plan**: Risk-based monitoring plan describing monitoring 
+  strategy, frequency, scope, and procedures per SOP-009. The monitoring plan
+  **shall** be informed by the risk assessment conducted per SOP-003.
+
 All design outputs listed above **SHALL** be included in the TMF.
 
 #### 5.3.5 Protocol Amendments
@@ -1578,7 +1582,7 @@ study design controls.
 | 5.0 | Quality management | 4.1, 4.3 |
 | 5.1 | Quality assurance and quality control | 5.6, 5.7 |
 | 5.5 | Trial management, data handling, recordkeeping | 5.4.4, 6.4, 7.2 |
-| 5.18 | Monitoring | 5.4.4 (monitoring plan), 5.8.6 |
+| 5.18 | Monitoring | 5.3.4, 5.8.6 |
 
 ### A.4 ICH E6(R2) Section 6: Clinical Trial Protocol and Protocol Amendment(s)
 
@@ -1639,27 +1643,6 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.2.19 | Pre-trial monitoring report | Not addressed (see SOP-009) |
 | 8.2.20 | Trial initiation monitoring report | 5.8.5, see SOP-009 |
 
-**Additional Essential Documents Not Explicitly Listed in 8.2:**
-
-| Document | SOP-001 Section |
-|----------|-----------------|
-| Design Input Documentation | 5.2.5 |
-| Feasibility Assessment | 5.2.5 |
-| Statistical Analysis Plan | 5.4.4 |
-| Sample Size Justification | 5.4.4 |
-| Data Management Plan | 5.4.4 |
-| Data Collection Specifications | 5.4.4 |
-| Computer System Validation Documentation | 5.4.5 |
-| Risk Assessment Report | 5.4.4 (monitoring plan) |
-| Design Verification Reports | 5.6.5 |
-| Design Validation Reports | 5.7.5 |
-| Design Review Meeting Minutes | 5.6.7, 5.7.7, 5.8.6 |
-| Design Approval Documentation | 5.8.5, 5.8.6 |
-| Site Initiation Documentation | 5.8.5 |
-| Training Records | 5.8.5 |
-| Instructions for Investigators | 5.8.5 |
-| Financial Disclosure Forms (21 CFR Part 54) | 5.5.4 |
-
 #### A.5.2 Section 8.3: During the Clinical Conduct of the Trial
 
 | ICH E6(R2) 8.3 | Essential Document | SOP-001 Section |
@@ -1695,15 +1678,6 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.3.27 | Signature sheet | 6.4 |
 | 8.3.28 | Record of retained body fluids/tissue samples | 6.4 |
 
-**Additional Documents Generated During Phase 2:**
-
-| Document | SOP-001 Section |
-|----------|-----------------|
-| Change Control Records | 6.2, see SOP-013 |
-| Protocol Deviation Reports | 6.4, see SOP-010 |
-| CAPA Records | 6.3, see SOP-011 |
-| Audit Reports | 6.3, see SOP-012 |
-
 #### A.5.3 Section 8.4: After Completion or Termination of the Trial
 
 | ICH E6(R2) 8.4 | Essential Document | SOP-001 Section |
@@ -1716,22 +1690,6 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.4.6 | Treatment allocation and decoding documentation | 7.2 (if applicable) |
 | 8.4.7 | Final report by investigator to IRB/IEC and regulatory authority(ies) | 7.2, see SOP-007 |
 | 8.4.8 | Clinical study report | 7.2 |
-
-**Additional Documents Generated During Phase 3:**
-
-| Document | SOP-001 Section |
-|----------|-----------------|
-| Final Protocol Version | 7.2 |
-| Protocol Amendment History | 7.2 |
-| Final Statistical Analysis Plan | 7.2 |
-| Final Data Management Plan | 7.2 |
-| Database Lock Documentation | 7.2 |
-| Design Change History | 7.2 |
-| Post-Study Design Review Report | 7.2 |
-| Site Closeout Documentation | 7.2, see SOP-007 |
-| IRB/IEC Study Closure Acknowledgment | 7.2 |
-| TMF Completeness Verification | 7.3, see SOP-007 |
-| Archiving Documentation | 7.3, see SOP-007 |
 
 ### A.6 Notes
 
