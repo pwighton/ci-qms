@@ -592,49 +592,217 @@ Statistical planning and data collection design **shall** integrate with:
 - **SOP-015 (Observational Study Software Development and Validation)**:
   Development and validation of custom data collection software
 
-### 5.5 Data Collection Design
+### 5.5 Regulatory and Ethics Documentation
 
-#### 5.5.1 Requirements
+#### 5.5.1 Overview
 
-**todo:** CRF design, data collection tools/equipment specifications, data flow
+Regulatory and ethics documentation ensures that the observational study
+complies with applicable regulations, ethical principles, and institutional
+requirements. This phase prepares all documentation necessary for IRB/IEC
+review, regulatory submissions (if applicable), and demonstration of
+investigator qualifications and financial disclosure compliance.
 
-#### 5.5.2 Design Inputs
+#### 5.5.2 Requirements
 
-**todo:** Protocol requirements, endpoints, data management requirements
+The following **shall** be addressed during regulatory and ethics documentation
+preparation:
 
-#### 5.5.3 Design Outputs
+**Ethics Documentation:**
+- Informed consent forms and any other written information for subjects
+- IRB/IEC submission packages
+- Documentation of IRB/IEC composition and GCP compliance
+- Protocol and supporting documents for IRB/IEC review
 
-**todo:** CRFs, eCRF specifications, data collection tool specifications, data management plan
+**Investigator Documentation:**
+- Current curriculum vitae (CV) for all investigators and sub-investigators
+- Medical licenses and certifications
+- Training records demonstrating GCP training and study-specific training
+- Delegation of authority documentation (if applicable)
 
-#### 5.5.4 Essential Documents and Records
+**Financial Disclosure:**
+- Financial disclosure forms per 21 CFR Part 54 for all investigators
+- Documentation of financial interests and arrangements
+- Procedures for ongoing financial disclosure updates
 
-**todo:** Blank CRF, data collection specifications, instructions to investigators
+**Regulatory Submissions (if applicable):**
+- Regulatory authority submissions or notifications as required by applicable
+  regulations
+- Correspondence with regulatory authorities
 
-#### 5.5.5 Integration with Other Procedures
+**Insurance and Indemnity:**
+- Documentation of insurance or indemnity coverage for investigators and
+  institutions (if required)
 
-- Computer system validation is managed according to [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+#### 5.5.3 Design Inputs
 
-- Data management is managed according to [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+Design inputs for regulatory and ethics documentation include:
 
-- Software development and validation is managed according to [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+- Study Protocol (from Section 5.3)
+- Risk assessment findings per SOP-003
+- Applicable regulatory requirements (FDA, local regulations, ICH guidelines)
+- Institutional policies and requirements
+- IRB/IEC requirements and submission guidelines
+- Subject population characteristics and vulnerabilities
+- Data collection methods and subject burden
 
-### 5.6 Risk Assessment and Mitigation
+#### 5.5.4 Design Outputs
 
-#### 5.6.1 Requirements
+Design outputs for regulatory and ethics documentation **shall** include:
 
-**todo:**  Risk assessment for study design per SOP-003; identification of critical-to-quality factors
+**Informed Consent Documentation:**
 
-#### 5.6.2 Design Inputs
+- **Informed Consent Form(s)**: Written informed consent form(s) addressing
+  all required elements per ICH E6(R2) Section 4.8, including:
+  - Study purpose and procedures
+  - Risks and potential benefits
+  - Alternative procedures or treatments (if applicable)
+  - Confidentiality protections
+  - Voluntary participation and right to withdraw
+  - Contact information for questions
+  - Compensation or costs (if applicable)
+  - Consequences of withdrawal
+  - New findings that may affect willingness to participate
+  - Number of subjects to be enrolled
+  - Statement that the study involves research
 
-**todo:** Protocol, study complexity, subject population, data collection methods
+- **Subject Information Sheets**: Any additional written information provided
+  to subjects (e.g., frequently asked questions, study brochures)
 
-#### 5.6.3 Design Outputs
+- **Assent Forms**: For studies involving minors or other populations requiring
+  assent in addition to consent (if applicable)
 
-**todo:** Risk assessment report, risk mitigation plan, monitoring plan
+**IRB/IEC Documentation:**
 
-#### 5.6.4 Essential Documents and Records
+- **IRB/IEC Submission Package**: Complete submission including:
+  - Protocol and any amendments
+  - Informed consent forms
+  - Investigator qualifications (CVs, licenses, training)
+  - Recruitment materials
+  - Financial disclosure information
+  - Study advertisements or recruitment materials (if applicable)
+  - Data collection instruments
+  - Site facilities information
+  - Investigator's Brochure or Study Information Document (if prepared)
 
-**todo:** Risk assessment documentation, monitoring plan
+- **IRB/IEC Composition Documentation**: Documentation that the IRB/IEC is
+  organized and operates per ICH GCP requirements
+
+**Investigator Qualifications:**
+
+- **Curriculum Vitae**: Current CV for Principal Investigator(s), co-
+  investigators, and sub-investigators demonstrating education, training,
+  research experience, and relevant publications per ICH E6(R2) 8.2.10
+
+- **Medical Licenses**: Current and valid medical licenses or professional
+  certifications (as applicable)
+
+- **Training Documentation**: Records of training in:
+  - Good Clinical Practice (GCP)
+  - Human subjects protection
+  - Study-specific procedures
+  - Protocol requirements
+  - Data collection systems
+
+- **Delegation of Authority Log**: Documentation of delegation of study tasks
+  and responsibilities to qualified individuals (if applicable)
+
+**Financial Disclosure:**
+
+- **Financial Disclosure Forms**: Completed financial disclosure forms per
+  21 CFR Part 54 for all investigators documenting:
+  - Financial arrangements with sponsor
+  - Significant equity interest in sponsor
+  - Proprietary interest in the product
+  - Significant payments of other sorts
+  - Any other financial interests
+
+- **Financial Arrangements Documentation**: Contracts or agreements documenting
+  financial aspects of the study per ICH E6(R2) 8.2.5
+
+**Regulatory Documentation (if applicable):**
+
+- **Regulatory Authority Submissions**: Any required submissions to FDA or
+  other regulatory authorities
+
+- **Regulatory Correspondence**: Documentation of communications with
+  regulatory authorities
+
+**Insurance and Indemnity:**
+
+- **Insurance Documentation**: Evidence of insurance or indemnity to cover
+  liability of investigators and institutions per ICH E6(R2) 8.2.6 (if
+  required)
+
+**Agreements:**
+
+- **Clinical Study Agreements**: Signed agreements between sponsor and
+  investigator/institution, or between sponsor and CRO, documenting
+  responsibilities, obligations, and financial arrangements per ICH E6(R2)
+  8.2.18
+
+All design outputs listed above **shall** be included in the TMF.
+
+#### 5.5.5 IRB/IEC Review and Approval
+
+Following preparation of regulatory and ethics documentation, the study
+**shall** be submitted to an appropriately constituted IRB/IEC for review and
+approval before study initiation.
+
+The IRB/IEC submission and approval process **shall** comply with:
+- ICH E6(R2) Section 3 (Institutional Review Board/Independent Ethics
+  Committee)
+- 21 CFR Part 56 (if applicable)
+- Local regulatory requirements
+- Institutional policies
+
+IRB/IEC approval documentation **shall** be obtained and maintained in the TMF
+before:
+- Study initiation
+- Implementation of any protocol amendments
+- Use of revised informed consent forms
+
+Continuing review by the IRB/IEC **shall** be conducted per IRB/IEC
+requirements and ICH E6(R2) throughout study conduct (Phase 2).
+
+#### 5.5.6 Regulatory Authority Authorization (if applicable)
+
+For studies requiring regulatory authority review or authorization, submissions
+**shall** be prepared and submitted per applicable requirements.
+
+Regulatory authority approval or acknowledgment documentation **shall** be
+obtained and maintained in the TMF per ICH E6(R2) 8.2.9 before study
+initiation (if required).
+
+#### 5.5.7 Review and Approval
+
+Regulatory and ethics documentation **shall** undergo review per SOP-005. The
+review **shall** assess:
+
+- Completeness of informed consent per ICH E6(R2) Section 4.8 requirements
+- Appropriateness of language and readability for target subject population
+- Adequacy of investigator qualifications and training
+- Completeness of financial disclosure documentation per 21 CFR Part 54
+- Completeness of IRB/IEC submission package
+- Compliance with regulatory requirements
+- Adequacy of insurance and indemnity coverage (if required)
+- Completeness of agreements between parties
+
+Records of the review and approval process **shall** be included in the TMF.
+
+#### 5.5.8 Integration with Other Procedures
+
+Regulatory and ethics documentation **shall** integrate with:
+
+- **SOP-002 (Document and Records Controls)**: Management and version control
+  of regulatory and ethics documents
+- **SOP-005 (Study Design Review)**: Review of informed consent and regulatory
+  documentation as part of Design Output Review
+- **SOP-006 (Outsourced Activities)**: Agreements with CROs and other service
+  providers
+- **SOP-013 (Change Control)**: Management of changes to informed consent,
+  protocol amendments requiring IRB/IEC approval
+- **SOP-014 (Regulatory Compliance Management)**: Ongoing compliance with
+  financial disclosure requirements and regulatory authority communications
 
 ### 5.7 Regulatory and Ethics Documentation
 
