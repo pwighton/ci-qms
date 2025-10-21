@@ -141,7 +141,82 @@ The primary focus of this SOP is on Phase 1 activities.
 
 ### 4.3 Design Controls Framework
 
-**todo:**  design inputs -> design outputs -> verification -> validation -> transfer
+This SOP implements a design controls framework based on ISO-9001:2015 and ICH
+E6(R2) principles to ensure systematic development of observational study
+designs. The framework follows a structured approach from initial concept
+through final approval and study initiation.
+
+The design controls framework consists of the following key elements:
+
+**Design Inputs --> Design Outputs --> Verification --> Validation --> Transfer**
+
+**Design Inputs** are the requirements and constraints that form the basis for
+study design. Design inputs include:
+- Scientific objectives and research questions
+- Regulatory and ethical requirements
+- Subject population characteristics
+- Available resources and infrastructure
+- Risk considerations and critical-to-quality factors
+- Stakeholder requirements
+
+Design inputs are documented in Section 5.2 and inform all subsequent design
+activities.
+
+**Design Outputs** are the documented results of the design process that
+address design inputs. Design outputs include:
+- Study Protocol
+- Statistical Analysis Plan
+- Case Report Forms and data collection specifications
+- Informed consent forms
+- Regulatory and ethics documentation
+- Supporting documentation (data management plan, system specifications, etc.)
+
+Design outputs are produced throughout Phase 1 (Sections 5.2 through 5.5) and
+**SHALL** address all design input requirements.
+
+**Design Verification** (Section 5.6) confirms that design outputs meet design
+input requirements. Verification activities answer the question: "Did we build
+it right?" Verification ensures that:
+- All design inputs are addressed in design outputs
+- Design outputs are complete, accurate, and internally consistent
+- Documentation meets regulatory and quality standards
+
+**Design Validation** (Section 5.7) confirms that the study design is fit for
+its intended purpose and capable of meeting study objectives. Validation
+activities answer the question: "Did we build the right thing?" Validation
+ensures that:
+- The study design will generate data suitable for addressing research
+  questions
+- Study procedures are feasible and executable
+- The overall design will produce reliable, interpretable results
+
+**Design Transfer** (Section 5.8) is the process of transitioning the completed
+and validated design from the design team to the study conduct team. Design
+transfer includes:
+- Final design approval and authorization to initiate the study
+- Protocol signature by all required parties
+- Site initiation and training
+- System transfer to production environment
+- Handoff of all documentation and materials
+
+**Traceability** is maintained throughout the design process to demonstrate
+that:
+- All design inputs are addressed in design outputs
+- Design outputs have been verified and validated
+- Changes are documented and controlled
+- The complete design history is preserved
+
+**Design Reviews** are conducted at key decision gates per SOP-005 to assess
+design progress, identify issues, and make go/no-go decisions. Reviews are
+integrated throughout Sections 5.2 through 5.8.
+
+**Design Changes** during Phase 1 are managed under this procedure. Changes
+after study initiation (Phase 2) are managed per SOP-013: Change Control
+Procedure.
+
+This framework ensures that observational study designs are systematically
+developed, thoroughly reviewed, and properly validated before study initiation,
+supporting the generation of high-quality, reliable scientific data.
 
 ### 4.4 Essential Documents
 
@@ -163,7 +238,7 @@ required for that specific study.
 
 This section defines requirements for design and development activities before
 study initiation. All design activities **SHALL** be documented in accordance
-with SOP-002 (pw todo link).
+with SOP-002.
 
 Desgin and development activities are subdivided into several phases:
 - Study Concept and Feasibility (Section 5.2)
