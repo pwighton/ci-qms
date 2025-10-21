@@ -167,17 +167,107 @@ with SOP-002 (pw todo link).
 
 ### 5.2 Study Concept and Feasibility
 
-#### 5.2.1 Requirements
+#### 5.2.1 Overview
 
-**todo:**  What must be defined/assessed at concept stage
+The study concept and feasibility phase establishes the scientific rationale
+and assesses the practicality of conducting the proposed observational study.
+This phase identifies design inputs and ensures the study is scientifically
+sound, ethically appropriate, and operationally feasible before proceeding to
+detailed protocol development.
 
-#### 5.2.2 Design Inputs
+#### 5.2.2 Requirements
 
-**todo:** Sources of requirements: scientific rationale, regulatory requirements, ethical considerations, etc.
+The following **shall** be addressed during the study concept and feasibility
+phase:
 
-#### 5.2.3 Essential Documents and Records
+- **Scientific Rationale**: Clear articulation of the research question, study
+  objectives, and scientific justification
+- **Preliminary Study Design**: High-level study design approach (e.g.,
+  prospective cohort, cross-sectional, case-control)
+- **Target Population**: General characteristics of the study population
+- **Feasibility Assessment**: Evaluation of operational, resource, and timeline
+  feasibility
+- **Ethical Considerations**: Preliminary identification of ethical issues and
+  subject protection requirements
+- **Regulatory Pathway**: Determination of applicable regulatory requirements
+  and oversight needs (IRB/IEC review, regulatory submissions if applicable)
+- **Resource Requirements**: Preliminary assessment of personnel, budget,
+  sites, and infrastructure needs
 
-**todo:**  List essential documents from E6(R2) Section 8.2 relevant to this stage
+#### 5.2.3 Creation of the Trial Master File (TMF)
+
+The TMF **shall** be established during this phase to house all essential
+documents and study records. The TMF structure **shall** be organized per
+SOP-002 and ICH E6(R2) Section 8 to accommodate documents from all three 
+phases (before, during, and after study conduct).
+  
+#### 5.2.4 Design Inputs
+
+Design inputs for the study concept and feasibility phase include:
+
+- Scientific literature and background research
+- Unmet research needs or knowledge gaps
+- Stakeholder input (investigators, collaborators, funders)
+- Regulatory and ethical requirements
+- Available resources and organizational capabilities
+- Subject population characteristics and accessibility
+- Existing data sources and infrastructure
+
+#### 5.2.5 Design Outputs
+
+Design outputs from the study concept and feasibility phase **shall** include:
+
+- **Design Input Documentation**: Formal documentation of requirements,
+  constraints, scientific rationale, and background information that will guide
+  protocol development. This documentation shall include:
+  - Research question and study objectives
+  - Scientific background and rationale
+  - Preliminary design approach
+  - Regulatory and ethical requirements
+  - Applicable requirements from regulatory guidance documents and standards
+  - Identified constraints and assumptions
+  
+- **Feasibility Assessment**: Documentation of feasibility evaluation including:
+  - Site capabilities and availability
+  - Subject recruitment potential
+  - Resource requirements and availability
+  - Timeline estimates
+  - Identified risks and constraints
+  - Preliminary budget estimates
+
+- **Investigator's Brochure or Study Information Document** (optional for 
+  observational studies): An Investigator's Brochure or equivalent Study
+  Information Document **MAY** be prepared to provide investigators and site
+  staff with comprehensive information about the study rationale, procedures,
+  and data collection methods. While not required for observational studies
+  without an investigational product, such a document can be valuable for
+  training and ensuring consistent understanding across sites. If prepared,
+  it **shall** be maintained in the TMF per ICH E6(R2) 8.2.1.
+
+All Design Outputs listed above **shall** be included in the TMF
+
+#### 5.2.6 Review and Approval
+
+Design outputs **shall** undergo review per SOP-005 prior to proceeding to
+protocol development. The review **shall** assess:
+
+- Scientific merit and innovation
+- Alignment with organizational priorities
+- Feasibility and resource availability
+- Preliminary ethical and regulatory considerations
+- Identified risks and mitigation strategies
+
+Records of the review and approval process **shall** be included in the TMF
+
+#### 5.2.7 Integration with Other Procedures
+
+Activities in this phase **shall** integrate with:
+
+- **SOP-003 (Risk Management)**: Preliminary risk identification for the study
+  concept
+- **SOP-005 (Study Design Review)**: Concept Review decision gate
+- **SOP-006 (Outsourced Activities)**: Early identification of potential CROs
+  or other service providers if applicable
 
 ### 5.3 Protocol Development
 
