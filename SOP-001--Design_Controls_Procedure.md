@@ -1146,19 +1146,196 @@ Design validation **shall** integrate with:
 - **SOP-015 (Observational Study Software Development and Validation)**:
   Validation of custom software and data collection applications
 
-### 5.10 Design Transfer and Study Initiation Approval
+### 5.8 Design Transfer and Study Initiation Approval
 
-#### 5.10.1 Requirements
+#### 5.8.1 Overview
 
-**todo:** Final approval per SOP-005; criteria for readiness to begin study conduct
+Design transfer is the process of transitioning the completed and validated
+study design from the design team to the study conduct team. This phase
+ensures that all design activities are complete, all required approvals are
+obtained, and the study is ready to initiate. Final design approval authorizes
+the transition from Phase 1 (design) to Phase 2 (study conduct).
 
-#### 5.10.2 Transfer Activities
+#### 5.8.2 Requirements
 
-**todo:** Handoff from design team to study conduct team; training, site activation
+Before proceeding to study initiation, the following **shall** be completed:
 
-#### 5.10.3 Essential Documents and Records
+**Design Completion:**
+- All design outputs from Sections 5.2 through 5.5 are complete and approved
+- Design verification activities (Section 5.6) are complete with all findings
+  resolved
+- Design validation activities (Section 5.7) are complete with all findings
+  resolved or adequately mitigated
+- All required design reviews per SOP-005 are complete
 
-**todo:** Final design approval, site initiation documentation, training records
+**Regulatory and Ethics Approvals:**
+- IRB/IEC approval obtained for protocol and informed consent
+- Regulatory authority approval or notification complete (if required)
+- All required agreements executed (sponsor-investigator agreements, CRO
+  agreements, etc.)
+
+**Site Readiness:**
+- Investigator and site staff training complete
+- Site facilities and equipment ready
+- Source document templates and study supplies available at sites
+- Data collection systems accessible and functional at sites
+
+**Documentation Completeness:**
+- Trial Master File established and organized per SOP-002
+- All Phase 1 essential documents per ICH E6(R2) Section 8.2 in the TMF
+- All validation and verification documentation complete
+
+#### 5.8.3 Protocol Signature and Final Approval
+
+Upon completion of all design, verification, and validation activities, and
+receipt of IRB/IEC approval, the protocol **shall** be formally signed and
+approved by:
+
+- Principal Investigator(s) or Study Director
+- Sponsor representative (as applicable)
+- Statistical lead (as applicable)
+- Other parties as required by organizational policy or regulatory requirements
+
+The signed protocol **shall** be maintained in the TMF per ICH E6(R2) 8.2.7.
+
+Signatures indicate:
+- Agreement with the final protocol content
+- Commitment to conduct the study according to the protocol
+- Understanding of regulatory, ethical, and scientific obligations
+- Confirmation that all prerequisite activities are complete
+
+#### 5.8.4 Design Transfer Activities
+
+Design transfer activities **shall** include:
+
+**Documentation Transfer:**
+- Provision of final approved protocol, SAP, CRFs, and all study materials to
+  study conduct team
+- Provision of training materials and instructions to sites
+- Provision of data management documentation to data management team
+- Provision of monitoring plans to monitoring personnel
+
+**Knowledge Transfer:**
+- Training sessions for study conduct team on protocol requirements
+- Training for site personnel on study procedures and data collection
+- Training for data management personnel on database and systems
+- Handoff meetings between design team and operational team
+
+**System Transfer:**
+- Transfer of validated electronic systems to production environment
+- Provision of system access to authorized study personnel
+- Final testing of systems in production environment
+
+**Site Initiation:**
+- Site Initiation Visits (SIVs) conducted per protocol and SOP-009
+- Site staff training and competency assessment
+- Review of protocol requirements and procedures with site personnel
+- Review of regulatory and ethics requirements
+- Review of data collection procedures and systems
+- Distribution of study supplies and materials
+
+#### 5.8.5 Design Outputs
+
+Design outputs from design transfer and study initiation approval **shall**
+include:
+
+- **Signed Protocol**: Final approved and signed protocol per ICH E6(R2) 8.2.7
+
+- **Final Design Approval Documentation**: Documentation of final design
+  approval decision including:
+  - Confirmation that all design, verification, and validation activities are
+    complete
+  - Confirmation that all regulatory and ethics approvals are obtained
+  - Authorization to proceed with study initiation
+  - Signatures of approving authorities
+
+- **Instructions for Investigators and Site Staff**: Comprehensive instructions
+  for study conduct including:
+  - Protocol procedures and requirements
+  - CRF completion instructions per ICH E6(R2) 8.2.17
+  - Data collection system user guides
+  - Source documentation requirements
+  - Informed consent procedures
+  - Query resolution procedures
+  - Adverse event reporting procedures
+  - Contact information for study team
+
+- **Site Initiation Visit Documentation**: Records of site initiation
+  activities including:
+  - SIV attendance records
+  - Training records for site personnel
+  - Site readiness checklist
+  - Delegation of authority log
+  - Site signature sheet
+  - Site regulatory file verification
+
+- **Training Records**: Documentation of training for all study personnel
+  including:
+  - Protocol training
+  - GCP training
+  - System training
+  - Study-specific procedure training
+  - Training dates and trainer identification
+  - Competency assessment results (if applicable)
+
+All design outputs listed above **shall** be included in the TMF per ICH E6(R2)
+8.2.17 (instructions) and 8.2.18 (agreements).
+
+#### 5.8.6 Final Design Review and Approval
+
+A final design review **shall** be conducted per SOP-005 before authorizing
+study initiation. This Final Design Approval review **shall** confirm:
+
+- All design, verification, and validation activities are complete
+- All design review action items have been closed
+- IRB/IEC approval is obtained and current
+- Regulatory approvals are obtained (if required)
+- All agreements are executed
+- Sites are trained and ready to initiate
+- TMF is complete with all Phase 1 essential documents
+- All computerized systems are validated and ready for use
+- Study team is trained and ready to conduct the study
+- Monitoring plan is in place per SOP-009
+- Risk mitigation strategies are documented and in place per SOP-003
+
+The Final Design Approval review **shall** result in a formal decision to:
+- Approve study initiation, OR
+- Defer study initiation pending resolution of identified issues, OR
+- Discontinue the study
+
+Records of the Final Design Approval review and decision **shall** be included
+in the TMF.
+
+#### 5.8.7 Study Initiation
+
+Following Final Design Approval, the study may be initiated. Study initiation
+means:
+- Sites are authorized to begin screening and enrolling subjects
+- Phase 2 (During the Clinical Conduct of the Trial) begins
+- Study conduct activities are managed per the approved protocol and
+  applicable SOPs
+
+The date of first subject enrollment (first subject screened or first subject
+consented, as defined in the protocol) marks the official study initiation
+date and **shall** be documented in the TMF.
+
+#### 5.8.8 Integration with Other Procedures
+
+Design transfer and study initiation approval **shall** integrate with:
+
+- **SOP-002 (Document and Records Controls)**: TMF completeness verification
+  and document control
+- **SOP-003 (Risk Management)**: Confirmation that risk mitigation strategies
+  are in place
+- **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
+  System readiness and validation status confirmation
+- **SOP-005 (Study Design Review)**: Final Design Approval decision gate
+- **SOP-009 (Monitoring and Oversight)**: Transition to study monitoring
+  activities
+- **SOP-013 (Change Control)**: Any post-approval changes managed through
+  change control
+- **SOP-014 (Regulatory Compliance Management)**: Confirmation of regulatory
+  compliance status
 
 ## 6.0 PHASE 2: DURING THE CLINICAL CONDUCT OF THE STUDY
 
