@@ -958,17 +958,193 @@ Design verification **shall** integrate with:
 
 ### 5.7 Design Validation
 
-#### 5.9.1 Requirements
+#### 5.7.1 Overview
 
-**todo:** Confirmation that design is fit for intended purpose; may include pilot testing, system testing
+Design validation confirms that the study design is fit for its intended
+purpose and capable of meeting study objectives under actual or simulated
+conditions of use. Validation activities ensure that the study, when conducted
+according to the protocol and procedures, will generate data suitable for
+answering the research questions.
 
-#### 5.9.2 Validation Activities
+Design validation is distinct from design verification (Section 5.6):
+verification confirms that outputs meet input requirements ("did we build it
+right?"), while validation confirms the design is fit for its intended purpose
+("did we build the right thing?").
 
-**todo:** What constitutes validation for observational study design
+#### 5.7.2 Requirements
 
-#### 5.9.3 Essential Documents and Records
+Design validation activities **shall** confirm that:
 
-**todo:** Validation reports, pilot study results if applicable
+- The study design is scientifically sound and capable of meeting study
+  objectives
+- Study procedures are feasible and can be executed as specified in the
+  protocol
+- Data collection methods will generate data of adequate quality to support
+  planned analyses
+- Subject burden is acceptable and will not compromise data quality or subject
+  retention
+- Computerized systems function correctly in the intended use environment
+- Site personnel can execute study procedures as specified
+- The overall study design will produce reliable, interpretable results
+
+#### 5.7.3 Validation Activities
+
+Design validation **may** be conducted through one or more of the following
+activities, as appropriate for the specific study:
+
+**Pilot Testing:**
+- Small-scale pilot study or feasibility study conducted before the main study
+- Testing of study procedures with a limited number of subjects
+- Assessment of subject recruitment and retention feasibility
+- Evaluation of data collection burden and completeness
+- Assessment of data quality from pilot data collection
+
+**End-to-End Testing:**
+- Complete simulation of study workflow from enrollment through data analysis
+- Testing of all study procedures in sequence
+- Validation of data flow from collection through database and analysis
+- Testing of all interfaces between systems
+- Verification that complete workflow functions as intended
+
+**Site Assessment:**
+- On-site evaluation of facility capabilities
+- Assessment of investigator and site staff competency and training
+- Review of site resources and infrastructure
+- Confirmation that sites can execute protocol requirements
+
+**Simulated Use Testing:**
+- Simulation of data collection activities with mock subjects or scenarios
+- Testing of data collection tools under realistic conditions
+- Assessment of user interactions with systems and tools
+- Evaluation of training effectiveness
+
+**System Validation:**
+- Validation of computerized systems per SOP-004
+- Performance qualification of data collection equipment and devices
+- Validation of data transfer and integration processes
+- Confirmation of system performance under realistic data volumes and
+  conditions
+
+**Expert Review:**
+- Review by clinical, scientific, or operational experts external to the
+  development team
+- Assessment of study feasibility and appropriateness
+- Evaluation of protocol procedures from a practical implementation
+  perspective
+
+Not all validation activities listed above are required for every study. The
+study team **shall** determine which validation activities are appropriate
+based on study complexity, novel procedures, use of new technologies, and risk
+assessment per SOP-003.
+
+#### 5.7.4 Validation Personnel
+
+Design validation activities **shall** be conducted by personnel who:
+
+- Are qualified through education, training, and/or experience to perform the
+  validation activity
+- Understand the intended use environment and study objectives
+- Can objectively assess whether the design meets its intended purpose
+
+Validation activities **should** involve personnel who will be implementing the
+study (e.g., site staff, data managers) to ensure realistic assessment of
+feasibility and usability.
+
+#### 5.7.5 Design Outputs
+
+Design outputs from validation activities **shall** include:
+
+- **Design Validation Report**: Comprehensive documentation of validation
+  activities performed, findings, and confirmation that the study design is
+  fit for its intended purpose. The report **shall** include:
+  - Description of validation activities performed
+  - Identification of validation personnel and their qualifications
+  - Validation results and findings
+  - Assessment of whether design meets intended purpose
+  - Identification of any issues or limitations
+  - Documentation of issue resolution or mitigation strategies
+  - Conclusion regarding design validation status
+
+- **Pilot Study Results** (if conducted): Summary of pilot study
+  findings including:
+  - Number of subjects enrolled and completed
+  - Data completeness and quality
+  - Subject feedback on procedures and burden
+  - Site feedback on feasibility
+  - Issues encountered and resolutions
+  - Recommendations for main study
+
+- **End-to-End Testing Report** (if conducted): Documentation of complete
+  workflow testing including:
+  - Test scenarios executed
+  - Results for each step in the workflow
+  - Data flow verification
+  - System integration verification
+  - Issues identified and resolved
+
+- **Site Readiness Assessment** (if conducted): Documentation of site
+  capability assessments and readiness determinations
+
+- **System Validation Documentation**: Validation reports for computerized
+  systems per SOP-004 and SOP-015
+
+All validation reports and documentation **shall** be included in the TMF.
+
+#### 5.7.6 Resolution of Validation Findings
+
+Any issues, limitations, or concerns identified during design validation
+**shall** be:
+
+- Documented in validation reports
+- Assessed for impact on study objectives and data quality
+- Addressed through design modifications, additional training, enhanced
+  monitoring, or other mitigation strategies
+- Re-validated if significant design changes are made
+- Documented with evidence of resolution or mitigation
+
+Significant validation findings that cannot be adequately resolved **may**
+result in the decision not to proceed with the study, or to modify the study
+design.
+
+#### 5.7.7 Review and Approval
+
+Design validation activities and results **shall** undergo review per SOP-005
+as part of the Validation Review decision gate.
+
+Validation reports **shall** be reviewed and approved by qualified personnel
+to confirm:
+- Validation activities were adequate for the study design and complexity
+- The study design is fit for its intended purpose
+- Issues have been adequately resolved or mitigated
+- The study is ready to proceed to final approval and initiation
+
+Records of validation review and approval **shall** be included in the TMF.
+
+#### 5.7.8 Relationship to Computer System Validation
+
+Computer system validation activities required by SOP-004 and SOP-015 are
+considered part of design validation. Validation of computerized systems used
+for data collection, data management, and statistical analysis **shall** be
+completed before final design approval and study initiation.
+
+System validation documentation **shall** demonstrate that systems:
+- Function as intended
+- Meet user requirements
+- Maintain data integrity per ALCOA+ principles
+- Have appropriate security and access controls
+- Are suitable for their intended use in the study
+
+#### 5.7.9 Integration with Other Procedures
+
+Design validation **shall** integrate with:
+
+- **SOP-003 (Risk Management)**: Risk-based approach to determining validation
+  activities; validation of risk mitigation strategies
+- **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
+  Validation of all computerized systems
+- **SOP-005 (Study Design Review)**: Validation Review decision gate
+- **SOP-015 (Observational Study Software Development and Validation)**:
+  Validation of custom software and data collection applications
 
 ### 5.10 Design Transfer and Study Initiation Approval
 
