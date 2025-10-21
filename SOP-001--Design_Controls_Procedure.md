@@ -165,6 +165,18 @@ This section defines requirements for design and development activities before
 study initiation. All design activities **shall** be documented in accordance
 with SOP-002 (pw todo link).
 
+Desgin and development activities are subdivided into several phases:
+- Study Concept and Feasibility (Section 5.2)
+- Protocol Development (Section 5.3)
+- Statistical Planning (Section 5.4)
+- Data Collection Design (Section 5.5)
+- Risk Assessment and Mitigation (Section 5.6)
+- Regulatory and Ethics Documentation (Section 5.7)
+- Design Verification (Section 5.8)
+- Design Validation (Sectino 5.9)
+- Design Transfer and Study Initiation Approval (Section 5.10)
+
+
 ### 5.2 Study Concept and Feasibility
 
 #### 5.2.1 Overview
@@ -271,21 +283,131 @@ Activities in this phase **shall** integrate with:
 
 ### 5.3 Protocol Development
 
-#### 5.3.1 Requirements
+#### 5.3.1 Overview
 
-**todo:** Protocol content requirements per E6(R2) Section 6; elements that shall be addressed
+The protocol is the primary document describing the study design, methodology,
+and operational plan. Protocol development translates design inputs into a
+comprehensive document that guides all aspects of study conduct and ensures
+compliance with scientific, ethical, and regulatory requirements.
 
-#### 5.3.2 Design Inputs
+Formal signature and approval of the protocol is addressed in Section 5.10
+after design verification and validation activities are complete.
 
-**todo:** Information needed to develop protocol
+#### 5.3.2 Requirements
 
-#### 5.3.3 Design Outputs
+The protocol **shall** address all elements required by ICH E6(R2) Section 6,
+including but not limited to:
 
-**todo:** Protocol and related documents produced
+- **General Information**: Title, protocol identification, version and date,
+  sponsor and investigator information
+- **Background and Rationale**: Scientific background, justification for the
+  study, potential risks and benefits
+- **Objectives and Purpose**: Primary and secondary objectives clearly stated
+- **Study Design**: Overall design (e.g., prospective cohort, cross-sectional),
+  description of study phases if applicable
+- **Subject Selection**: Inclusion and exclusion criteria, withdrawal criteria,
+  procedures for withdrawal
+- **Treatment/Intervention**: Description of study procedures and data
+  collection activities (note: for observational studies, this describes data
+  collection methods rather than interventions)
+- **Assessment of Efficacy/Safety**: Variables and endpoints to be measured,
+  methods and timing of assessments
+- **Statistics**: Statistical methods, sample size determination, level of
+  significance, criteria for study termination, procedures for missing data
+- **Direct Access to Source Data/Documents**: Statement permitting monitoring,
+  audits, IRB/IEC review, and regulatory inspection
+- **Quality Control and Quality Assurance**: Monitoring plan and data quality
+  oversight procedures
+- **Ethics**: Informed consent process, IRB/IEC review requirements
+- **Data Handling and Record Keeping**: Data management procedures, record
+  retention
+- **Financing and Insurance**: If applicable
+- **Publication Policy**: Plans for dissemination of results
 
-#### 5.3.4 Essential Documents and Records
+For observational studies, sections related to investigational products,
+randomization, and blinding **may** be omitted if not applicable.
 
-**todo:** Protocol, protocol amendments, sample informed consent, investigator brochure, etc.
+#### 5.3.3 Design Inputs
+
+Design inputs for protocol development include:
+
+- Design Input Documentation from Section 5.2
+- Feasibility Assessment from Section 5.2
+- Scientific literature and preliminary data
+- Regulatory and ethical requirements
+- Stakeholder input and requirements
+- Available resources and infrastructure
+- Risk assessment findings per SOP-003
+
+#### 5.3.4 Design Outputs
+
+Design outputs from protocol development **shall** include:
+
+- **Study Protocol**: Complete protocol document addressing all required
+  elements per ICH E6(R2) Section 6. The protocol **shall** include version
+  number, version date, and amendment history if applicable.
+
+- **Protocol Synopsis**: Brief summary of the protocol (optional but
+  recommended) providing key information in condensed format.
+
+- **Sample Case Report Form (CRF)**: Preliminary or sample CRF showing data
+  elements to be collected. Detailed CRF development is addressed in
+  Section 5.5.
+
+- **Sample Informed Consent Form**: Draft informed consent form and any other
+  written information to be provided to subjects. The informed consent
+  **shall** address all elements required by ICH E6(R2) Section 4.8 and
+  applicable regulatory requirements.
+
+All design outputs listed above **shall** be included in the TMF.
+
+#### 5.3.5 Protocol Amendments
+
+Protocol amendments during Phase 1 (before study initiation) are managed under
+this procedure as part of design development.
+
+Protocol amendments after study initiation (Phase 2) **shall** be managed per
+SOP-013: Change Control Procedure.
+
+All protocol amendments **shall**:
+- Clearly identify changes from the previous version
+- Include amendment number, date, and rationale for changes
+- Undergo appropriate review and approval per SOP-005
+- Be signed by appropriate parties
+- Receive IRB/IEC approval before implementation (if required)
+
+#### 5.3.6 Review and Approval
+
+The protocol and other design outputs from this phase **shall** undergo formal
+design review per SOP-005. The review **shall** assess:
+
+- Scientific validity and merit
+- Completeness per ICH E6(R2) Section 6 requirements
+- Ethical appropriateness and subject protection
+- Feasibility and operational clarity
+- Statistical adequacy
+- Regulatory compliance
+- Risk assessment and mitigation strategies
+- Consistency with design inputs
+- Clarity and completeness of procedures
+
+Records of the protocol review and approval process **shall** be included in
+the TMF.
+
+#### 5.3.7 Integration with Other Procedures
+
+Protocol development **shall** integrate with:
+
+- **SOP-003 (Risk Management)**: Risk assessment to identify critical-to-
+  quality factors and inform monitoring strategy
+- **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
+  Data management requirements and electronic data capture specifications
+- **SOP-005 (Study Design Review)**: Design Plan Review and Design Output
+  Review decision gates
+- **SOP-013 (Change Control)**: Protocol amendment process after study
+  initiation
+- **SOP-015 (Observational Study Software Development and Validation)**:
+  Specifications for any custom software or data collection tools
 
 ### 5.4 Statistical Planning
 
