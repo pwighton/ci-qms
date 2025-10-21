@@ -170,9 +170,9 @@ Desgin and development activities are subdivided into several phases:
 - Protocol Development (Section 5.3)
 - Statistical Planning and Data Collection Design (Section 5.4)
 - Regulatory and Ethics Documentation (Section 5.5)
-- Design Verification (Section 5.7)
-- Design Validation (Sectino 5.8)
-- Design Transfer and Study Initiation Approval (Section 5.9)
+- Design Verification (Section 5.6)
+- Design Validation (Sectino 5.7)
+- Design Transfer and Study Initiation Approval (Section 5.8)
 
 
 ### 5.2 Study Concept and Feasibility
@@ -804,35 +804,159 @@ Regulatory and ethics documentation **shall** integrate with:
 - **SOP-014 (Regulatory Compliance Management)**: Ongoing compliance with
   financial disclosure requirements and regulatory authority communications
 
-### 5.7 Regulatory and Ethics Documentation
+### 5.6 Design Verification
 
-#### 5.7.1 Requirements
+#### 5.6.1 Overview
 
-**todo:** IRB submissions, regulatory submissions if applicable, informed consent
+Design verification confirms that the design outputs from Sections 5.2 through
+5.5 meet the design input requirements and specifications. Verification
+activities ensure that the study design has been properly developed and
+documented before proceeding to design validation and study initiation.
 
-#### 5.7.2 Design Outputs
+Design verification is distinct from design validation (Section 5.7):
+verification confirms that outputs meet input requirements ("did we build it
+right?"), while validation confirms the design is fit for its intended purpose
+("did we build the right thing?").
 
-**todo:** Informed consent forms, IRB/IEC submission packages, regulatory submissions
+#### 5.6.2 Requirements
 
-#### 5.7.3 Essential Documents and Records
+Design verification activities **shall** confirm that:
 
-**todo:** E6(R2) Section 8.2: IRB/IEC approvals, regulatory approvals, informed consent templates, investigator CVs and training records, financial disclosure forms, etc.
+- Design outputs address all design input requirements
+- Protocol content meets ICH E6(R2) Section 6 requirements
+- Statistical methods are appropriate for study objectives and endpoints
+- Sample size is adequate to address study objectives
+- CRFs and data collection tools capture all required data elements
+- Data management procedures ensure data quality and integrity
+- Informed consent addresses all required elements per ICH E6(R2) Section 4.8
+- Regulatory and ethics documentation is complete
+- Design outputs are internally consistent (protocol, SAP, CRFs align)
+- Documentation is clear, complete, and free from ambiguities
+- All applicable regulatory and ethical requirements are addressed
 
-### 5.8 Design Verification
+#### 5.6.3 Verification Activities
 
-#### 5.8.1 Requirements
+Design verification **shall** be conducted through one or more of the following
+activities:
 
-**todo:** Confirmation that design outputs meet design inputs; review activities
+**Document Review:**
+- Protocol review by qualified personnel (scientific, statistical, operational,
+  regulatory perspectives)
+- Statistical Analysis Plan review
+- CRF and data collection tool review
+- Informed consent review for completeness and readability
+- Cross-document consistency review (protocol vs. SAP vs. CRFs)
 
-#### 5.8.2 Verification Activities
+**Technical Review:**
+- Data flow review to confirm data can be collected and managed as specified
+- Database design review against protocol and CRF requirements
+- System specifications review for data collection tools
 
-**todo:** Protocol review, statistical review, CRF review, user acceptance testing of data collection systems
+**Traceability Review:**
+- Verification that all design inputs are addressed in design outputs
+- Confirmation that protocol requirements are captured in CRFs and SAP
+- Verification that endpoints are consistently defined across documents
 
-#### 5.8.3 Essential Documents and Records
+**User Acceptance Testing (UAT):**
+- Testing of electronic data capture systems
+- Testing of data collection tools and equipment
+- Verification of data validation rules and edit checks
+- Review of system-generated reports
 
-**todo:** Verification reports, review meeting minutes, UAT results
+**Readability Assessment:**
+- Assessment of informed consent readability for target population
+- Review of subject-facing materials for clarity
 
-### 5.9 Design Validation
+#### 5.6.4 Verification Personnel
+
+Design verification activities **shall** be conducted by personnel who are:
+
+- Qualified through education, training, and/or experience to perform the
+  verification activity
+- Independent of the personnel who developed the design output being verified
+  (verification should not be performed solely by the original author)
+
+Verification may be conducted by internal personnel or qualified external
+reviewers.
+
+#### 5.6.5 Design Outputs
+
+Design outputs from verification activities **shall** include:
+
+- **Design Verification Reports**: Documentation of verification activities
+  performed, findings, and confirmation that design outputs meet design input
+  requirements. Reports **shall** include:
+  - Description of verification activities performed
+  - Identification of reviewers and their qualifications
+  - Findings and observations
+  - Identification of any deficiencies or areas requiring correction
+  - Confirmation that deficiencies were resolved
+  - Conclusion regarding design verification status
+
+- **Protocol Review Reports**: Documentation of protocol reviews by scientific,
+  statistical, regulatory, and operational reviewers
+
+- **Statistical Review Reports**: Documentation of statistical review of sample
+  size, analysis methods, and SAP
+
+- **CRF Review Reports**: Documentation of CRF review for completeness,
+  clarity, and alignment with protocol
+
+- **User Acceptance Testing Results**: Documentation of UAT for electronic
+  systems including:
+  - Test cases executed
+  - Test results
+  - Issues identified and resolved
+  - Sign-off by users
+
+- **Cross-Document Consistency Review**: Documentation verifying consistency
+  across protocol, SAP, CRFs, and data collection specifications
+
+- **Informed Consent Readability Assessment**: Documentation of readability
+  assessment and any revisions made
+
+All verification reports and documentation **shall** be included in the TMF.
+
+#### 5.6.6 Resolution of Verification Findings
+
+Any deficiencies, inconsistencies, or issues identified during design
+verification **shall** be:
+
+- Documented in verification reports
+- Reviewed and assigned to appropriate personnel for resolution
+- Corrected in the relevant design output documents
+- Re-verified to confirm adequate resolution
+- Documented with evidence of resolution
+
+Design outputs **shall not** proceed to design validation or final approval
+until all verification findings are adequately resolved.
+
+#### 5.6.7 Review and Approval
+
+Design verification activities and results **shall** undergo review per
+SOP-005 as part of the Design Output Review or Verification Review decision
+gate.
+
+Verification reports **shall** be reviewed and approved by qualified personnel
+to confirm:
+- Verification activities were adequate and appropriate
+- All design inputs have been addressed in design outputs
+- Deficiencies have been adequately resolved
+- Design is ready to proceed to validation
+
+Records of verification review and approval **shall** be included in the TMF.
+
+#### 5.6.8 Integration with Other Procedures
+
+Design verification **shall** integrate with:
+
+- **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
+  User acceptance testing of computerized systems
+- **SOP-005 (Study Design Review)**: Verification Review decision gate
+- **SOP-015 (Observational Study Software Development and Validation)**:
+  Verification of custom software and applications
+
+### 5.7 Design Validation
 
 #### 5.9.1 Requirements
 
@@ -859,16 +983,6 @@ Regulatory and ethics documentation **shall** integrate with:
 #### 5.10.3 Essential Documents and Records
 
 **todo:** Final design approval, site initiation documentation, training records
-
-### 5.11 Trial Master File Preparation
-
-#### 5.11.1 Requirements
-
-**todo:** TMF structure and organization; completeness before study start
-
-#### 5.11.2 Essential Documents
-
-**todo:** Complete listing per E6(R2) Section 8.2 for Phase 1
 
 ## 6.0 PHASE 2: DURING THE CLINICAL CONDUCT OF THE STUDY
 
