@@ -1341,7 +1341,8 @@ Design transfer and study initiation approval **SHALL** integrate with:
 ### 6.1 Overview
 
 Design maintenance during study conduct is managed primarily through other SOPs.
-This section provides brief overview and references.
+This section provides brief overview, references and describes the essential
+documents.
 
 ### 6.2 Design Changes
 
@@ -1403,64 +1404,138 @@ Section 6.3.
 ### 7.1 Overview
 
 Design closeout activities ensure all design-related documentation is complete
-and archived and is managed by [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+and archived. Phase 3 activities are managed by [SOP-007: Study Closeout and
+Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
 
-### 7.2 Final Design Documentation
+This section describes the essential documents and records that shall be
+finalized and archived following study completion or termination.
 
-Final documentation **SHALL** include:
-- Final protocol version with all amendments
-- Final SAP
-- Final data management plan
-- All design change documentation
+### 7.2 Essential Documents and Records
 
-### 7.3 Design Review and Lessons Learned
+Essential documents for study closeout are defined in ICH E6(R2) Section 8.4
+and **shall** be completed and maintained in the TMF. These documents include:
 
-A post-study design review **MAY** be conducted to identify improvements for future studies.
+**Final Protocol Documentation:**
+- **Final Protocol Version**: Final version of protocol incorporating all
+  approved amendments, clearly identified as the final version per ICH E6(R2)
+  8.4.1 (referenced for completeness)
+- **Protocol Amendment History**: Complete history of all protocol amendments
+  with dates, version numbers, and rationale for changes
 
-### 7.4 Essential Documents and Records
+**Final Analysis and Reporting Documentation:**
+- **Final Statistical Analysis Plan**: Final version of SAP with any approved
+  revisions, clearly identified as the final version used for study analyses
+- **Final Data Management Plan**: Final version of data management plan
+  documenting all data management procedures as executed
+- **Database Lock Documentation**: Documentation of final database lock
+  including date, responsible personnel, and confirmation of data completeness
+  and quality
+- **Final Study Report**: Clinical study report per ICH E3 (if applicable) or
+  final observational study report documenting study conduct, results, and
+  conclusions per ICH E6(R2) 8.4.7
 
-**todo:** Essential documents for study closeout are defined in ICH E6(R2) Section 8.4 and include:
-final reports, closeout correspondence, archiving records
+**Product and Sample Documentation (if applicable):**
+- **Documentation of Investigational Product Destruction**: Documentation of
+  return and/or destruction of unused investigational products per ICH E6(R2)
+  8.4.1 (may not apply to observational studies without investigational
+  products)
+- **Record of Retained Samples**: Final documentation of location and
+  identification of any retained biological samples
 
-### 7.5 Archiving
+**Subject Documentation:**
+- **Completed Subject Identification Code List**: Final list linking subject
+  identification codes to subject identities, maintained confidentially per
+  ICH E6(R2) 8.4.2
 
-All design documentation and essential documents **SHALL** be archived per SOP-002.
+**Closeout and Quality Documentation:**
+- **Final Trial Closeout Monitoring Report**: Final monitoring report
+  documenting study completion, site closeout activities, and final TMF
+  assessment per ICH E6(R2) 8.4.4
+- **Audit Certificate**: Statement of completion of audit, if audit was
+  performed per ICH E6(R2) 8.4.3
+- **Site Closeout Documentation**: Records of site closeout visits,
+  deactivation activities, and final site file verification
 
-## 8.0 TRACEABILITY
+**Regulatory and Ethics Closeout:**
+- **Final Report to IRB/IEC**: Final study report or study completion
+  notification provided to IRB/IEC per ICH E6(R2) 8.4.6
+- **Final Report to Regulatory Authorities**: Final study report or
+  notification to regulatory authorities if required per ICH E6(R2) 8.4.6
+- **IRB/IEC Study Closure Acknowledgment**: Documentation of IRB/IEC
+  acknowledgment of study closure
 
-### 8.1 Requirements
+**Design Documentation:**
+- **Final Design Documentation Package**: Complete set of final design
+  documents including protocol, SAP, CRFs, data collection specifications,
+  and all amendments
+- **Design Change History**: Complete history of all design changes made
+  during the study lifecycle, managed per SOP-013
+- **Traceability Documentation**: Final design traceability documentation
+  demonstrating linkage between design inputs, outputs, and validation
+  activities
 
-**todo:** Design traceability **SHALL** be maintained throughout the design process to demonstrate:
+**Post-Study Assessment (optional):**
+- **Post-Study Design Review Report**: Lessons learned and recommendations for
+  future study designs. This assessment **may** include:
+  - Evaluation of study design effectiveness
+  - Assessment of what worked well and what could be improved
+  - Recommendations for future protocol development
+  - Identification of best practices
+  - Analysis of protocol deviations and their root causes
+  - Evaluation of data collection methods and tools
+  - Assessment of statistical methods and sample size adequacy
 
-- Scientific objectives -> protocol requirements
-- Protocol requirements -> design outputs (CRFs, SAP, etc.)
-- Design outputs -> verification and validation activities
-- All design inputs are addressed
-- All design changes are documented and approved
+**Treatment Allocation Documentation (if applicable):**
+- **Treatment Allocation and Decoding Documentation**: Documentation revealing
+  allocation of subjects to treatment groups per ICH E6(R2) 8.4.5 (may not
+  apply to observational studies)
 
-### 8.2 Traceability Documentation
+All essential documents listed above **shall** be completed, reviewed for
+accuracy and completeness, and included in the TMF before final study archiving
+per SOP-007.
 
-todo: Traceability matrix or other methods
+### 7.3 Archiving
 
-## 9.0 TRAINING
+All design documentation and essential documents **shall** be archived per
+SOP-002: Document and Records Controls Procedure and SOP-007: Study Closeout
+and Archiving Procedure.
+
+Archiving **shall** include:
+
+- **Archive Preparation**: Organization and indexing of all essential documents
+  and study records for long-term storage
+- **TMF Completeness Verification**: Final verification that all essential
+  documents per ICH E6(R2) Section 8 are present and complete in the TMF
+- **Archive Location Documentation**: Documentation of physical or electronic
+  archive location, access procedures, and responsible personnel
+- **Retention Period Documentation**: Documentation of required retention
+  period per regulatory requirements (typically minimum 2 years after last
+  marketing approval or formal discontinuation, or as specified by applicable
+  regulations)
+- **Archive Transfer Documentation**: If archives are transferred between
+  locations or custodians, documentation of transfer including date,
+  responsible parties, and verification of completeness
+
+The archived TMF and study records **shall** remain accessible for retrieval
+during the retention period to support:
+- Regulatory inspections
+- Audits
+- Publications and secondary analyses
+- Legal or ethical inquiries
+- Sponsor requests (if applicable)
+
+Retrieval procedures and archive access controls **shall** be established per
+SOP-002 and SOP-007 to ensure:
+- Authorized access only
+- Maintenance of document integrity
+- Audit trail of retrievals
+- Timely access when needed
+
+## 8.0 TRAINING
 
 All personnel involved in design activities **SHALL** be trained on this 
 procedure and maintain documented evidence of training according to 
 [QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people)
-
-## 10.0 RECORDS
-
-Records generated under this procedure **SHALL** be maintained in the
-Trial Master File (TMF) or QMS records as appropriate, per SOP-002.
-
-Records include but are not limited to:
-- Design inputs documentation
-- Design outputs (protocols, SAPs, CRFs, etc.)
-- Verification and validation reports
-- Review meeting minutes
-- Design approval records
-- Traceability documentation
-- Essential documents per ICH E6(R2) Section 8
 
 ## APPENDIX A: ESSENTIAL DOCUMENTS AND RECORDS
 
