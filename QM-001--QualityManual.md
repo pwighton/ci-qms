@@ -103,7 +103,7 @@ the following standards and guidance documents are not considered by this QMS
 
 6.  [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
 
-7.  [SOP-007: Investigational Product Management Procedure](SOP-007--Investigational_Product_Management_Procedure.md)
+7.  [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
 
 8.  [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
 
@@ -263,7 +263,7 @@ conduct of ethical and reliable *observational studies*:
 -   Outsourced Activities
 -   Internal and External Audits
 -   Training and Competency Management
--   Investigational Product Management
+-   Study Closeout and Archiving Procedure
 -   Subject Safety and Adverse Event Management
 -   Software Development and Validation
 -   Monitoring and Oversight
@@ -603,27 +603,31 @@ __NewInstitue__.
 Outsourced activities related to *observational studies* shall be performed
 and documented in accordance with the Outsourced Activities Procedure, SOP-006.
 
-### 7.7 Investigational Product Management
+### 7.7 Study Closeout and Archiving
 
-__NewInstitue__ **SHALL** establish and maintain an Investigational Product
-Management procedure that minimally addresses applicable requirements in
-ICH E6(R2) Sections 5.13 and 5.14 and the following:
+__NewInstitue__ **SHALL** establish and maintain a Study Closeout and Archiving
+procedure that minimally addresses applicable requirements in ICH E6(R2)
+Sections 4.9, 5.5, and 8.4, ISO-9001:2015 Section 7.5, and applicable
+regulatory guidance documents including:
 
--   **Accountability**: Procedures that describe how investigational products
-    are tracked, dispensed, and accounted for throughout the clinical
-    investigation
--   **Storage and Handling**: Procedures that describe proper storage
-    conditions, temperature monitoring, and handling requirements for
-    investigational products
--   **Randomization and Blinding**: Procedures for randomization systems and
-    emergency unblinding when applicable
+- Requirements for study closeout activities and final documentation
+- Procedures for Trial Master File (TMF) completeness verification
+- Requirements for archiving essential documents and study records
+- Retention periods for study documentation per regulatory requirements
+- Procedures for retrieval of archived documents
+- Procedures for transfer of archived documents if applicable
 
-__NewInstitue__ **SHALL** maintain all investigational product records in the
-TMF.
+This procedure **SHALL** apply to:
 
-Investigational product management activities **SHALL** be performed and
-documented in accordance with the Investigational Product Management Procedure,
-SOP-007.
+- Final study documentation and reporting
+- Site closeout procedures
+- TMF completeness assessment and quality review
+- Archiving of all essential documents per ICH E6(R2) Section 8.4
+- Long-term retention and retrieval of study records
+
+All study closeout and archiving activities related to *observational studies*
+**SHALL** be performed and documented in accordance with the Study Closeout
+and Archiving Procedure, SOP-007.
 
 ### 7.8 Subject Safety and Adverse Event Management
 
