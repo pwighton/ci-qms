@@ -1628,7 +1628,7 @@ Retraining **SHALL** be conducted when:
 ## APPENDIX A: MAPPING TO ICH E6(R2) REQUIREMENTS
 
 This appendix maps the requirements of ICH E6(R2) to the sections of this SOP,
-demonstrating how SOP-001 addresses ICH E6(R2) compliance for observational
+demonstrating how this SOP conforms to ICH E6(R2) for observational
 study design controls.
 
 ### A.1 ICH E6(R2) Section 3: Institutional Review Board/Independent Ethics Committee (IRB/IEC)
