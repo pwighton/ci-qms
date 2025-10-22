@@ -1709,10 +1709,10 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.2.11 | Curriculum vitae and/or other relevant documents | 5.5.4 |
 | 8.2.12 | Normal value(s)/range(s) for medical/laboratory/technical procedures | 5.4.4 |
 | 8.2.13 | Medical/laboratory/technical procedures certification or accreditation | 5.4.4 |
-| 8.2.13 | Sample of label(s) attached to investigational product container(s) | Not applicable (observational studies) |
-| 8.2.14 | Instructions for handling investigational product(s) | Not applicable (observational studies) |
-| 8.2.15 | Shipping records for investigational product(s) | Not applicable (observational studies) |
-| 8.2.16 | Certificate(s) of analysis of investigational product(s) | Not applicable (observational studies) |
+| 8.2.13 | Sample of label(s) attached to investigational product container(s) | N/A for observational studies |
+| 8.2.14 | Instructions for handling investigational product(s) | N/A for observational studies |
+| 8.2.15 | Shipping records for investigational product(s) | N/A for observational studies |
+| 8.2.16 | Certificate(s) of analysis of investigational product(s) | N/A for observational studies |
 | 8.2.17 | Decoding procedures for blinded trial | 5.4.4 (if applicable) |
 | 8.2.18 | Master randomization list | 5.4.4 (if applicable) |
 | 8.2.19 | Pre-trial monitoring report | Not addressed (see SOP-009) |
@@ -1732,8 +1732,8 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.3.6 | Curriculum vitae for new investigator(s) and/or sub-investigator(s) | 6.4 |
 | 8.3.7 | Updates to normal value(s)/range(s) for medical/laboratory/technical procedures | 6.4 |
 | 8.3.8 | Updates of medical/laboratory/technical procedures certification or accreditation | 6.4 |
-| 8.3.9 | Documentation of investigational product(s) shipment | Not applicable (observational studies) |
-| 8.3.10 | Certificate(s) of analysis for new batches of investigational product(s) | Not applicable (observational studies) |
+| 8.3.9 | Documentation of investigational product(s) shipment | N/A for observational studies |
+| 8.3.10 | Certificate(s) of analysis for new batches of investigational product(s) | N/A for observational studies |
 | 8.3.11 | Monitoring visit reports | 6.4, see SOP-009 |
 | 8.3.12 | Relevant communications between investigator(s) and IRB/IEC | 6.4 |
 | 8.3.13 | Relevant communications between investigator(s) and sponsor | 6.4 |
@@ -1749,7 +1749,7 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.3.23 | Subject screening log | 6.4, see SOP-009 |
 | 8.3.24 | Subject identification code list | 6.4 |
 | 8.3.25 | Subject enrollment log | 6.4, see SOP-009 |
-| 8.3.26 | Investigational product(s) accountability at the site | Not applicable (observational studies) |
+| 8.3.26 | Investigational product(s) accountability at the site | N/A for observational studies |
 | 8.3.27 | Signature sheet | 6.4 |
 | 8.3.28 | Record of retained body fluids/tissue samples | 6.4 |
 
@@ -1757,8 +1757,8 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 
 | ICH E6(R2) 8.4 | Essential Document | SOP-001 Section |
 |----------------|-------------------|-----------------|
-| 8.4.1 | Investigational product(s) accountability at site | Not applicable (observational studies) |
-| 8.4.2 | Documentation of investigational product destruction | Not applicable (observational studies) |
+| 8.4.1 | Investigational product(s) accountability at site | N/A for observational studies |
+| 8.4.2 | Documentation of investigational product destruction | N/A for observational studies |
 | 8.4.3 | Completed subject identification code list | 7.2 |
 | 8.4.4 | Audit certificate (if available) | 7.2 |
 | 8.4.5 | Final trial close-out monitoring report | 7.2, see SOP-007 |
