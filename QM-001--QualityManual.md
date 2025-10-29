@@ -512,7 +512,7 @@ These activities, at a minimum, shall include:
 -   Computer System Validation, Data Integrity and Data Management (see [section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity))
 -   Study Design Reviews (see [section 7.5](QM-001--QualityManual.md#75-study-design-reviews))
 -   Outsourced Activities (see [section 7.6](QM-001--QualityManual.md#76-outsourced-activities))
--   Investigational Product Management (see [section 7.7](QM-001--QualityManual.md#77-investigational-product-management))
+-   Study Closeout and Archiving (see [section 7.7](QM-001--QualityManual.md#77-study-closeout-and-archiving))
 -   Subject Safety and Adverse Event Management (see [section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management))
 -   Software Development and Validation (see [section 7.9](QM-001--QualityManual.md#79-software-development-and-validation))
 
@@ -918,15 +918,20 @@ TBD
     - Section 5.2 (Contract Research Organization (CRO))
     - Section 5.23 (Multicenter Trials)
 
-### Investigational Product Management
+### Study Closeout and Archiving
 
-- Investigational Product Management
+- Study Closeout and Archiving
   - QM-001 Quality Manual
-    - [Section 7.7](QM-001--QualityManual.md#77-investigational-product-management)
-  - [SOP-007: Investigational Product Management Procedure](SOP-007--Investigational_Product_Management_Procedure.md)
+    - [Section 7.7](QM-001--QualityManual.md#77-study-closeout-and-archiving)
+  - [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
   - ICH E6(R2)
-    - Section 5.13 (Manufacturing, Packaging, Labeling, and Coding Investigational Product(s)), 
-    - Section 5.14 (Supplying and Handling Investigational Product(s))
+    - Section 4.9 (Records and Reports), 
+    - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
+    - Section 8.4 (Essential Documents for the Conduct of a Clinical Trial - After Completion or Termination of the Trial)
+  - ICH E8(R1)
+    - Section 6.3 (Study Reporting)
+  - ISO-9001:2015
+    - Section 7.5 (Documented information)
 
 ### Subject Safety and Adverse Event Management
 
