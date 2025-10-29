@@ -152,6 +152,7 @@ The design controls framework consists of the following key elements:
 
 **Design Inputs** are the requirements and constraints that form the basis for
 study design. Design inputs include:
+
 - Scientific objectives and research questions
 - Regulatory and ethical requirements
 - Subject population characteristics
@@ -164,6 +165,7 @@ activities.
 
 **Design Outputs** are the documented results of the design process that
 address design inputs. Design outputs include:
+
 - Study Protocol
 - Statistical Analysis Plan
 - Case Report Forms and data collection specifications
@@ -177,6 +179,7 @@ Design outputs are produced throughout Phase 1 (Sections 5.2 through 5.5) and
 **Design Verification** (Section 5.6) confirms that design outputs meet design
 input requirements. Verification activities answer the question: "Did we build
 it right?" Verification ensures that:
+
 - All design inputs are addressed in design outputs
 - Design outputs are complete, accurate, and internally consistent
 - Documentation meets regulatory and quality standards
@@ -185,6 +188,7 @@ it right?" Verification ensures that:
 its intended purpose and capable of meeting study objectives. Validation
 activities answer the question: "Did we build the right thing?" Validation
 ensures that:
+
 - The study design will generate data suitable for addressing research
   questions
 - Study procedures are feasible and executable
@@ -193,6 +197,7 @@ ensures that:
 **Design Transfer** (Section 5.8) is the process of transitioning the completed
 and validated design from the design team to the study conduct team. Design
 transfer includes:
+
 - Final design approval and authorization to initiate the study
 - Protocol signature by all required parties
 - Site initiation and training
@@ -201,6 +206,7 @@ transfer includes:
 
 **Traceability** is maintained throughout the design process to demonstrate
 that:
+
 - All design inputs are addressed in design outputs
 - Design outputs have been verified and validated
 - Changes are documented and controlled
@@ -240,7 +246,8 @@ This section defines requirements for design and development activities before
 study initiation. All design activities **SHALL** be documented in accordance
 with SOP-002.
 
-Desgin and development activities are subdivided into several phases:
+Design and development activities are subdivided into several phases:
+
 - Study Concept and Feasibility (Section 5.2)
 - Protocol Development (Section 5.3)
 - Statistical Planning and Data Collection Design (Section 5.4)
@@ -446,6 +453,7 @@ Protocol amendments after study initiation (Phase 2) **SHALL** be managed per
 SOP-013: Change Control Procedure.
 
 All protocol amendments **SHALL**:
+
 - Clearly identify changes from the previous version
 - Include amendment number, date, and rationale for changes
 - Undergo appropriate review and approval per SOP-005
@@ -502,6 +510,7 @@ The following **SHALL** be addressed during statistical planning and data
 collection design:
 
 **Statistical Planning Requirements:**
+
 - Sample size determination with justification per ICH E9
 - Definition of estimands per ICH E9(R1)
 - Primary and secondary endpoints clearly defined
@@ -513,6 +522,7 @@ collection design:
 - Randomization procedures (if applicable)
 
 **Data Collection Design Requirements:**
+
 - Case Report Forms (CRFs) or electronic data capture (EDC) specifications
 - Data collection tools and equipment specifications (e.g., wearables, mobile
   applications, sensors)
@@ -686,28 +696,33 @@ The following **SHALL** be addressed during regulatory and ethics documentation
 preparation:
 
 **Ethics Documentation:**
+
 - Informed consent forms and any other written information for subjects
 - IRB/IEC submission packages
 - Documentation of IRB/IEC composition and GCP compliance
 - Protocol and supporting documents for IRB/IEC review
 
 **Investigator Documentation:**
+
 - Current curriculum vitae (CV) for all investigators and sub-investigators
 - Medical licenses and certifications
 - Training records demonstrating GCP training and study-specific training
 - Delegation of authority documentation (if applicable)
 
 **Financial Disclosure:**
+
 - Financial disclosure forms per 21 CFR Part 54 for all investigators
 - Documentation of financial interests and arrangements
 - Procedures for ongoing financial disclosure updates
 
 **Regulatory Submissions (if applicable):**
+
 - Regulatory authority submissions or notifications as required by applicable
   regulations
 - Correspondence with regulatory authorities
 
 **Insurance and Indemnity:**
+
 - Documentation of insurance or indemnity coverage for investigators and
   institutions (if required)
 
@@ -827,6 +842,7 @@ Following preparation of regulatory and ethics documentation, the study
 approval before study initiation.
 
 The IRB/IEC submission and approval process **SHALL** comply with:
+
 - ICH E6(R2) Section 3 (Institutional Review Board/Independent Ethics
   Committee)
 - 21 CFR Part 56 (if applicable)
@@ -835,6 +851,7 @@ The IRB/IEC submission and approval process **SHALL** comply with:
 
 IRB/IEC approval documentation **SHALL** be obtained and maintained in the TMF
 before:
+
 - Study initiation
 - Implementation of any protocol amendments
 - Use of revised informed consent forms
@@ -918,6 +935,7 @@ Design verification **SHALL** be conducted through one or more of the following
 activities:
 
 **Document Review:**
+
 - Protocol review by qualified personnel (scientific, statistical, operational,
   regulatory perspectives)
 - Statistical Analysis Plan review
@@ -926,22 +944,26 @@ activities:
 - Cross-document consistency review (protocol vs. SAP vs. CRFs)
 
 **Technical Review:**
+
 - Data flow review to confirm data can be collected and managed as specified
 - Database design review against protocol and CRF requirements
 - System specifications review for data collection tools
 
 **Traceability Review:**
+
 - Verification that all design inputs are addressed in design outputs
 - Confirmation that protocol requirements are captured in CRFs and SAP
 - Verification that endpoints are consistently defined across documents
 
 **User Acceptance Testing (UAT):**
+
 - Testing of electronic data capture systems
 - Testing of data collection tools and equipment
 - Verification of data validation rules and edit checks
 - Review of system-generated reports
 
 **Readability Assessment:**
+
 - Assessment of informed consent readability for target population
 - Review of subject-facing materials for clarity
 
@@ -1017,6 +1039,7 @@ gate.
 
 Verification reports **SHALL** be reviewed and approved by qualified personnel
 to confirm:
+
 - Verification activities were adequate and appropriate
 - All design inputs have been addressed in design outputs
 - Deficiencies have been adequately resolved
@@ -1071,6 +1094,7 @@ Design validation **MAY** be conducted through one or more of the following
 activities, as appropriate for the specific study:
 
 **Pilot Testing:**
+
 - Small-scale pilot study or feasibility study conducted before the main study
 - Testing of study procedures with a limited number of subjects
 - Assessment of subject recruitment and retention feasibility
@@ -1078,6 +1102,7 @@ activities, as appropriate for the specific study:
 - Assessment of data quality from pilot data collection
 
 **End-to-End Testing:**
+
 - Complete simulation of study workflow from enrollment through data analysis
 - Testing of all study procedures in sequence
 - Validation of data flow from collection through database and analysis
@@ -1085,18 +1110,21 @@ activities, as appropriate for the specific study:
 - Verification that complete workflow functions as intended
 
 **Site Assessment:**
+
 - On-site evaluation of facility capabilities
 - Assessment of investigator and site staff competency and training
 - Review of site resources and infrastructure
 - Confirmation that sites can execute protocol requirements
 
 **Simulated Use Testing:**
+
 - Simulation of data collection activities with mock subjects or scenarios
 - Testing of data collection tools under realistic conditions
 - Assessment of user interactions with systems and tools
 - Evaluation of training effectiveness
 
 **System Validation:**
+
 - Validation of computerized systems per SOP-004
 - Performance qualification of data collection equipment and devices
 - Validation of data transfer and integration processes
@@ -1104,6 +1132,7 @@ activities, as appropriate for the specific study:
   conditions
 
 **Expert Review:**
+
 - Review by clinical, scientific, or operational experts external to the
   development team
 - Assessment of study feasibility and appropriateness
@@ -1191,6 +1220,7 @@ as part of the Validation Review decision gate.
 
 Validation reports **SHALL** be reviewed and approved by qualified personnel
 to confirm:
+
 - Validation activities were adequate for the study design and complexity
 - The study design is fit for its intended purpose
 - Issues have been adequately resolved or mitigated
@@ -1206,6 +1236,7 @@ for data collection, data management, and statistical analysis **SHALL** be
 completed before final design approval and study initiation.
 
 System validation documentation **SHALL** demonstrate that systems:
+
 - Function as intended
 - Meet user requirements
 - Maintain data integrity per ALCOA+ principles
@@ -1239,6 +1270,7 @@ the transition from Phase 1 (design) to Phase 2 (study conduct).
 Before proceeding to study initiation, the following **SHALL** be completed:
 
 **Design Completion:**
+
 - All design outputs from Sections 5.2 through 5.5 are complete and approved
 - Design verification activities (Section 5.6) are complete with all findings
   resolved
@@ -1247,18 +1279,21 @@ Before proceeding to study initiation, the following **SHALL** be completed:
 - All required design reviews per SOP-005 are complete
 
 **Regulatory and Ethics Approvals:**
+
 - IRB/IEC approval obtained for protocol and informed consent
 - Regulatory authority approval or notification complete (if required)
 - All required agreements executed (sponsor-investigator agreements, CRO
   agreements, etc.)
 
 **Site Readiness:**
+
 - Investigator and site staff training complete
 - Site facilities and equipment ready
 - Source document templates and study supplies available at sites
 - Data collection systems accessible and functional at sites
 
 **Documentation Completeness:**
+
 - Trial Master File established and organized per SOP-002
 - All Phase 1 essential documents per ICH E6(R2) Section 8.2 in the TMF
 - All validation and verification documentation complete
@@ -1277,6 +1312,7 @@ approved by:
 The signed protocol **SHALL** be maintained in the TMF per ICH E6(R2) 8.2.7.
 
 Signatures indicate:
+
 - Agreement with the final protocol content
 - Commitment to conduct the study according to the protocol
 - Understanding of regulatory, ethical, and scientific obligations
@@ -1287,6 +1323,7 @@ Signatures indicate:
 Design transfer activities **SHALL** include:
 
 **Documentation Transfer:**
+
 - Provision of final approved protocol, SAP, CRFs, and all study materials to
   study conduct team
 - Provision of training materials and instructions to sites
@@ -1294,17 +1331,20 @@ Design transfer activities **SHALL** include:
 - Provision of monitoring plans to monitoring personnel
 
 **Knowledge Transfer:**
+
 - Training sessions for study conduct team on protocol requirements
 - Training for site personnel on study procedures and data collection
 - Training for data management personnel on database and systems
 - Handoff meetings between design team and operational team
 
 **System Transfer:**
+
 - Transfer of validated electronic systems to production environment
 - Provision of system access to authorized study personnel
 - Final testing of systems in production environment
 
 **Site Initiation:**
+
 - Site Initiation Visits (SIVs) conducted per protocol and SOP-009
 - Site staff training and competency assessment
 - Review of protocol requirements and procedures with site personnel
@@ -1441,10 +1481,12 @@ Essential documents to be maintained in the TMF during Phase 2 include those
 specified in ICH E6(R2) Section 8.3:
 
 **Protocol and Amendment Documentation:**
+
 - Protocol amendments with version control and rationale per ICH E6(R2) 8.3.1
 - Documentation of protocol deviations
 
 **Regulatory and Ethics Documentation:**
+
 - IRB/IEC approvals of protocol amendments per ICH E6(R2) 8.3.3
 - IRB/IEC continuing review approvals
 - IRB/IEC correspondence
@@ -1453,6 +1495,7 @@ specified in ICH E6(R2) Section 8.3:
   8.3.5
 
 **Study Conduct Documentation:**
+
 - Monitoring visit reports per ICH E6(R2) 8.3.8
 - Relevant communications between parties per ICH E6(R2) 8.3.9
 - Signed informed consent forms per ICH E6(R2) 8.3.10
@@ -1461,16 +1504,19 @@ specified in ICH E6(R2) Section 8.3:
 - Documentation of CRF corrections per ICH E6(R2) 8.3.13
 
 **Safety Documentation:**
+
 - Serious adverse event notifications per ICH E6(R2) 8.3.14
 - Safety reports to IRB/IEC and regulatory authorities
 
 **Laboratory and Data Documentation:**
+
 - Updates to normal values/ranges per ICH E6(R2) 8.3.6
 - Laboratory certification updates per ICH E6(R2) 8.3.7
 - Signature sheets per ICH E6(R2) 8.3.17
 - Records of retained samples per ICH E6(R2) 8.3.18 (if applicable)
 
 **Product Documentation (if applicable):**
+
 - Investigational product accountability records per ICH E6(R2) 8.3.16
   (may not apply to observational studies without investigational products)
 
@@ -1495,6 +1541,7 @@ Essential documents for study closeout are defined in ICH E6(R2) Section 8.4
 and **shall** be completed and maintained in the TMF. These documents include:
 
 **Final Protocol Documentation:**
+
 - **Final Protocol Version**: Final version of protocol incorporating all
   approved amendments, clearly identified as the final version per ICH E6(R2)
   8.4.1 (referenced for completeness)
@@ -1502,6 +1549,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   with dates, version numbers, and rationale for changes
 
 **Final Analysis and Reporting Documentation:**
+
 - **Final Statistical Analysis Plan**: Final version of SAP with any approved
   revisions, clearly identified as the final version used for study analyses
 - **Final Data Management Plan**: Final version of data management plan
@@ -1514,6 +1562,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   conclusions per ICH E6(R2) 8.4.7
 
 **Product and Sample Documentation (if applicable):**
+
 - **Documentation of Investigational Product Destruction**: Documentation of
   return and/or destruction of unused investigational products per ICH E6(R2)
   8.4.1 (may not apply to observational studies without investigational
@@ -1522,11 +1571,13 @@ and **shall** be completed and maintained in the TMF. These documents include:
   identification of any retained biological samples
 
 **Subject Documentation:**
+
 - **Completed Subject Identification Code List**: Final list linking subject
   identification codes to subject identities, maintained confidentially per
   ICH E6(R2) 8.4.2
 
 **Closeout and Quality Documentation:**
+
 - **Final Trial Closeout Monitoring Report**: Final monitoring report
   documenting study completion, site closeout activities, and final TMF
   assessment per ICH E6(R2) 8.4.4
@@ -1536,6 +1587,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   deactivation activities, and final site file verification
 
 **Regulatory and Ethics Closeout:**
+
 - **Final Report to IRB/IEC**: Final study report or study completion
   notification provided to IRB/IEC per ICH E6(R2) 8.4.6
 - **Final Report to Regulatory Authorities**: Final study report or
@@ -1544,6 +1596,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   acknowledgment of study closure
 
 **Design Documentation:**
+
 - **Final Design Documentation Package**: Complete set of final design
   documents including protocol, SAP, CRFs, data collection specifications,
   and all amendments
@@ -1554,6 +1607,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   activities
 
 **Post-Study Assessment (optional):**
+
 - **Post-Study Design Review Report**: Lessons learned and recommendations for
   future study designs. This assessment **may** include:
   - Evaluation of study design effectiveness
@@ -1565,6 +1619,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   - Assessment of statistical methods and sample size adequacy
 
 **Treatment Allocation Documentation (if applicable):**
+
 - **Treatment Allocation and Decoding Documentation**: Documentation revealing
   allocation of subjects to treatment groups per ICH E6(R2) 8.4.5 (may not
   apply to observational studies)
@@ -1597,6 +1652,7 @@ Archiving **shall** include:
 
 The archived TMF and study records **shall** remain accessible for retrieval
 during the retention period to support:
+
 - Regulatory inspections
 - Audits
 - Publications and secondary analyses
@@ -1605,6 +1661,7 @@ during the retention period to support:
 
 Retrieval procedures and archive access controls **shall** be established per
 SOP-002 and SOP-007 to ensure:
+
 - Authorized access only
 - Maintenance of document integrity
 - Audit trail of retrievals
@@ -1621,6 +1678,7 @@ activities and documented training records **SHALL** be maintained per
 SOP-002.
 
 Retraining **SHALL** be conducted when:
+
 - This SOP is revised
 - Personnel demonstrate deficiencies in applying design control procedures
 - Significant findings from audits or inspections indicate training gaps
