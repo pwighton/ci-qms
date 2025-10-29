@@ -45,6 +45,7 @@ Vendor performance issues may trigger [SOP-011: Corrective and Preventive Action
 
 Covered Activities
 
+- Investigator Selection
 - Vendor identification and selection
 - Vendor qualification and due diligence
 - Qualified Vendor List (QVL) management
