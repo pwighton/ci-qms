@@ -284,6 +284,8 @@ phase:
   and oversight needs (IRB/IEC review, regulatory submissions if applicable)
 - **Resource Requirements**: Preliminary assessment of personnel, budget,
   sites, and infrastructure needs
+- **Site and Investigator Selection**: Identification and preliminary
+  qualification of potential study sites and investigators per SOP-006
 
 #### 5.2.3 Creation of the Trial Master File (TMF)
 
@@ -358,7 +360,8 @@ Activities in this phase **SHALL** integrate with:
   concept
 - **SOP-005 (Study Design Review)**: Concept Review decision gate
 - **SOP-006 (Outsourced Activities)**: Early identification of potential CROs
-  or other service providers if applicable
+  or other service providers if applicable; Site and investigator selection and
+  qualification
 
 ### 5.3 Protocol Development
 
@@ -574,7 +577,7 @@ include:
 - **Randomization Specifications** (if applicable): Documentation of
   randomization procedures including randomization schedule, block size,
   stratification factors, and procedures for generating and maintaining the
-  randomization list per ICH E6(R2) 8.2.15.
+  randomization list per ICH E6(R2) 8.2.18.
 
 **Data Collection Design Outputs:**
 
@@ -810,7 +813,7 @@ Design outputs for regulatory and ethics documentation **SHALL** include:
   - Any other financial interests
 
 - **Financial Arrangements Documentation**: Contracts or agreements documenting
-  financial aspects of the study per ICH E6(R2) 8.2.5
+  financial aspects of the study per ICH E6(R2) 8.2.4
 
 **Regulatory Documentation (if applicable):**
 
@@ -823,7 +826,7 @@ Design outputs for regulatory and ethics documentation **SHALL** include:
 **Insurance and Indemnity:**
 
 - **Insurance Documentation**: Evidence of insurance or indemnity to cover
-  liability of investigators and institutions per ICH E6(R2) 8.2.6 (if
+  liability of investigators and institutions per ICH E6(R2) 8.2.5 (if
   required)
 
 **Agreements:**
@@ -831,7 +834,7 @@ Design outputs for regulatory and ethics documentation **SHALL** include:
 - **Clinical Study Agreements**: Signed agreements between sponsor and
   investigator/institution, or between sponsor and CRO, documenting
   responsibilities, obligations, and financial arrangements per ICH E6(R2)
-  8.2.18
+  8.2.6
 
 All design outputs listed above **SHALL** be included in the TMF.
 
@@ -1309,7 +1312,7 @@ approved by:
 - Statistical lead (as applicable)
 - Other parties as required by organizational policy or regulatory requirements
 
-The signed protocol **SHALL** be maintained in the TMF per ICH E6(R2) 8.2.7.
+The signed protocol **SHALL** be maintained in the TMF per ICH E6(R2) 8.2.2.
 
 Signatures indicate:
 
@@ -1357,7 +1360,7 @@ Design transfer activities **SHALL** include:
 Design outputs from design transfer and study initiation approval **SHALL**
 include:
 
-- **Signed Protocol**: Final approved and signed protocol per ICH E6(R2) 8.2.7
+- **Signed Protocol**: Final approved and signed protocol per ICH E6(R2) 8.2.2
 
 - **Final Design Approval Documentation**: Documentation of final design
   approval decision including:
@@ -1370,7 +1373,7 @@ include:
 - **Instructions for Investigators and Site Staff**: Comprehensive instructions
   for study conduct including:
   - Protocol procedures and requirements
-  - CRF completion instructions per ICH E6(R2) 8.2.17
+  - CRF completion instructions
   - Data collection system user guides
   - Source documentation requirements
   - Informed consent procedures
@@ -1396,8 +1399,7 @@ include:
   - Training dates and trainer identification
   - Competency assessment results (if applicable)
 
-All design outputs listed above **SHALL** be included in the TMF per ICH E6(R2)
-8.2.17 (instructions) and 8.2.18 (agreements).
+All design outputs listed above **SHALL** be included in the TMF.
 
 #### 5.8.6 Final Design Review and Approval
 
@@ -1482,43 +1484,61 @@ specified in ICH E6(R2) Section 8.3:
 
 **Protocol and Amendment Documentation:**
 
-- Protocol amendments with version control and rationale per ICH E6(R2) 8.3.1
+- Updates to Investigator's Brochure per ICH E6(R2) 8.3.1 (if applicable for
+  observational studies)
+- Protocol amendments and Case Report Form revisions per ICH E6(R2) 8.3.2
+- Informed consent form revisions per ICH E6(R2) 8.3.2
+- Advertisement for subject recruitment revisions per ICH E6(R2) 8.3.2 (if
+  applicable)
 - Documentation of protocol deviations
+- Updates to normal values/ranges per ICH E6(R2) 8.3.6
 
 **Regulatory and Ethics Documentation:**
 
 - IRB/IEC approvals of protocol amendments per ICH E6(R2) 8.3.3
-- IRB/IEC continuing review approvals
-- IRB/IEC correspondence
+- IRB/IEC approvals of informed consent form revisions per ICH E6(R2) 8.3.3
+- IRB/IEC approvals of advertisement revisions per ICH E6(R2) 8.3.3
+- IRB/IEC continuing review approvals per ICH E6(R2) 8.3.3
 - Regulatory authority communications and approvals per ICH E6(R2) 8.3.4
-- Updates to investigator CVs and qualifications per ICH E6(R2) 8.3.2 and
-  8.3.5
+- Updates to investigator CVs and qualifications per ICH E6(R2) 8.3.5
+- Laboratory certification updates per ICH E6(R2) 8.3.7
 
 **Study Conduct Documentation:**
 
-- Monitoring visit reports per ICH E6(R2) 8.3.8
-- Relevant communications between parties per ICH E6(R2) 8.3.9
-- Signed informed consent forms per ICH E6(R2) 8.3.10
-- Source documents per ICH E6(R2) 8.3.11
-- Completed case report forms per ICH E6(R2) 8.3.12
-- Documentation of CRF corrections per ICH E6(R2) 8.3.13
+- Monitoring visit reports per ICH E6(R2) 8.3.10
+- Relevant communications other than site visits per ICH E6(R2) 8.3.11
+- Signed informed consent forms per ICH E6(R2) 8.3.12
+- Source documents per ICH E6(R2) 8.3.13
 
 **Safety Documentation:**
 
-- Serious adverse event notifications per ICH E6(R2) 8.3.14
-- Safety reports to IRB/IEC and regulatory authorities
+- Notification by investigator to sponsor of serious adverse events per
+  ICH E6(R2) 8.3.16
+- Notification to regulatory authorities and IRB/IEC of unexpected serious
+  adverse drug reactions per ICH E6(R2) 8.3.17
+- Notification by sponsor to investigators of safety information per
+  ICH E6(R2) 8.3.18
+- Interim or annual reports to IRB/IEC and regulatory authorities per
+  ICH E6(R2) 8.3.19
 
-**Laboratory and Data Documentation:**
+**Subject Documentation:**
 
-- Updates to normal values/ranges per ICH E6(R2) 8.3.6
-- Laboratory certification updates per ICH E6(R2) 8.3.7
-- Signature sheets per ICH E6(R2) 8.3.17
-- Records of retained samples per ICH E6(R2) 8.3.18 (if applicable)
+- Signed, dated, and completed case report forms per ICH E6(R2) 8.3.14
+- Documentation of CRF corrections per ICH E6(R2) 8.3.15
+- Subject screening log per ICH E6(R2) 8.3.20
+- Subject identification code list per ICH E6(R2) 8.3.21
+- Subject enrollment log per ICH E6(R2) 8.3.22
 
-**Product Documentation (if applicable):**
+**Investigational Product Accountability (if applicable):**
 
-- Investigational product accountability records per ICH E6(R2) 8.3.16
-  (may not apply to observational studies without investigational products)
+- Investigational product accountability at the site per ICH E6(R2) 8.3.23 (may
+  not apply to observational studies without investigational products)
+
+**Additional Documentation:**
+
+- Signature sheets per ICH E6(R2) 8.3.24
+- Records of retained body fluids/tissue samples per ICH E6(R2) 8.3.25 (if
+  applicable)
 
 Detailed requirements for creating, reviewing, and maintaining these documents
 during study conduct are specified in the applicable SOPs referenced in
@@ -1543,8 +1563,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
 **Final Protocol Documentation:**
 
 - **Final Protocol Version**: Final version of protocol incorporating all
-  approved amendments, clearly identified as the final version per ICH E6(R2)
-  8.4.1 (referenced for completeness)
+  approved amendments, clearly identified as the final version
 - **Protocol Amendment History**: Complete history of all protocol amendments
   with dates, version numbers, and rationale for changes
 
@@ -1565,7 +1584,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
 
 - **Documentation of Investigational Product Destruction**: Documentation of
   return and/or destruction of unused investigational products per ICH E6(R2)
-  8.4.1 (may not apply to observational studies without investigational
+  8.4.2 (may not apply to observational studies without investigational
   products)
 - **Record of Retained Samples**: Final documentation of location and
   identification of any retained biological samples
@@ -1580,18 +1599,18 @@ and **shall** be completed and maintained in the TMF. These documents include:
 
 - **Final Trial Closeout Monitoring Report**: Final monitoring report
   documenting study completion, site closeout activities, and final TMF
-  assessment per ICH E6(R2) 8.4.4
+  assessment per ICH E6(R2) 8.4.5
 - **Audit Certificate**: Statement of completion of audit, if audit was
-  performed per ICH E6(R2) 8.4.3
+  performed per ICH E6(R2) 8.4.4
 - **Site Closeout Documentation**: Records of site closeout visits,
   deactivation activities, and final site file verification
 
 **Regulatory and Ethics Closeout:**
 
 - **Final Report to IRB/IEC**: Final study report or study completion
-  notification provided to IRB/IEC per ICH E6(R2) 8.4.6
+  notification provided to IRB/IEC per ICH E6(R2) 8.4.7
 - **Final Report to Regulatory Authorities**: Final study report or
-  notification to regulatory authorities if required per ICH E6(R2) 8.4.6
+  notification to regulatory authorities if required per ICH E6(R2) 8.4.7
 - **IRB/IEC Study Closure Acknowledgment**: Documentation of IRB/IEC
   acknowledgment of study closure
 
@@ -1621,7 +1640,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
 **Treatment Allocation Documentation (if applicable):**
 
 - **Treatment Allocation and Decoding Documentation**: Documentation revealing
-  allocation of subjects to treatment groups per ICH E6(R2) 8.4.5 (may not
+  allocation of subjects to treatment groups per ICH E6(R2) 8.4.6 (may not
   apply to observational studies)
 
 All essential documents listed above **shall** be completed, reviewed for
@@ -1685,71 +1704,18 @@ Retraining **SHALL** be conducted when:
 
 ## APPENDIX A: MAPPING TO ICH E6(R2) REQUIREMENTS
 
-This appendix maps the requirements of ICH E6(R2) to the sections of this SOP,
-demonstrating how this SOP conforms to ICH E6(R2) for observational
-study design controls.
+This appendix provides a detailed mapping of essential documents required by
+ICH E6(R2) Section 8 to the sections of this SOP where they are addressed.
+This mapping demonstrates how SOP-001 ensures comprehensive documentation of
+observational study design controls in accordance with ICH E6(R2) requirements.
 
-### A.1 ICH E6(R2) Section 3: Institutional Review Board/Independent Ethics Committee (IRB/IEC)
-
-| ICH E6(R2) Section | Requirement | SOP-001 Section |
-|-------------------|-------------|-----------------|
-| 3.1 | IRB/IEC responsibilities | 5.5.5 |
-| 3.2 | IRB/IEC composition | 5.5.4 |
-| 3.3 | IRB/IEC procedures | 5.5.5 |
-| 3.4 | IRB/IEC records | 5.5.4 |
-
-### A.2 ICH E6(R2) Section 4: Investigator
-
-| ICH E6(R2) Section | Requirement | SOP-001 Section |
-|-------------------|-------------|-----------------|
-| 4.1 | Investigator qualifications and agreements | 5.5.4, 5.8.3 |
-| 4.2 | Adequate resources | 5.2.2, 5.2.5 |
-| 4.5 | Compliance with protocol | 5.8.3, 6.2 |
-| 4.8 | Informed consent of trial subjects | 5.5.4 |
-| 4.9 | Records and reports | 5.2.3, 5.5.4, 6.4, 7.2 |
-
-### A.3 ICH E6(R2) Section 5: Sponsor
-
-| ICH E6(R2) Section | Requirement | SOP-001 Section |
-|-------------------|-------------|-----------------|
-| 5.0 | Quality management | 4.1, 4.3 |
-| 5.1 | Quality assurance and quality control | 5.6, 5.7 |
-| 5.5 | Trial management, data handling, recordkeeping | 5.4.4, 6.4, 7.2 |
-| 5.18 | Monitoring | 5.3.4, 5.8.6 |
-
-### A.4 ICH E6(R2) Section 6: Clinical Trial Protocol and Protocol Amendment(s)
-
-| ICH E6(R2) Section | Requirement | SOP-001 Section |
-|-------------------|-------------|-----------------|
-| 6.1 | General information | 5.3.2 |
-| 6.2 | Background information | 5.3.2 |
-| 6.3 | Trial objectives and purpose | 5.3.2 |
-| 6.4 | Trial design | 5.3.2 |
-| 6.5 | Selection and withdrawal of subjects | 5.3.2 |
-| 6.6 | Treatment of subjects | 5.3.2 |
-| 6.7 | Assessment of efficacy | 5.3.2 |
-| 6.8 | Assessment of safety | 5.3.2 |
-| 6.9 | Statistics | 5.3.2, 5.4.2, 5.4.4 |
-| 6.10 | Direct access to source data/documents | 5.3.2 |
-| 6.11 | Quality control and quality assurance | 5.3.2 |
-| 6.12 | Ethics | 5.3.2, 5.5 |
-| 6.13 | Data handling and record keeping | 5.3.2, 5.4.4 |
-| 6.14 | Financing and insurance | 5.3.2, 5.5.4 |
-| 6.15 | Publication policy | 5.3.2 |
-| 6.16 | Supplements | 5.3.2 |
-
-### A.5 ICH E6(R2) Section 8: Essential Documents for the Conduct of a Clinical Trial
-
-This section provides detailed mapping of essential documents required by
-ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
-
-#### A.5.1 Section 8.2: Before the Clinical Phase of the Trial
+#### A.1 ICH E6(R2) Section 8.2: Before the Clinical Phase of the Trial
 
 | ICH E6(R2) 8.2 | Essential Document | SOP-001 Section |
 |----------------|-------------------|-----------------|
 | 8.2.1 | Investigator's brochure | 5.2.5 (optional for observational studies) |
 | 8.2.2 | Signed protocol | 5.3.4, 5.8.3 |
-| 8.2.2 | Amendment(s) to protocol | 5.3.5, 6.2 |
+| 8.2.2 | Amendment(s) to protocol | 5.3.5, 6.4 |
 | 8.2.2 | Sample case report form | 5.3.4, 5.4.4 |
 | 8.2.3 | Information given to trial subject | 5.5.4 |
 | 8.2.3 | Informed consent form | 5.5.4 |
@@ -1757,61 +1723,56 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.2.3 | Advertisement for subject recruitment | 5.5.4 |
 | 8.2.4 | Financial aspects of the trial | 5.5.4 |
 | 8.2.5 | Insurance statement | 5.5.4 |
-| 8.2.6 | Signed agreement between involved parties | 5.5.4, 5.8.5 |
+| 8.2.6 | Signed agreement between involved parties | 5.5.4, 5.8.2 |
 | 8.2.7 | Dated, documented approval/favorable opinion of IRB/IEC | 5.5.5, 5.8.2 |
-| 8.2.7 | IRB/IEC composition | 5.5.4 |
-| 8.2.8 | IRB/IEC documents | 5.5.4 |
-| 8.2.9 | IRB/IEC approval of protocol and amendments | 5.5.5, 5.8.2 |
-| 8.2.9 | Approval of informed consent form | 5.5.5 |
-| 8.2.10 | Regulatory authority authorizations/approvals/notifications | 5.5.6, 5.8.2 |
-| 8.2.11 | Curriculum vitae and/or other relevant documents | 5.5.4 |
-| 8.2.12 | Normal value(s)/range(s) for medical/laboratory/technical procedures | 5.4.4 |
-| 8.2.13 | Medical/laboratory/technical procedures certification or accreditation | 5.4.4 |
+| 8.2.8 | IRB/IEC composition | 5.5.4 |
+| 8.2.9 | Regulatory Authority(ies) authorization/approval/notification of protocol (where required) | 5.5.6, 5.8.2 |
+| 8.2.10 | Curriculum vitae and/or other relevant documents | 5.5.4 |
+| 8.2.11 | Normal value(s)/range(s) for medical/laboratory/technical procedures | 5.4.4 |
+| 8.2.12 | Medical/laboratory/technical procedures certification or accreditation | 5.4.4 |
 | 8.2.13 | Sample of label(s) attached to investigational product container(s) | N/A for observational studies |
 | 8.2.14 | Instructions for handling investigational product(s) | N/A for observational studies |
 | 8.2.15 | Shipping records for investigational product(s) | N/A for observational studies |
 | 8.2.16 | Certificate(s) of analysis of investigational product(s) | N/A for observational studies |
 | 8.2.17 | Decoding procedures for blinded trial | 5.4.4 (if applicable) |
 | 8.2.18 | Master randomization list | 5.4.4 (if applicable) |
-| 8.2.19 | Pre-trial monitoring report | Not addressed (see SOP-009) |
+| 8.2.19 | Pre-trial monitoring report | 5.8.5, see SOP-009 |
 | 8.2.20 | Trial initiation monitoring report | 5.8.5, see SOP-009 |
 
-#### A.5.2 Section 8.3: During the Clinical Conduct of the Trial
+#### A.2 ICH E6(R2) Section 8.3: During the Clinical Conduct of the Trial
 
 | ICH E6(R2) 8.3 | Essential Document | SOP-001 Section |
 |----------------|-------------------|-----------------|
 | 8.3.1 | Investigator's brochure updates | 6.4 |
 | 8.3.2 | Any revision to protocol/amendment(s) and case report form | 6.2, 6.4 |
-| 8.3.3 | Any revision to informed consent form | 6.4 |
-| 8.3.4 | Dated, documented approval of IRB/IEC of protocol amendment(s) | 6.4 |
-| 8.3.4 | Approval of informed consent form revision(s) | 6.4 |
-| 8.3.4 | Continuing review approval | 6.4 |
-| 8.3.5 | Regulatory authority authorization/approval/notification of protocol amendment(s) | 6.4 |
-| 8.3.6 | Curriculum vitae for new investigator(s) and/or sub-investigator(s) | 6.4 |
-| 8.3.7 | Updates to normal value(s)/range(s) for medical/laboratory/technical procedures | 6.4 |
-| 8.3.8 | Updates of medical/laboratory/technical procedures certification or accreditation | 6.4 |
-| 8.3.9 | Documentation of investigational product(s) shipment | N/A for observational studies |
-| 8.3.10 | Certificate(s) of analysis for new batches of investigational product(s) | N/A for observational studies |
-| 8.3.11 | Monitoring visit reports | 6.4, see SOP-009 |
-| 8.3.12 | Relevant communications between investigator(s) and IRB/IEC | 6.4 |
-| 8.3.13 | Relevant communications between investigator(s) and sponsor | 6.4 |
-| 8.3.14 | Relevant communications between investigator(s) and regulatory authority(ies) | 6.4 |
-| 8.3.15 | Dated, documented informed consent | 6.4 |
-| 8.3.16 | Source documents | 6.4 |
-| 8.3.17 | Signed, dated, and completed case report forms | 6.4 |
-| 8.3.18 | Documentation of case report form corrections | 6.4 |
-| 8.3.19 | Notification by originating investigator to sponsor of serious adverse events | 6.4, see SOP-008 |
-| 8.3.20 | Notification by sponsor and/or investigator to regulatory authority(ies) and IRB(s)/IEC(s) of unexpected serious adverse drug reactions | 6.4, see SOP-008 |
-| 8.3.21 | Notification by sponsor to investigators of safety information | 6.4, see SOP-008 |
-| 8.3.22 | Interim or annual reports to IRB/IEC and authority(ies) | 6.4 |
-| 8.3.23 | Subject screening log | 6.4, see SOP-009 |
-| 8.3.24 | Subject identification code list | 6.4 |
-| 8.3.25 | Subject enrollment log | 6.4, see SOP-009 |
-| 8.3.26 | Investigational product(s) accountability at the site | N/A for observational studies |
-| 8.3.27 | Signature sheet | 6.4 |
-| 8.3.28 | Record of retained body fluids/tissue samples | 6.4 |
+| 8.3.2 | Any revision to informed consent form | 6.4 |
+| 8.3.3 | Dated, documented approval of IRB/IEC of protocol amendment(s) | 6.4 |
+| 8.3.3 | Dated, documented approval of IRB/IEC of informed consent form revision(s) | 6.4 |
+| 8.3.3 | Dated, documented approval of IRB/IEC of Continuing review approval | 6.4 |
+| 8.3.4 | Regulatory authority authorization/approval/notification of protocol amendment(s) | 6.4 |
+| 8.3.5 | Curriculum vitae for new investigator(s) and/or sub-investigator(s) | 6.4 |
+| 8.3.6 | Updates to normal value(s)/range(s) for medical/laboratory/technical procedures | 6.4 |
+| 8.3.7 | Updates of medical/laboratory/technical procedures certification or accreditation | 6.4 |
+| 8.3.8 | Documentation of investigational product(s) shipment | N/A for observational studies |
+| 8.3.9 | Certificate(s) of analysis for new batches of investigational product(s) | N/A for observational studies |
+| 8.3.10 | Monitoring visit reports | 6.4, see SOP-009 |
+| 8.3.11 | Relevant communications other than site visits | 6.4 |
+| 8.3.12 | Signed informed consent forms | 6.4 |
+| 8.3.13 | Source documents | 6.4 |
+| 8.3.14 | Signed, dated, and completed case report forms | 6.4 |
+| 8.3.15 | Documentation of case report form corrections | 6.4 |
+| 8.3.16 | Notification by originating investigator to sponsor of serious adverse events | 6.4 |
+| 8.3.17 | Notification by sponsor and/or investigator to regulatory authority(ies) and IRB(s)/IEC(s) of unexpected serious adverse drug reactions | 6.4 |
+| 8.3.18 | Notification by sponsor to investigators of safety information | 6.4 |
+| 8.3.19 | Interim or annual reports to IRB/IEC and authority(ies) | 6.4 |
+| 8.3.20 | Subject screening log | 6.4 |
+| 8.3.21 | Subject identification code list | 6.4 |
+| 8.3.22 | Subject enrollment log | 6.4 |
+| 8.3.23 | Investigational product(s) accountability at the site | 6.4; may be N/A for observational studies |
+| 8.3.24 | Signature sheet | 6.4 |
+| 8.3.25 | Record of retained body fluids/tissue samples | 6.4 |
 
-#### A.5.3 Section 8.4: After Completion or Termination of the Trial
+#### A.3 ICH E6(R2) Section 8.4: After Completion or Termination of the Trial
 
 | ICH E6(R2) 8.4 | Essential Document | SOP-001 Section |
 |----------------|-------------------|-----------------|
@@ -1819,12 +1780,12 @@ ICH E6(R2) Section 8 to the sections of SOP-001 where they are addressed.
 | 8.4.2 | Documentation of investigational product destruction | N/A for observational studies |
 | 8.4.3 | Completed subject identification code list | 7.2 |
 | 8.4.4 | Audit certificate (if available) | 7.2 |
-| 8.4.5 | Final trial close-out monitoring report | 7.2, see SOP-007 |
+| 8.4.5 | Final trial close-out monitoring report | 7.2 |
 | 8.4.6 | Treatment allocation and decoding documentation | 7.2 (if applicable) |
-| 8.4.7 | Final report by investigator to IRB/IEC and regulatory authority(ies) | 7.2, see SOP-007 |
+| 8.4.7 | Final report by investigator to IRB/IEC and regulatory authority(ies) | 7.2 |
 | 8.4.8 | Clinical study report | 7.2 |
 
-### A.6 Notes
+### A.4 Notes
 
 1. **Not applicable (observational studies)** indicates documents related to
    investigational products that typically do not apply to observational studies
