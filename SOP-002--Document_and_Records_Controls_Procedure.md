@@ -27,9 +27,23 @@ of those documents and records are governed by other various procedures. Refer
 to [Setion 8.0 of the Quality Manual](QM-001--QualityManual.md#80-measurements-analysis-and-improvement)
 for specifics.
 
+When documents and records are created, stored, or maintained in electroni
+systems, those systems SHALL comply with the requirements of
+[SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
+
+- [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11): Electronic Records, Electronic Signatures
+
+- [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
+
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+
+- [FDA Guidance for Industry: Electronic Source Data in Clinical Investigations](https://www.fda.gov/media/85183/download) 
+
+- [FDA Guidance for Industry: Part 11, Electronic Records; Electronic Signatures — Scope and Application](https://www.fda.gov/media/75414/download)
 
 ### 3.2 __NewInstitue__ References 
 
