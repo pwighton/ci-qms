@@ -15,7 +15,7 @@ maintaining subject safety, privacy and data integrity.
 ## 2.0 SCOPE
 
 This procedure applies to all design and development activities for
-*observational studies* conducted by __NewInstitue__,  organized according to 
+*observational studies* conducted by __NewInstitue__,  organized according to
 the three temporal phases defined in ICH E6(R2) Section 8:
 
 -   **Phase 1**: Before the Conduct of the Study (primary focus of this SOP)
@@ -29,9 +29,9 @@ Design changes during the development phase are managed under this procedure.
 Changes to approved protocols and study documents after design approval are
 managed under [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
 
-This procedure defines how to develop study designs through systematic phases 
-from concept to final deliverables. Formal review meetings, approval authorities, 
-and go/no-go decision gates at key milestones are managed under 
+This procedure defines how to develop study designs through systematic phases
+from concept to final deliverables. Formal review meetings, approval authorities,
+and go/no-go decision gates at key milestones are managed under
 [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md).
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
@@ -48,7 +48,7 @@ and go/no-go decision gates at key milestones are managed under
 
 -   [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
 
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitue__ References
 
 1.  [QM-001: Quality Manual](QM-001--QualityManual.md)
 
@@ -69,7 +69,7 @@ and go/no-go decision gates at key milestones are managed under
 ### 3.3 Terms
 
 -   **Clinical Investigation**: The FDA cites the following CFRs for their
-    definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)), 
+    definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)),
     [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3(Clinical%20investigation))
     and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3(h)).
     This QMS adopts the definition from 21 CFR 50.3(c): any experiment that
@@ -80,7 +80,7 @@ and go/no-go decision gates at key milestones are managed under
     under these sections of the act, but the results of which are intended to
     be submitted later to, or held for inspection by, the Food and Drug
     Administration as part of an application for a research or marketing permit.
-    
+
 -   **Design Input**: Requirements that form the basis for study design
     (scientific objectives, endpoints, population criteria, regulatory
     requirements, etc.)
@@ -97,6 +97,10 @@ and go/no-go decision gates at key milestones are managed under
 -   **Essential Documents**: Documents per ICH E6(R2) Section 8 that permit
     evaluation of study conduct and data quality
 
+-   **Risk Management Plan**: A document describing the approach to risk
+    management for a specific study, including risk assessment methodology,
+    identified risks, mitigation strategies, and monitoring approach
+
 -   **Study Brochure**: A compilation of the clinical and nonclinical
     data that is relevant to the observational study in human subjects
 
@@ -106,8 +110,8 @@ and go/no-go decision gates at key milestones are managed under
 -   **Study Protocol**: A document that describes the objective(s), design,
     methodology, statistical considerations, and organization of a trial.
     `[ICH E6(R2) 1.44]`
-    
--   **Trial Master File (TMF)**: Collection of essential documents for an 
+
+-   **Trial Master File (TMF)**: Collection of essential documents for an
     observational study
 
 ### 3.4 Acronyms
@@ -126,7 +130,7 @@ and go/no-go decision gates at key milestones are managed under
 
 ### 4.1 Overview
 
-This section provides high-level requirements and documentation for design 
+This section provides high-level requirements and documentation for design
 control across all three temporal phases
 
 -   **Phase 1**: Before the conduct of the study
@@ -161,13 +165,16 @@ study design. Design inputs include:
 - Stakeholder requirements
 
 Design inputs are documented in Section 5.2 and inform all subsequent design
-activities.
+activities. Initial risk identification performed during design input
+development feeds into the Risk Management Plan developed according to
+[SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
 
 **Design Outputs** are the documented results of the design process that
 address design inputs. Design outputs include:
 
 - Study Protocol
 - Statistical Analysis Plan
+- Risk Management Plan
 - Case Report Forms and data collection specifications
 - Informed consent forms
 - Regulatory and ethics documentation
@@ -183,6 +190,7 @@ it right?" Verification ensures that:
 - All design inputs are addressed in design outputs
 - Design outputs are complete, accurate, and internally consistent
 - Documentation meets regulatory and quality standards
+- The Risk Management Plan addresses all identified critical processes and data
 
 **Design Validation** (Section 5.7) confirms that the study design is fit for
 its intended purpose and capable of meeting study objectives. Validation
@@ -193,6 +201,8 @@ ensures that:
   questions
 - Study procedures are feasible and executable
 - The overall design will produce reliable, interpretable results
+- Risk mitigation strategies in the Risk Management Plan are feasible and
+  executable
 
 **Design Transfer** (Section 5.8) is the process of transitioning the completed
 and validated design from the design team to the study conduct team. Design
@@ -234,7 +244,7 @@ Section 8 (before the study, during the study, after the study).
 A complete listing of essential documents and records, including their purpose
 and detailed SOP section references, is described below in Sections 5, 6 and 7.
 
-Not all documents listed below will be applicable to every 
+Not all documents listed below will be applicable to every
 *observational study*. The study protocol **SHALL** identify which documents are
 required for that specific study.
 
@@ -291,9 +301,9 @@ phase:
 
 The TMF **SHALL** be established during this phase to house all essential
 documents and study records. The TMF structure **SHALL** be organized per
-SOP-002 and ICH E6(R2) Section 8 to accommodate documents from all three 
+SOP-002 and ICH E6(R2) Section 8 to accommodate documents from all three
 phases (before, during, and after study conduct).
-  
+
 #### 5.2.4 Design Inputs
 
 Design inputs for the study concept and feasibility phase include:
@@ -319,16 +329,23 @@ Design outputs from the study concept and feasibility phase **SHALL** include:
   - Regulatory and ethical requirements
   - Applicable requirements from regulatory guidance documents and standards
   - Identified constraints and assumptions
-  
+
 - **Feasibility Assessment**: Documentation of feasibility evaluation including:
   - Site capabilities and availability
   - Subject recruitment potential
   - Resource requirements and availability
   - Timeline estimates
-  - Identified risks and constraints
   - Preliminary budget estimates
 
-- **Investigator's Brochure or Study Information Document** (optional for 
+- **Initial Risk Management Plan**: Preliminary risk assessment documenting:
+  - Initial identification of critical processes and data
+  - Preliminary risk categories (safety, data quality, operational)
+  - High-level risk mitigation strategies
+  - Plan for comprehensive risk assessment during protocol development
+  This initial plan **SHALL** be developed into a comprehensive Risk Management
+  Plan according to [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
+
+- **Investigator's Brochure or Study Information Document** (optional for
   observational studies): An Investigator's Brochure or equivalent Study
   Information Document **MAY** be prepared to provide investigators and site
   staff with comprehensive information about the study rationale, procedures,
@@ -432,6 +449,12 @@ Design outputs from protocol development **SHALL** include:
 - **Protocol Synopsis**: Brief summary of the protocol (optional but
   recommended) providing key information in condensed format.
 
+- **Risk Management Plan**: Comprehensive risk management documentation
+  developed according to [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
+  The plan **SHALL** include risk assessment, mitigation strategies, Quality
+  Tolerance Limits (QTLs) for critical parameters, and risk-based monitoring
+  approach.
+
 - **Sample Case Report Form (CRF)**: Preliminary or sample CRF showing data
   elements to be collected. Detailed CRF development is addressed in
   Section 5.5.
@@ -441,7 +464,7 @@ Design outputs from protocol development **SHALL** include:
   **SHALL** address all elements required by ICH E6(R2) Section 4.8 and
   applicable regulatory requirements.
 
-- **Monitoring Plan**: Risk-based monitoring plan describing monitoring 
+- **Monitoring Plan**: Risk-based monitoring plan describing monitoring
   strategy, frequency, scope, and procedures per SOP-009. The monitoring plan
   **shall** be informed by the risk assessment conducted per SOP-003.
 
@@ -928,6 +951,7 @@ Design verification activities **SHALL** confirm that:
 - Data management procedures ensure data quality and integrity
 - Informed consent addresses all required elements per ICH E6(R2) Section 4.8
 - Regulatory and ethics documentation is complete
+- Risk Management Plan addresses all identified critical processes and data
 - Design outputs are internally consistent (protocol, SAP, CRFs align)
 - Documentation is clear, complete, and free from ambiguities
 - All applicable regulatory and ethical requirements are addressed
@@ -970,6 +994,19 @@ activities:
 - Assessment of informed consent readability for target population
 - Review of subject-facing materials for clarity
 
+**Risk Management Plan Verification**
+
+- All critical processes and data identified during design inputs are addressed
+- Risk assessments are complete for all identified risks
+- Risk scores are consistently applied using the defined methodology
+- Mitigation strategies are defined for all high and medium risks
+- Quality Tolerance Limits (QTLs) are established for critical parameters
+- The risk-based monitoring approach aligns with identified risks
+- Risk ownership and responsibilities are clearly assigned
+- Risk review and communication processes are defined
+- Verification **SHALL** be performed according to
+[SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
+
 #### 5.6.4 Verification Personnel
 
 Design verification activities **SHALL** be conducted by personnel who are:
@@ -1001,6 +1038,14 @@ Design outputs from verification activities **SHALL** include:
 
 - **Statistical Review Reports**: Documentation of statistical review of sample
   size, analysis methods, and SAP
+
+- **Risk Management Plan Review Reports**: Documentation of Risk Management Plan
+  review confirming:
+  - Coverage of all critical processes and data
+  - Completeness of risk assessments
+  - Appropriateness of mitigation strategies
+  - Alignment with monitoring plan
+  - QTL establishment for critical parameters
 
 - **CRF Review Reports**: Documentation of CRF review for completeness,
   clarity, and alignment with protocol
@@ -1089,6 +1134,8 @@ Design validation activities **SHALL** confirm that:
   retention
 - Computerized systems function correctly in the intended use environment
 - Site personnel can execute study procedures as specified
+- Risk mitigation strategies defined in the Risk Management Plan are feasible
+  and executable
 - The overall study design will produce reliable, interpretable results
 
 #### 5.7.3 Validation Activities
@@ -1251,7 +1298,8 @@ System validation documentation **SHALL** demonstrate that systems:
 Design validation **SHALL** integrate with:
 
 - **SOP-003 (Risk Management)**: Risk-based approach to determining validation
-  activities; validation of risk mitigation strategies
+  activities; validation that risk mitigation strategies are feasible and
+  executable
 - **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
   Validation of all computerized systems
 - **SOP-005 (Study Design Review)**: Validation Review decision gate
@@ -1275,6 +1323,8 @@ Before proceeding to study initiation, the following **SHALL** be completed:
 **Design Completion:**
 
 - All design outputs from Sections 5.2 through 5.5 are complete and approved
+- Risk Management Plan finalized per SOP-003 with all identified risks assessed
+  and mitigation strategies defined
 - Design verification activities (Section 5.6) are complete with all findings
   resolved
 - Design validation activities (Section 5.7) are complete with all findings
@@ -1319,6 +1369,8 @@ Signatures indicate:
 - Agreement with the final protocol content
 - Commitment to conduct the study according to the protocol
 - Understanding of regulatory, ethical, and scientific obligations
+- Acceptance of the Risk Management Plan and commitment to implement risk
+  mitigation strategies
 - Confirmation that all prerequisite activities are complete
 
 #### 5.8.4 Design Transfer Activities
@@ -1327,15 +1379,18 @@ Design transfer activities **SHALL** include:
 
 **Documentation Transfer:**
 
-- Provision of final approved protocol, SAP, CRFs, and all study materials to
-  study conduct team
+- Provision of final approved protocol, SAP, Risk Management Plan, CRFs, and
+  all study materials to study conduct team
 - Provision of training materials and instructions to sites
 - Provision of data management documentation to data management team
-- Provision of monitoring plans to monitoring personnel
+- Provision of risk-based monitoring plans to monitoring personnel per the Risk
+  Management Plan
 
 **Knowledge Transfer:**
 
 - Training sessions for study conduct team on protocol requirements
+- Training on Risk Management Plan including critical processes, QTLs, and risk
+  indicators
 - Training for site personnel on study procedures and data collection
 - Training for data management personnel on database and systems
 - Handoff meetings between design team and operational team
@@ -1361,6 +1416,13 @@ Design outputs from design transfer and study initiation approval **SHALL**
 include:
 
 - **Signed Protocol**: Final approved and signed protocol per ICH E6(R2) 8.2.2
+
+- **Approved Risk Management Plan**: Final Risk Management Plan including:
+  - Risk register with all identified risks
+  - Risk mitigation strategies and controls
+  - Quality Tolerance Limits for critical parameters
+  - Risk-based monitoring approach
+  - Risk review and communication plans
 
 - **Final Design Approval Documentation**: Documentation of final design
   approval decision including:
@@ -1688,12 +1750,12 @@ SOP-002 and SOP-007 to ensure:
 
 ## 8.0 TRAINING
 
-All personnel involved in design activities **SHALL** be trained on this 
-procedure and maintain documented evidence of training according to 
+All personnel involved in design activities **SHALL** be trained on this
+procedure and maintain documented evidence of training according to
 [QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
 
-Training **SHALL** be completed before personnel participate in design 
-activities and documented training records **SHALL** be maintained per 
+Training **SHALL** be completed before personnel participate in design
+activities and documented training records **SHALL** be maintained per
 SOP-002.
 
 Retraining **SHALL** be conducted when:
