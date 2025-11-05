@@ -47,6 +47,20 @@ involved in:
 
 ### 3.1 Guidance and Regulatory References
 
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+  - Section 5.18: Monitoring
+  - Section 5.20: Noncompliance
+  - Addendum Section 5.0: Quality Management
+
+- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
+  - Section 3: Designing Quality into Clinical Studies
+  - Section 6: Conduct, Safety Monitoring and Reporting
+  - Section 7: Considerations in Identifying Critical to Quality Factors
+
+- [FDA Guidance for Industry: Oversight of Clinical Investigations - A Risk-Based Approach to Monitoring (August 2013)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/oversight-clinical-investigations-risk-based-approach-monitoring)
+
+- [FDA Guidance for Industry: Use of Electronic Health Record Data in Clinical Investigations (July 2018)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-electronic-health-record-data-clinical-investigations-guidance-industry)
+
 ### 3.2 __NewInstitue__ References 
 
 ### 3.3 Terms
