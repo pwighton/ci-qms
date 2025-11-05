@@ -13,29 +13,56 @@ subject safety.
 
 ## 2.0 SCOPE
 
-This procedure applies to all monitoring and oversight activities for
-NewInstitute *observational studies*, utilizing risk-based monitoring
-approaches appropriate for each *observational study*.
+This procedure applies to the execution and documentation of all monitoring 
+and oversight activities for __NewInstitue__ observational studies. It 
+implements the risk-based monitoring approach defined in the Risk Management 
+Plan to ensure studies are conducted in accordance with the protocol, GCP, 
+and regulatory requirements while maintaining data quality and participant 
+safety.
 
-The risk-based monitoring approach is developed using
-[SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
+This procedure defines the process for:
+- Developing the Monitoring Plan based on the Risk Management Plan
+- Executing on-site, remote, and centralized monitoring activities
+- Conducting Source Data Verification (SDV) per risk-based strategies
+- Generating monitoring visit reports and tracking findings
+- Measuring and reporting site performance metrics and KPIs
+- Escalating issues identified during monitoring
+- Maintaining monitoring documentation and schedules
 
-Monitoring findings may identify nonconformances managed under
-[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
+Key deliverables from this procedure include:
+- Monitoring Plan (defines HOW, WHEN, WHERE, and WHO performs monitoring)
+- Monitoring Visit Reports
+- Remote/Centralized Monitoring Reports
+- Site Performance Metrics/KPI Reports
+- SDV documentation
+- Issue logs and escalation reports
 
-Sites being monitored are qualified according to
+This procedure implements the monitoring strategies determined by the Risk 
+Management Plan developed under [SOP-003: Risk Management and Quality Risk 
+Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md). 
+The Monitoring Plan operationalizes the risk-based approach by translating 
+risk levels and Critical to Quality factors into specific monitoring 
+activities.
+
+Study protocols being monitored are developed under 
+[SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).
+
+Sites being monitored are qualified according to 
 [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md).
 
-Monitoring reports and documentation are controlled under
-[SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md) and maintained in the TMF.
+Monitoring reports and documentation are controlled under 
+[SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md) 
+and maintained in the TMF.
 
-Issues identified during monitoring requiring corrective action are managed
-under [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md), 
+Monitoring findings that identify nonconformances are managed under 
+[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
+
+Issues requiring corrective action are managed under 
+[SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md), 
 which tracks actions through completion and verification of effectiveness.
 
-This procedure applies to all __NewInstitue__ employees and subcontractors
+This procedure applies to all __NewInstitue__ employees and subcontractors 
 involved in:
-
 - Clinical monitoring activities
 - Study management and oversight
 - Data management (for centralized monitoring)

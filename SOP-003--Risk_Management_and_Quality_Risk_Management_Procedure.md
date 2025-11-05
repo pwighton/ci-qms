@@ -14,45 +14,53 @@ E6(R2) quality management principles.
 
 ## 2.0 SCOPE
 
-This procedure applies to all risk management activities for *observational
-studies* throughout all three temporal phases defined in ICH E6(R2) Section 8:
+This procedure applies to all risk management and quality risk management 
+activities for __NewInstitue__ observational studies. It establishes the 
+framework for identifying, assessing, controlling, and reviewing risks that 
+could impact study quality, data integrity, and participant safety.
 
-- **Phase 1**: Before the Conduct of the Study (risk identification,
-  assessment, and planning)
-- **Phase 2**: During the Conduct of the Study (risk monitoring, control, and
-  reassessment)
-- **Phase 3**: After Completion or Termination of the Study (risk review and
-  lessons learned)
+This procedure defines the process for:
+- Identifying and documenting Critical to Quality (CtQ) factors per 
+  ICH E8(R1)
+- Conducting risk assessments and creating the Risk Assessment Matrix
+- Developing the Risk Management Plan (RMP) that determines monitoring 
+  strategies
+- Establishing Risk Indicators and Quality Tolerance Limits (QTLs)
+- Defining risk mitigation strategies and control measures
+- Conducting periodic risk reviews and updates
 
-Computer system and data-related risks are assessed for identification under
-this procedure but detailed validation, cybersecurity controls, and system risk
-mitigation are managed under
-[SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+Key deliverables from this procedure include:
+- Risk Management Plan (defines WHAT to monitor and WHY based on risk levels)
+- Risk Assessment Report/Matrix
+- Critical to Quality Factors documentation
+- Risk mitigation strategies that inform monitoring approach
 
-Risks identified during study design are initially assessed under
-[SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
-using the risk assessment framework established in this procedure.
+The Risk Management Plan developed under this procedure serves as a primary 
+input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md), 
+which executes the monitoring activities identified as necessary through risk 
+assessment.
 
-Risk-based monitoring plans developed under this procedure are executed
-according to
-[SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md).
+Study design considerations and protocol development follow 
+[SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).
 
-Risks requiring formal design changes after approval are managed through
-[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
+Risk management documentation is controlled under 
+[SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
-Nonconformances identified through risk monitoring are managed under
-[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
+Issues identified through risk management activities that constitute 
+nonconformances are managed under [SOP-010: Control of Nonconforming 
+Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
 
-This procedure applies to all __NewInstitue__ employees and subcontractors
+Corrective and preventive actions arising from risk assessments are managed 
+under [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md).
+
+This procedure applies to all __NewInstitue__ employees and subcontractors 
 involved in:
-
-- Study design and planning
-- Risk assessment activities
-- Quality management
-- Study conduct and monitoring
-- Safety surveillance
+- Study management and planning
+- Quality assurance
+- Clinical operations leadership
 - Data management
-- Clinical operations
+- Regulatory affairs
+- Study feasibility assessment
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
