@@ -96,38 +96,143 @@ involved in:
 
 - GCP
 
-## 4.0
+## 4.0 MONITORING AND OVERSIGHT FRAMEWORK
 
 ### 4.1 Overview
+### 4.2 Roles and Responsibilities
 
-Covered Activities
+## 5.0 PHASE 1: MONITORING PREPARATION BEFORE STUDY CONDUCT
 
-- Risk-based monitoring plan development
-- Monitoring visit types and frequency determination
-- Source data verification (SDV) strategies
-- Remote/centralized monitoring activities
-- On-site monitoring visit conduct
-- Issue identification and escalation
-- Site performance metrics and KPIs
-- Monitoring report generation and follow-up
-- Oversight documentation
+### 5.1 Integration with Risk Management Plan
 
-Types of Monioring:
+Reviews the RMP from SOP-003 to understand what risks require monitoring and at what intensity.
 
-- On-site Monitoring: Physical visits to study sites
-- Remote Monitoring: Off-site review of data and documents
-- Centralized Monitoring: Statistical and systematic data review
-- Risk-based Monitoring: Targeted monitoring based on risk indicators
-- For-cause Monitoring: Triggered by quality concerns or issues
+#### 5.1.1 Review of Risk Management Plan
+#### 5.1.2 Identification of Monitoring Requirements
+#### 5.1.3 Critical to Quality Factors for Monitoring
 
-Focus Areas:
+### 5.2 Monitoring Plan Development
 
-- Subject informed consent and eligibility
-- Protocol compliance and deviations
-- Source documentation quality and availability
-- Data accuracy and completeness
-- Safety event reporting timeliness
-- Document maintenance
-- Site staff training and qualifications
-- Study supply accountability (when applicable)
-- Site regulatory compliance
+Creates the comprehensive Monitoring Plan document that operationalizes the risk-based approach.
+
+#### 5.2.1 Monitoring Strategy Selection
+#### 5.2.2 Monitoring Plan Template
+#### 5.2.3 Monitoring Plan Content
+
+### 5.3 Monitoring Approach Planning
+
+Determines the mix of on-site, centralized, and triggered monitoring activities for the study.
+
+#### 5.3.1 On-site Monitoring Planning
+#### 5.3.2 Centralized Monitoring Planning
+#### 5.3.3 For-Cause Monitoring Triggers
+
+### 5.4 Source Data Verification Strategy
+
+Defines what percentage and types of source data require verification based on risk levels.
+
+#### 5.4.1 SDV Requirements Based on Risk
+#### 5.4.2 Critical Data SDV Requirements
+
+### 5.5 Monitoring Resources and Tools
+
+Identifies and prepares the tools, systems, and resources needed for monitoring activities.
+
+#### 5.5.1 Monitoring Checklists and Tools
+#### 5.5.2 Resource Planning
+
+### 5.6 Site Readiness
+
+Ensures sites have the capabilities and training needed before study initiation.
+
+#### 5.6.1 Site Assessment Requirements
+#### 5.6.2 Site Training Requirements
+
+### 5.7 Monitoring Team Preparation
+
+Qualifies and trains the monitoring team on study-specific requirements.
+
+#### 5.7.1 Monitor Qualification Requirements
+#### 5.7.2 Study-Specific Training
+
+## 6.0 PHASE 2: MONITORING EXECUTION DURING STUDY CONDUCT
+
+### 6.1 Site Initiation
+
+Conducts site initiation visits to activate sites and confirm readiness to enroll participants.
+
+#### 6.1.1 Site Initiation Visit Requirements
+#### 6.1.2 Site Activation Confirmation
+
+### 6.2 On-Site Monitoring
+
+Executes physical site visits to review source documents, verify compliance, and assess site operations.
+
+#### 6.2.1 Monitoring Visit Preparation
+#### 6.2.2 Monitoring Visit Conduct
+#### 6.2.3 Monitoring Visit Documentation
+
+### 6.3 Centralized Monitoring
+
+Performs off-site data review, statistical analysis, and trend detection across all sites.
+
+#### 6.3.1 Remote Document Review
+#### 6.3.2 Central Data Review and Analytics
+#### 6.3.3 Key Risk Indicator Tracking
+#### 6.3.4 Data Trend Analysis
+
+### 6.4 Issue Management
+
+Identifies, documents, grades, and tracks resolution of monitoring findings.
+
+#### 6.4.1 Finding Categories and Grading
+#### 6.4.2 Issue Documentation and Tracking
+#### 6.4.3 Escalation Procedures
+
+### 6.5 Quality Tolerance Limit Monitoring
+
+Tracks QTL metrics and manages deviations that exceed predefined thresholds.
+
+#### 6.5.1 QTL Tracking
+#### 6.5.2 QTL Deviation Management
+
+### 6.6 Site Performance Management
+
+Measures site performance against KPIs and implements improvement actions as needed.
+
+#### 6.6.1 Performance Metrics
+#### 6.6.2 Performance Improvement Actions
+
+### 6.7 Monitoring Adaptations
+
+Adjusts monitoring intensity or approach based on emerging risks or findings
+
+#### 6.7.1 Triggers for Monitoring Changes
+#### 6.7.2 Monitoring Intensity Adjustments
+
+### 6.8 Monitoring Reporting
+
+Produces monitoring visit reports, metrics dashboards, and oversight summaries for management.
+
+#### 6.8.1 Monitoring Reports
+#### 6.8.2 Management Oversight Reports
+
+## 7.0 PHASE 3: MONITORING CLOSE-OUT AFTER STUDY COMPLETION
+### 7.1 Close-Out Activities
+
+Conducts final site visits to verify data completeness and collect essential documents.
+
+#### 7.1.1 Close-Out Visit Requirements
+#### 7.1.2 Final Data and Document Review
+### 7.2 Final Monitoring Report
+
+Summarizes all monitoring activities, findings, and confirms resolution of outstanding issues.
+
+#### 7.2.1 Monitoring Summary
+#### 7.2.2 Outstanding Issues Resolution
+### 7.3 Documentation Archival
+
+Ensures all monitoring documentation is complete and properly filed in the TMF for archival.
+
+#### 7.3.1 Monitoring Record Completion
+#### 7.3.2 TMF Verification

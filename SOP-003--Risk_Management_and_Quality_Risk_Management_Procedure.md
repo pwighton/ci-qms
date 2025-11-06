@@ -373,10 +373,18 @@ lifecycle and across studies:
 #### 5.6.3 Risk Register Development
 
 ### 5.7 Risk-Based Monitoring Strategy
-#### 5.7.1 Translating Risks to Monitoring Activities
-#### 5.7.2 Monitoring Type and Frequency Determination
-#### 5.7.3 Source Data Verification Strategy
-#### 5.7.4 Centralized Monitoring Parameters
+
+#### 5.7.1 Linking Risks to Critical to Quality Factors
+
+(what needs monitoring based on risks)
+
+#### 5.7.2 Risk-Based Monitoring Intensity Levels
+
+high risk = intensive monitoring, low risk = reduced monitoring
+
+#### 5.7.3 Risk Indicators and Thresholds for Monitoring
+
+(what thresholds trigger monitoring changes)
 
 ### 5.8 Risk Communication
 #### 5.8.1 Stakeholder Communication
@@ -388,40 +396,20 @@ lifecycle and across studies:
 
 ## 6.0 PHASE 2: RISK MANAGEMENT DURING STUDY CONDUCT
 
-### 6.1 Risk Monitoring
-#### 6.1.1 Ongoing Risk Surveillance
-#### 6.1.2 Key Risk Indicators (KRIs)
-#### 6.1.3 Risk Indicator Thresholds
+### 6.1 Periodic Risk Review
+#### 6.1.1 Scheduled Risk Reassessment
+#### 6.1.2 Risk Review Meeting Requirements
+#### 6.1.3 Risk Management Plan Updates
 
-### 6.2 Risk Reassessment
-#### 6.2.1 Triggers for Risk Reassessment
-#### 6.2.2 Periodic Risk Review
-#### 6.2.3 Emerging Risk Identification
+### 6.2 Triggered Risk Reassessment
+#### 6.2.1 Triggers for Unscheduled Risk Review
+#### 6.2.2 Emerging Risk Identification
+#### 6.2.3 Risk Score Adjustments
 
-### 6.3 Risk Control Implementation
-#### 6.3.1 Mitigation Action Tracking
-#### 6.3.2 Effectiveness Monitoring
-#### 6.3.3 Risk Control Adjustments
-
-### 6.4 Issue Management
-#### 6.4.1 Issue Identification and Escalation
-#### 6.4.2 Issue Resolution
-#### 6.4.3 Issue Trending
-
-### 6.5 Quality Tolerance Limit Monitoring
-#### 6.5.1 QTL Tracking
-#### 6.5.2 QTL Deviation Management
-#### 6.5.3 System-Level Issue Detection
-
-### 6.6 Risk-Based Monitoring Execution Support
-#### 6.6.1 Monitoring Plan Adjustments
-#### 6.6.2 Triggered Monitoring
-#### 6.6.3 Monitoring Findings Integration
-
-### 6.7 Risk Reporting
-#### 6.7.1 Risk Status Reports
-#### 6.7.2 Management Review
-#### 6.7.3 Stakeholder Updates
+### 6.3 Integration with Monitoring Findings
+#### 6.3.1 Monitoring Data Review for Risk Impact
+#### 6.3.2 Updating Risk Assessments Based on Monitoring
+#### 6.3.3 Communication to Monitoring Team
 
 ## 7.0 PHASE 3: RISK MANAGEMENT AFTER STUDY COMPLETION
 
