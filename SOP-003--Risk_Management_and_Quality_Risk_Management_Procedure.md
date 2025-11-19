@@ -38,7 +38,9 @@ Key deliverables from this procedure include:
 The Risk Management Plan developed under this procedure serves as a primary 
 input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md), 
 which executes the monitoring activities identified as necessary through risk 
-assessment.
+assessment. Monitoring reports and KRI data generated under SOP-009 are 
+reviewed under this procedure to assess whether identified risks are 
+materializing or controlled as expected.
 
 Study design considerations and protocol development follow 
 [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).
@@ -529,6 +531,14 @@ documented in the Risk Register and Risk Management Plan.
 Updates to risk levels, CTQ factors, or QTLs **SHALL** be communicated to 
 the monitoring team to inform adjustments to their monitoring activities 
 under SOP-009.
+
+#### 6.3.4 Escalation to Quality Processes
+
+Monitoring findings that identify nonconformances **SHALL** be managed per 
+SOP-010. Findings requiring corrective or preventive action **SHALL** be 
+escalated to the CAPA process per SOP-011. Risk assessments **SHALL** be 
+updated based on root cause analyses and effectiveness checks from these 
+processes.
 
 ## 7.0 PHASE 3: RISK MANAGEMENT AFTER STUDY COMPLETION
 

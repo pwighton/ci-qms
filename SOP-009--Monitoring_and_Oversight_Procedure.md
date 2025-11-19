@@ -95,6 +95,7 @@ involved in:
 ### 3.4 Acronyms
 
 - GCP
+- SDV: Source Data Verification
 
 ## 4.0 MONITORING AND OVERSIGHT FRAMEWORK
 
