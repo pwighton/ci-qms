@@ -13,8 +13,8 @@ prevent recurrence of nonconformances, and drive continuous improvement in
 ## 2.0 SCOPE
 
 This procedure applies to all corrective and preventive actions arising from
-quality issues, trends, or risks identified during __NewInstitue__ *clinical
-investigations* and QMS operations.
+quality issues, trends, or risks identified during __NewInstitue__
+*observational studies* and QMS operations.
 
 Individual nonconformances are initially managed under
 [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md),
@@ -42,33 +42,81 @@ Audit findings requiring CAPA are identified through
 
 - CAPA
 
-## 4.0
+## 4.0 CAPA MANAGEMENT FRAMEWORK
 
 ### 4.1 Overview
+(Covered activities, CAPA sources, distinction between corrective and preventive)
 
-Covered Activities
+### 4.2 Roles and Responsibilities
+(CAPA initiator, CAPA owner, approvers, effectiveness verifier)
 
-- CAPA initiation and request evaluation
-- Root cause analysis methodologies
-- Risk assessment of identified issues
-- CAPA plan development and approval
-- Implementation tracking and management
-- Effectiveness verification
-- CAPA closure criteria and documentation
-- Trend analysis and metrics
-- Management review of CAPA system
-- Continuous improvement initiatives
+## 5.0 CAPA INITIATION AND EVALUATION
 
-CAPA Sources
+### 5.1 CAPA Triggers
+(Criteria for when CAPA is required vs. simple correction)
 
-- Audit findings (internal and external)
-- Monitoring visit trends
-- Repeated protocol deviations
-- Inspection observations
-- Complaint investigations
-- Adverse event trends
-- Quality metrics and KPI breaches
-- Management review actions
-- Risk assessment findings
-- Process performance data
-- Near-miss events
+### 5.2 Initial Assessment and Prioritization
+(Risk-based prioritization, timeline assignment based on severity)
+
+### 5.3 CAPA Request Documentation
+(Required information, assignment of CAPA owner)
+
+## 6.0 ROOT CAUSE ANALYSIS AND ACTION PLANNING
+
+### 6.1 Root Cause Investigation
+(Methods: 5 Whys, fishbone, process mapping as appropriate)
+
+### 6.2 Action Plan Development
+#### 6.2.1 Corrective Actions
+(Fix the immediate problem)
+#### 6.2.2 Preventive Actions
+(Prevent recurrence and similar issues)
+#### 6.2.3 Interim Measures
+(Temporary controls while permanent solution implemented)
+
+### 6.3 CAPA Plan Approval
+(Approval requirements based on risk/scope)
+
+## 7.0 IMPLEMENTATION AND TRACKING
+
+### 7.1 Implementation Management
+(Tracking progress, milestones, resource allocation)
+
+### 7.2 Change Management
+(When CAPA requires changes per SOP-013)
+
+### 7.3 Progress Monitoring
+(Regular review, escalation for delayed CAPAs)
+
+## 8.0 EFFECTIVENESS VERIFICATION AND CLOSURE
+
+### 8.1 Effectiveness Criteria
+(How to determine if CAPA achieved its objective)
+
+### 8.2 Verification Activities
+(Methods to confirm effectiveness, timeframe for verification)
+
+### 8.3 CAPA Closure
+(Closure criteria, approval requirements, documentation)
+
+### 8.4 Unsuccessful CAPAs
+(Process when CAPA doesn't achieve objectives)
+
+## 9.0 CAPA SYSTEM MANAGEMENT
+
+### 9.1 CAPA Log and Tracking
+(Central repository of all CAPAs and status)
+
+### 9.2 Metrics and Trending
+(CAPA performance metrics, overdue rates, effectiveness rates)
+
+### 9.3 Management Review
+(Periodic review of CAPA system performance)
+
+## 10.0 RECORDS AND DOCUMENTATION
+
+### 10.1 Required Records
+(CAPA forms, root cause analyses, effectiveness checks)
+
+### 10.2 Record Retention
+(Per SOP-002 requirements)
