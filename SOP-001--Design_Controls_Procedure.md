@@ -417,6 +417,15 @@ including but not limited to:
   audits, IRB/IEC review, and regulatory inspection
 - **Quality Control and Quality Assurance**: Monitoring plan and data quality
   oversight procedures
+- **Safety Monitoring**: Safety monitoring approach proportionate to study
+  procedure risks, including adverse event definitions, collection procedures,
+  severity and causality assessment methods, and IRB/IEC reporting requirements
+  per SOP-008. The protocol **SHALL** document the decision regarding Data
+  Monitoring Committee necessity.
+- **Incidental Findings** (if applicable): For studies involving procedures
+  that may yield incidental findings (e.g., imaging, genetic testing, biomarker
+  assessments), the protocol **SHALL** specify whether and how incidental
+  findings will be identified, assessed, and communicated to subjects.
 - **Ethics**: Informed consent process, IRB/IEC review requirements
 - **Data Handling and Record Keeping**: Data management procedures, record
   retention
@@ -466,7 +475,10 @@ Design outputs from protocol development **SHALL** include:
 
 - **Monitoring Plan**: Risk-based monitoring plan describing monitoring
   strategy, frequency, scope, and procedures per SOP-009. The monitoring plan
-  **shall** be informed by the risk assessment conducted per SOP-003.
+  **SHALL** be informed by the risk assessment conducted per SOP-003. Safety
+  monitoring requirements are addressed within the protocol per SOP-008 and do
+  not require a separate safety monitoring plan document for observational
+  studies.
 
 All design outputs listed above **SHALL** be included in the TMF.
 
@@ -514,6 +526,9 @@ Protocol development **SHALL** integrate with:
   Data management requirements and electronic data capture specifications
 - **SOP-005 (Study Design Review)**: Design Plan Review and Design Output
   Review decision gates
+- **SOP-008 (Subject Safety and Adverse Event Management)**: Safety monitoring
+  section requirements, adverse event definitions and procedures, incidental
+  findings approach, and Data Monitoring Committee decision
 - **SOP-013 (Change Control)**: Protocol amendment process after study
   initiation
 - **SOP-015 (Observational Study Software Development and Validation)**:
@@ -783,6 +798,10 @@ Design outputs for regulatory and ethics documentation **SHALL** include:
   - New findings that MAY affect willingness to participate
   - Number of subjects to be enrolled
   - Statement that the study involves research
+  - Incidental findings disclosure (if applicable): Whether incidental findings
+    may be discovered during study procedures, whether and how such findings
+    will be communicated to the subject, and the subject's right to decline
+    receipt of incidental findings (if applicable) per SOP-008
 
 - **Subject Information Sheets**: Any additional written information provided
   to subjects (e.g., frequently asked questions, study brochures)
@@ -920,6 +939,8 @@ Regulatory and ethics documentation **SHALL** integrate with:
   documentation as part of Design Output Review
 - **SOP-006 (Outsourced Activities)**: Agreements with CROs and other service
   providers
+- **SOP-008 (Subject Safety and Adverse Event Management)**: Incidental
+  findings disclosure requirements in informed consent
 - **SOP-013 (Change Control)**: Management of changes to informed consent,
   protocol amendments requiring IRB/IEC approval
 - **SOP-014 (Regulatory Compliance Management)**: Ongoing compliance with
