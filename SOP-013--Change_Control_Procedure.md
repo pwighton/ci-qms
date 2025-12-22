@@ -5,11 +5,19 @@ subtitle: "SOP-013: Change Control Procedure"
 
 ## 1.0 PURPOSE
 
-This Standard Operating Procedure (SOP) establishes the systematic approach for
-managing changes to approved *observational study* documents, systems, and
-processes conducted by __NewInstitue__. It ensures that all changes are
-assessed for impact, properly reviewed, approved, implemented, and documented
-to maintain study integrity and compliance.
+This Standard Operating Procedure (SOP) establishes requirements for managing
+protocol amendments and consequential document changes for *observational
+studies* conducted by __NewInstitute__ after study initiation.
+
+This procedure ensures that:
+
+- Protocol changes are systematically classified, reviewed, and approved before
+  implementation
+- Amendments receive appropriate IRB/IEC review per 45 CFR 46
+- Consequential changes to related study documents are processed together with
+  protocol amendments
+- Sites and subjects are appropriately informed of changes
+- Amendment documentation is maintained in the Trial Master File
 
 ## 2.0 SCOPE
 
@@ -595,3 +603,38 @@ An amendment log **SHALL** be maintained for each study, documenting:
 - Status (pending, approved, implemented)
 
 The amendment log **SHALL** be included in the TMF.
+
+## 5.0 TRAINING
+
+All personnel involved in protocol amendment activities **SHALL** be trained on
+this procedure and maintain documented evidence of training according to
+[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+
+Training **SHALL** include:
+
+- Scope of this procedure (amendments vs design phase changes vs deviations)
+- Amendment classification (substantive vs minor)
+- IRB/IEC review requirements per 45 CFR 46
+- Implementation timing requirements
+- Re-consent requirements
+- Documentation and TMF requirements
+
+Training records **SHALL** be maintained per SOP-002.
+
+## 6.0 RECORDS
+
+The following records **SHALL** be maintained in the TMF or QMS files:
+
+| Record | Location | Retention |
+|--------|----------|-----------|
+| Protocol amendments (all versions) | TMF | Per SOP-002 |
+| Amendment classification documentation | TMF | Per SOP-002 |
+| Internal review and approval records | TMF | Per SOP-002 |
+| IRB/IEC submission packages | TMF | Per SOP-002 |
+| IRB/IEC approval letters | TMF | Per SOP-002 |
+| Revised informed consent forms (all versions) | TMF | Per SOP-002 |
+| Revised CRFs and other study documents | TMF | Per SOP-002 |
+| Site notification and acknowledgment records | TMF | Per SOP-002 |
+| Subject re-consent documentation | TMF | Per SOP-002 |
+| Amendment log | TMF | Per SOP-002 |
+| Training records | QMS files | Per SOP-002 |
