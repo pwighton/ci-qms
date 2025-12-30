@@ -596,20 +596,16 @@ SOP-005.
 
 __NewInstitue__ **SHALL** establish and maintain an Outsourced Activities
 procedure that minimally addresses applicable requirements in ISO-9001:2015
-Section 8.4 and ICH E6(R2) Sections 5.2 and 5.23 and the following:
+Section 8.4 and ICH E6(R2) Sections 5.2 and 5.23.
 
--   Creation and maintenance of a Qualified Vendor List (QVL)
--   Vendor qualification for Contract Research Organizations (CROs),
-    laboratories, data management services, statistical services, and other
-    outsourced service providers
+This procedure **SHALL** address selection, qualification, contracting, and
+oversight of external organizations that perform study-related activities.
+External organizations are qualified on a study-by-study basis, with controls
+proportionate to the potential impact on subject safety, data integrity, and
+study validity.
 
-The conduct of *observational studies* may incorporate services provided by
-CROs, central laboratories, and other service providers as well as custom
-services developed by third parties to specifications prepared by
-__NewInstitue__.
-
-Outsourced activities related to *observational studies* shall be performed
-and documented in accordance with the Outsourced Activities Procedure, SOP-006.
+Outsourced activities related to *observational studies* **SHALL** be performed
+and documented in accordance with the Outsourced Activities Procedure, SOP-006
 
 ### 7.7 Study Closeout and Archiving
 
