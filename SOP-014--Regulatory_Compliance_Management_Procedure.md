@@ -76,13 +76,80 @@ involved in:
 
 ### 3.1 Guidance and Regulatory References
 
-### 3.2 __NewInstitue__ References 
+- [45 CFR 46](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46):
+  Protection of Human Subjects (Common Rule)
+
+- [21 CFR Part 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54):
+  Financial Disclosure by Clinical Investigators
+
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1):
+  Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+  - Section 3.0 (Institutional Review Board/Independent Ethics Committee)
+  - Section 4.1 (Investigator's Qualifications and Agreements)
+
+### 3.2 __NewInstitute__ References
+
+1. [QM-001: Quality Manual](QM-001--QualityManual.md)
+
+2. [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
+
+3. [SOP-002: Document and Records Controls
+   Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+
+4. [SOP-007: Study Closeout and Archiving
+   Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
+
+5. [SOP-008: Subject Safety and Adverse Event Management
+   Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
+
+6. [SOP-010: Control of Nonconforming Observational Study Activities
+   Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
+
+7. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
 
+- **Clinical Investigator**: For purposes of 21 CFR Part 54, any individual who
+  directly participates in the investigation (i.e., who administers or dispenses
+  the test article or performs study procedures), or who acts as a sub-investigator.
+  For observational studies, this includes the Principal Investigator and any
+  sub-investigators who directly interact with subjects or subject data.
+
+- **Continuing Review**: Periodic review of ongoing research by the IRB/IEC to
+  ensure continued compliance with regulatory requirements and protection of
+  human subjects. Required at intervals appropriate to the degree of risk, but
+  not less than once per year, per 45 CFR 46.109(e).
+
+- **Disclosable Financial Interest**: Financial interests that must be disclosed
+  per 21 CFR Part 54, including: (1) compensation affected by the outcome of the
+  study; (2) proprietary interest in the test product; (3) significant equity
+  interest in the sponsor; (4) significant payments of other sorts from the
+  sponsor.
+
+- **Federalwide Assurance (FWA)**: A written assurance of compliance with 45 CFR
+  46 submitted by an institution to the Office for Human Research Protections
+  (OHRP).
+
+- **Significant Equity Interest**: Per 21 CFR 54.2(b), any ownership interest,
+  stock options, or other financial interest whose value cannot be readily
+  determined through reference to public prices, or any equity interest in a
+  publicly traded corporation that exceeds $50,000 in value.
+
+- **Significant Payments**: Per 21 CFR 54.2(f), payments made by the sponsor of
+  a covered study to the investigator or the institution to support activities
+  of the investigator that have a monetary value of more than $25,000, exclusive
+  of the costs of conducting the study or other clinical studies.
+
 ### 3.4 Acronyms
 
-- TMF
+- **CFR**: Code of Federal Regulations
+- **FWA**: Federalwide Assurance
+- **GCP**: Good Clinical Practice
+- **IEC**: Independent Ethics Committee
+- **IRB**: Institutional Review Board
+- **OHRP**: Office for Human Research Protections
+- **PI**: Principal Investigator
+- **TMF**: Trial Master File
 
 ## 4.0
 
