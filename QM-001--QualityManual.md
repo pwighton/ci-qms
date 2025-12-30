@@ -36,6 +36,14 @@ This QMS adopts the definition of *Clinical Investigation* used in
     and Drug Administration as part of an application for a research or
     marketing permit
 
+Although __NewInstitute__ conducts *observational studies* rather than
+interventional *clinical investigations*, study results are intended to support
+future FDA submissions (e.g., as real-world evidence, natural history data, or
+control arm comparators). Therefore, this QMS applies requirements appropriate
+for data intended for regulatory use, including 21 CFR Part 54 (Financial
+Disclosure by Clinical Investigators) and documentation standards consistent
+with ICH E6(R2).
+
 ## 2.0 SCOPE
 
 This Quality Manual defines policies and procedures related to the design and
