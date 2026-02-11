@@ -27,7 +27,7 @@ of those documents and records are governed by other various procedures. Refer
 to [Setion 8.0 of the Quality Manual](QM-001--QualityManual.md#80-measurements-analysis-and-improvement)
 for specifics.
 
-When documents and records are created, stored, or maintained in electroni
+When documents and records are created, stored, or maintained in electronic
 systems, those systems SHALL comply with the requirements of
 [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
 
