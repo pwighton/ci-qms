@@ -199,14 +199,19 @@ involved in:
 - **CRF**: Case Report Form
 - **CTQ**: Critical to Quality
 - **EDC**: Electronic Data Capture
+- **FMEA**: Failure Mode and Effects Analysis
 - **GCP**: Good Clinical Practice
+- **IEC**: Independent Ethics Committee
+- **IRB**: Institutional Review Board
 - **KPI**: Key Performance Indicator
 - **KRI**: Key Risk Indicator
+- **QA**: Quality Assurance
 - **QMS**: Quality Management System
 - **QRM**: Quality Risk Management
 - **QTL**: Quality Tolerance Limit
 - **RACI**: Responsible, Accountable, Consulted, Informed
 - **RBQM**: Risk-Based Quality Management
+- **RMP**: Risk Management Plan
 - **SDV**: Source Data Verification
 - **TMF**: Trial Master File
 
@@ -347,137 +352,816 @@ lifecycle and across studies:
 
 ### 5.1 Integration with Design Controls
 
-Risk management activities **SHALL** be integrated with design control phases 
-defined in [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md) 
-to ensure risk considerations inform study design decisions from inception 
+Risk management activities **SHALL** be integrated with the
+design control phases defined in
+[SOP-001: Design Controls
+Procedure](SOP-001--Design_Controls_Procedure.md) to ensure
+risk considerations inform study design decisions from inception
 through approval.
+
+Risk management activities progress through two stages aligned
+with design control phases:
+
+**Stage 1 — Preliminary Risk Identification (SOP-001 Section
+5.2: Study Concept and Feasibility)**
+
+During study concept and feasibility, the study team **SHALL**
+develop an Initial Risk Management Plan that includes:
+
+- Initial identification of critical processes and data
+- Preliminary risk categories (safety, data quality,
+  operational)
+- High-level risk mitigation strategies
+- Plan for comprehensive risk assessment during protocol
+  development
+
+The Initial Risk Management Plan is reviewed at SOP-005 Review
+Gate 1 (Concept and Feasibility Review) before the study
+proceeds to protocol development.
+
+Activities supporting this stage are described in Section 5.2
+(Initial Risk Identification).
+
+**Stage 2 — Comprehensive Risk Assessment (SOP-001 Section 5.3:
+Protocol Development)**
+
+During protocol development, the Initial Risk Management Plan
+**SHALL** be developed into a comprehensive Risk Management Plan
+that includes:
+
+- Complete risk assessment for all identified risks
+- Risk scoring using the methodology defined in Section 5.3
+- Mitigation strategies for all high and medium risks
+- Quality Tolerance Limits (QTLs) for critical parameters
+- Risk-based monitoring approach
+- Risk ownership and responsibilities
+- Risk review and communication processes
+
+The comprehensive Risk Management Plan is reviewed at SOP-005
+Review Gate 2 (Protocol and Study Design Review) and verified
+per SOP-001 Section 5.6 before study conduct begins.
+
+Activities supporting this stage are described in Sections 5.3
+through 5.7.
 
 ### 5.2 Initial Risk Identification
 
-Occurs during the "Study Concept and Feasibility" stage (see [SOP-001:5.2](https://github.com/pwighton/ci-qms/blob/main/SOP-001--Design_Controls_Procedure.md#52-study-concept-and-feasibility))
+Initial risk identification occurs during the Study Concept and
+Feasibility phase (SOP-001 Section 5.2) and produces the
+Initial Risk Management Plan that is reviewed at SOP-005
+Concept Review (Review Gate 1).
 
 #### 5.2.1 Critical to Quality (CTQ) Factors
 
-The study team **SHALL** identify Critical to Quality factors per ICH E8(R1) 
-Section 3.2 that are essential for:
-- Participant Protection (safety, rights, and well-being)
-- Data Reliability and Integrity of study results
-- Study Validity
+Per ICH E8(R1) Section 3.2 and ICH E6(R2) Section 5.0.1, the
+study team **SHALL** identify Critical to Quality factors that
+are essential for:
 
-CTQ factors **SHALL** be documented with rationale for their criticality and 
-direct linkage to primary endpoints, key safety parameters, or regulatory 
-requirements.
+- Participant protection (safety, rights, and well-being)
+- Data reliability and integrity of study results
+- Study validity
+
+Section 4.2.2 provides examples of CTQ factors within each
+category. The study team **SHALL** use these examples as a
+starting point and identify additional CTQ factors specific to
+the study.
+
+CTQ factors **SHALL** be documented with:
+
+- Rationale for their designation as critical
+- Direct linkage to primary endpoints, key safety parameters,
+  or regulatory requirements
+- The critical process or data element associated with each
+  factor
+
+CTQ factors identified at this stage are preliminary. They
+**SHALL** be reviewed and refined during comprehensive risk
+assessment (Section 5.3) as the protocol and study procedures
+are developed in greater detail.
 
 #### 5.2.2 Risk Identification Methods
 
-For each CTQ factor identified, the study team **SHALL** identify associated 
-risks that could impact the factor's integrity or performance.
+For each CTQ factor identified, the study team **SHALL**
+identify risks that could impact the factor's integrity or
+performance.
 
-The study team **MAY** select risk identification methods appropriate to the 
-study's complexity and novelty. Methods to consider include:
+The study team **MAY** select risk identification methods
+appropriate to the study's complexity and novelty. Methods to
+consider include:
 
 - Brainstorming sessions with cross-functional teams
-- Process mapping to identify failure points in study workflows
-- Historical data review from similar studies (protocols, monitoring reports, deviations)
-- Failure Mode and Effects Analysis (FMEA) for systematic process analysis
-- Checklists/templates based on regulatory guidance and organizational experience
+- Process mapping to identify failure points in study
+  workflows
+- Historical data review from similar studies (protocols,
+  monitoring reports, deviations)
+- Failure Mode and Effects Analysis (FMEA) for systematic
+  process analysis
+- Checklists and templates based on regulatory guidance and
+  organizational experience
 - Site capability assessments to identify operational risks
-- Stakeholder interviews (investigators, coordinators, data managers)
+- Stakeholder interviews (investigators, coordinators, data
+  managers)
 - Regulatory gap analysis against applicable requirements
-- Review of protocol complexity factors (procedures, assessments, population)
-- Technology/system risk assessments for EDC, ePRO, or other systems
+- Review of protocol complexity factors (procedures,
+  assessments, population)
+- Technology and system risk assessments for EDC, ePRO, or
+  other systems
+
+The methods selected and the rationale for their selection
+**SHOULD** be documented in the Initial Risk Management Plan.
 
 #### 5.2.3 Risk Categories
 
-At a minimum, the initial risk assement **shall** consider the following risk 
-categories for each CTQ factor:
+At a minimum, the initial risk identification **SHALL**
+consider the following risk categories for each CTQ factor:
 
-- Safety/Subject Protection Risks
-- Data Quality Risks
+- Safety and subject protection risks
+- Data quality and integrity risks
 
-Other risk categories may be considered, icnlduign:
+Additional risk categories **SHOULD** be considered based on
+study characteristics, including:
 
-- Operational Risks
-- Regulatory Risks
-- Technical/System Risks
+- Operational risks (recruitment, site performance, resource
+  availability, timeline)
+- Regulatory risks (compliance obligations, submission
+  requirements, evolving guidance)
+- Technical and system risks (EDC, data transfer, software,
+  IT infrastructure)
+
+#### 5.2.4 Initial Risk Management Plan
+
+The outputs of initial risk identification **SHALL** be
+documented in an Initial Risk Management Plan that includes:
+
+- Initial identification of critical processes and data
+  (CTQ factors per Section 5.2.1)
+- Preliminary risk categories and identified risks per
+  Sections 5.2.2 and 5.2.3
+- High-level risk mitigation strategies for identified risks
+- Plan for comprehensive risk assessment during protocol
+  development, including planned methodology, timeline, and
+  responsible personnel
+
+The Initial Risk Management Plan is a design output of
+SOP-001 Section 5.2 and **SHALL** be included in the TMF.
+
+This plan **SHALL** be developed into a comprehensive Risk
+Management Plan during protocol development per Section 5.5.
 
 ### 5.3 Risk Assessment
 
+Risk assessment occurs during protocol development (SOP-001
+Section 5.3) and refines the preliminary risks identified in
+Section 5.2 into scored, prioritized risks with defined
+acceptance levels.
+
+The risk assessment methodology defined in this section is
+based on the quality risk management principles described in
+ICH Q9(R1) and implements the risk-based quality management
+requirements of ICH E6(R2) Section 5.0. The specific scoring
+scales, priority thresholds, and acceptance criteria are
+defined by __NewInstitute__ to provide a consistent,
+repeatable methodology appropriate for observational studies.
+
+The risk assessment methodology **SHALL** be applied
+consistently across all risks within a study. SOP-001
+Section 5.6 verifies that risk scores are consistently applied
+using the defined methodology.
+
 #### 5.3.1 Likelihood (Probability) Scoring
 
-Defines the scale (typically 1-5) and criteria for assessing how probable it is that each risk will occur during the study
+Each identified risk **SHALL** be assessed for the probability
+that it will occur during the study. Likelihood **SHALL** be
+scored using the following scale:
+
+| Score | Level        | Description                        |
+|-------|--------------|------------------------------------|
+| 1     | Rare         | Very unlikely to occur; no history of occurrence in similar studies |
+| 2     | Unlikely     | Could occur but not expected; isolated occurrences in similar studies |
+| 3     | Possible     | May occur; has occurred occasionally in similar studies |
+| 4     | Likely       | Expected to occur; has occurred regularly in similar studies |
+| 5     | Almost certain | Expected to occur frequently or is already occurring |
+
+Likelihood scoring **SHALL** consider:
+
+- Historical data from previous studies (deviation rates,
+  monitoring findings, CAPA trends)
+- Complexity of the process or procedure
+- Experience and capability of personnel and sites
+- Effectiveness of existing controls
+- External factors (regulatory environment, population
+  characteristics)
+
+When historical data are not available, the study team
+**SHALL** document the basis for the likelihood estimate
+(e.g., expert judgment, published literature, analogous
+studies).
 
 #### 5.3.2 Severity (Impact) Scoring
 
-Defines the scale and criteria for evaluating the potential consequences if the risk materializes
+Each identified risk **SHALL** be assessed for the potential
+consequences if the risk materializes. Severity **SHALL** be
+scored using the following scale:
+
+| Score | Level       | Subject Safety Impact              | Data Integrity Impact              |
+|-------|-------------|------------------------------------|------------------------------------|
+| 1     | Negligible  | No impact on subject safety or well-being | Minor data issue; no effect on study conclusions |
+| 2     | Minor       | Minimal impact; no change to risk-benefit profile | Limited data affected; no impact on primary endpoints |
+| 3     | Moderate    | Potential for reversible harm or increased burden to subjects | Data affected may impact secondary endpoints or subgroup analyses |
+| 4     | Major       | Potential for serious or lasting harm to subjects | Primary endpoint data compromised for a subset of subjects or sites |
+| 5     | Critical    | Potential for life-threatening harm, death, or widespread rights violations | Primary endpoint data compromised study-wide; study conclusions unreliable |
+
+When a risk has the potential to impact both subject safety and
+data integrity, the higher of the two severity scores **SHALL**
+be used.
 
 #### 5.3.3 Risk Scoring and Prioritization
 
-Describes the calculation method (Likelihood × Severity) to generate overall risk scores and establish prioritization thresholds for determining which risks require immediate mitigation versus acceptance or monitoring.
+An overall risk score **SHALL** be calculated for each
+identified risk as:
+
+> **Risk Score = Likelihood × Severity**
+
+Risk scores range from 1 to 25 and **SHALL** be classified
+into the following priority levels:
+
+| Risk Score | Priority Level | Required Action                  |
+|------------|----------------|----------------------------------|
+| 1–4        | Low            | Accept or monitor; document rationale for acceptance |
+| 5–9        | Medium         | Mitigation **SHOULD** be implemented; risk **SHALL** be monitored |
+| 10–16      | High           | Mitigation **SHALL** be implemented before study conduct begins |
+| 17–25      | Critical       | Mitigation **SHALL** be implemented; residual risk **SHALL** be reviewed and accepted per Section 5.3.4 before study conduct begins |
+
+All risk scores **SHALL** be documented in the Risk Register
+(Section 5.5.3) with supporting rationale for the likelihood
+and severity scores assigned.
+
+Studies **MAY** incorporate Detectability as a third scoring
+factor when the ability to detect a risk before it causes
+significant impact varies substantially across risks. When
+used, the three-factor scoring methodology and adjusted
+priority thresholds **SHALL** be documented in the Risk
+Management Plan.
 
 #### 5.3.4 Risk Acceptance Criteria
 
-Defines the organizational criteria and approval authorities for accepting different levels of residual risk (e.g., low risks accepted by Study Director, high risks require additional approval, critical risks must be mitigated)
+Residual risk remaining after mitigation (or initial risk when
+no mitigation is planned) **SHALL** be evaluated against the
+following acceptance criteria:
+
+| Priority Level | Acceptance Authority               | Requirements                       |
+|----------------|------------------------------------|------------------------------------|
+| Low            | Risk Owner                         | Document acceptance rationale in Risk Register |
+| Medium         | Study Director or Principal Investigator | Document acceptance rationale and confirm monitoring controls are in place |
+| High           | Study Director or Principal Investigator with Quality Assurance review | Document acceptance rationale, confirm mitigation is in place, and establish monitoring indicators |
+| Critical       | Study Director or Principal Investigator with Quality Assurance and Executive Management approval | Document detailed justification; confirm all feasible mitigations are implemented; establish QTLs and enhanced monitoring; document contingency plan |
+
+A risk **SHALL NOT** be accepted if:
+
+- The residual risk to subject safety is unacceptable
+  regardless of potential study benefit
+- Regulatory requirements mandate that the risk be eliminated
+  or reduced
+
+Risk acceptance decisions **SHALL** be documented in the Risk
+Register and included in the Risk Management Plan. Changes to
+risk acceptance decisions during study conduct **SHALL** follow
+the risk reassessment process defined in Section 6.2.
 
 ### 5.4 Risk Control Planning
 
+For each risk scored in Section 5.3 that requires mitigation,
+the study team **SHALL** develop risk control measures and
+document them in the Risk Register (Section 5.5.3) and the
+Risk Management Plan (Section 5.5).
+
+Risk control planning **SHALL** follow the control hierarchy
+described in ICH Q9(R1): risk controls should first seek to
+reduce the likelihood of the risk occurring (preventive
+controls), and then ensure that the risk is detected promptly
+if it does occur (detective controls). Contingency plans
+address the consequences when prevention and detection are
+insufficient.
+
+Risk controls **SHALL** be proportionate to the priority level
+assigned in Section 5.3.3. As a minimum:
+
+| Priority Level | Required Controls                    |
+|----------------|--------------------------------------|
+| Low            | Monitoring through routine study oversight; additional controls optional |
+| Medium         | At least one preventive or detective control; risk monitored through indicators |
+| High           | Preventive and detective controls **SHALL** both be defined; risk indicators and thresholds established |
+| Critical       | Preventive and detective controls **SHALL** both be defined; contingency plan **SHALL** be documented; QTL established per Section 5.6.2 |
+
 #### 5.4.1 Risk Mitigation Strategies
 
-Defines the overall approach for reducing each risk to acceptable levels, including whether to avoid, reduce, transfer, or accept the risk with controls.
+For each risk requiring mitigation, the study team **SHALL**
+select one or more of the following strategies:
 
-#### 5.4.2 Preventive Actions
+- **Avoid**: Eliminate the risk by modifying the study design,
+  procedures, or data collection approach to remove the source
+  of risk. Changes to study design **SHALL** be coordinated
+  with protocol development per SOP-001 Section 5.3.
+- **Reduce**: Implement controls that decrease the likelihood
+  or severity of the risk to an acceptable level.
+- **Transfer**: Assign the activity giving rise to the risk to
+  a qualified external organization with demonstrated
+  capability to manage it, per
+  [SOP-006: Outsourced Activities
+  Procedure](SOP-006--Outsourced_Activities_Procedure.md).
+  Transfer of an activity does not transfer accountability;
+  oversight **SHALL** be maintained per SOP-006 and SOP-009.
+- **Accept**: Accept the risk at its current level when it
+  falls within the acceptance criteria defined in
+  Section 5.3.4. Accepted risks **SHALL** still be documented
+  and monitored.
 
-Specifies proactive measures implemented before or during study start to prevent risks from occurring (e.g., enhanced training, eligibility checklists, system validations).
+The selected strategy **SHALL** be documented in the Risk
+Register with rationale for the approach chosen.
+
+#### 5.4.2 Preventive Controls
+
+Preventive controls are proactive measures implemented before
+or at the start of study conduct to reduce the likelihood of a
+risk occurring.
+
+For each risk requiring preventive controls, the study team
+**SHALL** document:
+
+- Description of the control measure
+- The risk or risks it addresses
+- When the control is to be implemented (before study start,
+  at site initiation, ongoing)
+- Responsible person or role
+
+Examples of preventive controls include:
+
+- Protocol-specific training for site personnel
+- Eligibility verification checklists or automated checks
+- System validations and access controls per SOP-004
+- Standardized data collection instruments and procedures
+- Clear procedural instructions in the protocol or site manual
+- Qualification requirements for sites or personnel per
+  SOP-006
 
 #### 5.4.3 Detective Controls
 
-Describes monitoring and review mechanisms to identify when risks are materializing so corrective action can be taken quickly (e.g., data review cycles, audit schedules, system alerts).
+Detective controls are monitoring and review mechanisms
+designed to identify when risks are materializing so that
+corrective action can be taken promptly.
+
+For each risk requiring detective controls, the study team
+**SHALL** document:
+
+- Description of the detection mechanism
+- The risk or risks it is intended to detect
+- Frequency or timing of the detection activity
+- Responsible person or role
+- Escalation path when the control signals an issue
+
+Detective controls documented in this section inform the
+monitoring approach developed in Section 5.6 and
+operationalized in the Monitoring Plan per SOP-009.
+
+Examples of detective controls include:
+
+- Centralized data review and statistical monitoring
+- Key Risk Indicators (KRIs) with defined thresholds
+- Quality Tolerance Limits (QTLs) for critical parameters
+  (Section 5.6.2)
+- On-site monitoring and source data verification
+- Periodic audit activities per SOP-012
+- Automated system alerts and edit checks
 
 #### 5.4.4 Contingency Planning
 
-Documents backup plans and predetermined response actions for high-impact risks that cannot be adequately prevented (e.g., backup sites for recruitment failures, alternative data sources if primary system fails).
+Contingency plans **SHALL** be documented for all critical
+priority risks and **SHOULD** be considered for high priority
+risks where the consequences of the risk materializing would
+be difficult to reverse.
+
+For each risk requiring a contingency plan, the study team
+**SHALL** document:
+
+- The trigger condition or conditions that activate the
+  contingency plan
+- Predetermined response actions
+- Responsible person or role for activating and executing the
+  plan
+- Communication requirements (who is notified and when)
+- Criteria for determining when the contingency situation is
+  resolved
+
+Examples of contingency plans include:
+
+- Backup data collection methods if primary systems fail
+- Alternative sites or recruitment strategies if enrollment
+  targets are not met
+- Predefined responses to safety signals requiring protocol
+  modification
+- Data recovery procedures for system failures
+
+#### 5.4.5 Residual Risk Evaluation
+
+After risk controls are defined, the study team **SHALL**
+reassess each mitigated risk to determine the residual risk
+score.
+
+Residual risk **SHALL** be scored using the same likelihood and
+severity scales defined in Sections 5.3.1 and 5.3.2, with
+likelihood adjusted to reflect the expected effect of the
+planned controls.
+
+Residual risk scores **SHALL** be documented in the Risk
+Register alongside the initial risk scores. Residual risk
+**SHALL** be evaluated against the acceptance criteria in
+Section 5.3.4.
+
+If residual risk remains above the acceptable level after all
+feasible controls have been defined, the risk **SHALL** be
+escalated per the acceptance authority requirements in
+Section 5.3.4. The study team **SHALL** document the
+justification for proceeding with the residual risk, including
+an assessment of whether the risk is outweighed by the
+expected study benefit.
 
 ### 5.5 Risk Management Plan Development
 
-#### 5.5.1 Standard Risk Management Plan Template
+The Risk Management Plan (RMP) is the comprehensive document
+that consolidates the outputs of Sections 5.2 through 5.4 and
+defines the approach for risk monitoring (Section 5.6) and
+risk communication (Section 5.7) for a specific study.
 
-Defines the template RMP.  Studies are free to modify to suit their needs
+The RMP is a design output of protocol development (SOP-001
+Section 5.3) and **SHALL** be reviewed at SOP-005 Review
+Gate 2 (Protocol and Study Design Review) and verified per
+SOP-001 Section 5.6 before study conduct begins.
+
+The RMP is a controlled document subject to
+[SOP-002: Document and Records Controls
+Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
+Changes to the RMP after initial approval **SHALL** follow
+[SOP-013: Change Control
+Procedure](SOP-013--Change_Control_Procedure.md).
+
+#### 5.5.1 Risk Management Plan Contents
+
+The RMP **SHALL** include, at a minimum:
+
+- **Study identification**: Study title, protocol number, and
+  version history of the RMP
+- **Risk management approach**: Description of the risk
+  assessment methodology used, including scoring scales and
+  priority thresholds (per Section 5.3) and any study-specific
+  tailoring (per Section 5.5.2)
+- **Critical to Quality factors**: Identified CTQ factors with
+  rationale for their designation (per Section 5.2.1)
+- **Risk assessment summary**: Summary of identified risks,
+  likelihood and severity scores, and priority levels
+  (per Section 5.3)
+- **Risk control measures**: Mitigation strategies, preventive
+  controls, detective controls, and contingency plans for each
+  risk requiring mitigation (per Section 5.4)
+- **Residual risk evaluation**: Residual risk scores after
+  planned controls, with acceptance decisions and approvals
+  (per Sections 5.4.5 and 5.3.4)
+- **Quality Tolerance Limits**: QTLs for critical parameters
+  with defined thresholds and response actions
+  (per Section 5.6.2)
+- **Risk indicators**: Key Risk Indicators and thresholds for
+  ongoing monitoring (per Section 5.6.4)
+- **Risk-based monitoring approach**: Description of how risk
+  levels inform monitoring intensity and focus, serving as the
+  primary input to the Monitoring Plan developed per SOP-009
+- **Risk ownership**: Assignment of Risk Owners for each
+  identified risk (per Section 4.3.4)
+- **Risk review schedule**: Planned frequency and triggers for
+  risk reassessment during study conduct (per Section 6.1)
+- **Risk communication plan**: Stakeholders, frequency, and
+  channels for risk communication (per Section 5.7)
+
+These contents correspond to the verification criteria defined
+in SOP-001 Section 5.6 (Risk Management Plan Verification).
 
 #### 5.5.2 Tailoring the Risk Management Plan
 
-Specifies core requirements (per ICH E6(R2)) that must be maintained if modifying RMP
+Studies **MAY** tailor the RMP to suit study-specific needs,
+provided the following core requirements are maintained:
 
-#### 5.5.3 Risk Register Development
+- All elements listed in Section 5.5.1 **SHALL** be addressed
+- The risk assessment methodology **SHALL** use the scoring
+  scales and priority thresholds defined in Section 5.3, or
+  document and justify any study-specific modifications
+  (e.g., addition of a Detectability factor per
+  Section 5.3.3)
+- CTQ factors **SHALL** be identified per ICH E8(R1)
+  Section 3.2
+- QTLs **SHALL** be established for critical parameters per
+  ICH E6(R2) Section 5.0.3
+- Risk ownership **SHALL** be assigned for all risks at
+  medium priority or above
 
-Defines the template for the living document that tracks all identified risks, their scores, owners, mitigation status, and current state throughout the study lifecycle
+Tailoring decisions **SHALL** be documented in the RMP with
+rationale. Tailoring **SHALL NOT** reduce the scope of risk
+assessment below the minimum risk categories defined in
+Section 5.2.3.
+
+#### 5.5.3 Risk Register
+
+The Risk Register is the detailed, study-specific record that
+tracks each identified risk throughout the study lifecycle. It
+is maintained as a companion document to the RMP and updated
+as risks are identified, reassessed, or closed.
+
+The Risk Register **SHALL** contain the following information
+for each identified risk:
+
+- Unique risk identifier
+- Date identified
+- Associated CTQ factor (per Section 5.2.1)
+- Risk category (per Section 5.2.3)
+- Risk description
+- Likelihood score with rationale (per Section 5.3.1)
+- Severity score with rationale (per Section 5.3.2)
+- Overall risk score and priority level (per Section 5.3.3)
+- Risk control strategy and specific control measures
+  (per Section 5.4)
+- Residual risk score after controls (per Section 5.4.5)
+- Risk acceptance decision and approval authority
+  (per Section 5.3.4)
+- Risk Owner
+- Associated risk indicators or QTLs (if applicable)
+- Current status (open, mitigated, accepted, closed)
+- Date of last review
+
+The Risk Register **SHALL** be version controlled per SOP-002.
+Historical versions **SHALL** be retained to provide a
+complete record of how the risk profile evolved throughout the
+study.
+
+The Risk Register is updated during periodic and triggered
+risk reviews per Section 6.0 and finalized at study closeout
+per Section 7.0.
 
 ### 5.6 Risk-Based Monitoring Strategy
 
-#### 5.6.1 Linking Risks to Critical to Quality Factors
+This section defines how risk assessment outputs are
+translated into a monitoring strategy that serves as the
+primary input to the Monitoring Plan developed per
+[SOP-009: Monitoring and Oversight
+Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md).
 
-What needs monitoring based on risks
+SOP-003 defines *what* needs monitoring, *why* it needs
+monitoring (based on risk levels), and *what thresholds*
+signal that action is needed. SOP-009 translates these inputs
+into the operational Monitoring Plan that specifies *how*
+monitoring is conducted, *who* conducts it, and *when* it
+occurs.
+
+The risk-based monitoring strategy **SHALL** be documented in
+the Risk Management Plan (Section 5.5) and provided to the
+monitoring team as a design input for Monitoring Plan
+development.
+
+#### 5.6.1 Linking Risks to Monitoring Focus Areas
+
+The study team **SHALL** identify which risks and CTQ factors
+require active monitoring during study conduct. Not all
+identified risks require dedicated monitoring indicators;
+some are adequately addressed through preventive controls
+alone (per Section 5.4.2).
+
+For each risk that requires monitoring, the study team
+**SHALL** document in the Risk Management Plan:
+
+- The risk and associated CTQ factor
+- The rationale for requiring active monitoring (e.g., risk
+  cannot be fully prevented, residual risk requires ongoing
+  surveillance, ICH E6(R2) requires monitoring of the
+  parameter)
+- The type of monitoring indicator to be used (QTL, KRI, or
+  other metric)
+- The data source for the indicator
+
+At a minimum, active monitoring **SHALL** be established for:
+
+- All risks at high or critical priority level
+  (per Section 5.3.3) where detective controls were identified
+  (per Section 5.4.3)
+- All parameters for which QTLs are established
+  (per Section 5.6.2)
+- All CTQ factors related to subject safety
 
 #### 5.6.2 Quality Tolerance Limits (QTLs)
 
-Establishes specific, measurable thresholds for critical parameters (e.g., <10% missing primary endpoint data) that trigger evaluation and potential corrective action per ICH E6(R2) Section 5.0.3
+Per ICH E6(R2) Section 5.0.3, QTLs **SHALL** be established
+for critical parameters to facilitate the detection of
+systematic issues that could affect subject safety or data
+integrity.
+
+QTLs are study-level thresholds. When a QTL is exceeded, it
+signals a potential systematic issue requiring evaluation,
+not necessarily a confirmed problem. QTL exceedances trigger
+the evaluation process described below; they do not
+automatically constitute nonconformances under SOP-010.
+
+For each QTL, the study team **SHALL** document:
+
+- **Parameter**: The specific quality parameter being measured
+  (e.g., rate of missing primary endpoint data, informed
+  consent error rate, query resolution time)
+- **Associated CTQ factor and risk**: The CTQ factor and risk
+  from the Risk Register that the QTL monitors
+- **Threshold value**: The specific, measurable limit that
+  triggers evaluation (e.g., >10% missing primary endpoint
+  data across all sites, >5% informed consent deviations at
+  any single site)
+- **Measurement method**: How the parameter is calculated,
+  including the data source, numerator, denominator, and
+  measurement frequency
+- **Evaluation process**: The steps to be taken when the
+  threshold is exceeded, including:
+  - Who is responsible for conducting the evaluation
+  - The timeframe for initiating evaluation
+  - Factors to consider in determining whether a systematic
+    issue exists
+  - Possible outcomes (no action required with documented
+    rationale, corrective action, risk reassessment,
+    escalation to SOP-010 or SOP-011)
+- **Reporting**: How QTL status is communicated to the
+  monitoring team (per SOP-009) and to study management
+
+QTLs **SHALL** be established for at least the following
+parameter categories, unless the study team documents a
+justified rationale for exclusion:
+
+- Primary endpoint data completeness
+- Informed consent compliance
+- Eligibility criteria adherence
+- Safety reporting timeliness (per SOP-008)
+
+QTLs may be established at the study level, the site level,
+or both, as appropriate for the parameter. The level at which
+each QTL operates **SHALL** be documented.
+
+QTLs may be revised during study conduct when data
+demonstrate that thresholds are not appropriately calibrated.
+Revisions **SHALL** follow the risk reassessment process in
+Section 6.0 and be documented in the Risk Register and Risk
+Management Plan.
 
 #### 5.6.3 Risk-Based Monitoring Intensity Levels
 
-(high risk = intensive monitoring, low risk = reduced monitoring)
+The Risk Management Plan **SHALL** define monitoring intensity
+levels that correspond to the risk priority levels established
+in Section 5.3.3. These intensity levels inform the Monitoring
+Plan developed per SOP-009 by indicating the degree of
+monitoring attention each risk area warrants.
 
-#### 5.6.4 Risk Indicators and Thresholds for Monitoring
+The following intensity levels **SHALL** be defined, at a
+minimum:
 
-(KRIs and other metrics that signal when risk levels are changing)
+- **Standard monitoring**: Applicable to low priority risks.
+  Routine oversight through standard centralized data review
+  and scheduled monitoring activities as defined in the
+  Monitoring Plan.
+- **Enhanced monitoring**: Applicable to medium priority risks.
+  Increased frequency or depth of data review, additional
+  KRI tracking, or more frequent site communication beyond
+  standard activities.
+- **Intensive monitoring**: Applicable to high and critical
+  priority risks. Frequent and focused monitoring activities,
+  which may include targeted centralized analyses, increased
+  source data verification, or on-site monitoring visits as
+  determined appropriate in the Monitoring Plan.
+
+The Risk Management Plan **SHALL** assign an initial
+monitoring intensity level to each risk requiring active
+monitoring (per Section 5.6.1). SOP-009 translates these
+intensity levels into specific monitoring methods, frequencies,
+and resource assignments in the Monitoring Plan.
+
+Monitoring intensity **MAY** be adjusted during study conduct
+based on risk reassessment findings (per Section 6.0).
+Adjustments are communicated to the monitoring team per
+Section 6.3.3 and documented as Monitoring Plan adaptations
+per SOP-009 Section 4.6.
+
+#### 5.6.4 Key Risk Indicators (KRIs)
+
+Key Risk Indicators are quantitative or qualitative metrics
+that provide ongoing information about the current state of
+identified risks. KRIs complement QTLs by providing
+trend-level visibility into risk areas, enabling early
+detection of emerging issues before QTL thresholds are
+reached.
+
+For each risk requiring a KRI, the study team **SHALL**
+document:
+
+- **Indicator name and description**: Clear definition of what
+  is being measured
+- **Associated risk and CTQ factor**: The risk from the Risk
+  Register that the KRI monitors
+- **Calculation method**: How the indicator is derived,
+  including data source, formula, and unit of measurement
+- **Reporting frequency**: How often the KRI is calculated and
+  reported
+- **Thresholds**: Defined levels that signal when attention
+  or action is needed. Thresholds **SHOULD** include:
+  - An alert threshold indicating a trend warranting closer
+    observation
+  - An action threshold indicating a level warranting
+    investigation or intervention
+- **Response actions**: What happens when each threshold is
+  reached, including who is responsible for evaluation
+
+KRIs **SHALL** be established for all risks at high or
+critical priority level. KRIs **SHOULD** be considered for
+medium priority risks where trend monitoring would provide
+meaningful early warning.
+
+KRI definitions, thresholds, and reporting frequency are
+documented in the Risk Management Plan and provided to the
+monitoring team for operational implementation in the
+Monitoring Plan per SOP-009. KRI data collected during study
+conduct are reviewed as part of the risk review process
+defined in Section 6.0.
 
 ### 5.7 Risk Communication
 
+Effective risk communication ensures that stakeholders have
+the information they need to fulfill their responsibilities
+for risk management and study quality. This section defines
+the communication plan established before study conduct
+begins. Communication of risk updates during study conduct is
+addressed in Sections 6.1.3 and 6.3.3.
+
+The risk communication plan **SHALL** be documented in the
+Risk Management Plan (Section 5.5).
+
 #### 5.7.1 Stakeholder Communication
 
-Specifies who needs to be informed about which risks, at what frequency, and through which channels
+The study team **SHALL** identify stakeholders who need to
+receive risk information and define communication
+requirements for each. At a minimum, the following
+stakeholders **SHALL** be addressed:
+
+| Stakeholder | Information to Communicate | Frequency |
+|-------------|---------------------------|-----------|
+| Study Director / Principal Investigator | Full risk profile, risk review outcomes, QTL and KRI status, escalations requiring decision | At each scheduled risk review (per Section 6.1) and upon triggered reassessment (per Section 6.2) |
+| Quality Assurance | Risk assessment results, QTL exceedances, nonconformance trends, CAPA-related risk updates | At each scheduled risk review and as issues arise |
+| Monitoring Team | Risk levels, CTQ factors, QTLs, KRI thresholds, and any changes to these during study conduct | Before study initiation (as input to Monitoring Plan per SOP-009) and upon any update per Section 6.3.3 |
+| Site Personnel | Risks relevant to site-level activities, required risk controls, and any changes to study procedures driven by risk findings | At site initiation (per SOP-009 Section 4.3) and as needed during study conduct |
+| Executive Management | Summary risk status, critical and high priority risk trends, escalations per Section 5.3.4 | As input to annual Management Review (per QM-001 Section 5.3.3) and upon critical risk escalations |
+
+Studies **MAY** identify additional stakeholders based on
+study-specific needs (e.g., data safety monitoring boards,
+IRB/IEC, external partners per SOP-006).
+
+The communication plan **SHALL** specify the channels to be
+used for each type of communication (e.g., risk review
+meeting minutes, written reports, Monitoring Plan updates,
+email notifications).
 
 #### 5.7.2 Risk Management Documentation
 
-Specifies the requirements for documenting risk decisions, assessments, and communications in the TMF, including version control, approval signatures, and distribution records per SOP-002.
+All risk management decisions, assessments, and
+communications **SHALL** be documented and maintained in the
+TMF per
+[SOP-002: Document and Records Controls
+Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
+
+Risk management documentation **SHALL** include:
+
+- **Risk Management Plan**: Controlled document per
+  Section 5.5, version controlled and approved per SOP-002.
+  The initial version and all subsequent revisions **SHALL**
+  be retained.
+- **Risk Register**: Version controlled per Section 5.5.3.
+  Historical versions **SHALL** be retained to document the
+  evolution of the risk profile.
+- **Risk assessment records**: Documentation of initial risk
+  assessments (Section 5.3) and all reassessments
+  (Section 6.0), including scoring rationale and acceptance
+  decisions.
+- **Risk review meeting minutes**: Documentation of scheduled
+  and triggered risk reviews (Sections 6.1 and 6.2),
+  including attendees, data reviewed, decisions made, and
+  action items.
+- **Risk communication records**: Documentation that risk
+  information was communicated to identified stakeholders,
+  including date, recipients, and content communicated.
+- **QTL and KRI records**: QTL exceedance evaluations and
+  KRI reports, including any resulting actions.
+
+All documents listed above are identified in Section 9.1
+(Required Records) and **SHALL** be retained per Section 9.2.
+
+Changes to approved risk management documents during study
+conduct **SHALL** follow
+[SOP-013: Change Control
+Procedure](SOP-013--Change_Control_Procedure.md).
 
 ## 6.0 PHASE 2: RISK MANAGEMENT DURING STUDY CONDUCT
 
