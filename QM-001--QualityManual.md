@@ -14,7 +14,7 @@ __NewInstitue__.  Policies and procedures required for compliance are shown
 using the word **“SHALL”**.
 
 This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018, 
-21 CFR Parts 11 and 54, ICH E6(R2), ICH E8(R1), ICH E9(R1), ICH Q9(R1), 
+21 CFR Parts 11, 54 and 56, ICH E6(R2), ICH E8(R1), ICH E9(R1), ICH Q9(R1), 
 GAMP 5, NIST 800-171, NIST 800-53, and applicable Clinical Trials Guidance 
 Documents published by the FDA.
 
@@ -132,8 +132,8 @@ the following standards and guidance documents are not considered by this QMS
 ### 3.3 Terms
 
 -   **Adverse Event**: Any untoward medical occurrence in a patient or clinical
-    investigation subject administered a pharmaceutical product and which does
-    not necessarily have a causal relationship with this treatment.
+    investigation subject who is administered a pharmaceutical product and which
+    does not necessarily have a causal relationship with this treatment.
     `[ICH E6(R2) 1.2]`
 
 -   **Audit**: A systematic and independent examination of trial-related
@@ -166,44 +166,42 @@ the following standards and guidance documents are not considered by this QMS
     are credible and accurate, and that the rights, integrity, and
     confidentiality of trial subjects are protected. `[ICH E6(R2) 1.24]`
 
--   **Investigator**: A person responsible for the conduct of the clinical
-    trial at a trial site. If a trial is conducted by a team of individuals at
-    a trial site, the investigator is the responsible leader of the team and
+-   **Investigator**: A person responsible for the conduct of the study at a
+    study site. If a study is conducted by a team of individuals at
+    a study site, the investigator is the responsible leader of the team and
     may be called the principal investigator. `[ICH E6(R2) 1.34]`
 
--   **Monitoring**: The act of overseeing the progress of a clinical trial, and
+-   **Monitoring**: The act of overseeing the progress of a study, and
     of ensuring that it is conducted, recorded, and reported in accordance with
     the protocol, standard operating procedures (SOPs), GCP, and the applicable
     regulatory requirement(s). `[ICH E6(R2) 1.38]`
 
--   **Multicenter Trial**: A clinical trial conducted according to a single
+-   **Multicenter Trial**: A study conducted according to a single
     protocol but at more than one site, and therefore, carried out by more than
     one investigator. `[ICH E6(R2) 1.40]`
 
--   **Observational Study**: A *clinical investigation* in which no intervention
-    is administered and only the control arm is performed.
+-   **Observational Study**: An investigation to observe, measure and analyze
+    groups or individuals without administering an intervention.
 
 -   **Sponsor**: An individual, company, institution, or organization that
     takes responsibility for the initiation, management, and/or financing of a
-    clinical trial. `[ICH E6(R2) 1.53]`
+    study. `[ICH E6(R2) 1.53]`
 
 -   **Study Protocol**: A document that describes the objective(s), design,
-    methodology, statistical considerations, and organization of a trial.
+    methodology, statistical considerations, and organization of a study.
     `[ICH E6(R2) 1.44]`
-    
--   **Subject**: An individual who participates in a clinical trial, either as
-    a recipient of the investigational product(s) or as a control.
-    `[ICH E6(R2) 1.57]`
+
+-   **Study Site**: The location(s) where study-related activities are actually
+    conducted. `[ICH E6(R2) 1.59]`
+
+-   **Subject**: An individual who participates in an Observational Study
 
 -   **Trial Master File (TMF)**: A collection of essential documents that
     individually and collectively permit evaluation of the conduct of a
-    clinical investigation or observational study and the quality of the data
-    produced. These documents serve to demonstrate the compliance of the
-    investigator, sponsor, and monitor with the standards of Good Clinical
-    Practice and with all applicable regulatory requirements.
-
--   **Trial Site**: The location(s) where trial-related activities are actually
-    conducted. `[ICH E6(R2) 1.59]`
+    study and the quality of the data produced. These documents serve to
+    demonstrate the compliance of the investigator, sponsor, and monitor with
+    the standards of Good Clinical Practice and with all applicable regulatory
+    requirements.
 
 ### 3.4 Acronyms
 
@@ -325,12 +323,11 @@ The purpose of each level of documentation is as follows:
 -   **Records** provide evidence that activities prescribed in SOPs and
     WIs were performed.
 
--   **Study documents** are documents produced as part of clinical
-    investigation design, conduct, and reporting activities. These may
-    include protocols, case report forms, monitoring reports, safety reports,
-    statistical analysis plans, and other documents based on individual study
-    requirements. The specific documents to be produced are defined in the
-    study plan/protocol.
+-   **Study documents** are documents produced as part of study design, conduct,
+    and reporting activities. These may include protocols, case report forms,
+    monitoring reports, safety reports, statistical analysis plans, and other
+    documents based on individual study requirements. The specific documents to
+    be produced are defined in the study plan/protocol.
 
 ## 5.0 MANAGEMENT RESPONSIBILITY
 
@@ -387,9 +384,9 @@ following minimum responsibilities:
     __NewInstitue__ and for coordinating all responses to regulatory inquiries
     and inspections.
 
--   Responsible for coordinating periodic internal audits of all clinical
-    investigation activities covered by this Quality Manual. Internal Audits
-    are described in [section 8.3](QM-001--QualityManual.md#83-internal-and-external-audits)
+-   Responsible for coordinating periodic internal audits of all study
+    activities covered by this Quality Manual. Internal Audits are described in
+    [section 8.3](QM-001--QualityManual.md#83-internal-and-external-audits)
     below.
 
 -   Maintains this Quality Manual and distributes controlled copies of
@@ -429,8 +426,7 @@ discussion:
 
 -   Staff training needs and investigator qualification requirements
 
--   Systems, equipment and infrastructure needs to support clinical
-    investigations and the QMS
+-   Systems, equipment and infrastructure needs to support studies and the QMS
 
 -   Results of audits (internal, regulatory, and sponsor audits)
 
@@ -489,7 +485,7 @@ certain that all employees are made aware of the:
 
 -   Importance of their activities
 -   How their activities affect the safety of study subjects and the
-    reliability of clinical data
+    reliability of study data
 -   How their activities contribute to the achievement of the quality objectives
 -   GCP principles and their legal and ethical responsibilities
 -   Requirements for protection of subject rights, safety, and welfare
@@ -501,12 +497,11 @@ All training shall be documented in training records.
 
 #### 6.1.2 Systems, Equipment and Infrastructure
 
-Executive Management **shall** be responsible for deciding which clinical
-investigations should be designed and conducted. For each of these
-studies, Executive Management **shall** be responsible for providing
-adequate systems, equipment, and infrastructure to support the design,
-conduct, reporting and support of *observational studies* conducted under this
-QMS.
+Executive Management **shall** be responsible for deciding which studies should
+be designed and conducted. For each of these studies, Executive Management
+**shall** be responsible for providing adequate systems, equipment, and
+infrastructure to support the design, conduct, reporting and support of
+*observational studies* conducted under this QMS.
 
 ## 7.0 STUDY REALIZATION
 
@@ -576,8 +571,8 @@ validation in accordance with GAMP 5 risk-based principles as described in the
 Computer System Validation, Data Integrity and Data Management Procedure,
 SOP-004.
 
-All data integrity and data management activities related to *clinical
-investigations* **SHALL** be performed and documented in accordance with the
+All data integrity and data management activities related to *observational
+studies* **SHALL** be performed and documented in accordance with the
 Computer System Validation, Data Integrity and Data Management Procedure,
 SOP-004
 
@@ -684,7 +679,7 @@ Consistent, Enduring, and Available).
 __NewInstitue__ **SHALL** establish and maintain procedures for measurement,
 analysis, monitoring, and improvement of *observational studies* it is
 conducting or sponsoring. Statistical methods and other techniques may be used
-to demonstrate conformity and effectiveness of clinical investigation conduct.
+to demonstrate conformity and effectiveness of study conduct.
 
 These activities, at a minimum, shall include:
 
