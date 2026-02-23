@@ -350,6 +350,11 @@ lifecycle and across studies:
 
 ## 5.0 PHASE 1: RISK MANAGEMENT BEFORE STUDY CONDUCT
 
+This section defines the risk management activities performed
+before study conduct begins, aligned with the Study Concept
+and Feasibility (SOP-001 Section 5.2) and Protocol Development
+(SOP-001 Section 5.3) design control phases.
+
 ### 5.1 Integration with Design Controls
 
 Risk management activities **SHALL** be integrated with the
@@ -1165,64 +1170,406 @@ Procedure](SOP-013--Change_Control_Procedure.md).
 
 ## 6.0 PHASE 2: RISK MANAGEMENT DURING STUDY CONDUCT
 
+This section defines the ongoing risk management activities
+performed after study initiation and throughout study conduct.
+
+Risk management during study conduct is an iterative process
+(per Section 4.2.4) in which the risk profile established in
+Section 5.0 is continuously evaluated against actual study
+performance. Risk reviews occur through two mechanisms:
+scheduled periodic reviews (Section 6.1) and event-triggered
+reassessments (Section 6.2). Both mechanisms are informed by
+monitoring data received from activities conducted under
+SOP-009 (Section 6.3).
+
+Updates to the risk profile during study conduct may result in
+changes to the Risk Management Plan, Risk Register, QTLs, KRI
+thresholds, or monitoring intensity levels. Such changes are
+communicated to the monitoring team (Section 6.3.3) and may
+require Monitoring Plan adaptations per SOP-009 Section 4.6.
+
 ### 6.1 Periodic Risk Review
+
+Periodic risk reviews provide structured, scheduled
+opportunities to evaluate the study risk profile against
+actual study performance data. They complement the
+event-triggered reassessments defined in Section 6.2.
 
 #### 6.1.1 Scheduled Risk Reassessment
 
-Defines the frequency and triggers for routine risk reviews (e.g., quarterly, at predetermined milestones, after specific enrollment targets) to reassess risk scores based on actual study performance.
+Risk reviews **SHALL** be conducted at regular intervals
+throughout study conduct. The review schedule **SHALL** be
+defined in the Risk Management Plan (Section 5.5) and
+**SHALL** consider:
+
+- Study duration and complexity
+- Rate of enrollment and data accumulation
+- Risk profile of the study (studies with more high or
+  critical priority risks warrant more frequent review)
+
+At a minimum, risk reviews **SHALL** be conducted:
+
+- At the first scheduled review point after the first
+  subject is enrolled (to confirm that pre-study risk
+  assumptions are consistent with early study experience)
+- At regular intervals thereafter, not to exceed quarterly
+  for studies with active enrollment or data collection
+- At significant enrollment milestones defined in the Risk
+  Management Plan (e.g., 25%, 50%, and 75% of target
+  enrollment)
+- Before database lock, as a final review of the risk
+  profile during study conduct
+
+Studies with low-risk profiles or short durations **MAY**
+adopt a less frequent review schedule, provided the rationale
+is documented in the Risk Management Plan and the minimum
+quarterly interval is maintained during active enrollment.
+
+At each scheduled risk review, the study team **SHALL**:
+
+- Review all open risks in the Risk Register
+- Reassess likelihood and severity scores based on actual
+  study data
+- Evaluate the effectiveness of implemented risk controls
+- Review KRI trends and QTL status
+- Determine whether risk priority levels or monitoring
+  intensity levels require adjustment
+- Identify any new risks that have emerged since the last
+  review
+- Confirm that risk acceptance decisions remain appropriate
+- Document the review outcomes in the Risk Register
 
 #### 6.1.2 Risk Review Meeting Requirements
 
-Specifies the attendees, agenda, inputs needed (monitoring reports, KRIs, deviations), and documentation requirements for formal risk review meetings during study conduct.
+Risk reviews **SHALL** be conducted as formal meetings with
+documented attendance, agenda, and outcomes.
+
+**Attendees**
+
+At a minimum, the following **SHALL** participate in or
+provide input to risk review meetings:
+
+- Study Director or Principal Investigator
+- Risk Owners for open risks at high or critical priority
+- Quality Assurance representative
+
+Additional attendees **SHOULD** be included based on the
+risks under review (e.g., data management, monitoring team,
+site management, safety reviewer).
+
+**Inputs**
+
+The following data **SHALL** be available for review:
+
+- Current Risk Register
+- Monitoring reports and centralized monitoring summaries
+  (per SOP-009 Sections 4.8.1 and 4.8.2)
+- KRI and QTL status reports (per SOP-009 Section 4.8.3)
+- Nonconformance log and trends (per SOP-010)
+- CAPA status and effectiveness data (per SOP-011)
+- Safety data review findings (per SOP-008 Section 4.9)
+- Audit findings, if any (per SOP-012)
+- Enrollment and study progress data
+
+**Documentation**
+
+Risk review meetings **SHALL** be documented in meeting
+minutes that include:
+
+- Date and attendees
+- Risks reviewed and data considered
+- Decisions made (score changes, control adjustments,
+  new risks added, risks closed)
+- Action items with responsible persons and due dates
+- Updates required to the Risk Management Plan, Risk
+  Register, or monitoring approach
+
+Meeting minutes **SHALL** be maintained in the TMF per
+SOP-002.
 
 #### 6.1.3 Risk Management Plan Updates
 
-Describes the process for revising the Risk Management Plan based on review findings, including change control requirements, version control, and communication of updates to relevant stakeholders.
+When a risk review results in changes to the risk profile,
+the Risk Management Plan and Risk Register **SHALL** be
+updated to reflect the current state.
+
+Updates **MAY** include:
+
+- Revised risk scores (likelihood, severity, or both)
+- New risks added to the Risk Register
+- Risks closed or downgraded based on study data
+- Modified or additional risk control measures
+- Adjusted QTL thresholds or KRI definitions
+- Changes to monitoring intensity levels
+- Updated risk acceptance decisions
+
+Updates to the Risk Management Plan **SHALL** be version
+controlled per SOP-002. Changes that affect the study's
+overall risk-based monitoring approach **SHALL** be
+communicated to the monitoring team per Section 6.3.3 to
+inform Monitoring Plan adaptations per SOP-009 Section 4.6.
+
+Changes to risk management documents that are consequential
+to a protocol amendment **SHALL** follow
+[SOP-013: Change Control
+Procedure](SOP-013--Change_Control_Procedure.md). Changes
+arising solely from risk reassessment (without a protocol
+amendment) **SHALL** be documented through version control
+of the Risk Management Plan and Risk Register per SOP-002,
+with review and approval by the Study Director or Principal
+Investigator.
+
+Summary risk status from periodic reviews **SHALL** be
+available as input to the annual Management Review per
+QM-001 Section 5.3.3.
 
 ### 6.2 Triggered Risk Reassessment
 
+Certain events require risk reassessment outside the
+scheduled periodic reviews defined in Section 6.1. Triggered
+reassessments follow the same review activities as scheduled
+reviews (Section 6.1.1) but are initiated in response to a
+specific event rather than at a predetermined interval.
+
 #### 6.2.1 Triggers for Unscheduled Risk Review
 
-Lists specific events that require immediate risk reassessment outside the scheduled reviews (e.g., serious protocol deviations, QTL breaches, regulatory inspection findings, safety signals, major site issues).
+A risk reassessment **SHALL** be initiated when any of the
+following events occur:
+
+**Safety events:**
+- Safety signal identified through safety data review
+  (per SOP-008 Section 4.9) that may alter the study
+  risk-benefit profile
+- Serious adverse event that is unexpected and potentially
+  related to study procedures
+- Events requiring protocol modification to protect subject
+  safety (per SOP-008)
+
+**Monitoring and quality findings:**
+- QTL threshold exceeded (per Section 5.6.2)
+- KRI action threshold exceeded for a risk at high or
+  critical priority level (per Section 5.6.4)
+- Critical or major nonconformance identified
+  (per SOP-010)
+- Nonconformance trend indicating a potential systemic
+  issue (per SOP-010 and SOP-011)
+- Critical or major audit finding (per SOP-012)
+- CAPA root cause analysis revealing a previously
+  unidentified risk or inadequacy of existing controls
+  (per SOP-011)
+
+**Study changes:**
+- Substantive protocol amendment (per SOP-013) that affects
+  study procedures, eligibility criteria, endpoints, or
+  the risk-benefit profile
+- Significant change in study scope (e.g., addition of new
+  sites, new data collection methods, change in study
+  population)
+- Change to a critical vendor or outsourced activity
+  (per SOP-006)
+
+**External events:**
+- New regulatory requirements or guidance affecting the
+  study
+- External safety information relevant to study procedures
+  or population
+- Significant site issues (e.g., loss of key personnel,
+  facility problems, regulatory action against a site)
+
+The Study Director, Principal Investigator, Quality
+Assurance, or any Risk Owner **MAY** initiate a triggered
+reassessment when they become aware of a qualifying event.
+The initiator **SHALL** document the triggering event and
+notify the Study Director or Principal Investigator.
 
 #### 6.2.2 Emerging Risk Identification
 
-Describes the process for capturing and evaluating new risks that weren't identified during initial planning but arise during study conduct (e.g., unexpected recruitment challenges, new regulatory requirements).
+Risks that were not identified during pre-study planning
+(Section 5.2) may emerge during study conduct. Any study
+team member **SHALL** report potential emerging risks to
+the Study Director or Principal Investigator.
+
+When an emerging risk is reported, the study team **SHALL**:
+
+- Evaluate whether the reported issue constitutes a risk
+  per the definition in Section 3.3 (i.e., a combination
+  of probability and severity of harm to participants,
+  data integrity, or study validity)
+- If confirmed as a risk, assess the risk using the
+  scoring methodology defined in Sections 5.3.1 and 5.3.2
+- Assign a risk priority level per Section 5.3.3
+- Associate the risk with an existing or new CTQ factor
+- Determine required risk controls per Section 5.4
+- Assign a Risk Owner
+- Add the risk to the Risk Register with full documentation
+- Determine whether the new risk requires changes to the
+  monitoring approach (QTLs, KRIs, monitoring intensity)
+  and communicate any changes per Section 6.3.3
+
+If the emerging risk is at high or critical priority level,
+interim risk controls **SHALL** be implemented immediately
+while the full assessment is completed.
 
 #### 6.2.3 Risk Score Adjustments
 
-Defines how to recalculate risk scores based on actual occurrence data, effectiveness of mitigation measures, and changed study circumstances, including documentation and approval requirements for score changes.
+Risk scores **MAY** be adjusted during triggered
+reassessment when evidence indicates that the initial
+assessment no longer reflects the current risk level.
+
+Adjustments to risk scores **SHALL** be based on objective
+evidence, which **MAY** include:
+
+- Actual occurrence data (e.g., observed deviation rates
+  compared to predicted likelihood)
+- Demonstrated effectiveness or ineffectiveness of
+  implemented controls
+- Changes to study circumstances that alter likelihood or
+  severity (e.g., protocol amendment, site changes,
+  population characteristics)
+- Monitoring data indicating risk trends (KRI and QTL
+  data per Section 6.3.1)
+- Root cause analysis findings from nonconformances
+  (per SOP-010) or CAPAs (per SOP-011)
+
+Risk scores **MAY** be adjusted upward or downward.
+
+For upward adjustments:
+- If the revised priority level requires additional controls
+  per Section 5.4, the study team **SHALL** define and
+  implement those controls
+- If the revised priority level exceeds the original
+  acceptance authority, re-approval **SHALL** be obtained
+  per Section 5.3.4
+
+For downward adjustments:
+- The study team **SHALL** document the evidence supporting
+  the reduction
+- Monitoring intensity **SHALL NOT** be reduced below the
+  minimum level for the revised priority level
+  (per Section 5.6.3) without documented justification
+  and approval by the Study Director or Principal
+  Investigator
+
+All score adjustments **SHALL** be documented in the Risk
+Register with the date, the previous and revised scores,
+the evidence supporting the change, and the approving
+authority. Updates to the Risk Management Plan **SHALL**
+follow Section 6.1.3.
 
 ### 6.3 Integration with Monitoring Findings
 
-This section defines how risk assessments are updated based on monitoring 
-results received from activities conducted under SOP-009.
+This section defines the bidirectional interface between risk
+management and monitoring activities conducted under
+[SOP-009: Monitoring and Oversight
+Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md).
+
+Monitoring data provides the primary evidence base for
+evaluating whether identified risks are materializing or
+controlled as expected. Updates to the risk profile resulting
+from this evaluation are communicated back to the monitoring
+team to inform adjustments to their activities.
 
 #### 6.3.1 Monitoring Data Review for Risk Impact
 
-The Risk Owner **SHALL** review monitoring reports and KRI data provided by 
-the monitoring team (per SOP-009) to assess whether identified risks are 
-materializing or controlled as expected.
+Risk Owners **SHALL** review monitoring outputs to assess the
+status of risks assigned to them. Monitoring outputs to be
+reviewed include:
+
+- Monitoring visit reports (per SOP-009 Section 4.8.1)
+- Centralized monitoring reports, including KRI and QTL
+  status (per SOP-009 Section 4.8.2)
+- Management oversight reports (per SOP-009 Section 4.8.3)
+- For-cause visit findings (per SOP-009 Section 4.4.3)
+
+This review **SHALL** occur at a minimum:
+
+- Before each scheduled risk review meeting
+  (per Section 6.1.1), using the most recent monitoring
+  reports as input
+- Promptly upon receipt of monitoring reports that identify
+  QTL exceedances, KRI action threshold breaches, or
+  significant findings relevant to assigned risks
+
+For each risk under review, the Risk Owner **SHALL** assess
+whether monitoring data indicates that:
+
+- The risk is controlled as expected (no action required)
+- The risk is trending toward a higher level (score
+  adjustment or additional controls may be warranted per
+  Section 6.2.3)
+- The risk has materialized (escalation to quality processes
+  per Section 6.3.4 may be required)
+- The risk is lower than initially assessed (downward score
+  adjustment may be warranted per Section 6.2.3)
+- Risk controls are performing as intended or require
+  modification
 
 #### 6.3.2 Updating Risk Assessments Based on Monitoring
 
-Risk scores and mitigation strategies **SHALL** be adjusted when monitoring 
-data indicates risk levels differ from initial assessments, with changes 
-documented in the Risk Register and Risk Management Plan.
+When monitoring data indicates that risk levels differ from
+current assessments, risk scores and mitigation strategies
+**SHALL** be adjusted per Section 6.2.3.
+
+Changes **SHALL** be documented in the Risk Register and, when
+they affect the overall risk profile or monitoring approach,
+in the Risk Management Plan per Section 6.1.3.
 
 #### 6.3.3 Communication to Monitoring Team
 
-Updates to risk levels, CTQ factors, or QTLs **SHALL** be communicated to 
-the monitoring team to inform adjustments to their monitoring activities 
-under SOP-009.
+Updates to the following **SHALL** be communicated to the
+monitoring team to inform adjustments to monitoring activities
+per SOP-009 Section 4.6:
+
+- Risk priority levels for monitored risks
+- CTQ factors (additions, removals, or modifications)
+- QTL thresholds (new, revised, or removed)
+- KRI definitions or thresholds
+- Monitoring intensity level assignments
+  (per Section 5.6.3)
+- New risks requiring monitoring
+
+Communication **SHALL** include sufficient detail for the
+monitoring team to evaluate whether the Monitoring Plan
+requires adaptation. The monitoring team determines the
+specific operational changes to monitoring methods,
+frequency, or scope per SOP-009 Section 4.6.
+
+Communication **SHALL** be documented and maintained in the
+TMF per Section 5.7.2.
 
 #### 6.3.4 Escalation to Quality Processes
 
-Monitoring findings that identify nonconformances **SHALL** be managed per 
-SOP-010. Findings requiring corrective or preventive action **SHALL** be 
-escalated to the CAPA process per SOP-011. Risk assessments **SHALL** be 
-updated based on root cause analyses and effectiveness checks from these 
-processes.
+Monitoring findings or risk review outcomes that indicate
+requirements have not been met **SHALL** be escalated to the
+appropriate quality process:
+
+- Findings that constitute nonconformances (protocol
+  deviations, GCP violations, data integrity issues)
+  **SHALL** be managed per
+  [SOP-010: Control of Nonconforming Observational Study
+  Activities
+  Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
+- Systemic issues or recurring nonconformances identified
+  through risk review or trend analysis **SHALL** be
+  escalated to the CAPA process per
+  [SOP-011: Corrective and Preventive Action
+  Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+- Safety events identified through monitoring **SHALL** be
+  managed per
+  [SOP-008: Subject Safety and Adverse Event Management
+  Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
+
+Risk assessments **SHALL** be updated based on:
+
+- Root cause analyses from nonconformance reviews
+  (per SOP-010) and CAPAs (per SOP-011)
+- Effectiveness verification results from completed CAPAs
+  (per SOP-011)
+- Changes to study procedures resulting from corrective
+  actions
+
+These updates follow the risk score adjustment process in
+Section 6.2.3 and are documented in the Risk Register.
 
 ## 7.0 PHASE 3: RISK MANAGEMENT AFTER STUDY COMPLETION
 
