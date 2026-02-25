@@ -48,6 +48,10 @@ Study design considerations and protocol development follow
 Risk management documentation is controlled under 
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
+Post-study risk management activities, including final risk
+review and lessons learned, are aligned with study closeout
+per [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
+
 Issues identified through risk management activities that constitute 
 nonconformances are managed under [SOP-010: Control of Nonconforming 
 Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
@@ -1573,17 +1577,260 @@ Section 6.2.3 and are documented in the Risk Register.
 
 ## 7.0 PHASE 3: RISK MANAGEMENT AFTER STUDY COMPLETION
 
+This section defines the risk management activities performed
+after study conduct is complete, aligned with study closeout
+activities per
+[SOP-007: Study Closeout and Archiving
+Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
+
+The focus of risk management in this phase shifts from active
+risk monitoring and control to documenting risk outcomes,
+evaluating the effectiveness of the risk management approach,
+and capturing lessons learned to improve risk management for
+future studies.
+
 ### 7.1 Final Risk Review
+
+A final risk review **SHALL** be conducted as part of study
+closeout activities per SOP-007. The final risk review
+**SHALL** be completed before the Risk Management Plan and
+Risk Register are finalized for archiving.
+
+The final risk review follows the same meeting requirements
+as periodic risk reviews (Section 6.1.2), with the addition
+of the outcome documentation and residual risk assessment
+described below.
+
 #### 7.1.1 Risk Outcome Documentation
+
+For each risk in the Risk Register, the study team **SHALL**
+document the final outcome:
+
+- **Realized risks**: Risks that materialized during study
+  conduct. For each realized risk, document:
+  - When the risk materialized and how it was detected
+  - The actual impact on subject safety, data integrity,
+    or study validity
+  - The effectiveness of the planned controls (did
+    preventive controls reduce likelihood as expected?
+    did detective controls detect the issue promptly?)
+  - Actions taken in response (nonconformances per SOP-010,
+    CAPAs per SOP-011, protocol amendments per SOP-013)
+  - Whether the initial likelihood and severity scores
+    accurately predicted the actual occurrence and impact
+
+- **Unrealized risks**: Risks that did not materialize. For
+  each unrealized risk, document:
+  - Whether controls were implemented as planned
+  - Whether the risk was genuinely absent or whether
+    controls successfully prevented it (to the extent
+    this can be determined)
+
+- **Emerging risks**: Risks identified during study conduct
+  (per Section 6.2.2) that were not in the initial Risk
+  Register. For each emerging risk, document:
+  - When and how the risk was identified
+  - Whether it could reasonably have been anticipated
+    during pre-study planning
+
+The Risk Register **SHALL** be updated with final outcomes
+and a final status (realized, unrealized, or closed) for
+each risk. The final Risk Register constitutes part of the
+permanent study record in the TMF.
+
 #### 7.1.2 Residual Risk Assessment
 
+The study team **SHALL** assess whether any residual risks
+remain at study completion that could affect:
+
+- The integrity or interpretation of study data
+- The safety or welfare of subjects after study
+  participation ends
+- The reliability of study conclusions
+
+For each identified residual risk, the study team **SHALL**
+document:
+
+- Description of the residual risk
+- Potential impact on study results or subject welfare
+- Any ongoing mitigations or monitoring that remain in
+  effect after study closeout (e.g., long-term follow-up
+  of subjects, caveats in the final study report)
+- Whether the residual risk affects the interpretation of
+  study findings, and if so, how this is addressed in the
+  final study report
+
+The residual risk assessment **SHALL** be documented in the
+final Risk Management Plan and provided as input to the
+final study report (per SOP-007 Section 4.5).
+
 ### 7.2 Lessons Learned
+
+The lessons learned review evaluates the effectiveness of
+the risk management approach used for the study and captures
+knowledge to improve risk management for future studies. This
+review implements the Knowledge Management and Performance
+Metrics principles defined in Section 4.2.4.
+
+The lessons learned review **SHALL** be completed after the
+final risk review (Section 7.1) and before the Risk
+Management Plan is finalized for archiving.
+
 #### 7.2.1 Risk Management Effectiveness Review
-#### 7.2.2 Best Practices Identification
+
+The study team **SHALL** evaluate the overall effectiveness
+of the risk management approach by assessing:
+
+**Accuracy of risk identification:**
+- Were the risks that materialized anticipated in the
+  initial Risk Register?
+- Were significant emerging risks identified during study
+  conduct (per Section 6.2.2) that should have been
+  identified during pre-study planning?
+- Were there CTQ factors that should have been identified
+  but were not?
+- Were any identified risks overestimated (resources
+  allocated to risks that did not materialize and where
+  controls were unnecessary)?
+
+**Accuracy of risk scoring:**
+- For realized risks, how did actual likelihood compare to
+  the predicted likelihood score?
+- For realized risks, how did actual impact compare to the
+  predicted severity score?
+- Were the scoring scales and priority thresholds
+  (Section 5.3) appropriately calibrated for this study?
+
+**Effectiveness of risk controls:**
+- Which preventive controls (Section 5.4.2) were effective
+  in reducing risk likelihood?
+- Which detective controls (Section 5.4.3) were effective
+  in identifying issues promptly?
+- Were contingency plans (Section 5.4.4) activated, and if
+  so, were they adequate?
+- Were any controls ineffective, disproportionate, or
+  impractical to implement?
+
+**Effectiveness of risk monitoring:**
+- Were QTL thresholds (Section 5.6.2) appropriately
+  calibrated? Did they trigger at the right level or were
+  they too sensitive or too lenient?
+- Did KRIs (Section 5.6.4) provide useful early warning of
+  emerging issues?
+- Was the monitoring intensity (Section 5.6.3) appropriate
+  for the risks encountered?
+
+**Timeliness and responsiveness:**
+- Were risks identified and escalated promptly when they
+  materialized?
+- Were risk reviews conducted at appropriate intervals
+  (Section 6.1) and in response to qualifying events
+  (Section 6.2)?
+- Were updates to the monitoring approach communicated
+  and implemented in a timely manner (Section 6.3.3)?
+
+The effectiveness review **SHALL** be documented and
+maintained in the TMF.
+
+#### 7.2.2 Best Practices and Improvement Recommendations
+
+Based on the effectiveness review, the study team **SHALL**
+document:
+
+**Best practices** — approaches that worked well and
+**SHOULD** be repeated in future studies, such as:
+- Risk identification methods that proved particularly
+  effective
+- Control measures that successfully prevented or detected
+  issues
+- QTL or KRI definitions that provided actionable
+  information
+- Communication practices that supported timely decision
+  making
+
+**Improvement recommendations** — specific, actionable
+suggestions for improving risk management, such as:
+- Additional risk categories or CTQ factors to consider
+  in future studies
+- Adjustments to scoring scales or priority thresholds
+- Control measures to add, modify, or discontinue
+- Changes to QTL or KRI definitions or thresholds
+- Changes to risk review frequency or meeting structure
+- Training needs identified through the study experience
+
+Improvement recommendations that apply to the QMS (rather
+than to a specific future study) **SHALL** be considered
+for action through the appropriate process:
+- Recommendations requiring changes to this procedure
+  or its templates **SHALL** be submitted per SOP-013
+- Recommendations indicating a systemic quality issue
+  **SHALL** be evaluated for CAPA per SOP-011
+- Recommendations for training **SHALL** be communicated
+  to the appropriate personnel per Section 10.0
+
+Best practices and improvement recommendations **SHALL**
+be summarized and made available as input to the annual
+Management Review per QM-001 Section 5.3.3.
 
 ### 7.3 Knowledge Transfer
-#### 7.3.1 Risk Database Updates
-#### 7.3.2 Process Improvement Recommendations
+
+Knowledge transfer ensures that the lessons learned and
+effectiveness data from Section 7.2 are incorporated into
+organizational resources that inform future studies. This
+section implements the Knowledge Management principle
+defined in Section 4.2.4.
+
+#### 7.3.1 Risk Library Updates
+
+__NewInstitute__ **SHOULD** maintain a risk library that
+consolidates risk information from completed studies to
+support risk identification for future studies.
+
+After each study closeout, the study team **SHALL** review
+the final Risk Register and lessons learned documentation
+and identify information to contribute to the risk library,
+including:
+
+- Risks that materialized and their actual impact, with
+  the controls that were or would have been effective
+- Emerging risks that were not anticipated during pre-study
+  planning (per Section 7.1.1), as candidates for routine
+  consideration in future risk assessments
+- Effective QTL and KRI definitions with calibrated
+  thresholds based on actual study data
+- Risk categories or CTQ factors specific to study types
+  (e.g., neuroimaging studies, multi-site studies, studies
+  involving vulnerable populations)
+
+The risk library is an organizational resource, not a
+study-specific document. It is maintained in QMS files
+(not the TMF) and updated as studies are completed.
+
+#### 7.3.2 Process Improvement Implementation
+
+Improvement recommendations identified in Section 7.2.2
+that were routed to QMS processes (SOP-013, SOP-011, or
+training) **SHOULD** be tracked to completion.
+
+The Study Director or Principal Investigator **SHOULD**
+confirm that:
+
+- Recommendations submitted per SOP-013 have been received
+  and acknowledged
+- Recommendations submitted for CAPA evaluation per
+  SOP-011 have been logged
+- Training recommendations have been communicated to the
+  appropriate personnel
+
+Tracking of the resulting changes, CAPAs, or training
+activities is managed by the receiving process. The study
+team's responsibility ends once recommendations are
+submitted and acknowledged.
+
+A summary of knowledge transfer activities, including
+risk library updates and improvement recommendations
+submitted, **SHOULD** be documented and maintained in the
+TMF as part of the study closeout record.
 
 ## 8.0 RISK MANAGEMENT TOOLS AND TEMPLATES
 
