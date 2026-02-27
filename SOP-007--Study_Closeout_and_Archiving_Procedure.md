@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-007: Study Closeout and Archiving Procedure"
 ---
 
@@ -7,14 +7,14 @@ subtitle: "SOP-007: Study Closeout and Archiving Procedure"
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 closing out *observational studies* and archiving essential documents and study
-records conducted by __NewInstitue__. It ensures proper completion of all study
+records conducted by __NewInstitute__. It ensures proper completion of all study
 activities, verification of Trial Master File (TMF) completeness, and long-term
 retention of study documentation in compliance with regulatory requirements.
 
 ## 2.0 SCOPE
 
 This procedure applies to all *observational studies* conducted by
-__NewInstitue__ and addresses Phase 3 activities as defined in ICH E6(R2)
+__NewInstitute__ and addresses Phase 3 activities as defined in ICH E6(R2)
 Section 8 (After Completion or Termination of the Trial).
 
 This procedure covers:
@@ -40,7 +40,7 @@ Final study reports are developed using
 [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 principles for documentation quality and completeness.
 
-This procedure applies to all __NewInstitue__ employees and subcontractors
+This procedure applies to all __NewInstitute__ employees and subcontractors
 involved in:
 
 - Study conduct and operations
@@ -60,7 +60,7 @@ involved in:
 - 21 CFR Part 11: Electronic Records; Electronic Signatures
 - Applicable regulatory requirements for document retention
 
-### 3.2 __NewInstitue__ References
+### 3.2 __NewInstitute__ References
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 2. [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)

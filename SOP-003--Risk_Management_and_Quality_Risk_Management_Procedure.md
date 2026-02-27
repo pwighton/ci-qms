@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-003: Risk Management and Quality Risk Management Procedure"
 ---
 
@@ -7,7 +7,7 @@ subtitle: "SOP-003: Risk Management and Quality Risk Management Procedure"
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 identifying, assessing, controlling, communicating, and reviewing risks
-associated with *observational studies* conducted by __NewInstitue__. It ensures
+associated with *observational studies* conducted by __NewInstitute__. It ensures
 that risks to study participants, data quality, and study integrity are
 proactively managed throughout the study lifecycle in accordance with ICH
 E6(R2) quality management principles.
@@ -15,7 +15,7 @@ E6(R2) quality management principles.
 ## 2.0 SCOPE
 
 This procedure applies to all risk management and quality risk management 
-activities for __NewInstitue__ observational studies. It establishes the 
+activities for __NewInstitute__ observational studies. It establishes the 
 framework for identifying, assessing, controlling, and reviewing risks that 
 could impact study quality, data integrity, and participant safety.
 
@@ -59,7 +59,7 @@ Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Obse
 Corrective and preventive actions arising from risk assessments are managed 
 under [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md).
 
-This procedure applies to all __NewInstitue__ employees and subcontractors 
+This procedure applies to all __NewInstitute__ employees and subcontractors 
 involved in:
 - Study management and planning
 - Quality assurance
@@ -95,7 +95,7 @@ involved in:
 - [FDA Guidance: Oversight of Clinical Investigations — A Risk-Based Approach to Monitoring](https://www.fda.gov/media/116754/download)
   (August 2013)
 
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitute__ References 
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 
@@ -223,7 +223,7 @@ involved in:
 
 ### 4.1 Overview
 
-__NewInstitue__ implements a risk-based quality management approach in 
+__NewInstitute__ implements a risk-based quality management approach in 
 accordance with ICH E6(R2) Section 5.0 to ensure the protection of study 
 participants and the reliability of study results. 
 
@@ -240,7 +240,7 @@ Sections 5.0 through 7.0.
 ### 4.2 Risk Management Principles
 
 The following principles guide risk management activities for all 
-*observational studies* conducted by __NewInstitue__:
+*observational studies* conducted by __NewInstitute__:
 
 #### 4.2.1 Proportionate Approach
 

@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-010: Control of Nonconforming Observational Study Activities Procedure"
 ---
 
@@ -8,12 +8,12 @@ subtitle: "SOP-010: Control of Nonconforming Observational Study Activities Proc
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 identifying, documenting, evaluating, and managing activities that do not
 conform to protocol requirements, GCP standards, or regulatory requirements
-during *observational studies* conducted by __NewInstitue__.
+during *observational studies* conducted by __NewInstitute__.
 
 ## 2.0 SCOPE
 
 This procedure applies to all nonconforming activities identified during the
-conduct of __NewInstitue__ *observational studies*.
+conduct of __NewInstitute__ *observational studies*.
 
 Nonconformances are often identified through
 [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
@@ -32,7 +32,7 @@ Major nonconformances may trigger amendments managed under
 Vendor-related nonconformances are addressed with
 [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md).
 
-This procedure applies to all __NewInstitue__ employees and subcontractors
+This procedure applies to all __NewInstitute__ employees and subcontractors
 involved in:
 
 - Identifying nonconforming activities
@@ -47,7 +47,7 @@ involved in:
 
 ### 3.1 Guidance and Regulatory References
 
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitute__ References 
 
 ### 3.3 Terms
 

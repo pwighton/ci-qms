@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-002: Document and Records Controls Procedure"
 ---
 
@@ -8,7 +8,7 @@ subtitle: "SOP-002: Document and Records Controls Procedure"
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 creating, reviewing, approving, distributing, maintaining, and archiving
 documents and records related to *observational studies* conducted by
-__NewInstitue__. It ensures document integrity, traceability and compliance with
+__NewInstitute__. It ensures document integrity, traceability and compliance with
 regulatory requirements.
 
 ## 2.0 SCOPE
@@ -45,7 +45,7 @@ systems, those systems SHALL comply with the requirements of
 
 - [FDA Guidance for Industry: Part 11, Electronic Records; Electronic Signatures — Scope and Application](https://www.fda.gov/media/75414/download)
 
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitute__ References 
 
 ### 3.3 Terms
 
@@ -121,24 +121,24 @@ system include:
 
 ## 4.1 Responsibilities
 
-The __NewInstitue__ QA representative is the focal point for the
+The __NewInstitute__ QA representative is the focal point for the
 document and record control system and is responsible for assuring
 that all applicable documents and records conform to this SOP.
 
-All __NewInstitue__’s employees and third parties working under the
-direction of __NewInstitue__ are responsible for creating documents and
+All __NewInstitute__’s employees and third parties working under the
+direction of __NewInstitute__ are responsible for creating documents and
 records in a manner consistent with the requirements of this SOP.
 
 Required documents and records are submitted to the document control
 system and **shall** only be released by the QA representative.
 
-The __NewInstitue__ Project Manager is responsible for assuring that
+The __NewInstitute__ Project Manager is responsible for assuring that
 all required documents and records are identified in the Study
 Protocol and are created at the appropriate time during the project.
 
 The Project Manager is responsible for assuring that documents and
 records created by third parties working at the direction of
-__NewInstitue__ are consistent with this SOP.
+__NewInstitute__ are consistent with this SOP.
 
 The Project Manager **shall** be responsible for ensuring that all
 project activities are performed based only on documents that have
@@ -170,7 +170,7 @@ required elements including:
 
 -   Confidentiality statement on every page
 
--   __NewInstitue__ logo on every page
+-   __NewInstitute__ logo on every page
 
 -   Record of Revisions block
 
@@ -199,12 +199,12 @@ follows:
     the intended purpose. All approvers **shall** be selected based on
     their technical ability to understand the document content.
 
--   QA: The __NewInstitue__ QA representative reviews and signs all
+-   QA: The __NewInstitute__ QA representative reviews and signs all
     documents, making sure the document complies with the requirements
     of this procedure and is sufficient to meet its intended use.
 
 The document is released through document control prior to being
-distributed or implemented within or outside __NewInstitue__. Approved
+distributed or implemented within or outside __NewInstitute__. Approved
 documents **shall** be made available at all locations for which they
 are designated, used, or otherwise necessary.
 
@@ -219,10 +219,10 @@ page.
 The person assigned to change a released document is responsible for:
 
 -   Requesting an editable electronic copy of the released version of
-    the document to be changed from the __NewInstitue__ QA representative
+    the document to be changed from the __NewInstitute__ QA representative
 
 -   Providing a “marked up" (i.e., using track changes tool) electronic
-    version of the proposed revision to the __NewInstitue__ QA
+    version of the proposed revision to the __NewInstitute__ QA
     representative, who will review the proposed changes and ask for
     clarifications or additional information if needed.
 
@@ -268,7 +268,7 @@ mechanism.
 
 Documents of external origin, required for the quality system or
 related to the product, are identified and controlled within the
-__NewInstitue__ document control system. The QA representative
+__NewInstitute__ document control system. The QA representative
 **shall** control their distribution.
 
 Examples of documents of external origin include:
@@ -277,7 +277,7 @@ Examples of documents of external origin include:
 
 -   Vendor specifications, part number descriptions, catalogues or other
     external documents that are used to purchase items for use in
-    __NewInstitue__ products
+    __NewInstitute__ products
 
 ## 4.8 Removal of obsolete documents
 
@@ -386,7 +386,7 @@ questions beyond their planned ones.
 After being trained to this procedure, employees will understand how
 to consistently produce clear unambiguous records.
 
-This procedure is applicable to all __NewInstitue__ employees when
+This procedure is applicable to all __NewInstitute__ employees when
 creating or modifying any Design History File (DHF), Device Master
 Record (DMR), or Quality System Record (QSR).
 

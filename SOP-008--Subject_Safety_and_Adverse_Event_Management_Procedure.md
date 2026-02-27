@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-008: Subject Safety and Adverse Event Management Procedure"
 ---
 
@@ -7,7 +7,7 @@ subtitle: "SOP-008: Subject Safety and Adverse Event Management Procedure"
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 monitoring subject safety and managing adverse events during *clinical
-investigations* conducted by __NewInstitue__. It ensures prompt identification,
+investigations* conducted by __NewInstitute__. It ensures prompt identification,
 documentation, assessment, and reporting of safety information to protect
 subject welfare.
 

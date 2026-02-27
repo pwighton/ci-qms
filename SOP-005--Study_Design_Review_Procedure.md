@@ -1,12 +1,12 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-005: Study Design Review Procedure"
 ---
 
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the formal review and
-approval process for *observational studies* designs developed by __NewInstitue__.
+approval process for *observational studies* designs developed by __NewInstitute__.
 It ensures that study designs are systematically evaluated against scientific,
 ethical, regulatory, operational, and quality requirements at defined decision
 gates.
@@ -14,7 +14,7 @@ gates.
 ## 2.0 SCOPE
 
 This procedure applies to all formal review and approval of design activities of
-*observational studies* at __NewInstitue__.
+*observational studies* at __NewInstitute__.
 
 This procedure defines:
 
@@ -51,7 +51,7 @@ this procedure, while the change process itself is managed under
 - [ISO 9001:2015](https://www.iso.org/standard/62085.html): Quality management
   systems — Requirements (Section 8.3: Design and development)
   
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitute__ References 
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 

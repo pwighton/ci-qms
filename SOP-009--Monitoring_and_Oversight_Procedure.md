@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-009: Monitoring and Oversight Procedure"
 ---
 
@@ -7,7 +7,7 @@ subtitle: "SOP-009: Monitoring and Oversight Procedure"
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 monitoring and oversight of *observational studies* conducted by
-__NewInstitue__. It ensures that studies are conducted in accordance with the
+__NewInstitute__. It ensures that studies are conducted in accordance with the
 protocol, GCP, and regulatory requirements while maintaining data quality and
 subject safety.
 
@@ -76,7 +76,7 @@ involved in monitoring and oversight activities.
 
 - [FDA Guidance: A Risk-Based Approach to Monitoring of Clinical Investigations: Questions and Answers (2023)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/risk-based-approach-monitoring-clinical-investigations-questions-and-answers)
 
-### 3.2 __NewInstitue__ References
+### 3.2 __NewInstitute__ References
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 

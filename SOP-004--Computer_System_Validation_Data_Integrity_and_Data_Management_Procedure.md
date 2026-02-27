@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-004: Computer System Validation, Data Integrity and Data Management Procedure"
 ---
 
@@ -8,7 +8,7 @@ subtitle: "SOP-004: Computer System Validation, Data Integrity and Data Manageme
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 validating computer systems, ensuring data security and integrity, and managing
 electronic data throughout *observational studies* conducted by
-__NewInstitue__. It ensures compliance with electronic records requirements and
+__NewInstitute__. It ensures compliance with electronic records requirements and
 protection of data confidentiality.
 
 ## 2.0 SCOPE
@@ -37,7 +37,7 @@ This procedure applies to all NewInstitute employees and vendors involved in:
 
 ### 3.1 Guidance and Regulatory References
 
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitute__ References 
 
 ### 3.3 Terms
 

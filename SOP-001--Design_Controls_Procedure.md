@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-001: Design Controls Procedure"
 ---
 
@@ -8,14 +8,14 @@ subtitle: "SOP-001: Design Controls Procedure"
 This Standard Operating Procedure (SOP) provides *minimum*
 requirements (requirements are expressed using the word **SHALL**)
 for the design of *observational studies* by
-__NewInstitue__.  It ensures that study designs are appropriately planned,
+__NewInstitute__.  It ensures that study designs are appropriately planned,
 verified, validated, and controlled to meet scientific objectives while
 maintaining subject safety, privacy and data integrity.
 
 ## 2.0 SCOPE
 
 This procedure applies to all design and development activities for
-*observational studies* conducted by __NewInstitue__,  organized according to
+*observational studies* conducted by __NewInstitute__,  organized according to
 the three temporal phases defined in ICH E6(R2) Section 8:
 
 -   **Phase 1**: Before the Conduct of the Study (primary focus of this SOP)

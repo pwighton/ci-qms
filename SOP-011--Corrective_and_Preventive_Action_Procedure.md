@@ -1,5 +1,5 @@
 ---
-title: "__NewInstitue__ Quality Manual"
+title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-011: Corrective and Preventive Action Procedure"
 ---
 
@@ -8,12 +8,12 @@ subtitle: "SOP-011: Corrective and Preventive Action Procedure"
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 implementing corrective and preventive actions to address systemic issues,
 prevent recurrence of nonconformances, and drive continuous improvement in
-*observational studies* conducted by __NewInstitue__.
+*observational studies* conducted by __NewInstitute__.
 
 ## 2.0 SCOPE
 
 This procedure applies to all corrective and preventive actions arising from
-quality issues, trends, or risks identified during __NewInstitue__
+quality issues, trends, or risks identified during __NewInstitute__
 *observational studies* and QMS operations.
 
 Individual nonconformances are initially managed under
@@ -34,7 +34,7 @@ Audit findings requiring CAPA are identified through
 
 ### 3.1 Guidance and Regulatory References
 
-### 3.2 __NewInstitue__ References 
+### 3.2 __NewInstitute__ References 
 
 ### 3.3 Terms
 
