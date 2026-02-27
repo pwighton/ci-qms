@@ -977,8 +977,12 @@ before:
 - Implementation of any protocol amendments
 - Use of revised informed consent forms
 
-Continuing review by the IRB/IEC **SHALL** be conducted per IRB/IEC
-requirements and ICH E6(R2) throughout study conduct (Phase 2).
+Continuing review by the IRB/IEC **SHALL** be conducted per
+IRB/IEC requirements and ICH E6(R2) throughout study conduct
+(Phase 2). Ongoing IRB/IEC compliance, including continuing
+review submissions and communications, is managed per
+[SOP-014: Regulatory Compliance Management
+Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md).
 
 #### 5.5.6 Regulatory Authority Authorization (if applicable)
 
@@ -1631,77 +1635,139 @@ managed according to [SOP-013: Change Control Procedure](SOP-013--Change_Control
 
 ### 6.3 Ongoing Design Documentation
 
-Ongoing documentation during study conduct **SHALL** be maintained per:
-- [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
-- [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
-- [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+Ongoing documentation during study conduct **SHALL** be
+maintained per the following procedures:
+
+- [SOP-002: Document and Records Controls
+  Procedure](SOP-002--Document_and_Records_Controls_Procedure.md):
+  Version control and management of all study documents and
+  records
+- [SOP-003: Risk Management and Quality Risk Management
+  Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md):
+  Ongoing risk reviews, Risk Register updates, and Risk
+  Management Plan revisions
+- [SOP-008: Subject Safety and Adverse Event Management
+  Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md):
+  Safety monitoring, adverse event documentation, and safety
+  reporting
+- [SOP-009: Monitoring and Oversight
+  Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md):
+  Monitoring reports, centralized monitoring, and site
+  oversight documentation
+- [SOP-010: Control of Nonconforming Observational Study
+  Activities
+  Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md):
+  Documentation of protocol deviations and other
+  nonconformances
+- [SOP-011: Corrective and Preventive Action
+  Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md):
+  CAPA documentation for systemic quality issues
+- [SOP-012: Internal and External Audit
+  Procedure](SOP-012--Internal_and_External_Audit_Procedure.md):
+  Audit reports and corrective action follow-up
+- [SOP-013: Change Control
+  Procedure](SOP-013--Change_Control_Procedure.md):
+  Protocol amendments and consequential document changes
+- [SOP-014: Regulatory Compliance Management
+  Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md):
+  Ongoing IRB/IEC compliance, continuing reviews, and
+  regulatory communications
 
 ### 6.4 Essential Documents and Records
 
-Essential documents to be maintained in the TMF during Phase 2 include those
-specified in ICH E6(R2) Section 8.3:
+Essential documents to be maintained in the TMF during Phase 2
+include those specified in ICH E6(R2) Section 8.3, adapted for
+observational studies as noted below. The specific documents
+required for each study are identified per Section 4.4.
 
 **Protocol and Amendment Documentation:**
 
-- Updates to Investigator's Brochure per ICH E6(R2) 8.3.1 (if applicable for
-  observational studies)
-- Protocol amendments and Case Report Form revisions per ICH E6(R2) 8.3.2
+- Updates to Investigator's Brochure per ICH E6(R2) 8.3.1
+  (if applicable for observational studies)
+- Protocol amendments and Case Report Form revisions per
+  ICH E6(R2) 8.3.2, managed per SOP-013
 - Informed consent form revisions per ICH E6(R2) 8.3.2
-- Advertisement for subject recruitment revisions per ICH E6(R2) 8.3.2 (if
-  applicable)
-- Documentation of protocol deviations
+- Advertisement for subject recruitment revisions per
+  ICH E6(R2) 8.3.2 (if applicable)
+- Documentation of protocol deviations, managed per SOP-010
 - Updates to normal values/ranges per ICH E6(R2) 8.3.6
 
 **Regulatory and Ethics Documentation:**
 
-- IRB/IEC approvals of protocol amendments per ICH E6(R2) 8.3.3
-- IRB/IEC approvals of informed consent form revisions per ICH E6(R2) 8.3.3
-- IRB/IEC approvals of advertisement revisions per ICH E6(R2) 8.3.3
-- IRB/IEC continuing review approvals per ICH E6(R2) 8.3.3
-- Regulatory authority communications and approvals per ICH E6(R2) 8.3.4
-- Updates to investigator CVs and qualifications per ICH E6(R2) 8.3.5
+- IRB/IEC approvals of protocol amendments per
+  ICH E6(R2) 8.3.3
+- IRB/IEC approvals of informed consent form revisions per
+  ICH E6(R2) 8.3.3
+- IRB/IEC approvals of advertisement revisions per
+  ICH E6(R2) 8.3.3
+- IRB/IEC continuing review approvals per ICH E6(R2) 8.3.3,
+  managed per SOP-014
+- Regulatory authority communications and approvals per
+  ICH E6(R2) 8.3.4
+- Updates to investigator CVs and qualifications per
+  ICH E6(R2) 8.3.5
 - Laboratory certification updates per ICH E6(R2) 8.3.7
 
 **Study Conduct Documentation:**
 
-- Monitoring visit reports per ICH E6(R2) 8.3.10
-- Relevant communications other than site visits per ICH E6(R2) 8.3.11
+- Monitoring visit reports per ICH E6(R2) 8.3.10, managed
+  per SOP-009
+- Relevant communications other than site visits per
+  ICH E6(R2) 8.3.11
 - Signed informed consent forms per ICH E6(R2) 8.3.12
 - Source documents per ICH E6(R2) 8.3.13
 
 **Safety Documentation:**
 
-- Notification by investigator to sponsor of serious adverse events per
-  ICH E6(R2) 8.3.16
-- Notification to regulatory authorities and IRB/IEC of unexpected serious
-  adverse drug reactions per ICH E6(R2) 8.3.17
-- Notification by sponsor to investigators of safety information per
-  ICH E6(R2) 8.3.18
-- Interim or annual reports to IRB/IEC and regulatory authorities per
-  ICH E6(R2) 8.3.19
+- Adverse event documentation per SOP-008
+- Reports to IRB/IEC of unanticipated problems involving
+  risks to subjects or others, per 45 CFR 46 and SOP-008
+  (ICH E6(R2) 8.3.17 references adverse drug reaction
+  reporting, which does not apply to observational studies
+  without investigational products; see SOP-008 Section 2.0)
+- Communication of safety information to investigators and
+  sites per SOP-008 Section 4.10 (adapted from
+  ICH E6(R2) 8.3.18)
+- Interim or annual safety reports to IRB/IEC per
+  ICH E6(R2) 8.3.19, managed per SOP-008 and SOP-014
+
+**Risk Management Documentation:**
+
+- Risk review meeting minutes per SOP-003 Section 6.1.2
+- Updated Risk Register per SOP-003 Section 6.1.3
+- Revised Risk Management Plan versions per SOP-003
+  Section 6.1.3
+- QTL exceedance evaluations per SOP-003 Section 5.6.2
+- KRI reports per SOP-003 Section 5.6.4
+
+**Quality Documentation:**
+
+- Nonconformance records per SOP-010
+- CAPA records per SOP-011
+- Audit reports per SOP-012
 
 **Subject Documentation:**
 
-- Signed, dated, and completed case report forms per ICH E6(R2) 8.3.14
+- Signed, dated, and completed case report forms per
+  ICH E6(R2) 8.3.14
 - Documentation of CRF corrections per ICH E6(R2) 8.3.15
 - Subject screening log per ICH E6(R2) 8.3.20
 - Subject identification code list per ICH E6(R2) 8.3.21
 - Subject enrollment log per ICH E6(R2) 8.3.22
 
-**Investigational Product Accountability (if applicable):**
-
-- Investigational product accountability at the site per ICH E6(R2) 8.3.23 (may
-  not apply to observational studies without investigational products)
-
 **Additional Documentation:**
 
 - Signature sheets per ICH E6(R2) 8.3.24
-- Records of retained body fluids/tissue samples per ICH E6(R2) 8.3.25 (if
-  applicable)
+- Records of retained body fluids/tissue samples per
+  ICH E6(R2) 8.3.25 (if applicable)
 
-Detailed requirements for creating, reviewing, and maintaining these documents
-during study conduct are specified in the applicable SOPs referenced in
-Section 6.3.
+Investigational product accountability documentation per
+ICH E6(R2) 8.3.23 does not apply to observational studies
+conducted under this QMS.
+
+Detailed requirements for creating, reviewing, and
+maintaining these documents during study conduct are
+specified in the applicable SOPs referenced in Section 6.3.
 
 ## 7.0 PHASE 3: AFTER COMPLETION OR TERMINATION OF THE STUDY
 
@@ -1756,13 +1822,27 @@ and **shall** be completed and maintained in the TMF. These documents include:
 
 **Closeout and Quality Documentation:**
 
-- **Final Trial Closeout Monitoring Report**: Final monitoring report
-  documenting study completion, site closeout activities, and final TMF
-  assessment per ICH E6(R2) 8.4.5
-- **Audit Certificate**: Statement of completion of audit, if audit was
-  performed per ICH E6(R2) 8.4.4
-- **Site Closeout Documentation**: Records of site closeout visits,
-  deactivation activities, and final site file verification
+- **Final Trial Closeout Monitoring Report**: Final monitoring
+  report documenting study completion, site closeout
+  activities, and final TMF assessment per ICH E6(R2) 8.4.5
+- **Audit Certificate**: Statement of completion of audit, if
+  audit was performed per ICH E6(R2) 8.4.4
+- **Site Closeout Documentation**: Records of site closeout
+  visits, deactivation activities, and final site file
+  verification
+- **Final Risk Management Plan**: Final version of the Risk
+  Management Plan incorporating all revisions made during
+  study conduct, per SOP-003 Section 5.5
+- **Final Risk Register**: Final Risk Register with risk
+  outcome documentation (realized, unrealized, closed) for
+  all identified risks, per SOP-003 Section 7.1.1
+- **Residual Risk Assessment**: Documentation of any residual
+  risks at study completion that may affect data
+  interpretation or ongoing subject welfare, per SOP-003
+  Section 7.1.2
+- **Risk Management Lessons Learned**: Documentation of risk
+  management effectiveness review and improvement
+  recommendations, per SOP-003 Section 7.2
 
 **Regulatory and Ethics Closeout:**
 
@@ -1775,26 +1855,36 @@ and **shall** be completed and maintained in the TMF. These documents include:
 
 **Design Documentation:**
 
-- **Final Design Documentation Package**: Complete set of final design
-  documents including protocol, SAP, CRFs, data collection specifications,
-  and all amendments
-- **Design Change History**: Complete history of all design changes made
-  during the study lifecycle, managed per SOP-013
-- **Traceability Documentation**: Final design traceability documentation
-  demonstrating linkage between design inputs, outputs, and validation
-  activities
+- **Final Design Documentation Package**: Complete set of
+  final design documents including protocol, SAP, Risk
+  Management Plan, CRFs, data collection specifications, and
+  all amendments
+- **Design Change History**: Complete history of all design
+  changes made during the study lifecycle, managed per
+  SOP-013
+- **Traceability Documentation**: Final design traceability
+  documentation demonstrating linkage between design inputs,
+  outputs, and validation activities
 
 **Post-Study Assessment (optional):**
 
-- **Post-Study Design Review Report**: Lessons learned and recommendations for
-  future study designs. This assessment **may** include:
+- **Post-Study Design Review Report**: Lessons learned and
+  recommendations for future study designs. This assessment
+  **may** include:
   - Evaluation of study design effectiveness
   - Assessment of what worked well and what could be improved
   - Recommendations for future protocol development
   - Identification of best practices
   - Analysis of protocol deviations and their root causes
   - Evaluation of data collection methods and tools
-  - Assessment of statistical methods and sample size adequacy
+  - Assessment of statistical methods and sample size
+    adequacy
+
+  The Post-Study Design Review focuses on study design
+  effectiveness. Risk management lessons learned are
+  documented separately per SOP-003 Section 7.2. The two
+  reviews **MAY** be conducted together but **SHALL** be
+  documented in their respective deliverables.
 
 **Treatment Allocation Documentation (if applicable):**
 
@@ -1808,42 +1898,32 @@ per SOP-007.
 
 ### 7.3 Archiving
 
-All design documentation and essential documents **shall** be archived per
-SOP-002: Document and Records Controls Procedure and SOP-007: Study Closeout
-and Archiving Procedure.
+All design documentation and essential documents **SHALL** be
+archived per
+[SOP-002: Document and Records Controls
+Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+and
+[SOP-007: Study Closeout and Archiving
+Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
 
-Archiving **shall** include:
+Before archiving, the TMF **SHALL** be verified for
+completeness against the essential documents identified as
+required for the specific study per Section 4.4. TMF
+completeness verification is conducted as part of study
+closeout per SOP-007.
 
-- **Archive Preparation**: Organization and indexing of all essential documents
-  and study records for long-term storage
-- **TMF Completeness Verification**: Final verification that all essential
-  documents per ICH E6(R2) Section 8 are present and complete in the TMF
-- **Archive Location Documentation**: Documentation of physical or electronic
-  archive location, access procedures, and responsible personnel
-- **Retention Period Documentation**: Documentation of required retention
-  period per regulatory requirements (typically minimum 2 years after last
-  marketing approval or formal discontinuation, or as specified by applicable
-  regulations)
-- **Archive Transfer Documentation**: If archives are transferred between
-  locations or custodians, documentation of transfer including date,
-  responsible parties, and verification of completeness
+Essential documents and study records **SHALL** be retained
+for at least two (2) years after formal discontinuation of
+the study, or as required by applicable regulatory
+requirements, whichever is longer (per ICH E6(R2) 5.5.11).
 
-The archived TMF and study records **shall** remain accessible for retrieval
-during the retention period to support:
+The archived TMF and study records **SHALL** remain
+accessible for retrieval during the retention period to
+support regulatory inspections, audits, publications and
+secondary analyses, and legal or ethical inquiries.
 
-- Regulatory inspections
-- Audits
-- Publications and secondary analyses
-- Legal or ethical inquiries
-- Sponsor requests (if applicable)
-
-Retrieval procedures and archive access controls **shall** be established per
-SOP-002 and SOP-007 to ensure:
-
-- Authorized access only
-- Maintenance of document integrity
-- Audit trail of retrievals
-- Timely access when needed
+Archive preparation, location documentation, transfer
+procedures, and retrieval controls are defined in SOP-007.
 
 ## 8.0 TRAINING
 
