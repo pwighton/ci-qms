@@ -22,49 +22,116 @@ the three temporal phases defined in ICH E6(R2) Section 8:
 -   **Phase 2**: During the Conduct of the Study (brief coverage with references to other SOPs)
 -   **Phase 3**: After Completion or Termination of the Study (brief coverage with references to other SOPs)
 
-This procedure applies to all __NewInstitue__ employees and subcontractors
-involved in study design activities.
-
-Design changes during the development phase are managed under this procedure.
-Changes to approved protocols and study documents after design approval are
-managed under [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
-
-This procedure defines how to develop study designs through systematic phases
-from concept to final deliverables. Formal review meetings, approval authorities,
-and go/no-go decision gates at key milestones are managed under
+This procedure defines how to develop study designs through
+systematic phases from concept to final deliverables. Formal
+review meetings, approval authorities, and go/no-go decision
+gates at key milestones are managed under
 [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md).
+
+Design changes during the development phase are managed
+under this procedure. Changes to approved protocols and
+study documents after design approval are managed under
+[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
+
+Design outputs produced under this procedure include
+documents, records, plans, and specifications that interface
+with multiple QMS procedures:
+
+- Documents and records produced during design are
+  controlled under
+  [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+- Risk management activities, including the Risk Management
+  Plan, are conducted in parallel with design phases per
+  [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
+- The Monitoring Plan is developed as a design output during
+  protocol development and operationalized per
+  [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+- Safety monitoring requirements are developed during
+  protocol development per
+  [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
+- Initial IRB/IEC submission and approval occur during the
+  design phase, with ongoing compliance managed per
+  [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
+- Site and investigator selection and qualification during
+  design are managed per
+  [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+- Computer systems and custom software specified during
+  design are validated per
+  [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+  and developed per
+  [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+- Study closeout and archiving of design documentation are
+  managed per [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
+
+This procedure applies to all __NewInstitute__ employees
+and subcontractors involved in study design activities.
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
 ### 3.1 Guidance and Regulatory References
 
--   [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+-   [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1):
+    Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
--   [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
+-   [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
+    General Considerations for Clinical Studies
 
--   [ICH E9](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9-statistical-principles-clinical-trials): Statistical Principles for Clinical Trials (1998)
+-   [ICH E9](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9-statistical-principles-clinical-trials):
+    Statistical Principles for Clinical Trials (1998)
 
--   [ICH E9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9r1-statistical-principles-clinical-trials-addendum-estimands-and-sensitivity-analysis-clinical): Statistical Principles for Clinical Trials: Addendum: Estimands and Sensitivity Analysis in Clinical Trials (2021)
+-   [ICH E9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9r1-statistical-principles-clinical-trials-addendum-estimands-and-sensitivity-analysis-clinical):
+    Statistical Principles for Clinical Trials: Addendum:
+    Estimands and Sensitivity Analysis in Clinical Trials
+    (2021)
 
--   [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
+-   [45 CFR 46](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46):
+    Protection of Human Subjects (Common Rule)
 
-### 3.2 __NewInstitue__ References
+-   [21 CFR 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54):
+    Financial Disclosure by Clinical Investigators
 
-1.  [QM-001: Quality Manual](QM-001--QualityManual.md)
+-   [ISO-9001:2015](https://www.iso.org/standard/62085.html):
+    Quality management systems — Requirements
 
-2.  [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+### 3.2 __NewInstitute__ References
 
-3.  [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
+1.  [QM-001: Quality
+    Manual](QM-001--QualityManual.md)
 
-4.  [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+2.  [SOP-002: Document and Records Controls
+    Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 
-5.  [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md)
+3.  [SOP-003: Risk Management and Quality Risk Management
+    Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
 
-6.  [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+4.  [SOP-004: Computer System Validation, Data Integrity
+    and Data Management
+    Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
 
-7.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+5.  [SOP-005: Study Design Review
+    Procedure](SOP-005--Study_Design_Review_Procedure.md)
 
-8.  [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+6.  [SOP-006: Outsourced Activities
+    Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+
+7.  [SOP-007: Study Closeout and Archiving
+    Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
+
+8.  [SOP-008: Subject Safety and Adverse Event Management
+    Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
+
+9.  [SOP-009: Monitoring and Oversight
+    Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+
+10. [SOP-013: Change Control
+    Procedure](SOP-013--Change_Control_Procedure.md)
+
+11. [SOP-014: Regulatory Compliance Management
+    Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
+
+12. [SOP-015: Observational Study Software Development
+    and Validation
+    Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
 
 ### 3.3 Terms
 
@@ -116,15 +183,24 @@ and go/no-go decision gates at key milestones are managed under
 
 ### 3.4 Acronyms
 
--   **CRF**: Case Report Form
-
--   **IRB**: Institutional Review Board
-
--   **SAP**: Statistical Analysis Plan
-
--   **TMF**: Trial Master File
-
--   **EDC**: Electronic Data Capture
+- **ALCOA+**: Attributable, Legible, Contemporaneous,
+  Original, Accurate, Complete, Consistent, Enduring,
+  Available
+- **CFR**: Code of Federal Regulations
+- **CRF**: Case Report Form
+- **CRO**: Contract Research Organization
+- **CV**: Curriculum Vitae
+- **EDC**: Electronic Data Capture
+- **FDA**: Food and Drug Administration
+- **GCP**: Good Clinical Practice
+- **IEC**: Independent Ethics Committee
+- **IRB**: Institutional Review Board
+- **QMS**: Quality Management System
+- **QTL**: Quality Tolerance Limit
+- **SAP**: Statistical Analysis Plan
+- **SIV**: Site Initiation Visit
+- **TMF**: Trial Master File
+- **UAT**: User Acceptance Testing
 
 ## 4.0 DESIGN CONTROL PROCESS
 
