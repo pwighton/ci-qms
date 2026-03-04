@@ -13,23 +13,52 @@ regulatory requirements.
 
 ## 2.0 SCOPE
 
-This procedure applies to all controlled documents and records generated or
-received during the design, conduct, and reporting of *observational studies*
+This procedure applies to all controlled documents and records
+generated or received during the design, conduct, and
+reporting of *observational studies* conducted by
+__NewInstitute__.
 
-Documents and records created during study design are initially developed under
-[SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md) and
-reviewed under [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md),
-but their format, control, and maintenance are governed by this procedure.
+Controlled documents **SHALL** be created and maintained in
+electronic format. Paper documents are not permitted as
+controlled originals.
 
-The format, control and maintenance of documents and records created during the
-conduct of the study are also governed by this procedure, however the creation 
-of those documents and records are governed by other various procedures. Refer
-to [Setion 8.0 of the Quality Manual](QM-001--QualityManual.md#80-measurements-analysis-and-improvement)
-for specifics.
+Records **MAY** be created in paper or electronic format.
+Paper records **MAY** be converted to electronic format
+through a digitization process defined in Section 5.3.7.
 
-When documents and records are created, stored, or maintained in electronic
-systems, those systems SHALL comply with the requirements of
-[SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+This procedure does not govern source data or derived data
+collected or produced during the conduct of observational
+studies. The management of source data and derived data is
+addressed under
+[SOP-004: Computer System Validation, Data Integrity and Data
+Management
+Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+
+Documents and records created during study design are
+initially developed under
+[SOP-001: Design Controls
+Procedure](SOP-001--Design_Controls_Procedure.md) and
+reviewed under
+[SOP-005: Study Design Review
+Procedure](SOP-005--Study_Design_Review_Procedure.md),
+but their format, control, and maintenance are governed by
+this procedure.
+
+The format, control, and maintenance of documents and records
+created during the conduct of the study are also governed by
+this procedure; however, the creation of those documents and
+records is governed by other procedures. Refer to
+[Section 7.0](QM-001--QualityManual.md#70-study-realization)
+and
+[Section 8.0](QM-001--QualityManual.md#80-quality-oversight-activities)
+of the Quality Manual for specifics.
+
+When documents and records are created, stored, or maintained
+in electronic systems, those systems **SHALL** comply with the
+requirements of
+[SOP-004: Computer System Validation, Data Integrity and Data
+Management
+Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
@@ -45,511 +74,601 @@ systems, those systems SHALL comply with the requirements of
 
 - [FDA Guidance for Industry: Part 11, Electronic Records; Electronic Signatures — Scope and Application](https://www.fda.gov/media/75414/download)
 
-### 3.2 __NewInstitute__ References 
+### 3.2 __NewInstitute__ References
+
+1.  [QM-001: Quality
+    Manual](QM-001--QualityManual.md)
+
+2.  [SOP-001: Design Controls
+    Procedure](SOP-001--Design_Controls_Procedure.md)
+
+3.  [SOP-004: Computer System Validation, Data Integrity
+    and Data Management
+    Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+
+4.  [SOP-005: Study Design Review
+    Procedure](SOP-005--Study_Design_Review_Procedure.md)
 
 ### 3.3 Terms
 
--   **Document**: Controlled information that provides instructions,
-    requirements, or specifications for performing work. Documents are expected
-    to evolve over time, with revisions subject to formal review and approval
-    processes. Examples include SOPs, work instructions, study protocols,
-    and plans.
+- **Approval**: A documented authorization that identifies the
+  approver, the date and time of approval, and the item being
+  approved. For controlled documents, approval **SHALL** be
+  recorded in an electronic document management system and
+  serves as the equivalent of a handwritten signature,
+  providing attributability and non-repudiation. For records,
+  approval **MAY** be recorded through a handwritten
+  signature, an electronic signature, or an attestation in
+  an electronic system, depending on the format of the record
+  and the requirements of the applicable procedure.
 
--   **Record**: Fixed evidence of activities performed or results achieved.
-    Records are created at a point in time and, once completed, are not altered
-    except through formal correction processes. Records provide objective
-    evidence that work was performed in accordance with established procedures
-    and requirements. Examples include completed case report forms, signed
-    informed consent forms, training records, and test results.
+- **Certified Copy**: A paper or electronic copy of a record
+  that has been verified as an exact, complete, and
+  unaltered reproduction of the original, documented as such
+  by a dated signature or approval.
 
--   **Study Protocol**: A document that describes the objective(s), design,
-    methodology, statistical considerations, and organization of a trial.
-    `[ICH E6(R2) 1.44]`
+- **Controlled Document**: A document subject to the creation,
+  review, approval, distribution, revision, and retirement
+  controls defined in this procedure.
+
+- **Derived Data**: Data produced by processing, transforming,
+  or analyzing source data. Derived data are traceable to the
+  source data and the specific processing steps that produced
+  them. Examples include computed metrics from imaging data,
+  statistical analysis outputs, and scored assessments
+  generated from raw test recordings. The management of
+  derived data is addressed under SOP-004.
+
+- **Document**: Controlled information that provides
+  instructions, requirements, or specifications for
+  performing work. Documents are expected to evolve over
+  time, with revisions subject to formal review and approval.
+  Documents **SHALL** be created and maintained in electronic
+  format only. Examples include SOPs, work instructions,
+  study protocols, and plans.
+
+- **Record**: Fixed evidence of activities performed or
+  results achieved. Records are created at a point in time
+  and, once completed, are not altered except through formal
+  correction processes (Section 5.3.5). Records provide
+  objective evidence that work was performed in accordance
+  with established procedures and requirements. Records
+  **MAY** originate in paper or electronic format. Examples
+  include completed case report forms, informed consent
+  forms, training records, and test results.
+
+- **Source Data**: All information in original records and
+  certified copies of original records of clinical findings,
+  observations, or other activities in a study necessary for
+  the reconstruction and evaluation of the study.
+  [ICH E6(R2) 1.51]. The management of source data is
+  addressed under SOP-004.
+
+- **Source Document**: Original documents, data, and records
+  where source data are first recorded.
+  [ICH E6(R2) 1.52]
+
+- **Study Protocol**: A document that describes the
+  objective(s), design, methodology, statistical
+  considerations, and organization of a trial.
+  [ICH E6(R2) 1.44]
 
 ### 3.4 Acronyms
 
-- SOPs
-- QMS
+- **ALCOA+**: Attributable, Legible, Contemporaneous,
+  Original, Accurate, Complete, Consistent, Enduring,
+  Available
+- **CFR**: Code of Federal Regulations
+- **FDA**: Food and Drug Administration
+- **GCP**: Good Clinical Practice
+- **ICH**: International Council for Harmonisation
+- **QA**: Quality Assurance
+- **QMS**: Quality Management System
+- **SOP**: Standard Operating Procedure
+- **TMF**: Trial Master File
 
-## 4.0
+## 4.0 DOCUMENT CONTROL PROCESS
 
-An effective document and records control system is the foundation of
-the QMS. Document and records control provides consistency throughout
-the design and conduct of an *observational study*. Part of establishing an
-effective document and records control process requires establishing a central
-document and records repository that is readily accessible to staff members. In
-addition, document and records control provides support to internal and
-external auditors and inspectors by providing official copies of
-controlled documents and records for review.
+An effective document control system is a foundation of the
+QMS. Document control provides consistency throughout the
+design and conduct of an *observational study* by ensuring
+that personnel work from current, approved instructions and
+specifications. Document control also supports internal and
+external auditors and inspectors by providing authorized
+versions of controlled documents for review.
 
-Documents and records serve different functions within the QMS and are managed
-accordingly:
+Documents and records serve different functions within the
+QMS and are managed accordingly:
 
--   **Documents** are controlled information that is expected to evolve over
-    time. Examples include SOPs, work instructions, protocols, and plans.
-    Documents undergo formal revision processes, with each revision requiring
-    review and approval before release. Documents provide instructions or
-    requirements for how work should be performed.
+- **Documents** are controlled information that provides
+  instructions, requirements, or specifications for
+  performing work. Documents are expected to evolve over
+  time, with each revision subject to formal review and
+  approval. Documents **SHALL** be created and maintained in
+  electronic format only. Examples include SOPs, work
+  instructions, protocols, and plans.
 
--   **Records** are fixed evidence of activities performed or results achieved.
-    Examples include completed case report forms, informed consent forms,
-    meeting minutes, training records, and test results. Records are created at
-    a point in time and are not altered after completion (except through formal
-    corrections as described in Section 5.3.5). Records provide objective
-    evidence that work was performed according to documented procedures and
-    requirements.
+- **Records** are fixed evidence of activities performed or
+  results achieved. Records are created at a point in time
+  and are not altered after completion except through formal
+  correction processes (Section 5.3.5). Records **MAY**
+  originate in paper or electronic format. Paper records
+  **MAY** be converted to electronic format through the
+  digitization process defined in Section 5.3.7. Examples
+  include completed case report forms, informed consent
+  forms, training records, and test results.
 
-Essential requirements of an effective document and records control
+Documents and records are distinct from source data and
+derived data collected or produced during the conduct of
+observational studies. The management of source data and
+derived data is addressed under
+[SOP-004: Computer System Validation, Data Integrity and Data
+Management
+Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+
+Essential requirements of an effective document control
 system include:
 
--   Maintenance of a Master List of all controlled documents
-
--   Document numbering and revision scheme
-
--   Basic document format and content, including the requirement to
-    identify appropriate records that provide evidence specific work was
-    done
-
--   Minimum set of review and approval signatures required on documents
-    before they become approved
-
--   Requirements for changing documents once approved
-
--   Record retention policy for documents and records
-
--   Removal of obsolete documents from point of use
+- Maintenance of a Master List of all controlled documents
+- Document identification and revision scheme
+- Standard document structure and required content
+- Defined review and approval process before release
+- Requirements for changing documents once approved
+- Retention policy for documents and records
+- Removal of obsolete documents from use
 
 ## 4.1 Responsibilities
 
-The __NewInstitute__ QA representative is the focal point for the
-document and record control system and is responsible for assuring
-that all applicable documents and records conform to this SOP.
+The __NewInstitute__ QA representative is the focal point
+for the document control system and is responsible for
+ensuring that all applicable documents and records conform
+to this procedure.
 
-All __NewInstitute__’s employees and third parties working under the
-direction of __NewInstitute__ are responsible for creating documents and
-records in a manner consistent with the requirements of this SOP.
+All __NewInstitute__ employees and third parties working
+under the direction of __NewInstitute__ are responsible for
+creating documents and records in a manner consistent with
+the requirements of this procedure.
 
-Required documents and records are submitted to the document control
-system and **shall** only be released by the QA representative.
+Required documents and records are submitted to the document
+control system and **SHALL** only be released by the QA
+representative.
 
-The __NewInstitute__ Project Manager is responsible for assuring that
-all required documents and records are identified in the Study
-Protocol and are created at the appropriate time during the project.
+The __NewInstitute__ Project Manager is responsible for
+ensuring that all required documents and records are
+identified in the Study Protocol and are created at the
+appropriate time during the study lifecycle.
 
-The Project Manager is responsible for assuring that documents and
-records created by third parties working at the direction of
-__NewInstitute__ are consistent with this SOP.
+The Project Manager is responsible for ensuring that
+documents and records created by third parties working at
+the direction of __NewInstitute__ are consistent with this
+procedure.
 
-The Project Manager **shall** be responsible for ensuring that all
-project activities are performed based only on documents that have
-been formally reviewed, approved and released through document
-control.
+The Project Manager **SHALL** be responsible for ensuring
+that all study activities are performed based only on
+documents that have been formally reviewed, approved, and
+released through document control.
 
 ## 4.2 Document Identification and Numbering
 
-Every document **shall** have a unique identifier.
+Every document **SHALL** have a unique identifier.  A unique
+identifier **MAY** be a document prefix (e.g., SOP-002) or a 
+URL to its location in an electronic document management system.
 
-The QA representative **shall** maintain a document log. All
-persons creating documents **shall** request a unique document identifier from
-the QA representative.
+The QA representative **SHALL** maintain a document log. All
+persons creating documents **SHALL** request a unique
+document identifier from the QA representative.
 
-In addition to a unique document identifier, each document **shall** have
-a revision. Revision numbers are as follows: ZZ where ZZ is a number
-from 00-99. The initial revision of a new document is 00.
+In addition to a unique document identifier, each document
+**SHALL** have a revision. Revisions **MAY** be tracked
+automatically by the electronic document management system.
 
 ## 4.3 Initial Document Creation
 
-The QA representative maintains a document template that includes all
-required elements including:
+Controlled documents **SHALL** be created in electronic
+format and **SHALL** include the following elements:
 
--   Document title on every page
+- Document title
+- Document identifier and revision
+- Record of Revisions
+- Table of Contents (for documents exceeding a single
+  section)
+- Required approvals (typically author, reviewer, and
+  approver)
+- Effective date
 
--   Document number and revision on every page
+The QA representative **SHALL** maintain a document template
+that includes these required elements. All persons creating
+documents **SHOULD** use this template.
 
--   Page number on every page
-
--   Confidentiality statement on every page
-
--   __NewInstitute__ logo on every page
-
--   Record of Revisions block
-
--   Table of Contents
-
--   Required signatures (typically, author, reviewer and approver)
-
--   Effective date (cover page only)
-
-All persons creating documents should use this document template.
+Individual studies or document types **MAY** define
+additional structural requirements as appropriate.
 
 ## 4.4 Initial Document Review and Approval
 
-All new and revised documents are reviewed and approved by one or more
-persons prior to being released to ensure the accuracy and adequacy of
-the information. The author and those persons reviewing and approving
-the document **shall** sign and date the document prior to release as
-follows:
+All new and revised documents **SHALL** be reviewed and
+approved by one or more persons prior to being released to
+ensure the accuracy and adequacy of the information.
 
--   Author: reviews and signs the document indicating accountability for
-    the content of the document.
+The following approvals **SHALL** be recorded before release:
 
--   Approver: One or more approvers reviews and signs the document
-    indicating that the information has been reviewed and the
-    information that is being released is adequate and sufficient for
-    the intended purpose. All approvers **shall** be selected based on
-    their technical ability to understand the document content.
+- **Author**: Reviews and approves the document, indicating
+  accountability for the content.
+- **Approver**: One or more approvers review and approve the
+  document, indicating that the information has been reviewed
+  and is adequate and sufficient for the intended purpose.
+  All approvers **SHALL** be selected based on their
+  technical ability to understand the document content.
+- **QA**: The __NewInstitute__ QA representative reviews and
+  approves all documents, confirming that the document
+  complies with the requirements of this procedure and is
+  sufficient to meet its intended use.
 
--   QA: The __NewInstitute__ QA representative reviews and signs all
-    documents, making sure the document complies with the requirements
-    of this procedure and is sufficient to meet its intended use.
+Approvals **SHALL** be recorded in the electronic document
+management system per the definition in Section 3.3.
 
-The document is released through document control prior to being
-distributed or implemented within or outside __NewInstitute__. Approved
-documents **shall** be made available at all locations for which they
-are designated, used, or otherwise necessary.
+The document is released through document control prior to
+being distributed or implemented within or outside
+__NewInstitute__. Approved documents **SHALL** be made
+available at all locations for which they are designated,
+used, or otherwise necessary.
 
-All obsolete revisions of documents **shall** be promptly removed from
-all points of use or otherwise prevented from unintended use.
+All obsolete revisions of documents **SHALL** be promptly
+removed from all points of use or otherwise prevented from
+unintended use.
 
-The effective date of a document is indicated on the document cover
-page.
+The effective date of a document **SHALL** be recorded in
+the document or in the document management system metadata,
+provided the effective date is visible to users accessing the
+document and is included when the document is exported or
+distributed.
 
 ## 4.5 Approval of Changes
 
-The person assigned to change a released document is responsible for:
+The person assigned to change a released document is
+responsible for:
 
--   Requesting an editable electronic copy of the released version of
-    the document to be changed from the __NewInstitute__ QA representative
+- Providing a version of the proposed revision that clearly
+  identifies the changes from the current released version
+  (e.g., using track changes, redline comparison, or
+  version comparison tools)
+- Providing a concise description of the changes in the
+  Record of Revisions
 
--   Providing a “marked up" (i.e., using track changes tool) electronic
-    version of the proposed revision to the __NewInstitute__ QA
-    representative, who will review the proposed changes and ask for
-    clarifications or additional information if needed.
+All proposed changes **SHALL** be reviewed and either
+accepted or rejected using the following criteria:
 
--   Providing a concise description of the changes being made to the
-    document in the “Revision History” block. When not prescribed by the
-    document format, the description of the change must be provided in
-    the change control forms.
+- Changes are documented and justified
+- Consequences of changes are evaluated from a risk
+  perspective
+- Approved changes are verified after they have been
+  implemented
 
-All proposed changes are reviewed and either accepted or rejected
-using the following criteria:
+All changes **SHALL** be reviewed and approved either by the
+original approver or by another person that has access to
+pertinent background information upon which to base their
+decisions.
 
--   Changes are documented and justified
+When all comments and issues are resolved, the document
+**SHALL** be submitted for the required approvals per
+Section 4.4.
 
--   Consequences of changes are evaluated from a risk perspective
+All document changes **SHALL** be formally released through
+document control and the document revision **SHALL** be
+incremented.
 
--   Approved changes are verified after they have been implemented
+## 4.6 Availability of Documents
 
-Once the QA representative deems the document ready for review, an
-electronic copy **shall** be sent to the reviewers and approvers. All
-comments are returned to the QA representative who works with the
-author to resolve them.
+Released documents **SHALL** be communicated to the
+appropriate personnel in a timely manner. Documents **SHALL**
+be available at all locations for which they are designated,
+used, or otherwise necessary. This is accomplished through
+the electronic document management system.
 
-All changes **shall** be reviewed and approved either by the original
-approver or by another person that has access to pertinent background
-information upon which to base their decisions.
+## 4.7 Documents of External Origin
 
-When all comments and issues are resolved, the QA representative
-circulates the final draft for the required approval signatures.
-
-All document changes are formally released through document control
-and the document revision number is incremented.
-
-## 4.6 Availability of documents
-
-Released documents are communicated to the appropriate personnel in a
-timely manner. Documents are intended to be available at all locations
-for which they are designated, used or otherwise necessary. This is
-accomplished through the use of posting controlled copies of current
-documents on the company intranet or project wiki page or some similar
-mechanism.
-
-## 4.7 Documents of external origin
-
-Documents of external origin, required for the quality system or
-related to the product, are identified and controlled within the
-__NewInstitute__ document control system. The QA representative
-**shall** control their distribution.
+Documents of external origin required for the quality system
+or for the conduct of observational studies **SHALL** be
+identified and controlled within the __NewInstitute__
+document control system. The QA representative **SHALL**
+control their distribution.
 
 Examples of documents of external origin include:
 
--   Required regulatory documents and related standards
+- Regulatory guidance documents and applicable standards
+- Vendor or service provider SOPs and specifications
+- Site-provided documents (e.g., laboratory certifications,
+  IRB/IEC documentation)
+- Sponsor-provided documents (if applicable)
 
--   Vendor specifications, part number descriptions, catalogues or other
-    external documents that are used to purchase items for use in
-    __NewInstitute__ products
+## 4.8 Removal of Obsolete Documents
 
-## 4.8 Removal of obsolete documents
+Obsolete documents **SHALL** be promptly removed from all
+points of use as part of the document distribution process.
 
-Obsolete documents **shall** be promptly removed from all points of
-use as part of the document distribution process.
+## 4.9 Retention of Obsolete Documents
 
-## 4.9 Retention of obsolete documents
+The original copies of obsolete controlled documents
+**SHALL** be retained for at least two (2) years after the
+formal discontinuation of the study, or as required by
+applicable regulatory requirements, whichever is longer
+(per ICH E6(R2) 5.5.12).
 
-The original copies of obsolete controlled documents shall be retained for the
-same period as essential study documents, which is at least two (2) years after
-the formal discontinuation of the study or as required by applicable regulatory
-requirements, whichever is longer. (`ICH E6(R1) 5.5.11`)
+## 4.10 Master Document List
 
-## 4.10 Master Documents and Controlled Copies
+The QA representative **SHALL** maintain a list of all
+controlled documents including their unique identifier,
+title, and current revision. Only current document revisions
+are displayed on the master list. The QA representative
+**SHALL** be able to produce the master document list at any
+time.
 
-Document control retains the signed copy of all released
-documents. These Master Documents are preserved for a retention period
-defined above and used only for the purpose of generating controlled
-copies.
+The master document list **MAY** be maintained automatically
+by the electronic document management system.
 
-Controlled copies are an electronic version of a master document. They
-are a true and accurate representation of the master copy. They are
-created using a documented work instruction that is maintained by the
-QA representative. It **shall** not be possible to alter or modify
-controlled copies.
+## 5.0 RECORD CONTROL PROCESS
 
-All controlled copies are so labeled and can be used as the basis for
-performing work related to the design and development of medical
-devices.
+The record control process establishes requirements for the
+creation, control, storage, and retention of records. Records
+**MAY** be created in paper or electronic format. This
+procedure applies to all records required to demonstrate
+conformity of study conduct and the quality system, including
+but not limited to records in the following categories:
 
-## 4.11 Master Document List
+- Study Files (including protocol, amendments, and
+  administrative documents)
+- Risk Management Records (Risk Management Plan, Risk
+  Register, risk review meeting minutes)
+- Regulatory Records
+- Informed Consent Records
+- Subject Records (including case report forms, eligibility
+  verification, and supporting documentation)
+- Data Management Records
+- Adverse Event and Safety Records
+- Quality Records (including audit reports, deviations, and
+  corrective actions)
+- Training Records
+- Monitoring Records
+- Laboratory and Testing Records (if applicable)
+- Vendor/Contractor Records (including agreements and
+  qualifications)
 
-The QA representative manages a list of all controlled documents
-including their unique identifier, title and revision. Only current document
-revisions are displayed on the master list. The QA representative is
-able to produce a master document list at any time. Superseded
-and obsolete documents have expiry dates corresponding with the date
-that they were made obsolete or replaced by a newer revision.
-
-# 5 RECORD CONTROL PROCESS
-
-The record control process establishes requirements for the creation,
-control storage, and retention of records. This procedure applies to
-all records required to demonstrate conformity of study conduct  and the
-quality system including but not limited to records in the following
-categories:
-
--   Study Files (including protocol, amendments, and administrative documents)
-
--   Risk Management Files (RMF)
-
--   Regulatory Records
-
--   Informed Consent Records
-
--   Subject Records (including case report forms, source documentation, and eligibility verification)
-
--   Data Management Records
-
--   Adverse Event and Safety Records
-
--   Quality Records (including audit reports, deviations, and corrective actions)
-
--   Training Records
-
--   Monitoring Records 
-
--   Laboratory and Testing Records (if applicable)
-
--   Vendor/Contractor Records (including agreements and qualifications)
+Source data and derived data collected or produced during the
+conduct of observational studies are not records under this
+procedure. Their management is addressed under
+[SOP-004: Computer System Validation, Data Integrity and Data
+Management
+Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
 
 ## 5.1 General
 
-Records are established to provide evidence that products, processes
-and the quality system conform to QMS requirements.
+Records are established to provide evidence that study
+processes and the quality system conform to QMS requirements.
 
-Records are created as part of performing a task, operation, or
-activity called out in SOPs, work instructions or Study Protocol.
+Records are created as part of performing a task, operation,
+or activity called out in SOPs, work instructions, or the
+Study Protocol.
 
-The QA representative maintains all required records in secure electronic 
-systems that comply with applicable regulations (e.g., 21 CFR Part 11)
-or as paper records in locked, fireproof storage. The  Study Protocol
-**shall** document the location and format of study-specific records.
+The QA representative **SHALL** maintain all required records
+in either secure electronic systems that comply with
+applicable regulations (e.g., 21 CFR Part 11) or as paper
+records in secure storage with controlled access. The Study
+Protocol **SHALL** document the location and format of
+study-specific records.
 
 ## 5.2 Required Content
 
-All records **shall** include, at a minimum, the following
+All records **SHALL** include, at a minimum, the following
 information:
 
--   Project or product the record is associated with
-
--   Information required by SOP, work instruction or project plan
-
--   Signature and printed name of person creating record
-
--   Date (and where appropriate, time) record was created
+- The study the record is associated with
+- Information required by the applicable SOP, work
+  instruction, or Study Protocol
+- Identification of the person creating the record (by
+  signature for paper records or by system-managed
+  attribution for electronic records)
+- Date (and where appropriate, time) the record was created
 
 ## 5.3 Good Record Keeping Practices
 
-The objective of good record keeping practices is to consistently
-produce complete and understandable records. Good record keeping is
-most apparently important when being audited. If the records are
-complete and understandable then auditors will have no reason to ask
-questions beyond their planned ones.
+The objective of good record keeping practices is to
+consistently produce complete and understandable records that
+conform to ALCOA+ principles (Attributable, Legible,
+Contemporaneous, Original, Accurate, Complete, Consistent,
+Enduring, Available).
 
-After being trained to this procedure, employees will understand how
-to consistently produce clear unambiguous records.
+This section applies to all __NewInstitute__ employees and
+third parties working under the direction of __NewInstitute__
+when creating or modifying records governed by this procedure.
 
-This procedure is applicable to all __NewInstitute__ employees when
-creating or modifying any Design History File (DHF), Device Master
-Record (DMR), or Quality System Record (QSR).
+The following subsections define requirements for both paper
+and electronic records. Where requirements differ by format,
+this is noted.
 
 ### 5.3.1 Requirements for Creating Records
 
-The following rules **shall** be followed when creating records:
+The following requirements **SHALL** be followed when
+creating records:
 
--   All handwritten entries on documents must be made using permanent
-    blue ink.
+**Paper records:**
 
--   Entries must be made as soon as is practical after completion of a
-    step or a process.
+- All handwritten entries **SHALL** be made using permanent
+  ink. Individual studies **MAY** specify additional
+  requirements (e.g., permanent blue ink).
+- Entries **SHALL** be made directly on the official record
+  form.
+- Entries **SHALL** be made as soon as is practical after
+  completion of the activity being recorded.
+- All required fields on a form **SHALL** be completed to
+  demonstrate that the required information was considered
+  by the person completing the record. Fields that are not
+  applicable **SHALL** be annotated with "N/A".
+- Blank spaces **SHALL** be explained by the procedure or
+  be self-evident.
+- Signatures made by pre-printed labels or photocopies are
+  not permitted.
 
--   All entries must be made directly on the official record
-    or document.
+**Electronic records:**
 
--   Signatures made by pre-printed labels or photocopies are
-    not permitted.
-
--   Signatures received by fax are acceptable.
-
--   All blank spaces must be explained by a procedure or
-    be self-evident.
-
--   All required fields on a form must be filled in to demonstrate that
-    the required information was considered by the person completing the
-    record
-
--   If an entry is not completed because it is not applicable, it is to
-    be annotated with the abbreviation for Not Applicable (NA or N/A).
+- Entries **SHALL** be made as soon as is practical after
+  completion of the activity being recorded.
+- All required fields **SHALL** be completed. Fields that
+  are not applicable **SHALL** be annotated with "N/A" or
+  handled per the system's designated method for indicating
+  non-applicability.
+- The electronic system **SHALL** automatically capture the
+  identity of the person making the entry and the date and
+  time of the entry.
 
 ### 5.3.2 Signature and Initial Entries
 
-The following rules **shall** be followed when signing and initialing records:
+**Paper records:**
 
--   When a signature is required, it must be accompanied by the date the
-    signature was applied.
+- When a signature is required, it **SHALL** be accompanied
+  by the date the signature was applied.
+- When signing as a delegate, the signature **SHALL** be
+  annotated to indicate the printed name of the person
+  signing and a note indicating that they are signing on
+  the named person's behalf.
+- The use of initials is permitted when a full signature is
+  not specified by the applicable procedure or form.
+- No person **SHALL** enter a signature for someone else
+  unless officially delegated and qualified to do so per
+  Section 5.3.3.
 
--   When signing as a
-    delegate, the signature is annotated to indicate the printed name of
-    the person signing and a note indicating that they are signing on
-    the named person’s behalf.
+**Electronic records:**
 
--   The use of initials is allowed when approval or signature is
-    not specified.
+- When an approval or attestation is required, the
+  electronic system **SHALL** capture the identity of the
+  person and the date and time of the action.
+- Delegation **SHALL** be documented per Section 5.3.3.
+  The electronic system **SHOULD** identify when an action
+  is performed by a delegate.
 
--   No one **shall** enter a signature for someone else unless
-    officially delegated and qualified to do so.
+### 5.3.3 Delegation of Approval Authority
 
-### 5.3.3 Delegation of Signing Authority
+A person's direct reporting superior is always authorized to
+approve on that person's behalf.
 
-The following rules **shall** be followed regarding delegating signing authority:
+A person **MAY** delegate approval authority to anyone deemed
+qualified. The delegate is responsible for considering
+whether they are qualified to make the approval.
 
--   A person’s direct reporting superior is always authorized to sign
-    for that person. The approver is required to clearly print
-    their name.
+Delegation **SHALL** be documented by notifying the QA
+representative. The notification **SHALL**:
 
--   A person may delegate anyone deemed qualified. The delegate is
-    responsible to consider if they are qualified to make the approval.
-    Signing authority can be delegated by notifying the QA
-    representative in writing.
-
--   The notification **shall**:
-
-  -   list the delegates full name
-    
-  -   describe a restricted time frame for the delegation
-    
-  -   be approved by the delegator.
+- List the delegate's full name
+- Describe a restricted time frame for the delegation
+- Be approved by the delegator
 
 ### 5.3.4 Date and Time Entries
 
-The following rules **shall** be followed regarding date and time entries:
+The following requirements **SHALL** be followed regarding
+date and time entries:
 
--   The date and time hand written on a document will be the current
-    date and time at the location where the handwritten entry is made.
+- The date and time recorded **SHALL** be the current date
+  and time at the time the entry is made.
+- Backdating (entering a date after the entry was made or
+  the task was performed) is not permitted under any
+  circumstances.
+- Postdating (entering a date in the future) is not
+  permitted under any circumstances.
+- Time **SHALL** be recorded when required by the applicable
+  form or procedure.
 
--   The time is recorded only when required to do so by the form or
-    related procedure.
+**Paper records:**
 
--   The format to be used for the date on documents is: 2-digit day,
-    three character month, 4-digit year. Alternately a 2-digit year may
-    be used.
+- Dates **SHALL** be recorded in an unambiguous format such
+  as YYYY-MM-DD (e.g., 2026-03-04). Individual studies
+  **MAY** specify a required date format.
+- Time **MAY** be recorded using 24-hour or 12-hour clock
+  notation.
 
--   Backdating (entering a date on a day after the entry was made or the
-    task was performed) is not permitted under any circumstances.
+**Electronic records:**
 
--   Postdating (entering a date in the future) is not permitted under
-    any circumstances.
-
--   An entry of a time value may be made using the 24 or 12-hour
-    clock notation. For the 12 hour clock notation, the abbreviations am
-    and pm may be written in any of the following forms; (a.m., p.m.),
-    (am, pm), (A.M., P.M.) or (AM, PM).
+- Date and time formats **SHALL** be defined by the
+  electronic system.
+- The electronic system **SHOULD** automatically capture
+  date and time of entry where feasible.
 
 ### 5.3.5 Modifying Records
 
-The following rules **shall** be followed regarding modifying records:
+Records **SHALL** only be modified through formal correction
+processes that preserve the original entry and provide a
+complete audit trail of the change. The original entry
+**SHALL** remain legible or retrievable after correction.
 
--   Corrections are to be made by the person who created the
-    record originally.
+Corrections **MAY** be made by the person who created the
+record or by another authorized person. When a correction is
+made by someone other than the original author, the identity
+of the person making the correction **SHALL** be recorded
+along with the reason for the correction.
 
--   Correction by writing over the existing entry is not permitted.
+**Paper records:**
 
--   When a record requires correction:
+- Correction by writing over the existing entry is not
+  permitted.
+- A single line **SHALL** be drawn through the entire
+  incorrect entry in such a way that the original
+  information remains legible.
+- The correct information **SHALL** be appended.
+- The correction **SHALL** be initialed (or signed) and
+  dated by the person making the correction.
+- A brief explanation for the correction **SHALL** be
+  included.
+- If an entry was not completed at the time the activity
+  was performed, it **SHALL** be treated as a correction
+  when it is entered.
 
--   a single line is to be drawn through the entire incorrect entry in
-    such a way that the information is still legible
+**Electronic records:**
 
--   the correct information is appended
-
--   the correction is initialed and dated.
-
--   A brief explanation is required to be included near the correction.
-
--   When space limitations do not allow for the explanation to be
-    located near the correction, place an asterisk or number in a circle
-    next to the corrected entry and write the explanation at the bottom
-    of the page. The explanation, identified by the asterisk or
-    corresponding number, must be approved.
-
--   If an entry is not completed at the time the function is performed,
-    it is to be treated as a correction when it is entered.
+- The electronic system **SHALL** maintain an audit trail
+  that captures the original entry, the corrected entry,
+  the identity of the person making the correction, the
+  date and time of the correction, and the reason for the
+  change.
+- Direct overwriting of data without an audit trail is not
+  permitted.
+- The system **SHALL** provide a mechanism for recording the
+  reason for the correction at the time it is made.
 
 ### 5.3.6 Attachments
 
-When using attachments to complete a record the attachment must have
-a unique, traceable identifier on each page with appropriate
-references to permit traceability to the record it belongs to. A
-device, such as the page numbering format “page X of Y”, must be
-included to assure that the attachment is complete.
+When attachments are used to complete a record, each
+attachment **SHALL** include a traceable identifier and
+appropriate references to permit traceability to the parent
+record.
+
+For paper attachments, a mechanism **SHALL** be included to
+confirm completeness (e.g., numbering attachments "1 of 3,
+2 of 3, 3 of 3").
+
+For electronic attachments, the electronic system **SHOULD**
+maintain the association between the attachment and the
+parent record automatically.
+
+### 5.3.7 Digitization of Paper Records
+
+Paper records **MAY** be converted to electronic format. The
+electronic version **SHALL** be verified as a complete and
+accurate reproduction of the original by a person other than
+the one who performed the conversion. Verification **SHALL**
+be documented with the verifier's identity and the date of
+verification.
+
+The Study Protocol **SHALL** specify whether paper originals
+are retained after digitization or whether the verified
+electronic version serves as the certified copy for the
+study record.
 
 ## 5.4 Record Retention
 
-### 5.4.1 Design History File (DHF)
+All study records **SHALL** be retained for at least two (2)
+years after the formal discontinuation of the study, or as
+required by applicable regulatory requirements, whichever is
+longer (per ICH E6(R2) 5.5.12).
 
-DHF records are retained for no less than five (5) years after
-distribution of the device is discontinued. The five (5) years is
-measured from the date that the last device is distributed.
-
-### 5.4.2 Risk Management File (RMF)
-
-RMF records are retained for no less than five (5) years after
-distribution of the device is discontinued. The five (5) years is
-measured from the date that the last device is distributed.
-
-### 5.4.3 Device Master Record (DMR)
-
-Records that form the DMR are retained for no less than five (5) years
-after distribution of the device is discontinued. The five (5) years
-is measured from the date that the last device is distributed.
-
-### 5.4.4 Complaint Files And Device Recall Records
-
-Records in this file are retained for a minimum of five (5) years.
-
-### 5.4.5 Distribution Records
-
-Records in this file are retained for the lifetime of the medical
-device plus one (1) calendar year and always for a minimum of two (2)
-years.
-
-### 5.4.6 Quality Records
-
-Records in this file are retained for a minimum of five (5) years.
+Quality system records not associated with a specific study
+(e.g., training records, internal audit reports, management
+review minutes) **SHALL** be retained for a minimum of five
+(5) years from the date of creation.
 
