@@ -38,8 +38,8 @@ Key deliverables from this procedure include:
 The Risk Management Plan developed under this procedure serves as a primary 
 input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md), 
 which executes the monitoring activities identified as necessary through risk 
-assessment. Monitoring reports and KRI data generated under SOP-009 are 
-reviewed under this procedure to assess whether identified risks are 
+assessment. Monitoring reports and Key Risk Indicator (KRI) data generated under
+SOP-009 are reviewed under this procedure to assess whether identified risks are 
 materializing or controlled as expected.
 
 Study design considerations and protocol development follow 
@@ -311,7 +311,7 @@ management decisions throughout the study:
   risks that cannot be adequately mitigated.
 
 Quality Tolerance Limits (QTLs) **SHALL** be established for critical 
-parameters per ICH E6(R2) Section 5.0.3 to support objective risk-based 
+parameters per ICH E6(R2) Section 5.0.4 to support objective risk-based 
 decisions.
 
 #### 4.2.4 Continuous Improvement
@@ -347,6 +347,9 @@ lifecycle and across studies:
   updates, and industry best practices.
 
 ### 4.3 Roles and Responsibilities
+
+TBD
+
 #### 4.3.1 Study Director/Principal Investigator
 #### 4.3.2 Quality Assurance
 #### 4.3.3 Study Team Members
@@ -866,7 +869,7 @@ provided the following core requirements are maintained:
 - CTQ factors **SHALL** be identified per ICH E8(R1)
   Section 3.2
 - QTLs **SHALL** be established for critical parameters per
-  ICH E6(R2) Section 5.0.3
+  ICH E6(R2) Section 5.0.4
 - Risk ownership **SHALL** be assigned for all risks at
   medium priority or above
 
@@ -963,7 +966,7 @@ At a minimum, active monitoring **SHALL** be established for:
 
 #### 5.6.2 Quality Tolerance Limits (QTLs)
 
-Per ICH E6(R2) Section 5.0.3, QTLs **SHALL** be established
+Per ICH E6(R2) Section 5.0.4, QTLs **SHALL** be established
 for critical parameters to facilitate the detection of
 systematic issues that could affect subject safety or data
 integrity.
