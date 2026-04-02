@@ -814,45 +814,500 @@ to reflect the retired status.
 
 ## 5.0 STUDY DATA MANAGEMENT
 
+This section defines the requirements for managing study
+data throughout the study lifecycle. Study data includes
+source data (original observations and recordings) and
+derived data (products of processing or analyzing source
+data). The management of documents and records is governed
+by
+[SOP-002: Document and Records Controls
+Procedure](SOP-002--Document_and_Records_Controls_Procedure.md);
+this section governs study data that falls outside that
+scope.
+
+Study data **SHALL** be managed in systems validated per
+Section 4.0.
+
 ### 5.1 Overview
+
+Study data management ensures that data collected during
+observational studies is trustworthy, traceable, and
+available throughout its lifecycle — from acquisition through
+processing to archival.
+
+The study data management approach defined in this section
+follows ALCOA+ principles (Section 4.7.1) and supports the
+data integrity requirements of ICH E6(R2) Section 5.5.
+
+The Study Protocol **SHALL** define the study-specific data
+management approach, including:
+
+- Types of data to be collected (and their formats)
+- Systems used for data collection, processing, and storage
+- Roles and responsibilities for data management activities
+- Data flow from collection through processing to storage
+
+Data management activities **SHALL** be proportionate to the
+criticality of the data, as determined by the risk assessment
+per SOP-003.
 
 ### 5.2 Data Classification
 
+All study data **SHALL** be classified to determine the
+applicable management requirements under this procedure.
+
 #### 5.2.1 Source Data
+
+Source data is all information in original records and
+certified copies of original records of clinical findings,
+observations, or other activities in a study necessary for
+the reconstruction and evaluation of the study
+(ICH E6(R2) 1.51).
+
+Source data is recorded in source documents, which are the
+original documents, data, and records where source data are
+first recorded (ICH E6(R2) 1.52).
+
+Examples of source data in observational studies include:
+
+- Medical imaging files (e.g., MRI, PET, CT)
+- Audio or video recordings of assessments
+- Physiological recordings and sensor data
+- Laboratory results from original instruments
+- Questionnaire responses as originally captured
+- Clinical observations recorded by investigators
+
+Source data **SHALL NOT** be modified after initial capture
+except through the correction processes defined in SOP-002
+Section 5.3.5 (for records) or Section 5.3.3 of this
+procedure (for electronic study data).
+
 #### 5.2.2 Derived Data
+
+Derived data is data produced by processing, transforming,
+or analyzing source data. Derived data is not source data;
+it is a product of computation or interpretation applied to
+source data.
+
+Examples of derived data include:
+
+- Metrics or measurements extracted from imaging data
+- Scores computed from assessment recordings
+- Statistical summaries or analysis outputs
+- Processed signals or filtered data
+
+Derived data **SHALL** be traceable to the source data and
+the specific processing steps that produced it
+(Section 5.4).
+
 #### 5.2.3 Relationship to Documents and Records
+
+Source data and derived data are distinct from documents
+and records as defined in SOP-002:
+
+- **Documents** provide instructions, requirements, or
+  specifications for performing work (e.g., protocols,
+  SOPs, analysis plans). Documents are managed under
+  SOP-002.
+- **Records** provide evidence that work was performed
+  (e.g., completed CRFs, consent forms, training records).
+  Records are managed under SOP-002.
+- **Source data** are the original observations and
+  measurements collected during the study. Source data are
+  managed under this procedure.
+- **Derived data** are products of processing source data.
+  Derived data are managed under this procedure.
+
+In some cases, the same item may serve as both a record and
+source data. For example, a completed CRF is a record under
+SOP-002, but the data values entered on the CRF are source
+data under this procedure. When this overlap occurs, the
+item **SHALL** meet the requirements of both procedures.
+
+The Study Protocol **SHALL** identify which study data
+elements are source data and which systems serve as source
+documents.
 
 ### 5.3 Source Data Management
 
 #### 5.3.1 Data Acquisition and Capture
+
+Source data **SHALL** be captured in a manner that preserves
+the original observation or measurement. Data **SHALL** be
+recorded contemporaneously — at the time the activity is
+performed or as soon as practical thereafter.
+
+The Study Protocol **SHALL** specify the method of capture
+for each type of source data (e.g., direct electronic
+capture from an instrument, manual entry into an EDC system,
+paper form).
+
+When source data is captured directly by an electronic
+system (e.g., an imaging scanner, a wearable device, an
+electronic questionnaire), the electronic record is the
+source document.
+
+When source data is first recorded on paper and subsequently
+entered into an electronic system, the paper record is the
+source document. Electronic entry of paper-sourced data is
+subject to the verification requirements of SOP-002
+Section 5.3.7.
+
 #### 5.3.2 Data Formats and Standards
+
+The Study Protocol **SHALL** identify the expected data
+formats for each type of source data.
+
+Where established community standards exist for a data type
+(e.g., DICOM for medical imaging, BIDS for neuroimaging),
+those standards **SHOULD** be used unless the Study Protocol
+documents a rationale for an alternative format.
+
+Source data **SHALL** be stored in formats that are:
+
+- Non-proprietary or widely supported, to the extent
+  feasible
+- Capable of preserving the full fidelity of the original
+  data
+- Readable without dependence on a single vendor or
+  software application, or accompanied by documentation
+  sufficient to enable future access (Section 5.7.2)
+
 #### 5.3.3 Data Transfer and Transmission
+
+When source data is transferred between systems (e.g., from
+an acquisition instrument to a storage system, from a site
+to a central repository), the transfer process **SHALL**
+ensure that data is not altered, lost, or corrupted during
+transmission.
+
+Data transfer procedures **SHALL** include:
+
+- Verification that transferred data is complete and
+  accurate (e.g., checksum validation, record count
+  reconciliation)
+- Documentation of the transfer (source system, destination
+  system, date, method, and verification result)
+- Secure transmission methods appropriate for the
+  sensitivity of the data
+
+When data transfer is automated, the transfer process
+**SHALL** be validated as part of the system validation per
+Section 4.0.
+
 #### 5.3.4 Source Data Preservation
+
+Source data **SHALL** be preserved in its original form
+throughout the retention period defined in SOP-002
+Section 5.4.
+
+Source data **SHALL NOT** be overwritten, deleted, or
+modified by any processing activity. Processing of source
+data **SHALL** produce derived data (Section 5.4) as
+separate outputs, leaving the source data unchanged.
+
+Backup procedures for source data **SHALL** comply with
+Section 4.8.4.
 
 ### 5.4 Derived Data Management
 
 #### 5.4.1 Processing Provenance and Traceability
+
+Derived data **SHALL** be traceable to:
+
+- The source data from which it was derived
+- The processing steps that produced it
+- The software (including version) used
+- The parameters, settings, or configuration applied
+- The person or automated process that initiated the
+  processing
+- The date and time the processing was performed
+
+This information constitutes the processing provenance of
+the derived data and **SHALL** be documented and retained
+alongside the derived data.
+
 #### 5.4.2 Reproducibility Requirements
+
+Processing of source data into derived data **SHOULD** be
+reproducible — applying the same software, version, and
+parameters to the same source data **SHOULD** produce the
+same derived data.
+
+When processing is not fully reproducible (e.g., due to
+stochastic algorithms, hardware-dependent computation, or
+machine learning models), this **SHALL** be documented in
+the processing provenance along with a description of the
+expected variability.
+
 #### 5.4.3 Software and Parameter Documentation
+
+Software used to produce derived data **SHALL** be:
+
+- Validated per Section 4.0, or
+- Documented in the Study Protocol with a rationale for
+  its use if validation per Section 4.0 is not feasible
+  (e.g., widely adopted open-source tools with established
+  community validation)
+
+For each processing step that produces derived data, the
+following **SHALL** be documented:
+
+- Software name and version
+- Configuration files, scripts, or parameter sets used
+- Input data (by reference to source data identifiers)
+- Output data (by reference to derived data identifiers)
+
+Processing parameter sets **SHOULD** be stored as
+machine-readable files (e.g., configuration files, scripts)
+rather than documented only in narrative form, to support
+reproducibility.
 
 ### 5.5 Data Storage and Security
 
 #### 5.5.1 Storage Requirements
+
+Study data **SHALL** be stored in systems validated per
+Section 4.0 or, for data that does not require a validated
+system (e.g., non-GxP data), in systems with documented
+access controls.
+
+Storage systems **SHALL** provide:
+
+- Sufficient capacity for the expected volume of study data
+- Protection against data loss (per Section 4.8.4)
+- Controlled access (per Section 5.5.3)
+- Retention of data for the required retention period
+  (per SOP-002 Section 5.4)
+
+The Study Protocol **SHALL** specify the storage location
+and system for each type of study data.
+
 #### 5.5.2 Data De-identification
+
+When study data contains information that could identify
+study subjects, de-identification **SHALL** be performed
+in accordance with the Study Protocol and applicable
+regulatory requirements (e.g., HIPAA, institutional data
+use agreements).
+
+The de-identification method **SHALL** be documented,
+including:
+
+- The identifiers removed or transformed
+- The method used (e.g., removal, pseudonymization,
+  coding)
+- The location of the identification key, if a coded
+  approach is used
+- Who has access to the identification key
+
+De-identification **SHALL** preserve the integrity of the
+study data — data elements required for analysis **SHALL
+NOT** be removed or altered during de-identification.
+
+Source data **SHALL** be de-identified before transfer
+outside __NewInstitute__ unless a regulatory requirement,
+data use agreement, or IRB/IEC-approved protocol permits
+the transfer of identifiable data.
+
+When de-identification is limited to removal or
+pseudonymization of identifiers without altering the
+underlying observations or measurements, the
+de-identified data retains its classification as source
+data. When de-identification requires transformation of
+the data itself (e.g., spatial processing of images,
+shifting of dates), the de-identified output is
+classified as derived data and **SHALL** be managed per
+Section 5.4, with the original unmodified source data
+preserved per Section 5.3.4.
+
 #### 5.5.3 Access Controls
+
+Access to study data **SHALL** be restricted to authorized
+personnel based on their role and responsibilities.
+
+Access controls **SHALL** distinguish between:
+
+- Read-only access (viewing and extracting data)
+- Write access (entering or modifying data)
+- Administrative access (managing system configuration
+  and user accounts)
+
+Access to source data write functions **SHALL** be limited
+to personnel authorized to perform data correction per
+SOP-002 Section 5.3.5 or Section 5.3.4 of this procedure's
+source data preservation requirements.
+
+Access permissions **SHALL** be documented and reviewed
+periodically as part of the system periodic review
+(Section 4.8.2).
+
 #### 5.5.4 Data Backup
+
+Backup requirements for study data **SHALL** comply with
+Section 4.8.4.
+
+For source data, backup procedures **SHALL** ensure that a
+complete, recoverable copy of all source data exists in a
+location separate from the primary storage system.
+
+The Study Protocol **SHOULD** specify the acceptable level
+of data loss (recovery point objective) for each type of
+study data, proportionate to the difficulty and cost of
+re-acquiring the data.
 
 ### 5.6 Data Quality
 
 #### 5.6.1 Data Quality Checks
+
+Study data **SHALL** be subject to automated quality checks
+proportionate to the criticality of the data as determined
+by the risk assessment per SOP-003.
+
+Automated quality checks **MAY** include:
+
+- Completeness checks (all expected data elements are
+  present)
+- Range and consistency checks (values fall within
+  expected ranges and do not contradict related data
+  elements)
+- Timeliness checks (data was captured within expected
+  timeframes)
+- Format checks (data conforms to expected formats and
+  standards per Section 5.3.2)
+
+Automated quality checks implemented in validated systems
+are verified during system validation (Section 4.6.2).
+
+Centralized data review and oversight of data quality
+across sites is managed under
+[SOP-009: Monitoring and Oversight
+Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md).
+
+The Study Protocol **SHALL** specify the automated quality
+checks to be performed for each type of study data.
+
 #### 5.6.2 Query Management
+
+When a data quality check identifies a potential issue, a
+query **SHALL** be raised and documented.
+
+Queries **SHALL** include:
+
+- The data element in question
+- The nature of the issue identified
+- The date the query was raised
+- The person or system that raised the query
+
+Query resolution **SHALL** be documented, including the
+resolution action taken (correction, confirmation that the
+original value is correct, or other explanation) and the
+person who resolved the query.
+
+Corrections to source data resulting from query resolution
+**SHALL** follow the record correction procedures in
+SOP-002 Section 5.3.5.
+
 #### 5.6.3 Data Cleaning and Correction
+
+Data cleaning activities (systematic review and correction
+of data prior to analysis) **SHALL** be documented,
+including:
+
+- The cleaning rules applied
+- The data elements affected
+- Whether cleaning was performed manually or through
+  automated procedures
+
+Data cleaning **SHALL NOT** alter source data. Corrections
+to source data follow SOP-002 Section 5.3.5. Systematic
+data transformations applied during cleaning (e.g.,
+recoding, unit conversions, outlier handling) produce
+derived data per Section 5.4 and **SHALL** be documented
+with full processing provenance per Section 5.4.1.
+
+The Study Protocol or Data Management Plan **SHALL** specify
+the data cleaning approach, including when cleaning occurs
+relative to database lock (Section 5.7.1).
 
 ### 5.7 Database Lock and Archival
 
 #### 5.7.1 Database Lock Procedures
+
+Database lock is the point at which the study's
+analysis-ready dataset is frozen for statistical analysis.
+This includes source data captured in the study database
+and derived data produced through data cleaning and
+processing activities. After database lock, no further
+changes to the locked dataset **SHALL** be permitted except
+through a formal unlock procedure.
+
+Before database lock, the study team **SHALL** confirm that:
+
+- All data quality checks (Section 5.6.1) have been
+  completed
+- All open queries (Section 5.6.2) have been resolved or
+  documented as unresolvable
+- Data cleaning activities (Section 5.6.3) have been
+  completed
+- Monitoring activities per SOP-009 have been completed
+  or are at a stage that supports lock
+
+Database lock **SHALL** be documented, including the date,
+the person authorizing the lock, and confirmation that the
+above requirements were met.
+
+If the database must be unlocked after lock (e.g., to
+correct a critical error), the unlock **SHALL** be:
+
+- Authorized by the Study Director or Principal
+  Investigator
+- Documented with the rationale for the unlock
+- Limited in scope to the specific corrections required
+- Followed by re-lock with documentation
+
 #### 5.7.2 Long-Term Format Preservation
+
+Study data **SHALL** be archived in formats that remain
+accessible for the full retention period defined in SOP-002
+Section 5.4.
+
+For data stored in proprietary formats, the archival
+**SHALL** include one or more of the following:
+
+- Conversion to a non-proprietary format that preserves
+  the essential content of the data
+- Retention of the software (including version) necessary
+  to read the data, or documentation sufficient to enable
+  future access
+- Documentation of the format specification sufficient for
+  a knowledgeable person to develop a reader
+
+The Study Protocol **SHOULD** identify data types at risk
+of format obsolescence and specify the preservation
+approach for each.
+
 #### 5.7.3 Data Archival and Retention
+
+Upon study completion, all study data (source data, derived
+data, and processing provenance documentation) **SHALL** be
+archived per
+[SOP-007: Study Closeout and Archiving
+Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
+
+Archived study data **SHALL** be:
+
+- Complete (all source data, derived data, and associated
+  provenance per Section 5.4.1)
+- Protected against modification (write-protected or
+  stored in a system that prevents alteration)
+- Accessible for retrieval during the retention period to
+  support regulatory inspections, audits, and secondary
+  analyses
+- Stored separately from active study systems
+
+Retention periods for study data **SHALL** comply with
+SOP-002 Section 5.4.
 
 ## 6.0 RECORDS AND DOCUMENTATION
 
