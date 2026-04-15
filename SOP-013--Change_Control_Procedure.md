@@ -76,6 +76,17 @@ This procedure does **NOT** apply to:
   (SOPs, quality manual, forms) are managed under [SOP-002: Document and
   Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
+This procedure recognizes two amendment categories:
+substantive amendments and minor amendments. ICH E6(R2)
+describes a third category of administrative or logistical
+amendments that do not require IRB/IEC review; this category
+is not used in this procedure because all changes to
+IRB-approved research are subject to IRB review under
+45 CFR 46. If __NewInstitute__ conducts a study not bound
+by 45 CFR 46, this procedure **SHALL** be reviewed and
+revised as necessary to reflect the applicable regulatory
+framework.
+
 This procedure applies to all __NewInstitute__ employees and subcontractors
 involved in:
 
@@ -167,7 +178,7 @@ involved in:
 
 This procedure establishes requirements for:
 
-- Classifying protocol amendments as substantive or administrative
+- Classifying protocol amendments as substantive or minor
 - Developing and documenting amendments with rationale and impact assessment
 - Internal review and approval before IRB/IEC submission
 - IRB/IEC submission and approval (for substantive amendments)
@@ -177,7 +188,7 @@ This procedure establishes requirements for:
 - Documentation and TMF maintenance
 
 All protocol amendments **SHALL** be processed according to this procedure
-before implementation, except as noted for administrative amendments.
+before implementation.
 
 ### 4.2 Amendment Classification
 
@@ -256,7 +267,7 @@ The following criteria **SHALL** be considered when classifying amendments:
 | Subject rights | Affects rights or consent | No effect on rights |
 | Study scope | Changes objectives, endpoints, or population | No change to scope |
 | Scientific quality | Affects data integrity or study validity | No effect on quality |
-| Study procedures | Changes subject experience or burden | Administrative only |
+| Study procedures | Changes subject experience or burden | No change to subject experience |
 
 If there is uncertainty regarding classification, the amendment **SHALL** be
 treated as substantive and submitted for full IRB/IEC board review.
@@ -325,9 +336,6 @@ Each protocol amendment **SHALL** include:
 Protocol amendments **SHALL** follow version control requirements per SOP-002:
 
 - Each amendment **SHALL** result in a new protocol version
-- Version numbering **SHALL** be sequential (e.g., Version 2.0, Version 3.0 for
-  substantive amendments; Version 1.1, Version 1.2 for administrative amendments
-  if using minor version numbering)
 - Track changes or redline version **SHALL** be prepared showing modifications
   from the previous approved version
 - Clean version **SHALL** be prepared for final approval and implementation
@@ -372,7 +380,7 @@ amendment:
 | Data collection, CRFs | Data Management |
 | Regulatory requirements | Regulatory |
 
-For administrative amendments, review by the Principal Investigator or designee
+For minor amendments, review by the Principal Investigator or designee
 is sufficient.
 
 #### 4.4.3 Review Documentation
@@ -383,8 +391,7 @@ Internal review **SHALL** be documented with:
 - Review date
 - Findings and comments
 - Resolution of any issues identified
-- Approval to proceed to IRB/IEC submission (for substantive amendments) or
-  implementation (for administrative amendments)
+- Approval to proceed to IRB/IEC submission
 
 #### 4.4.4 Approval Authority
 
@@ -397,8 +404,10 @@ Investigator, Study Director, or designated review committee)
 
 IRB/IEC submission and approval is required for:
 
-- All substantive amendments
-- Administrative amendments if required by specific IRB/IEC policy
+- All substantive amendments (full board review per
+  45 CFR 46.108)
+- All minor amendments (may be eligible for expedited
+  review per 45 CFR 46.110)
 - All informed consent form revisions
 
 #### 4.5.2 Submission Package
@@ -596,7 +605,7 @@ An amendment log **SHALL** be maintained for each study, documenting:
 
 - Amendment number
 - Amendment date
-- Amendment classification (substantive/administrative)
+- Amendment classification (substantive/minor)
 - Brief description of changes
 - IRB/IEC approval date (if applicable)
 - Effective date
