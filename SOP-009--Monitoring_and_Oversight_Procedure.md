@@ -88,13 +88,16 @@ involved in monitoring and oversight activities.
 4. [SOP-003: Risk Management and Quality Risk Management
    Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
 
-5. [SOP-006: Outsourced Activities
+5. [SOP-004: Computer System Validation Data Integrity and Data Management
+   Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+
+6. [SOP-006: Outsourced Activities
    Procedure](SOP-006--Outsourced_Activities_Procedure.md)
 
-6. [SOP-010: Control of Nonconforming Observational Study Activities
+7. [SOP-010: Control of Nonconforming Observational Study Activities
    Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
 
-7. [SOP-011: Corrective and Preventive Action
+8. [SOP-011: Corrective and Preventive Action
    Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
 
 ### 3.3 Terms
@@ -240,8 +243,15 @@ The Monitoring Plan **SHALL** include:
   - Triggers for on-site visits (routine or for-cause)
   - Timing relative to enrollment milestones
 
-- **Key Risk Indicators (KRIs)**: Metrics to be tracked with thresholds that
-  trigger evaluation or action, aligned with QTLs from the Risk Management Plan
+- **Quality Tolerance Limits (QTLs)**: Study-level thresholds established in
+  the Risk Management Plan per SOP-003 Section 5.6.2, including the parameters
+  monitored, threshold values, measurement methods, and evaluation processes
+  when thresholds are exceeded
+
+- **Key Risk Indicators (KRIs)**: Trend-monitoring metrics established in the
+  Risk Management Plan per SOP-003 Section 5.6.4, including indicator
+  definitions, calculation methods, reporting frequencies, and response
+  actions at alert and action thresholds
 
 - **Roles and responsibilities**: Identification of personnel responsible for
   monitoring activities
@@ -460,6 +470,14 @@ Critical and major issues **SHALL** be escalated per the following:
   CAPA per SOP-011.
 
 ### 4.6 Monitoring Adaptations
+
+Monitoring adaptations are coordinated with the risk
+management process per SOP-003. Updates to the risk profile,
+QTL thresholds, KRI definitions, or monitoring intensity
+levels are communicated to the monitoring team per SOP-003
+Section 6.3.3, and the monitoring team determines the
+specific operational changes to monitoring methods,
+frequency, or scope as defined in this section.
 
 #### 4.6.1 Adaptive Monitoring
 
