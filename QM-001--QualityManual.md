@@ -14,16 +14,16 @@ __NewInstitute__.  Policies and procedures required for compliance are shown
 using the word **“SHALL”**.
 
 This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018, 
-21 CFR Parts 11, 54 and 56, ICH E6(R2), ICH E8(R1), ICH E9(R1), ICH Q9(R1), 
-GAMP 5, NIST 800-171, NIST 800-53, and applicable Clinical Trials Guidance 
-Documents published by the FDA.
+21 CFR parts 11 and 54, 45 CFR part 46, ICH E6(R2), ICH E8(R1), ICH E9(R1), 
+ICH Q9(R1), GAMP 5, and applicable Clinical Trials Guidance Documents
+published by the FDA.
 
 *Observational studies* conducted by __NewInstitute__ are conducted in
 accordance with this QMS and in a manner consistent with best practices.
 
-An *observational study* is defined as only the control arm of a *clinical
-investigation*
-
+An *observational study* is defined as an investigation to observe, measure
+and analyze groups or individuals without administering an intervention.
+    
 This QMS adopts the definition of *Clinical Investigation* used in
 [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c))
 
@@ -38,11 +38,11 @@ This QMS adopts the definition of *Clinical Investigation* used in
 
 Although __NewInstitute__ conducts *observational studies* rather than
 interventional *clinical investigations*, study results are intended to support
-future FDA submissions (e.g., as real-world evidence, natural history data, or
-control arm comparators). Therefore, this QMS applies requirements appropriate
-for data intended for regulatory use, including 21 CFR Part 54 (Financial
-Disclosure by Clinical Investigators) and documentation standards consistent
-with ICH E6(R2).
+future regulatory submissions (e.g., as real-world evidence, natural history
+data, or control arm comparators). Therefore, this QMS applies requirements
+appropriate for data intended for regulatory use, including 21 CFR Part 54
+(Financial Disclosure by Clinical Investigators) and documentation standards
+consistent with ICH E6(R2).
 
 ## 2.0 SCOPE
 
@@ -75,6 +75,8 @@ the following standards and guidance documents are not considered by this QMS
 
 - [21 CFR Part 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54): Financial Disclosure by Clinical Investigators
 
+- [45 CFR Part 46](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46): Protection of Human Subjects (Common Rule)
+    
 - [FDA's Clinical Trials Guidance Documents](https://www.fda.gov/science-research/clinical-trials-and-human-subject-protection/clinical-trials-guidance-documents): The FDA's list of guidance documents that represents the agency's current thinking on the conduct of clinical trials, good clinical practice and human subject protection.
 
 - [GAMP v5](https://guidance-docs.ispe.org/doi/book/10.1002/9781946964571): A Risk-Based Approach to Compliant GxP Computerized Systems
@@ -92,10 +94,6 @@ the following standards and guidance documents are not considered by this QMS
 - [ISO-19011:2018](https://www.iso.org/standard/70017.html): Guidelines for auditing management systems
 
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
-
-- [NIST 800-171](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final): Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
-
-- [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final): Security and Privacy Controls for Information Systems and Organizations
 
 ### 3.2 __NewInstitute__ Procedures 
 
@@ -166,7 +164,7 @@ the following standards and guidance documents are not considered by this QMS
     are credible and accurate, and that the rights, integrity, and
     confidentiality of trial subjects are protected. `[ICH E6(R2) 1.24]`
 
--   **Investigator**: A person responsible for the conduct of the study at a
+-   **Investigator**: A person who is responsible for the conduct of the study at a
     study site. If a study is conducted by a team of individuals at
     a study site, the investigator is the responsible leader of the team and
     may be called the principal investigator. `[ICH E6(R2) 1.34]`
