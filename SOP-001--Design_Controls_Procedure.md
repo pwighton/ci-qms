@@ -18,9 +18,9 @@ This procedure applies to all design and development activities for
 *observational studies* conducted by __NewInstitute__,  organized according to
 the three temporal phases defined in ICH E6(R2) Section 8:
 
--   **Phase 1**: Before the Conduct of the Study (primary focus of this SOP)
--   **Phase 2**: During the Conduct of the Study (brief coverage with references to other SOPs)
--   **Phase 3**: After Completion or Termination of the Study (brief coverage with references to other SOPs)
+-   **Phase 1**: Before the conduct of the study (primary focus of this SOP)
+-   **Phase 2**: During the conduct of the study (brief coverage with references to other SOPs)
+-   **Phase 3**: After completion or termination of the study (brief coverage with references to other SOPs)
 
 This procedure defines how to develop study designs through
 systematic phases from concept to final deliverables. Formal
@@ -135,8 +135,8 @@ and subcontractors involved in study design activities.
 
 ### 3.3 Terms
 
--   **Clinical Investigation**: The FDA cites the following CFRs for their
-    definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)),
+-   **Clinical Investigation**: The FDA cites the following CFRs (code of 
+    federal regulations) for their definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)),
     [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3(Clinical%20investigation))
     and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3(h)).
     This QMS adopts the definition from 21 CFR 50.3(c): any experiment that
@@ -171,8 +171,8 @@ and subcontractors involved in study design activities.
 -   **Study Brochure**: A compilation of the clinical and nonclinical
     data that is relevant to the observational study in human subjects
 
--   **Observational Study**: A *clinical investigation* in which no intervention
-    is administered and only the control arm is performed.
+-   **Observational Study**: An investigation to observe, measure and analyze
+    groups or individuals without administering an intervention.
 
 -   **Study Protocol**: A document that describes the objective(s), design,
     methodology, statistical considerations, and organization of a trial.
@@ -211,7 +211,7 @@ control across all three temporal phases
 
 -   **Phase 1**: Before the conduct of the study
 -   **Phase 2**: During the conduct of the study
--   **Phase 3**: After Completion or Termination of the study
+-   **Phase 3**: After completion or termination of the study
 
 The primary focus of this SOP is on Phase 1 activities.
 
@@ -240,7 +240,7 @@ study design. Design inputs include:
 - Risk considerations and critical-to-quality factors
 - Stakeholder requirements
 
-Design inputs are documented in Section 5.2 and inform all subsequent design
+Design inputs are documented in Section 5.2.4 and inform all subsequent design
 activities. Initial risk identification performed during design input
 development feeds into the Risk Management Plan developed according to
 [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
@@ -372,6 +372,10 @@ phase:
   sites, and infrastructure needs
 - **Site and Investigator Selection**: Identification and preliminary
   qualification of potential study sites and investigators per SOP-006
+
+These requirements **MAY** overlap with requirements of other institutional
+processes (grant submissions, IRB approval) however these requirements **SHALL**
+be documented in the QMS
 
 #### 5.2.3 Creation of the Trial Master File (TMF)
 
