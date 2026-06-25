@@ -378,9 +378,12 @@ following minimum responsibilities:
 -   Promotes awareness of Good Clinical Practice (GCP) requirements, 
     subject safety, and data integrity throughout the organization.
 
--   Responsible for coordinating visits by regulatory authorities with
-    __NewInstitute__ and for coordinating all responses to regulatory inquiries
-    and inspections.
+-   Responsible for coordinating __NewInstitute__'s responses to inquiries
+    from data recipients (e.g., sponsors using __NewInstitute__ observational
+    study data in regulatory submissions) and to inquiries relayed by those
+    recipients from regulatory authorities regarding data provided by
+    __NewInstitute__. Supporting activities (record retrieval and provision
+    of certified copies) are exercised through SOP-007.
 
 -   Responsible for coordinating periodic internal audits of all study
     activities covered by this Quality Manual. Internal Audits are described in
