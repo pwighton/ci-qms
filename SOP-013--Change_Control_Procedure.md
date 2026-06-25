@@ -240,10 +240,8 @@ study scope, scientific quality, or subject rights.
 Examples of minor amendments include, but are not limited to:
 
 - Correction of typographical errors
-- Updates to contact information (telephone numbers, addresses, email)
 - Changes to administrative personnel (monitor, project manager)
 - Clarifications that do not change meaning or intent
-- Formatting or organizational changes that do not alter content
 
 Minor amendments require:
 
@@ -296,6 +294,16 @@ The IRB/IEC has final authority to determine:
 If the IRB/IEC determines that a change classified as minor by the study team
 requires full board review, the study team **SHALL** comply with the IRB/IEC
 determination.
+
+The QMS amendment classification (substantive or minor, per Section 4.2.2 and
+4.2.3) and the IRB/IEC review pathway (full board or expedited) are
+independent determinations made by different authorities. The QMS
+classification governs **__NewInstitute__**'s internal review obligations under
+Section 4.4; the IRB/IEC independently determines its own review pathway. The
+QMS classification does not constrain the IRB/IEC pathway, and the IRB/IEC
+pathway does not alter the internal review required by the QMS classification.
+The two determinations are ordinarily aligned but **MAY** differ in either
+direction.
 
 ### 4.3 Amendment Development
 
@@ -383,6 +391,14 @@ amendment:
 For minor amendments, review by the Principal Investigator or designee
 is sufficient.
 
+The internal review required by this section is determined by the QMS
+amendment classification (Section 4.2) and is independent of the IRB/IEC
+review pathway. Where an amendment is classified as substantive under the
+QMS, the full internal review applicable to substantive amendments **SHALL**
+be conducted regardless of whether the IRB/IEC reviews the amendment through
+full board or expedited review. The internal review protects data quality and
+study integrity and is not reduced by the IRB/IEC's pathway determination.
+
 #### 4.4.3 Review Documentation
 
 Internal review **SHALL** be documented with:
@@ -404,11 +420,16 @@ Investigator, Study Director, or designated review committee)
 
 IRB/IEC submission and approval is required for:
 
-- All substantive amendments (full board review per
-  45 CFR 46.108)
-- All minor amendments (may be eligible for expedited
-  review per 45 CFR 46.110)
+- All substantive amendments
+- All minor amendments
 - All informed consent form revisions
+
+Substantive amendments are ordinarily submitted for full board review per
+45 CFR 46.108, and minor amendments may be eligible for expedited review per
+45 CFR 46.110. The IRB/IEC determines the actual review pathway for each
+amendment per Section 4.2.6. The review pathway applied by the IRB/IEC does
+not change the QMS amendment classification or the internal review conducted
+under Section 4.4.
 
 #### 4.5.2 Submission Package
 
@@ -421,6 +442,10 @@ The IRB/IEC submission package **SHALL** include:
 - Other consequential documents as required by IRB/IEC
 - Any supporting documentation (e.g., new safety information prompting the
   amendment)
+
+The contents listed above are the default submission package; where the
+IRB/IEC specifies different or additional submission requirements, the
+IRB/IEC's requirements **SHALL** govern.
 
 Submission format **SHALL** comply with IRB/IEC requirements.
 
