@@ -35,6 +35,13 @@ Key deliverables from this procedure include:
 - Critical to Quality Factors documentation
 - Risk mitigation strategies that inform monitoring approach
 
+Risks identified through this procedure that relate to computerized systems,
+electronic records, or the integrity of study data are controlled through
+technical and data-management measures implemented under
+[SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+The risk assessment conducted under this procedure determines the level of
+validation rigor and data-integrity controls applied under SOP-004.
+
 The Risk Management Plan developed under this procedure serves as a primary 
 input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md), 
 which executes the monitoring activities identified as necessary through risk 
@@ -248,9 +255,9 @@ The level of risk management activity **SHALL** be commensurate with the risks
 to participant safety and data integrity. Risk management efforts are scaled 
 based on:
 
-- **Study Complexity**: Simple observational studies with straightforward data 
-  collection may use streamlined risk assessments, while complex multi-site 
-  studies with multiple endpoints require comprehensive risk analysis.
+- **Study Complexity**: Simple observational studies may use streamlined risk
+  assessments, while complex multi-site studies with multiple endpoints require
+  comprehensive risk analysis.
 
 - **Participant Vulnerability**: Studies involving vulnerable populations 
   (minors, cognitively impaired, economically disadvantaged) require enhanced 
