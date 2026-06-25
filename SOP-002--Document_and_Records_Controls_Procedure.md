@@ -26,13 +26,16 @@ Records **MAY** be created in paper or electronic format.
 Paper records **MAY** be converted to electronic format
 through a digitization process defined in Section 5.3.7.
 
-This procedure does not govern source data or derived data
-collected or produced during the conduct of observational
-studies. The management of source data and derived data is
-addressed under
+This procedure does not govern the management of source data
+or derived data collected or produced during the conduct of
+observational studies. The management of source data and
+derived data is addressed under
 [SOP-004: Computer System Validation, Data Integrity and Data
 Management
 Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
+However, Section 5.4 of this procedure defines the canonical
+retention periods that apply to study records, source data,
+and derived data alike.
 
 Documents and records created during study design are
 initially developed under
@@ -388,10 +391,7 @@ points of use as part of the document distribution process.
 ### 4.9 Retention of Obsolete Documents
 
 The original copies of obsolete controlled documents
-**SHALL** be retained for at least two (2) years after the
-formal discontinuation of the study, or as required by
-applicable regulatory requirements, whichever is longer
-(per ICH E6(R2) 5.5.12).
+**SHALL** be retained per Section 5.4.
 
 ### 4.10 Master Document List
 
@@ -660,12 +660,68 @@ are retained after digitization or whether the verified
 electronic version serves as the certified copy for the
 study record.
 
-## 5.4 Record Retention
+## 5.4 Retention of Study Records and Study Data
 
-All study records **SHALL** be retained for at least two (2)
-years after the formal discontinuation of the study, or as
-required by applicable regulatory requirements, whichever is
-longer (per ICH E6(R2) 5.5.12).
+This section establishes the canonical retention policy for
+study records, source data, and derived data under this QMS.
+Other procedures that reference a retention period for items
+within this scope **SHALL** apply the periods defined here.
+
+The procedures that govern the format, storage, and management
+of those items remain unchanged: study records are managed
+under this procedure; source data, derived data, and their
+supporting audit trails are managed under SOP-004.
+
+All study records, source data, and derived data **SHALL** be
+retained for the longest of the following periods:
+
+- Two (2) years after formal discontinuation of the study;
+- Two (2) years after FDA approval of any marketing
+  application supported by the study;
+- Two (2) years after the study data are no longer relied
+  upon for any FDA submission; or
+- Any longer period required by applicable regulatory
+  requirements.
+
+This pattern follows ICH E6(R2) 5.5.12, which ties sponsor
+retention to the last marketing-application approval relying
+on the data rather than to study end. __NewInstitute__ is
+generally not itself the sponsor of a marketing application,
+but its observational study data may be relied upon by a
+downstream sponsor for such an application.
+
+### 5.4.1 Closeout Disposition Decision
+
+Because downstream regulatory use of __NewInstitute__
+observational study data may begin years after study end, the
+Study Director and QA Representative **SHALL** make a
+documented retention disposition decision at study closeout,
+recorded in the TMF closeout package per SOP-007. The
+disposition **SHALL** set a study-specific retention floor for
+all records, source data, and derived data covered by
+Section 5.4, taking effect once the event-based triggers above
+are exhausted. The floor **SHALL** be based on the plausible
+future regulatory utility of the data.
+
+Default floors:
+
+- **Twenty-five (25) years** for studies producing data
+  plausibly usable to support a future FDA marketing
+  application (e.g., natural-history or real-world-evidence
+  data on conditions under active drug or device
+  development).
+- **Fifteen (15) years** for studies producing data plausibly
+  usable for regulatory purposes other than marketing-
+  application support (e.g., post-market evidence, label
+  expansion).
+- A shorter floor is permitted only with a documented
+  rationale, approved by both the Study Director and the QA
+  Representative, that downstream regulatory use is
+  implausible. In no case **SHALL** the floor be shorter than
+  two (2) years after formal discontinuation of the study.
+
+The disposition decision and its rationale **SHALL** be
+retained as a study record.
 
 Quality system records not associated with a specific study
 (e.g., training records, internal audit reports, management

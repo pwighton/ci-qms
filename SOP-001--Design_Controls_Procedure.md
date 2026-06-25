@@ -1919,10 +1919,8 @@ required for the specific study per Section 4.4. TMF
 completeness verification is conducted as part of study
 closeout per SOP-007.
 
-Essential documents and study records **SHALL** be retained
-for at least two (2) years after formal discontinuation of
-the study, or as required by applicable regulatory
-requirements, whichever is longer (per ICH E6(R2) 5.5.11).
+Essential documents, study records, source data, and derived
+data **SHALL** be retained per SOP-002 Section 5.4.
 
 The archived TMF and study records **SHALL** remain
 accessible for retrieval during the retention period to
