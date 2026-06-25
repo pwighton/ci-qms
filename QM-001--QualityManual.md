@@ -776,7 +776,141 @@ in accordance with the Regulatory Compliance Management Procedure, SOP-014.
 
 ## Appendix A __NewInstitute__'s Organization Chart
 
-TBD
+### A.1 Reporting Structure
+
+__NewInstitute__'s organization for the design and conduct of
+*observational studies* is structured into three tiers:
+
+- **Tier 1 — Institutional leadership.** Executive Management
+  owns the QMS and allocates resources.
+- **Tier 2 — Institutional quality function.** The Management
+  Representative coordinates the QMS; the QA Representative
+  provides independent quality oversight of all studies and
+  QMS processes. Both report directly to Executive Management
+  so that QA's independence from QMS coordination activities
+  is preserved.
+- **Tier 3 — Study teams.** Each *observational study* is
+  led by a Study Director / Principal Investigator (one role,
+  referred to below as "Study Director") and staffed with the
+  roles required by the study protocol.
+
+```
+Executive Management
+├── Management Representative
+├── QA Representative
+└── Study Director / Principal Investigator (per study)
+    ├── Project Manager
+    ├── Statistician
+    ├── Data Manager
+    ├── Risk Owner(s)
+    ├── Monitor (where required by protocol)
+    ├── System Owner (per validated computer system)
+    └── Software Lead (when SOP-015 applies)
+```
+
+Roles in the study-team tier are filled per study; the same
+individual may hold the same role on multiple concurrent
+studies subject to the constraints in Section A.3.
+
+### A.2 Minimum Role Responsibilities
+
+- **Executive Management.** Owns the QMS and is ultimately
+  responsible for its effectiveness (Section 4.1). Appoints
+  the Management Representative and the QA Representative.
+  Allocates resources required for the design and conduct of
+  *observational studies* (Section 6.1). Approves the Quality
+  Manual and all SOPs prior to issuance per SOP-002.
+
+- **Management Representative.** Coordinates the QMS as
+  defined in Section 5.3.2. Owns the Quality Manual, the
+  internal audit programme, and the coordination of responses
+  to data-recipient inquiries.
+
+- **QA Representative.** Provides independent quality
+  assurance of *observational study* conduct and QMS
+  processes. Approves release of controlled documents and
+  records per SOP-002 §4.1. Concurs on study design review
+  decisions (SOP-005) and on closeout disposition decisions
+  (SOP-002 §5.4.1). Conducts or coordinates internal audits
+  (SOP-012). The QA Representative **SHALL** be independent
+  of the activity being assured.
+
+- **Study Director / Principal Investigator** (per study).
+  Leads the design and conduct of the study. Approves the
+  protocol and all study-level documents. Owns study-level
+  risk management (SOP-003) and serves as the default Risk
+  Owner unless ownership is delegated. Approves study design
+  review decisions (SOP-005). Where __NewInstitute__
+  initiates the study, the Study Director is also the
+  Sponsor-Investigator; qualification requirements for that
+  scenario are addressed in SOP-001 §4.2.
+
+- **Project Manager** (per study). Responsible for study
+  operations, document and records control at the study
+  level (SOP-002 §4.1), and coordination of study-team
+  activities.
+
+- **Statistician** (per study). Responsible for statistical
+  design, the Statistical Analysis Plan, and statistical
+  analyses. Participates in the Protocol Review and Design
+  Output Review (SOP-005).
+
+- **Data Manager** (per study). Responsible for data
+  acquisition design, the data management plan, and data
+  integrity controls operating under SOP-004. Participates in
+  the Design Output Review.
+
+- **Risk Owner** (per risk; one or more per study). Owns the
+  assessment and mitigation of a specific risk. Defaults to
+  the Study Director unless ownership is explicitly delegated
+  per SOP-003 §4.3.4.
+
+- **Monitor** (per study). Performs centralized and on-site
+  monitoring per SOP-009. May be a __NewInstitute__ employee
+  or external (subject to SOP-006). The Monitor **SHALL** be
+  functionally independent of the on-site study conduct
+  activities being monitored.
+
+- **System Owner** (per validated computer system). Owns the
+  lifecycle of a specific validated computer system per
+  SOP-004 (validation planning, change control, periodic
+  review, retirement).
+
+- **Software Lead** (per software product, when applicable).
+  Where __NewInstitute__ develops software for
+  *observational study* use, the Software Lead is responsible
+  for the development lifecycle per SOP-015. Software
+  developed by external organizations is governed by
+  SOP-006.
+
+### A.3 Permitted Role Combinations and Independence Constraints
+
+The following independence constraints **SHALL** apply when
+assigning roles:
+
+| Constraint | Rationale |
+|---|---|
+| QA Representative may not also hold a study-team role on the same study | Independence of QA from the activity being assured |
+| Auditor of a process may not also be the executor of that process | ISO 19011 auditor independence |
+| Verifier of a design output may not also be the author of that output | ISO 9001 §8.3.4 design verification independence |
+| Monitor may not also be a study-site executor of activities being monitored | ICH E6(R2) §5.18 monitor independence |
+
+All other role combinations are permitted at the discretion
+of Executive Management, subject to the workload and
+competency requirements of the role. The following
+combinations are explicitly permitted and common at a small
+institute:
+
+| Combinable roles | Note |
+|---|---|
+| Management Representative + QA Representative | Permitted as a permanent institutional combination |
+| Executive Management member + Study Director | Permitted per study |
+| Project Manager + Data Manager | Permitted per study |
+| Study Director + Risk Owner | Default per SOP-003 §4.3.4 |
+| System Owner + Software Lead | Permitted where SOP-015 applies and the system is internally developed |
+
+Permitted combinations are recorded in study-team
+documentation as part of protocol development per SOP-001.
 
 ## Appendix B Cross-Reference Guide 
 
