@@ -394,9 +394,9 @@ develop an Initial Risk Management Plan that includes:
 - Plan for comprehensive risk assessment during protocol
   development
 
-The Initial Risk Management Plan is reviewed at SOP-005 Review
-Gate 1 (Concept and Feasibility Review) before the study
-proceeds to protocol development.
+The Initial Risk Management Plan is reviewed at the SOP-005
+Concept Review before the study proceeds to protocol
+development.
 
 Activities supporting this stage are described in Section 5.2
 (Initial Risk Identification).
@@ -416,9 +416,9 @@ that includes:
 - Risk ownership and responsibilities
 - Risk review and communication processes
 
-The comprehensive Risk Management Plan is reviewed at SOP-005
-Review Gate 2 (Protocol and Study Design Review) and verified
-per SOP-001 Section 5.6 before study conduct begins.
+The comprehensive Risk Management Plan is reviewed at the
+SOP-005 Protocol Review and verified per SOP-001 Section 5.6
+before study conduct begins.
 
 Activities supporting this stage are described in Sections 5.3
 through 5.7.
@@ -427,8 +427,8 @@ through 5.7.
 
 Initial risk identification occurs during the Study Concept and
 Feasibility phase (SOP-001 Section 5.2) and produces the
-Initial Risk Management Plan that is reviewed at SOP-005
-Concept Review (Review Gate 1).
+Initial Risk Management Plan that is reviewed at the SOP-005
+Concept Review.
 
 #### 5.2.1 Critical to Quality (CTQ) Factors
 
@@ -813,9 +813,9 @@ defines the approach for risk monitoring (Section 5.6) and
 risk communication (Section 5.7) for a specific study.
 
 The RMP is a design output of protocol development (SOP-001
-Section 5.3) and **SHALL** be reviewed at SOP-005 Review
-Gate 2 (Protocol and Study Design Review) and verified per
-SOP-001 Section 5.6 before study conduct begins.
+Section 5.3) and **SHALL** be reviewed at the SOP-005 Protocol
+Review and verified per SOP-001 Section 5.6 before study
+conduct begins.
 
 The RMP is a controlled document subject to
 [SOP-002: Document and Records Controls

@@ -604,8 +604,7 @@ Protocol development **SHALL** integrate with:
   quality factors and inform monitoring strategy
 - **SOP-004 (Computer System Validation, Data Integrity and Data Management)**:
   Data management requirements and electronic data capture specifications
-- **SOP-005 (Study Design Review)**: Design Plan Review and Design Output
-  Review decision gates
+- **SOP-005 (Study Design Review)**: Protocol Review decision gate
 - **SOP-008 (Subject Safety and Adverse Event Management)**: Safety monitoring
   section requirements, adverse event definitions and procedures, incidental
   findings approach, and Data Monitoring Committee decision
