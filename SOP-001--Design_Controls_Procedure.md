@@ -1724,6 +1724,10 @@ required for each study are identified per Section 4.4.
 **Safety Documentation:**
 
 - Adverse event documentation per SOP-008
+- Notification by the investigator to the sponsor of serious
+  adverse events per ICH E6(R2) 8.3.16, adapted: limited to
+  SAEs related to study procedures per SOP-008 Section 2.0
+  scope, with timing and content per SOP-008 Section 4.7.3
 - Reports to IRB/IEC of unanticipated problems involving
   risks to subjects or others, per 45 CFR 46 and SOP-008
   (ICH E6(R2) 8.3.17 references adverse drug reaction
