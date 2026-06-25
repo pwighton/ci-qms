@@ -353,13 +353,13 @@ __NewInstitute__'s quality policy is as follows:
 
 #### 5.3.1 Organization
 
-The functional organization chart included as [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart) summarizes how __NewInstitute__ is structured to ensure responsibilities
+The functional organization chart included as [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitutes-organization-chart) summarizes how __NewInstitute__ is structured to ensure responsibilities
 and authorities are defined and communicated within the organization with
 regard to the design and conduct of *observational studies*.
 
 __NewInstitute__ clearly establishes and documents the responsibilities,
 authority, and interrelation of employees who manage, perform, and verify work
-which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitues-organization-chart).
+which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitutes-organization-chart).
 
 All employees assigned to an *observational study* must have requisite
 training as identified in the applicable Study Protocol.
@@ -384,7 +384,7 @@ following minimum responsibilities:
 
 -   Responsible for coordinating periodic internal audits of all study
     activities covered by this Quality Manual. Internal Audits are described in
-    [section 8.3](QM-001--QualityManual.md#83-internal-and-external-audits)
+    [section 8.4](QM-001--QualityManual.md#84-internal-and-external-audits)
     below.
 
 -   Maintains this Quality Manual and distributes controlled copies of
@@ -510,7 +510,7 @@ These activities, at a minimum, shall include:
 -   Design Controls (see [section 7.1](QM-001--QualityManual.md#71-design-controls))
 -   Document and Records Controls (see [section 7.2](QM-001--QualityManual.md#72-document-and-records-controls))
 -   Risk Management and Quality Risk Management (see [section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management))
--   Computer System Validation, Data Integrity and Data Management (see [section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity))
+-   Computer System Validation, Data Integrity and Data Management (see [section 7.4](QM-001--QualityManual.md#74-computer-system-validation-data-integrity-and-data-management))
 -   Study Design Reviews (see [section 7.5](QM-001--QualityManual.md#75-study-design-reviews))
 -   Outsourced Activities (see [section 7.6](QM-001--QualityManual.md#76-outsourced-activities))
 -   Study Closeout and Archiving (see [section 7.7](QM-001--QualityManual.md#77-study-closeout-and-archiving))
@@ -681,8 +681,8 @@ to demonstrate conformity and effectiveness of study conduct.
 
 These activities, at a minimum, shall include:
 
-- Monitoring and Oversight (see [section 8.1]((QM-001--QualityManual.md#81-monitoring-and-oversight)))
-- Control of Nonconforming Clinical Investigation Activities (see [section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-clinical-investigation-activities))
+- Monitoring and Oversight (see [section 8.1](QM-001--QualityManual.md#81-monitoring-and-oversight))
+- Control of Nonconforming Observational Study Activities (see [section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-observational-study-activities))
 - Corrective and Preventive Action (CAPA) (see [section 8.3](QM-001--QualityManual.md#83-corrective-and-preventive-action-capa))
 - Internal and External Audits (see [section 8.4](QM-001--QualityManual.md#84-internal-and-external-audits))
 - Change Control (see [section 8.5](QM-001--QualityManual.md#85-change-control))
@@ -699,7 +699,7 @@ All monitoring and oversight activities related to *observational studies*
 **SHALL** be performed and documented in accordance with the Monitoring and
 Oversight Procedure, SOP-009.
 
-### 8.2 Control of Nonconforming Activities
+### 8.2 Control of Nonconforming Observational Study Activities
 
 __NewInstitute__ **SHALL** establish and maintain a Control of Nonconforming
 Activities procedure that provides for identification, review, and disposition
@@ -873,7 +873,7 @@ TBD
 
 - Computer System Validation, Data Integrity and Data Management
   - QM-001 Quality Manual
-    - [Section 7.4](QM-001--QualityManual.md#74-computer-system-validation-and-data-integrity)
+    - [Section 7.4](QM-001--QualityManual.md#74-computer-system-validation-data-integrity-and-data-management)
   - [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
   - ISO-9001:2015
     - Section 6.1 (Actions to address risks and opportunities)
@@ -971,9 +971,9 @@ TBD
     - Section 6.2.1 (Safety Monitoring)
     - Section 6.2.3 (Data Monitoring Committee)
 
-- Control of Nonconforming Clinical Investigation Activities
+- Control of Nonconforming Observational Study Activities
   - QM-001 Quality Manual
-    - [Section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-clinical-investigation-activities)
+    - [Section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-observational-study-activities)
   - [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
   - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
