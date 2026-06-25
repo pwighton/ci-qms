@@ -373,9 +373,9 @@ phase:
 - **Site and Investigator Selection**: Identification and preliminary
   qualification of potential study sites and investigators per SOP-006
 
-These requirements **MAY** overlap with requirements of other institutional
-processes (grant submissions, IRB approval) however these requirements **SHALL**
-be documented in the QMS
+These requirements **MAY** overlap with other institutional processes (e.g.,
+grant submissions, IRB approval). Where such overlap exists, the requirements
+**SHALL** nonetheless be documented within the QMS.
 
 #### 5.2.3 Creation of the Trial Master File (TMF)
 
@@ -469,7 +469,7 @@ and operational plan. Protocol development translates design inputs into a
 comprehensive document that guides all aspects of study conduct and ensures
 compliance with scientific, ethical, and regulatory requirements.
 
-Formal signature and approval of the protocol is addressed in Section 5.10
+Formal signature and approval of the protocol is addressed in Section 5.8
 after design verification and validation activities are complete.
 
 #### 5.3.2 Requirements
