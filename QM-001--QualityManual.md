@@ -667,8 +667,8 @@ process *observational study* data **SHALL** be performed and documented in
 accordance with the Observational Study Software Development and Validation
 Procedure, SOP-015.
 
-Software used collect or process *observational study* data **SHALL** maintain
-version control and data integrity in accordance with ALCOA+ principles
+Software used to collect or process *observational study* data **SHALL**
+maintain version control and data integrity in accordance with ALCOA+ principles
 (Attributable, Legible, Contemporaneous, Original, Accurate, Complete,
 Consistent, Enduring, and Available).
 
