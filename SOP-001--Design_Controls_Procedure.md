@@ -339,7 +339,7 @@ Design and development activities are subdivided into several phases:
 - Statistical Planning and Data Collection Design (Section 5.4)
 - Regulatory and Ethics Documentation (Section 5.5)
 - Design Verification (Section 5.6)
-- Design Validation (Sectino 5.7)
+- Design Validation (Section 5.7)
 - Design Transfer and Study Initiation Approval (Section 5.8)
 
 ### 5.2 Study Concept and Feasibility
@@ -2004,8 +2004,8 @@ observational study design controls in accordance with ICH E6(R2) requirements.
 | 8.3.13 | Source documents | 6.4 |
 | 8.3.14 | Signed, dated, and completed case report forms | 6.4 |
 | 8.3.15 | Documentation of case report form corrections | 6.4 |
-| 8.3.16 | Notification by originating investigator to sponsor of serious adverse events | 6.4 |
-| 8.3.17 | Notification by sponsor and/or investigator to regulatory authority(ies) and IRB(s)/IEC(s) of unexpected serious adverse drug reactions | 6.4 |
+| 8.3.16 | Notification by originating investigator to sponsor of serious adverse events | 6.4 (adapted; see SOP-008 §4.7) |
+| 8.3.17 | Notification by sponsor and/or investigator to regulatory authority(ies) and IRB(s)/IEC(s) of unexpected serious adverse drug reactions | N/A for observational studies; IRB reporting of unanticipated problems per SOP-008 |
 | 8.3.18 | Notification by sponsor to investigators of safety information | 6.4 |
 | 8.3.19 | Interim or annual reports to IRB/IEC and authority(ies) | 6.4 |
 | 8.3.20 | Subject screening log | 6.4 |
@@ -2037,5 +2037,9 @@ observational study design controls in accordance with ICH E6(R2) requirements.
    provided in another SOP
 3. **(if applicable)** indicates documents that may or may not be required
    depending on the specific study design
-4. This mapping demonstrates comprehensive coverage of ICH E6(R2) requirements
+4. **(adapted)** indicates an ICH E6(R2) requirement framed for interventional
+   drug trials that is reframed for observational studies without an
+   investigational product; see the referenced SOP section for the applicable
+   treatment.
+5. This mapping demonstrates comprehensive coverage of ICH E6(R2) requirements
    for observational study design controls
