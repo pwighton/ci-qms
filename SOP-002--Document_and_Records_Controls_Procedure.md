@@ -76,18 +76,18 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 
 ### 3.2 __NewInstitute__ References
 
-1.  [QM-001: Quality
-    Manual](QM-001--QualityManual.md)
+1.  [QM-001: Quality Manual](QM-001--QualityManual.md)
 
-2.  [SOP-001: Design Controls
-    Procedure](SOP-001--Design_Controls_Procedure.md)
+2.  [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 
-3.  [SOP-004: Computer System Validation, Data Integrity
-    and Data Management
+3.  [SOP-004: Computer System Validation, Data Integrity and Data Management
     Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
 
-4.  [SOP-005: Study Design Review
-    Procedure](SOP-005--Study_Design_Review_Procedure.md)
+4.  [SOP-005: Study Design Review Procedure](SOP-005--Study_Design_Review_Procedure.md)
+
+5.  [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
+
+6.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
 
@@ -217,7 +217,7 @@ system include:
 - Retention policy for documents and records
 - Removal of obsolete documents from use
 
-## 4.1 Responsibilities
+### 4.1 Responsibilities
 
 The __NewInstitute__ QA representative is the focal point
 for the document control system and is responsible for
@@ -248,7 +248,7 @@ that all study activities are performed based only on
 documents that have been formally reviewed, approved, and
 released through document control.
 
-## 4.2 Document Identification and Numbering
+### 4.2 Document Identification and Numbering
 
 Every document **SHALL** have a unique identifier.  A unique
 identifier **MAY** be a document prefix (e.g., SOP-002) or a 
@@ -262,7 +262,7 @@ In addition to a unique document identifier, each document
 **SHALL** have a revision. Revisions **MAY** be tracked
 automatically by the electronic document management system.
 
-## 4.3 Initial Document Creation
+### 4.3 Initial Document Creation
 
 Controlled documents **SHALL** be created in electronic
 format and **SHALL** include the following elements:
@@ -283,7 +283,7 @@ documents **SHOULD** use this template.
 Individual studies or document types **MAY** define
 additional structural requirements as appropriate.
 
-## 4.4 Initial Document Review and Approval
+### 4.4 Initial Document Review and Approval
 
 All new and revised documents **SHALL** be reviewed and
 approved by one or more persons prior to being released to
@@ -322,7 +322,7 @@ provided the effective date is visible to users accessing the
 document and is included when the document is exported or
 distributed.
 
-## 4.5 Approval of Changes
+### 4.5 Approval of Changes
 
 The person assigned to change a released document is
 responsible for:
@@ -356,7 +356,7 @@ All document changes **SHALL** be formally released through
 document control and the document revision **SHALL** be
 incremented.
 
-## 4.6 Availability of Documents
+### 4.6 Availability of Documents
 
 Released documents **SHALL** be communicated to the
 appropriate personnel in a timely manner. Documents **SHALL**
@@ -380,12 +380,12 @@ Examples of documents of external origin include:
   IRB/IEC documentation)
 - Sponsor-provided documents (if applicable)
 
-## 4.8 Removal of Obsolete Documents
+### 4.8 Removal of Obsolete Documents
 
 Obsolete documents **SHALL** be promptly removed from all
 points of use as part of the document distribution process.
 
-## 4.9 Retention of Obsolete Documents
+### 4.9 Retention of Obsolete Documents
 
 The original copies of obsolete controlled documents
 **SHALL** be retained for at least two (2) years after the
@@ -393,7 +393,7 @@ formal discontinuation of the study, or as required by
 applicable regulatory requirements, whichever is longer
 (per ICH E6(R2) 5.5.12).
 
-## 4.10 Master Document List
+### 4.10 Master Document List
 
 The QA representative **SHALL** maintain a list of all
 controlled documents including their unique identifier,
