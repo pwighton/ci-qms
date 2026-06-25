@@ -233,6 +233,10 @@ Financial disclosure information **SHALL** be collected:
 
 - Before an investigator participates in study activities
 - Upon any change in financial arrangements during the study
+- Annually for each year the study is open, as an attestation
+  by the investigator that the disclosure on file remains
+  accurate (a new form **SHALL** be collected if the
+  attestation indicates any change)
 - At study completion or investigator termination
 
 #### 4.3.3 Required Information

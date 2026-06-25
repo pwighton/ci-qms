@@ -217,7 +217,77 @@ The primary focus of this SOP is on Phase 1 activities.
 
 ### 4.2 Roles and Responsibilities
 
-**todo:** Define key roles (e.g Study Director/PI, Protocol Author, Statistician, Data Manager, Quality Reviewer, Approvers, etc.
+This section assigns design-control responsibilities to the
+roles defined in QM-001 Appendix A. Roles not listed here
+(e.g., Monitor, Management Representative) have no direct
+design-control activity and act only through the procedures
+referenced from this SOP.
+
+#### 4.2.1 Role Responsibilities
+
+| Role | Design-controls responsibilities |
+|---|---|
+| Study Director / Principal Investigator (Sponsor-Investigator) | Owns the study design. Authors or directs authorship of the protocol and study-level design outputs. Approves the protocol per §5.8.3. Approves design review decisions at every Review Gate per SOP-005. Holds the combined sponsor and investigator obligations per §4.2.2. |
+| Project Manager | Operationalizes design activities: schedule, document and records control (SOP-002), study-team coordination, and traceability between design inputs (§5.2.4) and design outputs. |
+| Statistician | Statistical design inputs (§5.3.4), sample-size determination, Statistical Analysis Plan (§5.4), and statistical content of design verification (§5.6). Participates in the Protocol Review and Design Output Review per SOP-005. |
+| Data Manager | Data collection design (§5.4), data management plan, and data integrity controls operating under SOP-004. Participates in the Design Output Review and Verification Review per SOP-005. |
+| Risk Owner(s) | Owns the assessment and mitigation of a specific risk identified during design, per SOP-003 §4.3.4. Defaults to the Study Director unless explicitly delegated. |
+| QA Representative | Independent quality oversight of design activities. Concurs on each Review Gate decision per SOP-005. Verifies the Sponsor-Investigator's qualification before Final Design Approval, per §4.2.2. Approves release of controlled study documents per SOP-002 §4.1. |
+| System Owner | For each validated computer system in design scope, owns the validation lifecycle per SOP-004 (validation planning, change control, periodic review). |
+| Software Lead | Where __NewInstitute__ develops software for the study, owns the software development lifecycle per SOP-015. Not applicable for studies that use only external or pre-validated software. |
+
+#### 4.2.2 Sponsor-Investigator Qualification
+
+Where __NewInstitute__ initiates an *observational study*,
+the Sponsor-Investigator is a single individual (the Study
+Director / Principal Investigator named in Section 4.2.1)
+who holds the combined obligations of sponsor and
+investigator.
+
+The Sponsor-Investigator holds the obligations that
+ICH E6(R2) Section 5 assigns to the sponsor (study design,
+IRB submission and maintenance, data integrity, record
+retention, and monitoring oversight) together with the
+obligations that ICH E6(R2) Section 4 assigns to the
+investigator (study conduct, consent process, source-data
+accuracy, and subject safety). Where this QMS allocates an
+obligation to a hypothetically separate sponsor or
+investigator, both halves of the obligation attach to the
+Sponsor-Investigator unless the activity has been formally
+delegated to an external organization under SOP-006.
+
+**Minimum Qualification Requirements.** Before an
+*observational study* is granted Final Design Approval under
+SOP-005, the Sponsor-Investigator for that study **SHALL**
+have:
+
+- A terminal degree or equivalent professional credential in
+  a field relevant to the study area;
+- ICH E6(R2) Good Clinical Practice training completed
+  within the preceding three (3) years from a recognized
+  provider (e.g., CITI Program, a TransCelerate-accredited
+  course, or the NIH Office of Extramural Research);
+- Human Subjects Research training (CITI or equivalent) at
+  the level appropriate to the subject population;
+- HIPAA training (or equivalent) where the study involves
+  protected health information;
+- A 21 CFR Part 54 financial disclosure form on file per
+  SOP-014 Section 4.3; and
+- A current curriculum vitae maintained per ICH E6(R2)
+  Section 8.2.10.
+
+**Verification.** The QA Representative **SHALL** verify
+each qualification element above before the study proceeds
+to Final Design Approval under SOP-005. The verification
+**SHALL** be recorded in a Sponsor-Investigator
+Qualification Record and filed in the TMF.
+
+**Currency and Re-verification.** Qualification is verified
+per study at Final Design Approval. Recurring verification
+during study conduct is not required, with one exception:
+the Sponsor-Investigator's 21 CFR Part 54 financial
+disclosure **SHALL** be refreshed annually for the duration
+of the study, per SOP-014 Section 4.3.2.
 
 ### 4.3 Design Controls Framework
 
