@@ -432,6 +432,7 @@ are essential for:
 - Participant protection (safety, rights, and well-being)
 - Data reliability and integrity of study results
 - Study validity
+- Data security
 
 Section 4.2.2 provides examples of CTQ factors within each
 category. The study team **SHALL** use these examples as a
