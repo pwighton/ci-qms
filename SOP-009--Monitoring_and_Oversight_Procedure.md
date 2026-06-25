@@ -22,7 +22,7 @@ maintaining data quality and subject safety.
 
 This procedure applies to monitoring of:
 
-- **External clinical sites**: Sites and investigators qualified per [SOP-006:
+- **External sites**: Sites and investigators qualified per [SOP-006:
   Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
   that perform study-related activities including subject enrollment, data
   collection, and study procedures
@@ -102,11 +102,16 @@ involved in monitoring and oversight activities.
 
 ### 3.3 Terms
 
-- **Centralized Monitoring**: Remote evaluation of accumulating data performed in
-  a timely manner by appropriately qualified and trained persons at a location
-  other than the sites at which the study is being conducted. Centralized
-  monitoring processes may include statistical analyses to identify data trends,
-  site performance issues, or data anomalies.
+- **Centralized Monitoring**: Evaluation of accumulating study data, performed
+  in a timely manner by appropriately qualified and trained persons who are
+  functionally independent of the site-level conduct of the study and do not
+  perform on-site monitoring of the data being evaluated. Centralized
+  monitoring is conducted remotely from the data collection activities rather
+  than through physical presence at the site, and may include statistical
+  analyses to identify data trends, site performance issues, or data anomalies.
+  Physical co-location with a site does not preclude monitoring from being
+  centralized, provided the monitoring function is conducted independently of
+  that site's study activities.
 
 - **Critical Data**: Data that if inaccurate, incomplete, or missing would
   threaten the protection of human subjects or the integrity of study results.
