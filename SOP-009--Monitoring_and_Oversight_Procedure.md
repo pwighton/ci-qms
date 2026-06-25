@@ -70,7 +70,7 @@ involved in monitoring and oversight activities.
 
 - [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
   General Considerations for Clinical Studies
-  - Section 6 (conduct, safety monitoring, and reporting)a
+  - Section 6 (conduct, safety monitoring, and reporting)
 
 - [FDA Guidance: Oversight of Clinical Investigations — A Risk-Based Approach to Monitoring (August 2013)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/oversight-clinical-investigations-risk-based-approach-monitoring)
 
