@@ -355,12 +355,79 @@ lifecycle and across studies:
 
 ### 4.3 Roles and Responsibilities
 
-TBD
+Risk management roles are drawn from the institutional roles defined in QM-001
+Appendix A. This section summarizes the risk-management responsibilities of
+each role; detailed activities and approvals are defined in Sections 5
+through 7.
 
 #### 4.3.1 Study Director/Principal Investigator
-#### 4.3.2 Quality Assurance
+
+The Study Director / Principal Investigator owns risk management at the study
+level. Responsibilities include:
+
+- Approval of the Risk Management Plan and the Risk Register
+- Risk acceptance authority for Medium-priority risks (per Section 5.3.4)
+- Risk acceptance authority for High-priority risks, with QA Representative
+  review (per Section 5.3.4)
+- Risk acceptance authority for Critical-priority risks, with QA
+  Representative review and Executive Management approval (per Section 5.3.4)
+- Serving as the default Risk Owner for any risk not explicitly delegated to
+  a subject-matter Risk Owner (per Section 4.3.4)
+- Initiation and approval of triggered risk reassessments (per Section 6.2)
+- Chairing scheduled risk reviews (per Section 6.1)
+- Final approval of risk management activities at study closeout
+  (per Section 7)
+
+#### 4.3.2 QA Representative
+
+The QA Representative provides independent quality oversight of risk
+management activities. Responsibilities include:
+
+- Concurrence on acceptance of High- and Critical-priority risks
+  (per Section 5.3.4)
+- Receipt of risk-review outputs and trend information (per Section 5.7)
+- Authority to initiate triggered risk reassessment when concerns arise from
+  audit findings, monitoring trends, or external information
+  (per Section 6.2)
+- Participation in scheduled risk reviews (per Section 6.1)
+- Verification that risk management activities are conducted in accordance
+  with this procedure
+
 #### 4.3.3 Study Team Members
+
+Study team members share responsibility for risk identification and risk
+control execution. Responsibilities include:
+
+- Identification and reporting of risks observed during study design and
+  conduct
+- Implementation of risk controls assigned to them in the Risk Management
+  Plan or Risk Register
+- Prompt reporting of QTL exceedances, KRI threshold breaches, and emerging
+  risks to the Study Director and the relevant Risk Owner
+- Participation in scheduled and triggered risk reviews when invited
+- Training on this procedure and on the risk management approach for their
+  specific study (per Section 10)
+
 #### 4.3.4 Risk Owner Responsibilities
+
+A Risk Owner is the individual responsible for managing a specific risk (per
+Section 3.3). At least one Risk Owner **SHOULD** be assigned to each risk in
+the Risk Register. The Study Director is the default Risk Owner for any risk
+that is not explicitly delegated.
+
+Risk Owner responsibilities include:
+
+- Acceptance authority for Low-priority risks, with documented rationale
+  recorded in the Risk Register (per Section 5.3.4)
+- Review of monitoring outputs for assigned risks (per Section 6.3.1)
+- Assessment of risk status before each scheduled risk review and on receipt
+  of significant monitoring findings (per Section 6.1)
+- Initiation of triggered risk reassessment when monitoring data or other
+  inputs indicate a change in risk level (per Section 6.2)
+- Maintenance of accurate, current Risk Register entries for assigned risks
+- Communication of risk status to the Study Director and the QA
+  Representative as required by the Risk Communication Plan
+  (per Section 5.7)
 
 ## 5.0 PHASE 1: RISK MANAGEMENT BEFORE STUDY CONDUCT
 
