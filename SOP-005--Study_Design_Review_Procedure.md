@@ -229,8 +229,16 @@ The Concept Review **SHALL** result in one of the following decisions:
 
 #### 5.1.7 Approval Authority
 
-**todo**: Define approval authority for Concept Review (e.g., Study Director,
-Scientific Director, or designated review committee)
+Required signatures for Concept Review approval:
+
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+
+If a required reviewer withholds their signature and the
+issue cannot be resolved by the review participants, the
+decision **SHALL** be escalated to Executive Management.
 
 #### 5.1.8 Documentation
 
@@ -358,7 +366,18 @@ The Protocol Review **SHALL** result in one of the following decisions:
 
 #### 5.2.7 Approval Authority
 
-**todo**: Define approval authority for Protocol Review
+Required signatures for Protocol Review approval:
+
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+| Statistician | Required (sample size and primary analysis) |
+| Data Manager | Required (data collection feasibility) |
+
+If a required reviewer withholds their signature and the
+issue cannot be resolved by the review participants, the
+decision **SHALL** be escalated to Executive Management.
 
 #### 5.2.8 Documentation
 
@@ -476,7 +495,19 @@ The Design Output Review **SHALL** result in one of the following decisions:
 
 #### 5.3.7 Approval Authority
 
-**todo**: Define approval authority for Design Output Review
+Required signatures for Design Output Review approval:
+
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+| Statistician | Required (Statistical Analysis Plan) |
+| Data Manager | Required (data management plan) |
+| System Owner | Required where a validated computer system is in scope |
+
+If a required reviewer withholds their signature and the
+issue cannot be resolved by the review participants, the
+decision **SHALL** be escalated to Executive Management.
 
 #### 5.3.8 Documentation
 
@@ -568,7 +599,18 @@ The Verification Review **SHALL** result in one of the following decisions:
 
 #### 5.4.7 Approval Authority
 
-**todo**: Define approval authority for Verification Review
+Required signatures for Verification Review approval:
+
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+| Statistician | Required (verification of statistical outputs) |
+| System Owner | Required where a validated computer system is in scope |
+
+If a required reviewer withholds their signature and the
+issue cannot be resolved by the review participants, the
+decision **SHALL** be escalated to Executive Management.
 
 #### 5.4.8 Documentation
 
@@ -656,7 +698,18 @@ The Validation Review **SHALL** result in one of the following decisions:
 
 #### 5.5.7 Approval Authority
 
-**todo**: Define approval authority for Validation Review
+Required signatures for Validation Review approval:
+
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+| Data Manager | Required (end-to-end data flow) |
+| System Owner | Required where a validated computer system is in scope |
+
+If a required reviewer withholds their signature and the
+issue cannot be resolved by the review participants, the
+decision **SHALL** be escalated to Executive Management.
 
 #### 5.5.8 Documentation
 
@@ -776,15 +829,21 @@ decisions:
 
 #### 5.6.7 Approval Authority
 
-**todo**: Define approval authority for Final Design Approval (e.g., Study
-Director, Principal Investigator, Sponsor representative, Quality representative)
+Required signatures for Final Design Approval:
 
-Protocol signature requirements per SOP-001 Section 5.8.3:
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+| Management Representative | Required |
 
-- Principal Investigator(s) or Study Director
-- Sponsor representative (as applicable)
-- Statistical lead (as applicable)
-- Other parties as required by organizational policy or regulatory requirements
+If a required reviewer withholds their signature and the
+issue cannot be resolved by the review participants, the
+decision **SHALL** be escalated to Executive Management.
+
+The signed protocol per ICH E6(R2) 8.2.2 is produced as
+part of Final Design Approval. Protocol signature
+requirements are defined in SOP-001 Section 5.8.3.
 
 #### 5.6.8 Documentation
 
@@ -866,7 +925,24 @@ Re-review **MAY** be limited to affected areas if changes are isolated.
 
 ## 7.0 ROLES AND RESPONSIBILITIES
 
-tbd
+Design-review roles are drawn from the institutional roles
+defined in QM-001 Appendix A and are exercised within the
+authority structure defined in Sections 5.1.7 through 5.6.7.
+Each role's design-review responsibilities are summarized
+below.
+
+| Role | Design-review responsibilities |
+|---|---|
+| Study Director / Principal Investigator | Owns the review outcome at every Review Gate. Owns resolution of review findings. Signature required at every Review Gate. |
+| QA Representative | Provides independent quality oversight of the review process. Verifies that the review followed this procedure and that findings were resolved before signature. Signature required at every Review Gate. |
+| Statistician | Provides statistical review of design content. Signature required at Protocol Review, Design Output Review, and Verification Review. |
+| Data Manager | Provides data acquisition and data management review of design content. Signature required at Protocol Review, Design Output Review, and Validation Review. |
+| System Owner | Provides validated-system review of design content. Signature required at Design Output Review, Verification Review, and Validation Review where a validated computer system is in scope. |
+| Management Representative | Concurs on Final Design Approval. Signature required at Final Design Approval. |
+| Executive Management | Resolves disputes when a required signature is withheld and the gate participants cannot reach resolution. |
+
+Independence constraints from QM-001 Appendix A Section A.3
+apply to all design reviews.
 
 ## 8.0 TRAINING
 
