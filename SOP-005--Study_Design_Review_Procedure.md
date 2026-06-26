@@ -199,7 +199,6 @@ on study characteristics.
 
 #### 5.1.5 Review Criteria
 
-<!-- BORROWED FROM SOP-001 Section 5.2.6 -->
 The Concept Review **SHALL** assess:
 
 - Scientific merit and innovation
@@ -297,7 +296,6 @@ study characteristics.
 
 #### 5.2.5 Review Criteria
 
-<!-- BORROWED FROM SOP-001 Section 5.3.6 -->
 The Protocol Review **SHALL** assess:
 
 - Scientific validity and merit
@@ -457,7 +455,6 @@ based on study characteristics.
 
 #### 5.3.5 Review Criteria
 
-<!-- BORROWED FROM SOP-001 Section 5.4.6 -->
 **Statistical and Data Management criteria:**
 
 - Statistical validity and appropriateness of methods
@@ -472,7 +469,6 @@ based on study characteristics.
 - Compliance with data integrity principles (ALCOA+)
 - Risk mitigation strategies for data quality
 
-<!-- BORROWED FROM SOP-001 Section 5.5.7 -->
 **Regulatory and Ethics criteria:**
 
 - Completeness of informed consent per ICH E6(R2) Section 4.8 requirements
@@ -565,7 +561,6 @@ verification findings.
 
 #### 5.4.5 Review Criteria
 
-<!-- BORROWED FROM SOP-001 Section 5.6.7 -->
 The Verification Review **SHALL** confirm:
 
 - Verification activities were adequate and appropriate
@@ -664,7 +659,6 @@ included based on study characteristics and validation findings.
 
 #### 5.5.5 Review Criteria
 
-<!-- BORROWED FROM SOP-001 Section 5.7.7 -->
 The Validation Review **SHALL** confirm:
 
 - Validation activities were adequate for the study design and complexity
@@ -799,7 +793,6 @@ All perspectives **SHALL** confirm readiness within their areas:
 
 #### 5.6.5 Review Criteria
 
-<!-- BORROWED FROM SOP-001 Section 5.8.6 -->
 The Final Design Approval review **SHALL** confirm:
 
 - All design, verification, and validation activities are complete
@@ -816,7 +809,6 @@ The Final Design Approval review **SHALL** confirm:
 
 #### 5.6.6 Decision Outcomes
 
-<!-- BORROWED FROM SOP-001 Section 5.8.6 -->
 The Final Design Approval review **SHALL** result in one of the following
 decisions:
 
