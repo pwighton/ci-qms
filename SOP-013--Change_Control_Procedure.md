@@ -411,8 +411,28 @@ Internal review **SHALL** be documented with:
 
 #### 4.4.4 Approval Authority
 
-**todo**: Define approval authority for internal review (e.g., Principal
-Investigator, Study Director, or designated review committee)
+Required signatures depend on the amendment classification (Section 4.2):
+
+**Substantive amendments.**
+
+| Role | Signature |
+|---|---|
+| Study Director | Required |
+| QA Representative | Required |
+| Management Representative | Required |
+| Statistician | Required if amendment affects sample size, endpoints, statistical methods, or the Statistical Analysis Plan |
+| Data Manager | Required if amendment affects data collection, CRFs, or the data management plan |
+| System Owner | Required where amendment affects a validated computer system |
+
+**Minor amendments.**
+
+| Role | Signature |
+|---|---|
+| Study Director (or designee) | Required |
+
+If a required reviewer withholds their signature and the issue cannot be
+resolved by the review participants, the decision **SHALL** be escalated to
+Executive Management.
 
 ### 4.5 IRB/IEC Submission and Approval
 
