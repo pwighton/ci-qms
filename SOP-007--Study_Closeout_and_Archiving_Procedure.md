@@ -136,14 +136,16 @@ involved in:
 
 ### 4.1 Overview
 
-Study closeout activities ensure systematic completion of all study-related
-activities, proper documentation of study completion, and preparation for
-archiving. Closeout activities differ depending on whether the study completed
-as planned or was terminated early.
+Study closeout is the systematic process of completing all study-related
+activities, documenting study completion, verifying the Trial Master File
+(TMF), and preparing the study for archiving under Section 5.0. Closeout applies
+whether the study completed as planned, was terminated early, or was suspended
+indefinitely, with specific activities differing accordingly. The Study Director
+is responsible for ensuring that closeout is completed and documented.
 
 ### 4.2 Triggers for Study Closeout
 
-Study closeout **shall** be initiated when:
+Study closeout **SHALL** be initiated when:
 
 - All subjects have completed all protocol-specified activities (study
   completion)
@@ -153,6 +155,30 @@ Study closeout **shall** be initiated when:
 - The study is suspended indefinitely
 
 ### 4.3 Site Closeout Activities
+
+Site closeout ensures that all study activities at a participating site are
+complete, that study records are reconciled and accounted for, and that the
+site is formally documented as closed. For a single-site study the participating
+site is __NewInstitute__ itself; where a study involves additional participating
+sites, these activities **SHALL** be performed for each site.
+
+At site closeout, the Study Director or designee **SHALL** confirm that:
+
+- Protocol-specified data collection and observations are complete or, for an
+  early-terminated or suspended study, that data collection has stopped and the
+  point of stoppage is documented.
+- Outstanding data queries have been resolved or documented.
+- Study materials, essential documents, source data, and records have been
+  reconciled, accounted for, and filed in the TMF.
+- Participant follow-up and any outstanding safety follow-up are complete or
+  documented.
+- Site closeout is documented in the TMF (for example, in a site closeout
+  report or note to file).
+
+If the study was terminated early or suspended indefinitely, site closeout
+**SHALL** also include documenting the reason for the termination or suspension
+and notifying enrolled subjects and the IRB/IEC as appropriate to protect
+subject interests. Related notifications are addressed in Section 4.7.
 
 ### 4.4 Database Lock and Final Data Analysis
 
