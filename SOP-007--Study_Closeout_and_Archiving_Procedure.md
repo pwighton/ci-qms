@@ -25,7 +25,7 @@ This procedure covers:
 - Final study documentation and reporting
 - TMF completeness verification and quality review
 - Archiving of essential documents per ICH E6(R2) Section 8.4
-- Long-term retention and retrieval of study records
+- Long-term retention, retrieval, and controlled access of study records
 - Transfer or destruction of archived materials
 
 This procedure applies to studies that are:
