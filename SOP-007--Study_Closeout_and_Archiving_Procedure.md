@@ -259,11 +259,59 @@ communications are handled under Section 5.5.
 
 ### 5.1 Overview
 
+Archiving provides for the long-term, secure storage of the TMF, study records,
+source data, and derived data after study closeout, so that the study can be
+reconstructed and evaluated throughout the retention period. Archiving supports
+downstream regulatory use by data recipients, regulatory inspections, audits,
+publications and secondary analyses, and legal or ethical inquiries.
+
+Archiving **SHALL** begin only after TMF completeness verification under
+Section 4.6 is complete. Retention periods are governed by SOP-002 Section 5.4,
+and retrieval of and access to archived materials are governed by Section 5.5.
+
 ### 5.2 Archiving Requirements
+
+The archive for each study **SHALL** include the records necessary to
+reconstruct and evaluate the study, including:
+
+- The complete TMF and essential documents identified per SOP-001 Section 7.2.
+- Source data and derived data, managed per SOP-004.
+- The final study report (Section 4.5).
+- The closeout package, including the retention-disposition decision
+  (Section 4.6).
+
+Archived records **SHALL** be complete, legible, and retained in a form that
+preserves their integrity for the full retention period. Long-term preservation
+of electronic records, including format preservation, is governed by SOP-004
+Section 5.7.2. Where an original record is replaced by a copy for archiving, the
+copy **SHALL** be a certified copy.
 
 ### 5.3 Archive Location and Security
 
+The location of the archive **SHALL** be documented in the TMF. Archived
+records, source data, and derived data **SHALL** be stored in a secure,
+access-controlled environment that protects them against unauthorized access,
+alteration, loss, and physical or environmental damage for the full retention
+period.
+
+For electronic records, source data, and derived data, storage, security,
+backup, and access controls are governed by SOP-004 Section 5.5 (Data Storage
+and Security) and Section 4.7 (Data Integrity Controls). Access to the archive
+**SHALL** be restricted to authorized personnel, and archived materials **SHALL**
+be protected from unauthorized alteration for the full retention period.
+
 ### 5.4 Retention Periods
+
+Retention periods for study records, source data, and derived data are defined
+in SOP-002 Section 5.4, which is the canonical retention policy for
+__NewInstitute__. This procedure does not restate those periods.
+
+At closeout, the Study Director and QA Representative make the
+retention-disposition decision required by SOP-002 Section 5.4.1, setting the
+study-specific retention floor. The decision is recorded in the closeout package
+and retained in the TMF (Section 4.6). Archived materials **SHALL** be retained
+until the applicable retention period is satisfied, after which they are handled
+under Section 5.6.
 
 ### 5.5 Retrieval Procedures
 
