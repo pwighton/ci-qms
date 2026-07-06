@@ -79,24 +79,52 @@ involved in:
 
 ### 3.3 Terms
 
--   **Study Closeout**: The systematic process of completing all study
-    activities, finalizing documentation, closing study sites, and preparing
-    the study for archiving.
+-   **Archiving**: The process of long-term, secure storage of essential
+    documents, study records, source data, and derived data in accordance with
+    regulatory requirements.
+
+-   **Certified Copy**: A paper or electronic copy of a record, source datum,
+    or derived datum, verified as an exact, complete, and unaltered
+    reproduction of the original and documented as such by a dated signature or
+    approval (per SOP-002 Section 3.3, ICH E6(R2) 1.63, and 21 CFR Part 11).
+    Certified copies are produced under Section 5.5 for regulatory purposes and
+    for provision to data recipients.
 
 -   **Database Lock**: The process of finalizing and securing the study
     database to prevent further data entry or modification, occurring after
     all data cleaning and query resolution is complete.
 
+-   **Derived Data**: Data produced by processing, transforming, or analyzing
+    source data, traceable to the source data and the processing steps that
+    produced them, as defined in SOP-002 Section 3.3. Managed under SOP-004.
+
+-   **Essential Documents**: Documents per ICH E6(R2) Section 8 that permit
+    evaluation of study conduct and data quality.
+
+-   **Non-Certified Copy / Access**: A copy of, or supervised read access to,
+    archived records, source data, or derived data provided for internal
+    assessment, quality assurance, monitoring, or academic and secondary
+    analysis, that has not been verified as a certified copy. Non-certified
+    copies are marked as such and are not intended for regulatory submission
+    (see Section 5.5).
+
+-   **Record**: Fixed evidence of activities performed or results achieved, as
+    defined in SOP-002 Section 3.3. Records **MAY** originate in paper or
+    electronic format.
+
+-   **Source Data**: All information in original records and certified copies
+    of original records of study findings and observations necessary for the
+    reconstruction and evaluation of the study, as defined in SOP-002
+    Section 3.3 [ICH E6(R2) 1.51]. Managed under SOP-004.
+
+-   **Study Closeout**: The systematic process of completing all study
+    activities, finalizing documentation, closing study sites, and preparing
+    the study for archiving.
+
 -   **Trial Master File (TMF)**: A collection of essential documents that
     individually and collectively permit evaluation of the conduct of a
     clinical investigation or observational study and the quality of the data
     produced.
-
--   **Archiving**: The process of long-term, secure storage of essential
-    documents and study records in accordance with regulatory requirements.
-
--   **Essential Documents**: Documents per ICH E6(R2) Section 8 that permit
-    evaluation of study conduct and data quality.
 
 ### 3.4 Acronyms
 
