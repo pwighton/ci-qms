@@ -56,10 +56,17 @@ involved in:
 
 ### 3.1 Guidance and Regulatory References
 
-- ICH E6(R2): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
-- ISO-9001:2015: Quality management systems – Requirements
-- 21 CFR Part 11: Electronic Records; Electronic Signatures
-- Applicable regulatory requirements for document retention
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1):
+  Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+  - Section 5.5.12 (retention of essential documents)
+  - Section 8 (essential documents for the conduct of a clinical trial)
+  - Section 8.4 (after completion or termination of the trial)
+
+- [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management
+  systems — Requirements
+
+- [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11):
+  Electronic Records, Electronic Signatures
 
 ### 3.2 __NewInstitute__ References
 
