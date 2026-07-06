@@ -128,8 +128,9 @@ involved in:
 
 ### 3.4 Acronyms
 
+- **IEC**: Independent Ethics Committee
+- **IRB**: Institutional Review Board
 - **TMF**: Trial Master File
-- **SAE**: Serious Adverse Event
 
 ## 4.0 STUDY CLOSEOUT PROCESS
 
