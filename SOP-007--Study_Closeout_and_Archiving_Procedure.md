@@ -208,9 +208,52 @@ reported in the final study report under Section 4.5.
 
 ### 4.5 Final Study Reporting
 
+A final study report **SHALL** be prepared for each completed, terminated, or
+suspended study. The report summarizes the conduct, results, and conclusions of
+the study and is prepared using the documentation-quality principles of SOP-001.
+
+The final study report **SHALL** incorporate the residual risk assessment from
+the final Risk Management Plan, provided as input per SOP-003 Section 7.1.
+
+The final study report **SHALL** be reviewed and approved by the Study Director
+and retained in the TMF. For an early-terminated or suspended study, the report
+**SHALL** also document the reason for termination or suspension and its effect
+on the study's conclusions.
+
 ### 4.6 TMF Completeness Verification
 
+Before the study is archived, the TMF **SHALL** be verified as complete against
+the essential documents identified as required for the study. The essential
+documents applicable at study completion or termination are those identified per
+SOP-001 Section 4.4 and listed in SOP-001 Section 7.2; this procedure does not
+re-enumerate them.
+
+TMF completeness verification **SHALL** be performed by the Study Director or
+designee at closeout and reviewed by the QA Representative. Missing or deficient
+documents **SHALL** be obtained, corrected, or their absence documented with a
+rationale before archiving.
+
+On verification, a closeout package **SHALL** be assembled and retained in the
+TMF. The closeout package **SHALL** include the retention-disposition decision
+made by the Study Director and QA Representative under SOP-002 Section 5.4.1,
+which sets the study-specific retention floor for the archived study records,
+source data, and derived data.
+
 ### 4.7 Final Notifications and Communications
+
+At study closeout, final notifications **SHALL** be made to the parties with an
+interest in the study's completion, and **SHALL** be documented and retained in
+the TMF. At a minimum, __NewInstitute__ **SHALL** notify the IRB/IEC of the
+completion, early termination, or suspension of the study, including the reason
+where the study was terminated early or suspended.
+
+Because __NewInstitute__ conducts observational studies, there may be no
+regulatory authority to be notified directly of study completion. Any required
+regulatory notification, any regulatory inquiry relayed by a data recipient, and
+all communication with data recipients and sponsors regarding study completion
+**SHALL** be coordinated by the Management Representative per QM-001
+Section 5.3.2. Requests for study records or certified copies arising from these
+communications are handled under Section 5.5.
 
 ## 5.0 ARCHIVING
 
