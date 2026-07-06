@@ -8,9 +8,9 @@ subtitle: "SOP-007: Study Closeout and Archiving Procedure"
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 closing out *observational studies* conducted by __NewInstitute__ and archiving
 their essential documents and study records. It ensures proper completion of all
-study activities, verification of Trial Master File (TMF) completeness, long-term
-retention of study records, and their retrieval and controlled access in
-compliance with regulatory requirements.
+study activities, verification of Trial Master File (TMF) completeness,
+long-term retention of study records, and their retrieval and controlled access
+in compliance with regulatory requirements.
 
 ## 2.0 SCOPE
 
@@ -130,6 +130,7 @@ involved in:
 
 - **IEC**: Independent Ethics Committee
 - **IRB**: Institutional Review Board
+- **QA**: Quality Assurance
 - **TMF**: Trial Master File
 
 ## 4.0 STUDY CLOSEOUT PROCESS
@@ -297,8 +298,9 @@ period.
 For electronic records, source data, and derived data, storage, security,
 backup, and access controls are governed by SOP-004 Section 5.5 (Data Storage
 and Security) and Section 4.7 (Data Integrity Controls). Access to the archive
-**SHALL** be restricted to authorized personnel, and archived materials **SHALL**
-be protected from unauthorized alteration for the full retention period.
+**SHALL** be restricted to authorized personnel, and archived materials
+**SHALL** be protected from unauthorized alteration for the full retention
+period.
 
 ### 5.4 Retention Periods
 
@@ -328,9 +330,9 @@ Access is provided in one of two modes, distinguished by purpose.
 
 Certified copies are provided for regulatory purposes and for provision to data
 recipients. Requests for certified copies **SHALL** be coordinated by the
-Management Representative per QM-001 Section 5.3.2. Each certified copy **SHALL**
-be verified as a certified copy under the definition in Section 3.3, and the
-certification **SHALL** be recorded.
+Management Representative per QM-001 Section 5.3.2. Each certified copy
+**SHALL** be verified as a certified copy under the definition in Section 3.3,
+and the certification **SHALL** be recorded.
 
 #### 5.5.2 Non-Certified Access
 
@@ -367,32 +369,38 @@ receiving custodian. If __NewInstitute__ ceases operations, a successor
 custodian **SHALL** be arranged before any archived materials are destroyed.
 
 Destruction of archived materials is permitted only after the applicable
-retention period has been satisfied and **SHALL** be authorized in advance by the
-Study Director and QA Representative. Destruction **SHALL** be documented in a
-record of destruction that identifies the materials destroyed, the date, and the
-method, and this record **SHALL** be retained.
+retention period has been satisfied and **SHALL** be authorized in advance by
+the Study Director and QA Representative. Destruction **SHALL** be documented in
+a record of destruction that identifies the materials destroyed, the date, and
+the method, and this record **SHALL** be retained.
 
 ## 6.0 ESSENTIAL DOCUMENTS FOR PHASE 3
 
 Essential documents to be completed and archived at study closeout per
-ICH E6(R2) Section 8.4 are detailed in [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).
+ICH E6(R2) Section 8.4 are identified per SOP-001 Section 4.4 and detailed in
+SOP-001 Section 7.2 (Essential Documents and Records).
 
 ## 7.0 TRAINING
 
-All personnel involved in study closeout and archiving activities **shall** be
+All personnel involved in study closeout and archiving activities **SHALL** be
 trained on this procedure and maintain documented evidence of training per
 QM-001 Section 6.1.1.
 
 ## 8.0 RECORDS
 
-Records generated under this procedure **shall** be maintained in the Trial
+Records generated under this procedure **SHALL** be maintained in the Trial
 Master File (TMF) or archive per SOP-002.
 
 Records **MAY** include but are not limited to:
-- Site closeout visit reports
+- Site closeout reports or notes to file
 - Database lock documentation
 - Final study reports
 - TMF completeness verification documentation
-- Final notifications to IRB/IEC and regulatory authorities
-- Archiving documentation
-- Retrieval logs
+- Closeout packages, including retention-disposition decisions
+- Final notifications and communications to the IRB/IEC, data recipients,
+  sponsors, and any regulatory authority
+- Archiving documentation, including archive location records
+- Retrieval and access log
+- Certified copy certifications
+- Dataset release authorizations and released datasets
+- Records of transfer and destruction of archived materials
