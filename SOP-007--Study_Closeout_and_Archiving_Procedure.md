@@ -73,7 +73,9 @@ involved in:
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 2. [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 3. [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
-4. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+4. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
+5. [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+6. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
 
 ### 3.3 Terms
 
