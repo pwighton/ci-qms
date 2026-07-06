@@ -182,6 +182,30 @@ subject interests. Related notifications are addressed in Section 4.7.
 
 ### 4.4 Database Lock and Final Data Analysis
 
+Database lock is the point at which the study's analysis-ready dataset is frozen
+for statistical analysis, and it serves as the gate between data management and
+final analysis. The mechanics of locking the database, the post-lock formal
+unlock procedure, and the associated data-integrity and audit-trail controls are
+defined in SOP-004 Section 5.7.1 (Database Lock Procedures) and Section 4.7
+(Data Integrity Controls). This procedure governs database lock as a study-level
+closeout event and relies on those controls rather than restating them.
+
+Before the database is locked, the Study Director and Data Manager **SHALL**
+confirm that the pre-lock prerequisites in SOP-004 Section 5.7.1 are met
+(including resolution of data quality checks and open queries, completion of
+data cleaning, and completion of monitoring activities per SOP-009) and that the
+close-out verification in SOP-009 Section 4.7.1 is complete, including that all
+adverse events have been followed to resolution or stability.
+
+Database lock **SHALL** be authorized by the Study Director and Data Manager and
+documented in the TMF. After lock, no change to the locked dataset **SHALL** be
+made except through the formal unlock procedure defined in SOP-004
+Section 5.7.1.
+
+Final data analysis **SHALL** be conducted on the locked dataset in accordance
+with the study's pre-specified statistical analysis plan. Analysis outputs are
+reported in the final study report under Section 4.5.
+
 ### 4.5 Final Study Reporting
 
 ### 4.6 TMF Completeness Verification
