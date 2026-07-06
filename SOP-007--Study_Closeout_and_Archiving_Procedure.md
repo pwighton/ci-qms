@@ -6,10 +6,11 @@ subtitle: "SOP-007: Study Closeout and Archiving Procedure"
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
-closing out *observational studies* and archiving essential documents and study
-records conducted by __NewInstitute__. It ensures proper completion of all study
-activities, verification of Trial Master File (TMF) completeness, and long-term
-retention of study documentation in compliance with regulatory requirements.
+closing out *observational studies* conducted by __NewInstitute__ and archiving
+their essential documents and study records. It ensures proper completion of all
+study activities, verification of Trial Master File (TMF) completeness, long-term
+retention of study records, and their retrieval and controlled access in
+compliance with regulatory requirements.
 
 ## 2.0 SCOPE
 
