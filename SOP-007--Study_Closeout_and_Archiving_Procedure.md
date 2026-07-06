@@ -313,9 +313,64 @@ and retained in the TMF (Section 4.6). Archived materials **SHALL** be retained
 until the applicable retention period is satisfied, after which they are handled
 under Section 5.6.
 
-### 5.5 Retrieval Procedures
+### 5.5 Retrieval and Access to Archived Records
+
+Archived records, source data, and derived data **SHALL** remain retrievable
+throughout the retention period. To preserve archive integrity, original
+archived materials **SHALL NOT** be altered and **SHALL NOT** be removed from
+the archive; access is provided through copies or supervised read access. Every
+retrieval or access request **SHALL** be recorded in a retrieval and access log
+capturing the requester, the materials accessed, the date, and the purpose.
+
+Access is provided in one of two modes, distinguished by purpose.
+
+#### 5.5.1 Certified Copies
+
+Certified copies are provided for regulatory purposes and for provision to data
+recipients. Requests for certified copies **SHALL** be coordinated by the
+Management Representative per QM-001 Section 5.3.2. Each certified copy **SHALL**
+be verified as a certified copy under the definition in Section 3.3, and the
+certification **SHALL** be recorded.
+
+#### 5.5.2 Non-Certified Access
+
+Non-certified access is provided for internal assessment, quality assurance,
+monitoring, and academic or secondary analysis. Non-certified copies **SHALL**
+be marked "not a certified copy" and **SHALL NOT** be used for regulatory
+submission.
+
+Access by external parties on request (for example, academic collaborators
+conducting secondary analyses) is permitted only under an applicable
+data-sharing and privacy agreement and with de-identification of the data as
+required by that agreement and by applicable privacy requirements.
+
+Publication or other public release of a study dataset (for example, deposit in
+a public data repository or release as a publication supplement) is permitted
+only where the dataset has been de-identified in accordance with applicable
+privacy requirements and is consistent with the informed consent under which the
+data were collected. Each such release **SHALL** be authorized in advance by the
+Study Director and QA Representative, and the released dataset and its
+authorization **SHALL** be recorded in the TMF. Subsequent public use of a
+released dataset is not individually logged under this section.
 
 ### 5.6 Transfer or Destruction of Archived Materials
+
+Archived materials **SHALL NOT** be destroyed before the applicable retention
+period defined in SOP-002 Section 5.4 has been satisfied.
+
+Transfer of custody of archived materials may occur where responsibility for a
+study is transferred to another entity or where __NewInstitute__ ceases
+operations. On transfer, the receiving custodian **SHALL** assume the
+outstanding retention obligations, and the transfer **SHALL** be documented,
+including an inventory of the materials transferred and the identity of the
+receiving custodian. If __NewInstitute__ ceases operations, a successor
+custodian **SHALL** be arranged before any archived materials are destroyed.
+
+Destruction of archived materials is permitted only after the applicable
+retention period has been satisfied and **SHALL** be authorized in advance by the
+Study Director and QA Representative. Destruction **SHALL** be documented in a
+record of destruction that identifies the materials destroyed, the date, and the
+method, and this record **SHALL** be retained.
 
 ## 6.0 ESSENTIAL DOCUMENTS FOR PHASE 3
 
