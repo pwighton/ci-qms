@@ -532,7 +532,15 @@ Section 6.3 (CAPA referral per SOP-011 and unscheduled risk review per
 SOP-003 Section 6.2.1).
 
 ## 8.0 TRAINING
-(Training requirements per the SOP-007/SOP-009 pattern)
+
+All __NewInstitute__ personnel involved in the conduct of *observational
+studies* **SHALL** be trained on this procedure — at minimum on the
+recognition and reporting of nonconformances per Section 5.1 — and maintain
+documented evidence of training per QM-001 Section 6.1.1.
+
+Personnel holding responsibilities under Section 4.3 **SHALL** be trained
+commensurate with those responsibilities before exercising them. Retraining
+**SHALL** be conducted when significant changes are made to this procedure.
 
 ## 9.0 RECORDS
 (List of records to maintain in TMF, incl. Nonconformance Log; retention per
