@@ -132,6 +132,9 @@ involved in:
 5. [SOP-010: Control of Nonconforming Observational Study Activities
    Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
 
+6. [SOP-011: Corrective and Preventive Action
+   Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+
 ### 3.3 Terms
 
 - **Consequential Document Change**: A change to a controlled study document
@@ -318,6 +321,8 @@ A protocol amendment may be initiated due to:
 - Regulatory or IRB/IEC requirements
 - Sponsor or investigator request
 - Quality findings (e.g., from monitoring per SOP-009)
+- Corrective or preventive action requiring a protocol amendment (per
+  SOP-011 Section 7.2)
 
 The need for an amendment **SHALL** be documented with clear rationale.
 
