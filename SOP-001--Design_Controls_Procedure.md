@@ -1188,7 +1188,7 @@ Design verification activities **SHALL** be conducted by personnel who are:
 - Qualified through education, training, and/or experience to perform the
   verification activity
 - Independent of the personnel who developed the design output being verified
-  (verification should not be performed solely by the original author)
+  (verification **SHOULD NOT** be performed solely by the original author)
 
 Verification **MAY** be conducted by internal personnel or qualified external
 reviewers.
@@ -1377,7 +1377,7 @@ Design validation activities **SHALL** be conducted by personnel who:
 - Understand the intended use environment and study objectives
 - Can objectively assess whether the design meets its intended purpose
 
-Validation activities **should** involve personnel who will be implementing the
+Validation activities **SHOULD** involve personnel who will be implementing the
 study (e.g., site staff, data managers) to ensure realistic assessment of
 feasibility and usability.
 
@@ -1854,13 +1854,13 @@ Design closeout activities ensure all design-related documentation is complete
 and archived. Phase 3 activities are managed by [SOP-007: Study Closeout and
 Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
 
-This section describes the essential documents and records that shall be
+This section describes the essential documents and records that **SHALL** be
 finalized and archived following study completion or termination.
 
 ### 7.2 Essential Documents and Records
 
 Essential documents for study closeout are defined in ICH E6(R2) Section 8.4
-and **shall** be completed and maintained in the TMF. These documents include:
+and **SHALL** be completed and maintained in the TMF. These documents include:
 
 **Final Protocol Documentation:**
 
@@ -1969,7 +1969,7 @@ and **shall** be completed and maintained in the TMF. These documents include:
   allocation of subjects to treatment groups per ICH E6(R2) 8.4.6 (may not
   apply to observational studies)
 
-All essential documents listed above **shall** be completed, reviewed for
+All essential documents listed above **SHALL** be completed, reviewed for
 accuracy and completeness, and included in the TMF before final study archiving
 per SOP-007.
 

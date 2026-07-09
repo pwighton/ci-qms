@@ -136,8 +136,8 @@ comprehensive evaluation. The following perspectives are defined:
 | Safety | Subject safety, adverse event procedures, stopping rules, safety monitoring |
 
 Not all perspectives are required at every review gate. Section 5.0 specifies
-which perspectives apply at each gate. Additional perspectives may be included
-based on study-specific needs.
+which perspectives apply at each gate. Additional perspectives **MAY** be
+included based on study-specific needs.
 
 ### 4.4 Proportionate Application
 
@@ -148,7 +148,7 @@ Per ICH E8(R1) Section 3.2, review intensity **SHALL** be proportionate to:
 - Regulatory requirements and intended use of data
 - Organizational experience with similar studies
 
-For lower-risk, straightforward studies, reviews may be streamlined by:
+For lower-risk, straightforward studies, reviews **MAY** be streamlined by:
 
 - Combining review gates where appropriate
 - Reducing the number of required perspectives

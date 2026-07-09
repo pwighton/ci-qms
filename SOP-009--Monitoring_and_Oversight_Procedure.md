@@ -286,9 +286,9 @@ The approved Monitoring Plan **SHALL** be maintained in the TMF.
 #### 4.3.1 Site Initiation Requirements
 
 Before a site begins enrollment, __NewInstitute__ **SHALL** confirm site
-readiness through site initiation activities. Site initiation may be conducted
-through on-site visits, remote methods, or a combination, as specified in the
-Monitoring Plan.
+readiness through site initiation activities. Site initiation **MAY** be
+conducted through on-site visits, remote methods, or a combination, as
+specified in the Monitoring Plan.
 
 Site initiation activities **SHALL** verify:
 
@@ -411,8 +411,8 @@ in the Monitoring Plan based on risk assessment. SDV **SHALL** focus on:
 
 The Monitoring Plan **SHALL** specify the percentage and selection method for
 SDV (e.g., 100% for critical endpoints, risk-based sampling for other data).
-SDV may be conducted on-site or remotely where electronic source documents are
-accessible.
+SDV **MAY** be conducted on-site or remotely where electronic source
+documents are accessible.
 
 #### 4.4.5 Communication with Sites
 
@@ -521,7 +521,7 @@ maintained in the TMF.
 #### 4.7.1 Close-Out Requirements
 
 Close-out monitoring activities **SHALL** be conducted for each site upon
-completion of study activities. Close-out may be conducted through on-site
+completion of study activities. Close-out **MAY** be conducted through on-site
 visits or remote methods, as appropriate.
 
 Close-out activities **SHALL** verify:

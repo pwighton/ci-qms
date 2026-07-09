@@ -361,7 +361,7 @@ __NewInstitute__ clearly establishes and documents the responsibilities,
 authority, and interrelation of employees who manage, perform, and verify work
 which affects quality as shown in [Appendix A](QM-001--QualityManual.md#appendix-a-newinstitutes-organization-chart).
 
-All employees assigned to an *observational study* must have requisite
+All employees assigned to an *observational study* **SHALL** have requisite
 training as identified in the applicable Study Protocol.
 
 #### 5.3.2 Management Representative Responsibilities
@@ -479,13 +479,13 @@ maintain and improve the QMS.
 
 #### 6.1.1 People
 
-Executive Management shall ensure that all employees and subcontractors
+Executive Management **SHALL** ensure that all employees and subcontractors
 involved in activities that affect the quality, safety and reliability of
 *observational studies* conducted by __NewInstitute__ meet minimum levels of
 competence.
 
-Executive Management shall provide awareness training to all employees to make
-certain that all employees are made aware of the:
+Executive Management **SHALL** provide awareness training to all employees to
+make certain that all employees are made aware of the:
 
 -   Importance of their activities
 -   How their activities affect the safety of study subjects and the
@@ -496,14 +496,14 @@ certain that all employees are made aware of the:
 -   Data integrity principles and their role in maintaining data quality
 -   Financial disclosure obligations for investigators
 
-All training requirements should be documented in each Study Protocol.
-All training shall be documented in training records.
+All training requirements **SHOULD** be documented in each Study Protocol.
+All training **SHALL** be documented in training records.
 
 #### 6.1.2 Systems, Equipment and Infrastructure
 
-Executive Management **shall** be responsible for deciding which studies should
+Executive Management **SHALL** be responsible for deciding which studies should
 be designed and conducted. For each of these studies, Executive Management
-**shall** be responsible for providing adequate systems, equipment, and
+**SHALL** be responsible for providing adequate systems, equipment, and
 infrastructure to support the design, conduct, reporting and support of
 *observational studies* conducted under this QMS.
 
@@ -511,7 +511,7 @@ infrastructure to support the design, conduct, reporting and support of
 
 Study realization activities include all activities required to design,
 conduct, monitor, analyze, and report *observational studies* within this QMS.
-These activities, at a minimum, shall include:
+These activities, at a minimum, **SHALL** include:
 
 -   Design Controls (see [section 7.1](QM-001--QualityManual.md#71-design-controls))
 -   Document and Records Controls (see [section 7.2](QM-001--QualityManual.md#72-document-and-records-controls))
@@ -528,8 +528,8 @@ These activities, at a minimum, shall include:
 __NewInstitute__ **SHALL** establish and maintain a Design Control procedure that
 minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
 ICH E8(R1), ICH E9, ICH E9(R1) and applicable regulatory guidance documents.
-All *observational study* design activities shall be performed and documented
-in accordance with the Design Controls Procedure, SOP-001.
+All *observational study* design activities **SHALL** be performed and
+documented in accordance with the Design Controls Procedure, SOP-001.
 
 ### 7.2 Document and Records Controls
 
@@ -538,8 +538,8 @@ procedure that minimally addresses the document and record control requirements
 contained in ISO-9001:2015, ICH E6(R2) Sections 4.9 and 8.0, and applicable
 regulatory guidance documents.
 
-Documents and records related to *observational studies* shall be created and
-maintained in accordance with the Document and Records Controls Procedure,
+Documents and records related to *observational studies* **SHALL** be created
+and maintained in accordance with the Document and Records Controls Procedure,
 SOP-002.
 
 A Trial Master File (TMF) **SHALL** be created for each *observational study*.
@@ -566,11 +566,11 @@ Section 5.5, GAMP 5, NIST 800-171, NIST 800-53, and applicable FDA guidance
 documents.
 
 All computer system validation, data integrity, and data management activities
-related to *observational studies* shall be performed and documented in
+related to *observational studies* **SHALL** be performed and documented in
 accordance with the Computer System Validation, Data Integrity and Data
 Management Procedure, SOP-004.
 
-All computer systems used in *observational studies* shall be considered for
+All computer systems used in *observational studies* **SHALL** be considered for
 validation in accordance with GAMP 5 risk-based principles as described in the
 Computer System Validation, Data Integrity and Data Management Procedure,
 SOP-004.
@@ -587,7 +587,7 @@ procedure that minimally addresses applicable requirements in ISO-9001:2015
 Section 8.3, ICH E6(R2) Sections 5.0, 5.1 and 6.0, ICH E8(R1) Section 5, and
 applicable regulatory guidance documents.
 
-All Study Design Reviews related to *observational studies* shall be
+All Study Design Reviews related to *observational studies* **SHALL** be
 performed and documented in accordance with the Study Design Review Procedure,
 SOP-005.
 
@@ -644,9 +644,9 @@ ICH E6(R2) Sections 4.11 and 5.17, ICH E8(R1) Section 6.2 and the following:
     assessment, and expedited reporting of adverse events and serious adverse
     events
 
-Subject safety and adverse event management activities shall be performed and
-documented in accordance with the Subject Safety and Adverse Event Management
-Procedure, SOP-008.
+Subject safety and adverse event management activities **SHALL** be performed
+and documented in accordance with the Subject Safety and Adverse Event
+Management Procedure, SOP-008.
 
 ### 7.9 Software Development and Validation
 
@@ -685,7 +685,7 @@ analysis, monitoring, and improvement of *observational studies* it is
 conducting or sponsoring. Statistical methods and other techniques may be used
 to demonstrate conformity and effectiveness of study conduct.
 
-These activities, at a minimum, shall include:
+These activities, at a minimum, **SHALL** include:
 
 - Monitoring and Oversight (see [section 8.1](QM-001--QualityManual.md#81-monitoring-and-oversight))
 - Control of Nonconforming Observational Study Activities (see [section 8.2](QM-001--QualityManual.md#82-control-of-nonconforming-observational-study-activities))
@@ -725,11 +725,12 @@ Observational Study Activities Procedure, SOP-010.
 
 __NewInstitute__ **SHALL** establish and maintain a CAPA process that minimally
 requires corrective action be taken to prevent recurrence of a nonconformance
-that has already occurred. The CAPA process shall also require that preventive
-action be taken when a potential nonconformity is identified as the result of
-analysis of *observational study* records, audit findings, and other relevant
-sources of information.  This process should also minimally address applicable
-requirements in ISO-9001:2015 Section 10.2 and ICH E6(R2) Section 5.20.
+that has already occurred. The CAPA process **SHALL** also require that
+preventive action be taken when a potential nonconformity is identified as
+the result of analysis of *observational study* records, audit findings, and
+other relevant sources of information. This process **SHOULD** also minimally
+address applicable requirements in ISO-9001:2015 Section 10.2 and ICH E6(R2)
+Section 5.20.
 
 CAPA activities related to *observational studies* **SHALL** be performed and
 documented in accordance with the Corrective and Preventive Action Procedure,
@@ -755,7 +756,7 @@ control changes to *observational study* systems, processes, and procedures
 that minimally addresses applicable requirements in ISO-9001:2015 Section 8.5.6
 and ICH E6(R2) Sections 4.5 and 6.
 
-Change control activities related to *observational studies* shall be
+Change control activities related to *observational studies* **SHALL** be
 performed and documented in accordance with the Change Control Procedure, SOP-013.
 
 ### 8.6 Regulatory Compliance Management
@@ -774,8 +775,9 @@ This procedure **SHALL** address:
 -   Timely submission of financial disclosure information to regulatory
     authorities, when required.
     
-Regulatory compliance management activities shall be performed and documented
-in accordance with the Regulatory Compliance Management Procedure, SOP-014.
+Regulatory compliance management activities **SHALL** be performed and
+documented in accordance with the Regulatory Compliance Management Procedure,
+SOP-014.
 
 ## Appendix A __NewInstitute__'s Organization Chart
 

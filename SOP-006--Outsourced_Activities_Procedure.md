@@ -243,7 +243,7 @@ Agreement types include:
 - **Confidentiality Agreement**: Protects confidential information and subject
   data
 
-A single agreement may combine multiple agreement types.
+A single agreement **MAY** combine multiple agreement types.
 
 #### 4.3.2 Required Agreement Content
 
