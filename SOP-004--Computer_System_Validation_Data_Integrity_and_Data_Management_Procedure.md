@@ -237,6 +237,24 @@ Validation of those systems is performed per this procedure.
 
 ### 4.2 Roles and Responsibilities
 
+This section assigns computer system validation and data management
+responsibilities to the roles defined in QM-001 Appendix A. Roles not
+listed here have no standing duties under this procedure and act only
+through the procedures referenced from this SOP.
+
+| Role | Responsibilities under this procedure |
+|---|---|
+| System Owner (per validated computer system) | Owns the system's validation lifecycle: classification (§4.3), preparation of the Validation Plan (§4.4.1), execution of the lifecycle activities (§4.5, §4.6), change control (§4.8.1), periodic review (§4.8.2), incident management (§4.8.3), backup and recovery (§4.8.4), and retirement (§4.9). Maintains the system's inventory entry (§4.3.3). |
+| Data Manager | Operates the data integrity controls (§4.7) and manages study data per Section 5.0: source and derived data (§5.3, §5.4), storage and security (§5.5), data quality (§5.6), and database lock mechanics (§5.7). |
+| QA Representative | Independent quality oversight of validation and data management activities. Approves Validation Plans (§4.4.1) and Validation Reports (§4.6.4). Per QM-001 Appendix A, independent of the activity concerned. |
+| Software Lead | For Category 5 software developed by __NewInstitute__, owns the development lifecycle per SOP-015 (§4.5.4). Combination with the System Owner role is permitted per QM-001 Appendix A. |
+| Study Director / Principal Investigator or delegate | Study-level authorizations: authorizes database lock and unlock (§5.7.1, with SOP-007 Section 4.4). Notified of incidents that affect or could affect study data (§4.8.3). |
+
+Where validation or data management activities are performed by a vendor,
+the arrangement is governed per SOP-006 and supplier documentation is
+leveraged per Section 4.4.3; responsibility for the validated state of the
+system remains with __NewInstitute__.
+
 ### 4.3 System Classification
 
 Every computerized system used in the conduct of an
