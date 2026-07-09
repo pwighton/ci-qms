@@ -1961,9 +1961,56 @@ implement the required fields of Section 5.5.3:
 
 ### 8.3 Risk Management Plan Template
 
+The RMP contains, at a minimum, the sections below, implementing
+Section 5.5.1. These contents correspond to the verification criteria of
+SOP-001 Section 5.6.
+
+| RMP section | Content |
+|---|---|
+| Study identification | Study title, protocol number, RMP version history |
+| Risk management approach | Methodology, scoring scales, priority thresholds (§5.3); study-specific tailoring (§5.5.2) |
+| Critical to Quality factors | Identified CTQ factors with rationale (§5.2.1) |
+| Risk assessment summary | Identified risks, likelihood and severity scores, priority levels (§5.3) |
+| Risk control measures | Mitigation strategies, preventive and detective controls, contingency plans (§5.4) |
+| Residual risk evaluation | Residual scores after controls, acceptance decisions and approvals (§5.4.5, §5.3.4) |
+| Quality Tolerance Limits | QTLs for critical parameters with thresholds and response actions (§5.6.2) |
+| Risk indicators | KRIs and thresholds for ongoing monitoring (§5.6.4) |
+| Risk-based monitoring approach | How risk levels inform monitoring intensity and focus; primary input to the Monitoring Plan per SOP-009 |
+| Risk ownership | Risk Owner assigned to each identified risk (§4.3.4) |
+| Risk review schedule | Planned frequency and triggers for reassessment (§6.1) |
+| Risk communication plan | Stakeholders, frequency, and channels (§5.7) |
+
 ### 8.4 Key Risk Indicator Template
 
+One entry per KRI, implementing Section 5.6.4. KRIs are required for all
+high- and critical-priority risks.
+
+| Field | Content |
+|---|---|
+| Indicator name and description | Clear definition of what is being measured |
+| Associated risk and CTQ factor | The Risk Register entry the KRI monitors |
+| Calculation method | Data source, formula, and unit of measurement |
+| Reporting frequency | How often the KRI is calculated and reported |
+| Alert threshold | Level indicating a trend warranting closer observation |
+| Action threshold | Level warranting investigation or intervention |
+| Response actions | What happens when each threshold is reached, and who is responsible for evaluation |
+
+QTLs are documented with their thresholds and response actions per
+Section 5.6.2 and recorded in the Risk Management Plan (Section 8.3).
+
 ### 8.5 Risk Review Meeting Template
+
+Agenda and minutes structure for risk review meetings, implementing
+Section 6.1.2. Minutes are maintained in the TMF per SOP-002.
+
+| Item | Content |
+|---|---|
+| Date and attendees | Minimum attendance per §6.1.2: Study Director or Principal Investigator, Risk Owners for open high- and critical-priority risks, QA Representative |
+| Inputs reviewed | Current Risk Register; monitoring reports and centralized monitoring summaries; KRI and QTL status; Nonconformance Log and trends; CAPA status and effectiveness data; safety data review findings; audit findings, if any; enrollment and study progress data (§6.1.2) |
+| Risks reviewed | Risks reviewed and the data considered for each |
+| Decisions | Score changes, control adjustments, new risks added, risks closed |
+| Action items | With responsible persons and due dates |
+| Required updates | To the Risk Management Plan, Risk Register, or monitoring approach (§6.1.3) |
 
 ## 9.0 RECORDS AND DOCUMENTATION
 
