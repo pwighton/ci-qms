@@ -108,15 +108,13 @@ Audit findings requiring CAPA are identified through
 (Central repository of all CAPAs and status)
 
 ### 9.2 Metrics and Trending
-(CAPA performance metrics, overdue rates, effectiveness rates)
+(CAPA performance metrics, overdue rates, effectiveness rates; status and
+effectiveness data for scheduled risk reviews per SOP-003 Section 6.1.2 and
+the annual Management Review per QM-001 Section 5.3.3)
 
-### 9.3 Management Review
-(Periodic review of CAPA system performance)
+## 10.0 TRAINING
+(Training requirements per the SOP-010 Section 8.0 pattern)
 
-## 10.0 RECORDS AND DOCUMENTATION
-
-### 10.1 Required Records
-(CAPA forms, root cause analyses, effectiveness checks)
-
-### 10.2 Record Retention
-(Per SOP-002 requirements)
+## 11.0 RECORDS
+(List of records to maintain in TMF, incl. CAPA Log; retention per SOP-002
+Section 5.4)
