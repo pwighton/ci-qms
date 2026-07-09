@@ -5,19 +5,25 @@ subtitle: "SOP-010: Control of Nonconforming Observational Study Activities Proc
 
 ## 1.0 PURPOSE
 
-This Standard Operating Procedure (SOP) establishes the systematic approach for
-identifying, documenting, evaluating, and managing activities that do not
-conform to protocol requirements, GCP standards, or regulatory requirements
-during *observational studies* conducted by __NewInstitute__.
+This Standard Operating Procedure (SOP) establishes the systematic approach
+for the identification, documentation, review, and disposition of activities
+that do not conform to protocol requirements, GCP standards, applicable
+regulatory requirements, or approved procedures during *observational studies*
+conducted by __NewInstitute__. It ensures that __NewInstitute__ and its
+outsourced service providers have an effective system to prevent the
+continuation of nonconforming *observational study* activities and to protect
+subject safety and the integrity of study data.
 
 ## 2.0 SCOPE
 
 This procedure applies to all nonconforming activities identified during the
-conduct of __NewInstitute__ *observational studies*.
+conduct of __NewInstitute__ *observational studies*, including nonconforming
+activities of outsourced service providers.
 
 Nonconformances are often identified through
 [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
-activities.
+activities; the full set of identification sources is described in
+Section 5.1.
 
 Root cause analysis and systemic corrections of nonconformances are managed
 under [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md).
@@ -26,22 +32,20 @@ Documentation of nonconformances is controlled under
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 and maintained in the TMF.
 
-Major nonconformances may trigger amendments managed under
-[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
+If a nonconformance reveals the need for a protocol amendment, this procedure
+**SHALL** trigger
+[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+(see Section 6.3).
 
-Vendor-related nonconformances are addressed with
-[SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md).
+Nonconformances involving outsourced activities are managed under this
+procedure, with vendor-facing actions coordinated per
+[SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+Section 4.6.
 
 This procedure applies to all __NewInstitute__ employees and subcontractors
-involved in:
-
-- Identifying nonconforming activities
-- Reviewing and assessing deviations
-- Clinical operations management
-- Quality assurance
-- Data management
-- Regulatory affairs
-- Study management
+involved in the conduct of *observational studies*. Nonconformances can be
+identified and reported by anyone; the roles responsible for assessment,
+disposition, and closure are defined in Section 4.3.
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
