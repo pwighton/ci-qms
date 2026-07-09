@@ -735,3 +735,30 @@ Quality system records not associated with a specific study
 review minutes) **SHALL** be retained for a minimum of five
 (5) years from the date of creation.
 
+## 6.0 TRAINING
+
+All __NewInstitute__ personnel who create, modify, approve, or maintain
+controlled documents or records **SHALL** be trained on this procedure,
+at minimum on the good record keeping practices of Section 5.3, and
+maintain documented evidence of training per QM-001 Section 6.1.1.
+
+Personnel holding responsibilities under Section 4.1 **SHALL** be trained
+commensurate with those responsibilities before exercising them.
+Retraining **SHALL** be conducted when significant changes are made to
+this procedure.
+
+## 7.0 RECORDS
+
+Records generated under this procedure **SHALL** be maintained per this
+procedure (in the TMF for study-related records, and as quality records
+otherwise) and retained per Section 5.4.
+
+Records **MAY** include but are not limited to:
+- The document log and Master Document List
+- Document review and approval records, including approvals of changes
+- Delegation of approval authority notifications
+- Digitization verification records and certified copies
+- Retained obsolete documents
+- Closeout disposition decisions and their rationales
+- Training records per Section 6.0
+
