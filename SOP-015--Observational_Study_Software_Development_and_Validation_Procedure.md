@@ -72,7 +72,7 @@ involved in:
 - [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11):
   Electronic Records; Electronic Signatures
 
-- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1):
+- [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf):
   Good Clinical Practice: Integrated Addendum to ICH E6(R1)
   - Section 4.9 (Records and Reports)
   - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)

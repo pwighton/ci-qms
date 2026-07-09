@@ -71,7 +71,7 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
 
-- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+- [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
 - [FDA Guidance for Industry: Electronic Source Data in Clinical Investigations](https://www.fda.gov/media/85183/download) 
 

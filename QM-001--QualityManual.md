@@ -81,7 +81,7 @@ the following standards and guidance documents are not considered by this QMS
 
 - [GAMP v5](https://guidance-docs.ispe.org/doi/book/10.1002/9781946964571): A Risk-Based Approach to Compliant GxP Computerized Systems
 
-- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+- [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
 - [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
 
