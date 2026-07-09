@@ -1447,3 +1447,39 @@ determine the required validation activities (Sections 4.4.2 and 4.5, and
 Appendix B).
 
 ## APPENDIX B: VALIDATION DELIVERABLES BY CATEGORY
+
+This appendix summarizes the minimum validation deliverables by GAMP
+category. Sections 4.4 through 4.6 are canonical; where this summary and
+the body differ, the body governs. Within each category, the rigor of each
+deliverable scales with the system's GxP impact classification per
+Section 4.4.2, and supplier documentation **MAY** be leveraged per
+Section 4.4.3.
+
+| Deliverable | Cat 1 | Cat 3 | Cat 4 | Cat 5 |
+|---|---|---|---|---|
+| Version and configuration documentation (§4.5.1) | Required | N/A | N/A | N/A |
+| User Requirements Specification (§4.6.1) | N/A | Required | Required | Required |
+| Functional Specification (§4.6.1) | N/A | N/A | Required | Required |
+| Design Specification (§4.6.1) | N/A | N/A | N/A | Required (1) |
+| Installation Qualification (§4.6.2) | Required | Required | Required | Required |
+| Operational Qualification (§4.6.2) | N/A | Required (2) | Required | Required |
+| Performance Qualification (§4.6.2) | N/A | N/A | Required (3) | Required (3) |
+| Traceability Matrix (§4.6.3) | N/A | (4) | Required | Required |
+| Validation Report (§4.6.4) | Required (5) | Required (5) | Required (5) | Required (5) |
+
+Notes:
+
+1. For Category 5 systems developed under SOP-015, the design
+   documentation produced during development **MAY** serve as the DS
+   (Section 4.6.1).
+2. OQ **MAY** be limited where the supplier provides adequate test
+   evidence (Section 4.5.2).
+3. PQ is required when the system processes study data under production
+   conditions (Sections 4.5.3, 4.5.4, and 4.6.2).
+4. Required for Category 3 systems classified as GxP-critical
+   (Section 4.6.3).
+5. A Validation Report is prepared for each GxP-critical or GxP-relevant
+   system, whatever its category (Section 4.6.4).
+
+For low-complexity systems, specification levels **MAY** be combined into
+a single document per Section 4.6.1.
