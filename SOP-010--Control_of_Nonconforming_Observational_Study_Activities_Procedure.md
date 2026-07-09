@@ -56,7 +56,7 @@ involved in:
 - GCP
 - TMF
 
-## 4.0
+## 4.0 NONCONFORMANCE MANAGEMENT FRAMEWORK
 
 ### 4.1 Overview
 
@@ -84,18 +84,6 @@ The nonconformance management process includes:
 - **Tracking**: Maintenance of nonconformance log for trend analysis and 
   quality metrics
 
-Common types of nonconformances include: 
-- Protocol deviations
-- GCP violations
-- Consent issues
-- Eligibility violations
-- Data integrity issues
-- Safety reporting failures
-- Training deficiencies
-
-Not all findings constitute nonconformances - performance issues or
-observations that do not violate requirements are managed through other quality processes.
-
 Systemic issues identified through nonconformance trends are escalated to 
 the CAPA process (SOP-011). Updates to risk assessments based on 
 nonconformance patterns are managed under SOP-003.
@@ -110,10 +98,27 @@ A nonconformance is any activity, process, or outcome that fails to meet:
 - Informed consent requirements
 - Data integrity standards
 
+Common types of nonconformances include: 
+- Protocol deviations
+- GCP violations
+- Consent issues
+- Eligibility violations
+- Data integrity issues
+- Safety reporting failures
+- Training deficiencies
+
 Nonconformances do NOT include:
 - Performance below expectations (unless requirements violated)
 - Potential risks that haven't materialized
 - Recommendations for improvement
+
+Not all findings constitute nonconformances - performance issues or
+observations that do not violate requirements are managed through other quality processes.
+
+(Drafting note: add boundary exclusions — QTL exceedances are not
+automatically nonconformances per SOP-003 Section 5.6.2; safety events and
+unanticipated problems are managed under SOP-008 and are not automatically
+nonconformances)
 
 ### 4.3 Roles and Responsibilities
 
@@ -172,15 +177,12 @@ Nonconformances **MAY** be identified through:
 (Central tracking of all nonconformances)
 
 ### 7.2 Metrics and Trend Analysis
-(Identify patterns requiring systemic action)
+(Identify patterns requiring systemic action; trends reviewed at scheduled
+risk reviews per SOP-003 Section 6.1.2 and at management review)
 
-### 7.3 Periodic Review
-(Regular review of nonconformance trends with management)
+## 8.0 TRAINING
+(Training requirements per the SOP-007/SOP-009 pattern)
 
-## 8.0 RECORDS AND DOCUMENTATION
-
-### 8.1 Required Records
-(List of documents to maintain in TMF)
-
-### 8.2 Record Retention
-(Per SOP-002 requirements)
+## 9.0 RECORDS
+(List of records to maintain in TMF, incl. Nonconformance Log; retention per
+SOP-002 Section 5.4)
