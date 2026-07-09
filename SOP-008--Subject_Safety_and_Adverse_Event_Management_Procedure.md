@@ -6,8 +6,8 @@ subtitle: "SOP-008: Subject Safety and Adverse Event Management Procedure"
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
-monitoring subject safety and managing adverse events during *clinical
-investigations* conducted by __NewInstitute__. It ensures prompt identification,
+monitoring subject safety and managing adverse events during *observational
+studies* conducted by __NewInstitute__. It ensures prompt identification,
 documentation, assessment, and reporting of safety information to protect
 subject welfare.
 
