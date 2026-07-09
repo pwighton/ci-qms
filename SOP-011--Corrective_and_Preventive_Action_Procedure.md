@@ -370,7 +370,21 @@ approved by the same authorities and documented in the CAPA record.
 ## 7.0 IMPLEMENTATION AND TRACKING
 
 ### 7.1 Implementation Management
-(Tracking progress, milestones, resource allocation)
+
+The CAPA Owner **SHALL** implement the approved plan and collect the
+completion evidence it specifies. As each action completes, the CAPA Owner
+**SHALL** record the completion date and evidence references in the CAPA
+record and report status per Section 7.3.
+
+Changes to processes, documents, or the protocol arising from the plan are
+routed per Section 7.2. Resource constraints or obstacles that put target
+dates at risk **SHALL** be raised per Section 7.3 rather than allowed to
+extend the plan silently.
+
+Implementation is complete when every action in the approved plan is
+complete with its evidence on file. The implementation completion date
+**SHALL** be recorded in the CAPA record; it starts the effectiveness
+verification timeframe per Section 8.2.
 
 ### 7.2 Change Management
 (When CAPA requires changes per SOP-013)
