@@ -488,7 +488,24 @@ results from completed CAPAs inform risk assessment updates per SOP-003
 Section 6.3.4.
 
 ### 8.4 Unsuccessful CAPAs
-(Process when CAPA doesn't achieve objectives)
+
+A CAPA whose effectiveness verification concludes not effective **SHALL
+NOT** be closed. The failed verification, including the evidence examined,
+**SHALL** be retained in the CAPA record.
+
+The CAPA Owner **SHALL** reopen the root cause investigation (Section 6.1);
+a failed verification typically means that the root cause was misidentified
+or that the actions did not eliminate it. The revised analysis and a
+revised action plan, with new effectiveness criteria and a new verification
+timeframe, **SHALL** be approved per Section 6.3. Interim measures
+**SHALL** be considered to limit risk until the revised actions take effect
+(Section 6.2.3).
+
+The QA Representative **SHALL** report a not-effective conclusion to the
+plan-approval authority and **SHALL** refer it to risk management as
+evidence of an inadequacy of existing controls (per SOP-003
+Section 6.2.1). A second not-effective conclusion for the same CAPA
+**SHALL** be escalated to Executive Management.
 
 ## 9.0 CAPA SYSTEM MANAGEMENT
 
