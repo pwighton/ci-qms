@@ -401,7 +401,20 @@ cross-referenced from the log entry (Section 9.0).
 ## 6.0 COMMUNICATION AND ESCALATION
 
 ### 6.1 Internal Communication
-(Study team, management, QA notifications)
+
+The recipient of a nonconformance report (Section 5.1) **SHALL** ensure that
+both the Study Director / Principal Investigator or delegate and the QA
+Representative are aware of the reported nonconformance.
+
+For critical nonconformances, the Study Director / Principal Investigator or
+delegate **SHALL** notify Executive Management without delay (Section 4.3).
+
+The Project Manager **SHALL** inform the study team members whose activities
+are affected by a nonconformance or its containment, and **SHALL**
+communicate the status of open nonconformances to the study team through
+closure (Section 4.3).
+
+Nonconformance trends are reported to management per Section 7.2.
 
 ### 6.2 External Reporting Requirements
 (IRB, regulatory authorities per ICH E6(R2) 5.20)
