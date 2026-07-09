@@ -1376,7 +1376,41 @@ SOP-002 Section 5.4.
 
 ## 6.0 RECORDS AND DOCUMENTATION
 
+Records generated under this procedure **SHALL** be maintained per SOP-002
+(in the TMF for study-specific records, and as quality records for
+system-level records) and retained per SOP-002 Section 5.4.
+
+Records **MAY** include but are not limited to:
+
+- The system inventory and GxP risk assessments, including documented
+  rationales for non-GxP classifications
+- Validation Plans and Validation Reports
+- Specification documents (URS, FS, DS)
+- Test records (IQ, OQ, PQ), including test failures, their investigation,
+  and retest results
+- Traceability Matrices
+- Supplier assessment records and leveraged supplier documentation
+- Change control records for validated systems
+- Periodic review records
+- Incident and problem records
+- Backup, recovery, and restoration test records
+- System retirement records
+- Data management records, including the Data Management Plan, data
+  transfer records, processing and provenance records, query and data
+  cleaning records, and database lock and unlock records
+- Training records per Section 7.0
+
 ## 7.0 TRAINING
+
+Personnel holding responsibilities under Section 4.2 **SHALL** be trained
+on this procedure commensurate with those responsibilities before
+exercising them, and maintain documented evidence of training per QM-001
+Section 6.1.1.
+
+Users of validated systems **SHALL** be trained on the system functions
+relevant to their role before access is granted (Section 4.7.4).
+Retraining **SHALL** be conducted when significant changes are made to
+this procedure or to the systems on which personnel were trained.
 
 ## APPENDIX A: GAMP CATEGORY DECISION TREE
 
