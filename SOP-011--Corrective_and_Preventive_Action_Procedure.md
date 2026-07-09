@@ -53,13 +53,70 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
 
 ### 3.1 Guidance and Regulatory References
 
-### 3.2 __NewInstitute__ References 
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1):
+  Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+  - Section 5.20 (noncompliance)
+  - Section 5.20.1 (root cause analysis and corrective and preventive
+    action)
+
+- [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management
+  systems — Requirements
+  - Section 10.2 (nonconformity and corrective action)
+
+### 3.2 __NewInstitute__ References
+
+1. [QM-001: Quality Manual](QM-001--QualityManual.md)
+2. [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+3. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
+4. [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+5. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+6. [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
+7. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
+8. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+9. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
 
 ### 3.3 Terms
 
+-   **CAPA Owner**: The person assigned responsibility for a specific CAPA's
+    root cause investigation, action plan, and implementation
+    (Section 5.3).
+
+-   **Correction**: Action to eliminate a detected nonconformance or its
+    immediate effects, as defined in SOP-010 Section 3.3. A correction
+    addresses the specific instance and is managed under SOP-010, not this
+    procedure.
+
+-   **Corrective Action**: Action to eliminate the root cause of a
+    nonconformance that has already occurred, in order to prevent its
+    recurrence.
+
+-   **Effectiveness Verification**: The planned, criteria-based check that a
+    completed CAPA achieved its intended result and did not introduce new
+    problems (Section 8.0).
+
+-   **Interim Measure**: A temporary control implemented to limit risk while
+    a corrective or preventive action is developed and implemented
+    (Section 6.2.3).
+
+-   **Preventive Action**: Action to eliminate the cause of a potential
+    nonconformity, identified through analysis of records, audit findings,
+    or other relevant sources, before a nonconformance occurs.
+
+-   **Root Cause**: The most basic cause or causes of a nonconformance or
+    potential nonconformity that, if eliminated, prevent recurrence or
+    occurrence — the underlying process, system, or organizational cause
+    rather than the immediate error.
+
+-   **Root Cause Analysis**: The structured investigation used to identify
+    the root cause of a nonconformance or potential nonconformity
+    (Section 6.1).
+
 ### 3.4 Acronyms
 
-- CAPA
+- **CAPA**: Corrective and Preventive Action
+- **QA**: Quality Assurance
+- **QMS**: Quality Management System
+- **TMF**: Trial Master File
 
 ## 4.0 CAPA MANAGEMENT FRAMEWORK
 
