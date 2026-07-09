@@ -10,9 +10,9 @@ for corrective and preventive action (CAPA) in *observational studies*
 conducted by __NewInstitute__ and in the operation of its QMS. Corrective
 action eliminates the root cause of a nonconformance that has already
 occurred so that it does not recur; preventive action eliminates the cause
-of a potential nonconformity — identified through analysis of
-*observational study* records, audit findings, and other relevant sources of
-information — before it occurs. Together they prevent recurrence, reduce
+of a potential nonconformity, identified through analysis of
+*observational study* records, audit findings, and other relevant sources
+of information, before it occurs. Together they prevent recurrence, reduce
 risk, and drive continuous improvement per QM-001 Section 8.3.
 
 ## 2.0 SCOPE
@@ -104,7 +104,7 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
 
 -   **Root Cause**: The most basic cause or causes of a nonconformance or
     potential nonconformity that, if eliminated, prevent recurrence or
-    occurrence — the underlying process, system, or organizational cause
+    occurrence: the underlying process, system, or organizational cause
     rather than the immediate error.
 
 -   **Root Cause Analysis**: The structured investigation used to identify
@@ -145,7 +145,7 @@ The CAPA process consists of:
 - **Implementation and tracking**: Execution by the CAPA Owner, change
   management, and progress monitoring (Section 7.0)
 - **Effectiveness verification and closure**: A planned, criteria-based
-  check, followed by closure — or by reopening where the check fails
+  check, followed by closure, or by reopening where the check fails
   (Section 8.0)
 - **System management**: The CAPA Log, metrics, and trending feeding risk
   reviews and the Management Review (Section 9.0)
@@ -175,7 +175,43 @@ Management **SHALL** designate an alternate effectiveness verifier.
 ## 5.0 CAPA INITIATION AND EVALUATION
 
 ### 5.1 CAPA Triggers
-(Criteria for when CAPA is required vs. simple correction)
+
+A CAPA addresses the root cause of an actual or potential nonconformance.
+Correction of an individual nonconformance (managed under SOP-010) is not
+a CAPA and does not by itself require one; a referral for CAPA evaluation is
+made when a trigger below applies.
+
+**Corrective action triggers.** A referral for CAPA evaluation **SHALL** be
+made for:
+
+- Nonconformances meeting the referral criteria of SOP-010 Section 6.3,
+  which is the canonical nonconformance-side threshold and is not restated
+  here
+- Audit findings requiring systemic corrective or preventive action (per
+  SOP-012 Section 6.5)
+- Repeated or systemic major monitoring issues, and trends identified
+  across sites (per SOP-009 Section 4.5.3)
+- Systemic or recurring issues involving outsourced service providers (per
+  SOP-006 Section 4.6.3)
+- Missed regulatory deadlines (per SOP-014 Section 4.5.3)
+- Systemic issues or recurring nonconformances identified through risk
+  review or trend analysis (per SOP-003 Section 6.3.4)
+
+**Preventive action triggers.** Per QM-001 Section 8.3, a referral for CAPA
+evaluation **SHALL** be made when a potential nonconformity is identified
+through:
+
+- Analysis of *observational study* records or nonconformance trends (per
+  SOP-010 Section 7.2)
+- Audit observations that have not yet resulted in a nonconformance (per
+  SOP-012)
+- Improvement recommendations indicating a systemic quality issue (per
+  SOP-003 Section 7.2.2)
+- Management Review conclusions (per QM-001 Section 5.3.3)
+- Other relevant sources of information
+
+Every referral **SHALL** be recorded in the CAPA Log (Section 9.1) and
+evaluated per Section 5.2, whether or not a CAPA is ultimately opened.
 
 ### 5.2 Initial Assessment and Prioritization
 (Risk-based prioritization, timeline assignment based on severity)
