@@ -244,11 +244,56 @@ the Nonconformance Log with the rationale recorded.
 
 #### 5.2.1 Classification Categories
 
-(Minor, Major, Critical based on impact to safety/data integrity)
+The Study Director / Principal Investigator or delegate **SHALL** classify
+each nonconformance by severity promptly after identification:
+
+- **Critical**: Nonconformances that could affect subject safety, compromise
+  data integrity for primary endpoints, or indicate potential serious
+  noncompliance. Critical nonconformances require immediate containment
+  (Section 5.3) and escalation (Section 6.0), and their disposition is
+  prioritized over routine work.
+
+- **Major**: Nonconformances that could affect data quality or indicate
+  protocol noncompliance but do not immediately threaten subject safety or
+  primary endpoint integrity. Major nonconformances require prompt
+  correction.
+
+- **Minor**: Isolated errors or minor deviations with limited impact on data
+  quality or study conduct. Minor nonconformances require correction but can
+  be addressed through routine processes.
+
+This classification is aligned with the issue classification in SOP-009
+Section 4.5.2 and the audit finding classification in SOP-012 Section 6.4.
+A critical issue escalated from monitoring per SOP-009 Section 4.5.3 is
+managed as a critical nonconformance.
+
+The QA Representative **SHALL** review each severity classification. Where
+the QA Representative and the Study Director disagree, the higher severity
+**SHALL** apply until the disagreement is resolved.
 
 #### 5.2.2 Impact Assessment
 
-(Evaluate effect on subject safety, data integrity, study validity)
+The severity classification **SHALL** be based on an assessment of the
+actual and potential impact of the nonconformance on:
+
+- **Subject safety**: harm or increased risk to subjects, including harm to
+  privacy and confidentiality
+- **Data integrity**: reliability, completeness, and traceability of source
+  and derived data, particularly for primary endpoints
+- **Study validity**: effect on the planned analysis and the credibility of
+  study conclusions
+- **Regulatory compliance and downstream use**: compliance with applicable
+  requirements and the suitability of the data for use by data recipients in
+  their regulatory submissions
+
+The Statistician evaluates the impact on study validity and the planned
+analysis; the Data Manager evaluates the impact on data integrity
+(Section 4.3).
+
+The impact assessment **SHALL** consider the extent of the nonconformance
+(the subjects, records, and time period affected) and whether it is an
+isolated occurrence or part of a pattern (see Section 7.2). The assessment
+and its conclusions **SHALL** be recorded in the Nonconformance Log.
 
 ### 5.3 Immediate Actions and Containment
 (Stop the nonconformance from continuing or spreading)
