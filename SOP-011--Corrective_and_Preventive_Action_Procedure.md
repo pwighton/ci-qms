@@ -387,7 +387,23 @@ complete with its evidence on file. The implementation completion date
 verification timeframe per Section 8.2.
 
 ### 7.2 Change Management
-(When CAPA requires changes per SOP-013)
+
+CAPA actions frequently change how work is performed. The change itself is
+executed under the QMS process that controls the affected item, and the
+CAPA record **SHALL** cross-reference the resulting change records:
+
+- **Protocol amendments**: Where a CAPA requires a change to a study
+  protocol, the Study Director / Principal Investigator or delegate
+  **SHALL** initiate an amendment per SOP-013 (see SOP-013 Section 4.3.1).
+- **Controlled documents**: Changes to SOPs, forms, templates, and other
+  controlled documents follow SOP-002, coordinated by the Management
+  Representative.
+- **Training**: Training and retraining actions are documented per QM-001
+  Section 6.1.1 and accompany the underlying procedure or system change per
+  Section 6.2.1.
+
+An action that depends on such a change is not complete (Section 7.1) until
+the change is approved and in effect under its controlling process.
 
 ### 7.3 Progress Monitoring
 (Regular review, escalation for delayed CAPAs)
