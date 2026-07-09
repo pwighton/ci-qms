@@ -536,9 +536,27 @@ The CAPA Log is a controlled record per SOP-002 and is an input to
 scheduled risk reviews per SOP-003 Section 6.1.2.
 
 ### 9.2 Metrics and Trending
-(CAPA performance metrics, overdue rates, effectiveness rates; status and
-effectiveness data for scheduled risk reviews per SOP-003 Section 6.1.2 and
-the annual Management Review per QM-001 Section 5.3.3)
+
+The QA Representative **SHALL** prepare a CAPA status and effectiveness
+summary for each scheduled risk review (per SOP-003 Section 6.1.2) and for
+the annual Management Review (per QM-001 Section 5.3.3, which lists CAPA
+status among its inputs).
+
+The summary **SHALL** cover at minimum:
+
+- Open CAPAs with their priority, status, and target dates, including
+  overdue CAPAs and approved extensions (Section 7.3)
+- CAPAs closed since the previous summary, with their effectiveness
+  results (Section 8.3)
+- Not-effective conclusions and reopened CAPAs (Section 8.4)
+- Referrals evaluated without opening a CAPA (Section 5.2)
+- Patterns across CAPAs (for example, recurring root cause types or
+  repeatedly affected processes), which are themselves potential preventive
+  action triggers per Section 5.1
+
+Where the number of CAPAs is low, the summary is correspondingly brief; a
+documented conclusion that no pattern is discernible is an acceptable
+outcome.
 
 ## 10.0 TRAINING
 (Training requirements per the SOP-010 Section 8.0 pattern)
