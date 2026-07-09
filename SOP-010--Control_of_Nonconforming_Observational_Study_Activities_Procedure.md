@@ -507,8 +507,29 @@ The Nonconformance Log is a controlled record per SOP-002 and is an input to
 scheduled risk reviews per SOP-003 Section 6.1.2.
 
 ### 7.2 Metrics and Trend Analysis
-(Identify patterns requiring systemic action; trends reviewed at scheduled
-risk reviews per SOP-003 Section 6.1.2 and at management review)
+
+The QA Representative **SHALL** analyze the Nonconformance Log for trends
+and prepare a trend summary for each scheduled risk review (per SOP-003
+Section 6.1.2) and for the annual Management Review (per QM-001
+Section 5.3.3).
+
+The analysis **SHALL** consider at minimum:
+
+- The frequency and severity of nonconformances, by type and by
+  identification source
+- Recurrence of the same or related nonconformances
+- Patterns concentrated in a particular study activity, process, system, or
+  outsourced service provider
+- The age of open nonconformances and the time from identification to
+  closure
+
+Where the number of recorded nonconformances is low, the trend summary is
+correspondingly brief; a documented conclusion that no trend is discernible
+is an acceptable outcome.
+
+A trend indicating a potential systemic issue **SHALL** be escalated per
+Section 6.3 (CAPA referral per SOP-011 and unscheduled risk review per
+SOP-003 Section 6.2.1).
 
 ## 8.0 TRAINING
 (Training requirements per the SOP-007/SOP-009 pattern)
