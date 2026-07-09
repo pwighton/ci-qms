@@ -328,11 +328,52 @@ recorded in the Nonconformance Log.
 
 ### 5.4 Review and Disposition
 
+Each nonconformance **SHALL** receive a documented disposition addressing
+both the nonconforming activity and any affected data and records. Where the
+review of a nonconformance indicates a systemic issue or the need for a
+protocol amendment, escalation follows Section 6.3.
+
 #### 5.4.1 Disposition Options
-(Accept as-is, correct, exclude data, etc.)
+
+The disposition consists of one or more of the following, each with a
+documented rationale:
+
+- **Correct**: Eliminate the nonconformance and its effects — for example,
+  complete missing documentation, re-obtain or re-document informed consent,
+  or re-perform the affected activity per the protocol.
+
+- **Accept as-is**: Accept the outcome without correction, where correction
+  is not possible or where the impact assessment (Section 5.2.2) supports
+  acceptance. The justification **SHALL** be documented.
+
+- **Exclude or qualify affected data**: Exclude affected data from the
+  planned analysis, or qualify their use (for example, through a documented
+  sensitivity analysis). For eligibility violations, this includes
+  discontinuing the subject's participation and excluding the subject's
+  data where warranted.
+
+Affected data **SHALL NOT** be deleted. Exclusions and qualifications are
+implemented as documented, traceable analysis decisions by the Data Manager
+per SOP-004, with the original records retained per SOP-002.
+
+A disposition that accepts nonconforming data or excludes data from the
+planned analysis **SHALL** have the documented concurrence of the
+Statistician (Section 4.3).
 
 #### 5.4.2 Approval Requirements
-(Who must approve based on severity)
+
+Disposition approval is based on severity:
+
+| Severity | Disposition approval |
+|---|---|
+| Critical | Study Director / Principal Investigator personally (not delegable), and QA Representative |
+| Major | Study Director / Principal Investigator or delegate, and QA Representative |
+| Minor | Study Director / Principal Investigator or delegate |
+
+The QA Representative **SHALL** approve the closure of every nonconformance,
+including minor nonconformances, after verifying that the approved
+disposition and the exit from any containment were implemented as approved
+(Section 4.3).
 
 ### 5.5 Documentation Requirements
 (What must be documented per ICH E6(R2) Section 5.20)
