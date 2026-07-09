@@ -154,7 +154,23 @@ A CAPA can be opened for a single study, for a QMS process, or for the
 activities of an outsourced service provider.
 
 ### 4.2 Roles and Responsibilities
-(CAPA initiator, CAPA owner, approvers, effectiveness verifier)
+
+This section assigns CAPA responsibilities to the roles defined in QM-001
+Appendix A, plus the CAPA Owner defined in Section 3.3. Roles not listed
+here have no standing CAPA duties and act through the trigger procedures
+listed in Section 5.1.
+
+| Role | CAPA responsibilities |
+|---|---|
+| QA Representative | Administers the CAPA system: receives referrals, coordinates the evaluation (§5.2), maintains the CAPA Log (§9.1), and prepares metrics and trending (§9.2). Verifies effectiveness (§8.2) and confirms that closure criteria are met (§8.3). Per QM-001 Appendix A, independent of the activity concerned. |
+| CAPA Owner (per CAPA) | Leads the root cause investigation (§6.1), develops the action plan (§6.2), executes the implementation (§7.1), and reports progress (§7.3). Assigned per §5.3 and documented in the CAPA record. |
+| Study Director / Principal Investigator or delegate | Approves CAPA plans affecting a study (§6.3) and the closure of those CAPAs (§8.3). Initiates protocol amendments arising from CAPAs (§7.2). |
+| Management Representative | Default CAPA Owner for CAPAs on QMS processes. Coordinates controlled-document changes arising from CAPAs per SOP-002 (§7.2). |
+| Executive Management | Approves CAPA plans for QMS-level processes or requiring significant resources (§6.3) and the closure of those CAPAs (§8.3). Receives overdue-CAPA escalations (§7.3). Reviews CAPA system performance at the annual Management Review (§9.2). |
+
+The effectiveness verifier **SHALL** be independent of the CAPA's
+implementation. Where the QA Representative is the CAPA Owner, Executive
+Management **SHALL** designate an alternate effectiveness verifier.
 
 ## 5.0 CAPA INITIATION AND EVALUATION
 
