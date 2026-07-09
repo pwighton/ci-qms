@@ -87,8 +87,8 @@ involved in:
     or derived datum, verified as an exact, complete, and unaltered
     reproduction of the original and documented as such by a dated signature or
     approval (per SOP-002 Section 3.3, ICH E6(R2) 1.63, and 21 CFR Part 11).
-    Certified copies are produced under Section 5.5 for regulatory purposes and
-    for provision to data recipients.
+    Certified copies are produced for regulatory purposes and for provision
+    to data recipients.
 
 -   **Database Lock**: The process of finalizing and securing the study
     database to prevent further data entry or modification, occurring after
@@ -105,8 +105,8 @@ involved in:
     archived records, source data, or derived data provided for internal
     assessment, quality assurance, monitoring, or academic and secondary
     analysis, that has not been verified as a certified copy. Non-certified
-    copies are marked as such and are not intended for regulatory submission
-    (see Section 5.5).
+    copies are marked as such and are not intended for regulatory
+    submission.
 
 -   **Record**: Fixed evidence of activities performed or results achieved, as
     defined in SOP-002 Section 3.3. Records **MAY** originate in paper or
@@ -331,8 +331,8 @@ Access is provided in one of two modes, distinguished by purpose.
 Certified copies are provided for regulatory purposes and for provision to data
 recipients. Requests for certified copies **SHALL** be coordinated by the
 Management Representative per QM-001 Section 5.3.2. Each certified copy
-**SHALL** be verified as a certified copy under the definition in Section 3.3,
-and the certification **SHALL** be recorded.
+**SHALL** be verified as an exact, complete, and unaltered reproduction of
+the original, and the certification **SHALL** be recorded.
 
 #### 5.5.2 Non-Certified Access
 

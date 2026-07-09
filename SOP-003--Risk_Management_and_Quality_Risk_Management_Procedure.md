@@ -411,8 +411,8 @@ control execution. Responsibilities include:
 
 #### 4.3.4 Risk Owner Responsibilities
 
-A Risk Owner is the individual responsible for managing a specific risk (per
-Section 3.3). At least one Risk Owner **SHOULD** be assigned to each risk in
+A Risk Owner is the individual responsible for managing a specific risk.
+At least one Risk Owner **SHOULD** be assigned to each risk in
 the Risk Register. The Study Director is the default Risk Owner for any risk
 that is not explicitly delegated.
 
@@ -1475,9 +1475,8 @@ the Study Director or Principal Investigator.
 When an emerging risk is reported, the study team **SHALL**:
 
 - Evaluate whether the reported issue constitutes a risk
-  per the definition in Section 3.3 (i.e., a combination
-  of probability and severity of harm to participants,
-  data integrity, or study validity)
+  (a combination of probability and severity of harm to
+  participants, data integrity, or study validity)
 - If confirmed as a risk, assess the risk using the
   scoring methodology defined in Sections 5.3.1 and 5.3.2
 - Assign a risk priority level per Section 5.3.3

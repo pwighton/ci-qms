@@ -78,8 +78,7 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
 ### 3.3 Terms
 
 -   **CAPA Owner**: The person assigned responsibility for a specific CAPA's
-    root cause investigation, action plan, and implementation
-    (Section 5.3).
+    root cause investigation, action plan, and implementation.
 
 -   **Correction**: Action to eliminate a detected nonconformance or its
     immediate effects, as defined in SOP-010 Section 3.3. A correction
@@ -92,11 +91,10 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
 
 -   **Effectiveness Verification**: The planned, criteria-based check that a
     completed CAPA achieved its intended result and did not introduce new
-    problems (Section 8.0).
+    problems.
 
 -   **Interim Measure**: A temporary control implemented to limit risk while
-    a corrective or preventive action is developed and implemented
-    (Section 6.2.3).
+    a corrective or preventive action is developed and implemented.
 
 -   **Preventive Action**: Action to eliminate the cause of a potential
     nonconformity, identified through analysis of records, audit findings,
@@ -108,8 +106,7 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
     rather than the immediate error.
 
 -   **Root Cause Analysis**: The structured investigation used to identify
-    the root cause of a nonconformance or potential nonconformity
-    (Section 6.1).
+    the root cause of a nonconformance or potential nonconformity.
 
 ### 3.4 Acronyms
 

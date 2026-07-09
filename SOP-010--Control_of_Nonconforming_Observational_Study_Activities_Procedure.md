@@ -78,8 +78,7 @@ disposition, and closure are defined in Section 4.3.
 ### 3.3 Terms
 
 -   **Containment**: Immediate action taken to prevent a nonconformance from
-    continuing or spreading while its disposition is determined (see
-    Section 5.3).
+    continuing or spreading while its disposition is determined.
 
 -   **Correction**: Action to eliminate a detected nonconformance or its
     immediate effects. A correction addresses the specific instance; action to
@@ -87,12 +86,12 @@ disposition, and closure are defined in Section 4.3.
     managed under SOP-011.
 
 -   **Disposition**: The documented decision on how a nonconformance and any
-    affected data or records are handled (see Section 5.4.1).
+    affected data or records are handled.
 
 -   **Nonconformance**: Non-fulfillment of a requirement [ISO 9001:2015],
     including protocol requirements, GCP standards, applicable regulatory
-    requirements, and approved procedures. Section 4.2 defines the boundaries
-    of this term. Equivalent to "nonconformity" as used in SOP-012.
+    requirements, and approved procedures. Equivalent to "nonconformity" as
+    used in SOP-012.
 
 -   **Protocol Deviation**: An unplanned departure from the IRB/IEC-approved
     protocol that is not prospectively authorized by the sponsor, as defined

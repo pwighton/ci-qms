@@ -133,7 +133,7 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 - **Record**: Fixed evidence of activities performed or
   results achieved. Records are created at a point in time
   and, once completed, are not altered except through formal
-  correction processes (Section 5.3.5). Records provide
+  correction processes. Records provide
   objective evidence that work was performed in accordance
   with established procedures and requirements. Records
   **MAY** originate in paper or electronic format. Examples
@@ -314,7 +314,7 @@ The following approvals **SHALL** be recorded before release:
   sufficient to meet its intended use.
 
 Approvals **SHALL** be recorded in the electronic document
-management system per the definition in Section 3.3.
+management system.
 
 The document is released through document control prior to
 being distributed or implemented within or outside
