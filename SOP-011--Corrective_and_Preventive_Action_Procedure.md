@@ -241,7 +241,28 @@ days for routine CAPAs; departures from these defaults are permitted with a
 documented rationale.
 
 ### 5.3 CAPA Request Documentation
-(Required information, assignment of CAPA owner)
+
+Each opened CAPA **SHALL** have a CAPA record, indexed by a unique
+identifier in the CAPA Log (Section 9.1), that contains at opening:
+
+- A problem statement: the actual or potential nonconformity, its extent as
+  known at the time, and its actual or potential consequences
+- The referral source and references to the source records (for example,
+  Nonconformance Log entries per SOP-010, audit findings per SOP-012, or
+  risk review records per SOP-003)
+- The scope, priority, and target dates assigned per Section 5.2
+- The assigned CAPA Owner
+
+The QA Representative **SHALL** assign the CAPA Owner in consultation with
+the Study Director / Principal Investigator or delegate (for study-related
+CAPAs) or the Management Representative (for QMS-level CAPAs). The CAPA
+Owner **SHALL** have authority over, and knowledge of, the affected
+process. Per Section 4.2, the CAPA Owner does not verify the effectiveness
+of their own CAPA.
+
+For a CAPA arising from a nonconformance, the CAPA identifier **SHALL** be
+recorded in the corresponding Nonconformance Log entry per SOP-010
+Section 5.5.
 
 ## 6.0 ROOT CAUSE ANALYSIS AND ACTION PLANNING
 
