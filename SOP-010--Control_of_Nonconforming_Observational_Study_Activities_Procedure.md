@@ -178,7 +178,26 @@ per SOP-009, audits per SOP-012, or risk management per SOP-003).
 
 ### 4.3 Roles and Responsibilities
 
-(Who can identify, who reviews, who approves dispositions)
+This section assigns nonconformance-management responsibilities to the roles
+defined in QM-001 Appendix A. Roles not listed here have no standing
+nonconformance-management duties and act only through the procedures
+referenced from this SOP.
+
+Anyone performing or observing *observational study* activities can identify
+a nonconformance. __NewInstitute__ employees and subcontractors **SHALL**
+report suspected nonconformances promptly per Section 5.1; personnel of
+outsourced service providers report through the mechanisms established in
+their agreements per SOP-006.
+
+| Role | Nonconformance-management responsibilities |
+|---|---|
+| Study Director / Principal Investigator or delegate | Accountable for nonconformance management on the study. Classifies severity (§5.2). Directs containment (§5.3) and correction. Approves dispositions per §5.4.2. Responsible for IRB/IEC reporting per §6.2. |
+| Project Manager | Coordinates containment and correction activities, internal communication (§6.1), and status tracking through closure. |
+| Statistician | Evaluates impact on study validity and the planned analysis (§5.2.2). Consulted before any disposition that accepts or excludes affected data (§5.4.1). |
+| Data Manager | Evaluates data-integrity impact (§5.2.2). Implements data-handling dispositions in study systems per SOP-004. |
+| QA Representative | Independent review of severity classification and disposition (§5.4.2); per QM-001 Appendix A, independent of the activity concerned. Approves closure of each nonconformance. Maintains the Nonconformance Log (§7.1) and trend analysis (§7.2), and applies the escalation thresholds in §6.3. |
+| Management Representative | Coordinates communication with data recipients regarding nonconformances that affect provided data, per QM-001 Section 5.3.2. |
+| Executive Management | Notified of critical nonconformances (§6.1). Provides resources for containment and correction. |
 
 ## 5.0 IDENTIFICATION AND MANAGEMENT
 
