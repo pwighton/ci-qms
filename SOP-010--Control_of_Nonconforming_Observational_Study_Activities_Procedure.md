@@ -417,7 +417,33 @@ closure (Section 4.3).
 Nonconformance trends are reported to management per Section 7.2.
 
 ### 6.2 External Reporting Requirements
-(IRB, regulatory authorities per ICH E6(R2) 5.20)
+
+**IRB/IEC reporting.** The Study Director / Principal Investigator or
+delegate is responsible for reporting to the reviewing IRB/IEC
+(Section 4.3). Protocol deviations **SHALL** be reported in accordance with
+the reviewing IRB/IEC's reporting requirements. At minimum:
+
+- A departure from the protocol to eliminate an immediate hazard to subjects
+  (Section 5.3), and any deviation that meets the definition of an
+  unanticipated problem (SOP-008 Section 4.3.3), **SHALL** be reported
+  within the timelines of SOP-008 Section 4.8.2.
+- Other protocol deviations **SHALL** be summarized to the IRB/IEC at
+  continuing review per SOP-014 Section 4.2.2.
+
+Where a safety event underlies the nonconformance, safety reporting follows
+SOP-008 Section 4.8; reporting under this section **SHALL** be coordinated
+with it so that the IRB/IEC receives consistent, non-duplicative reports.
+
+**Regulatory authorities.** For *observational studies* there may be no
+regulatory authority to which __NewInstitute__ reports directly. Where a
+regulatory authority has jurisdiction over the study, serious or persistent
+noncompliance **SHALL** be reported per ICH E6(R2) Section 5.20 and managed
+with SOP-014.
+
+**Data recipients.** Nonconformances that affect the reliability or the
+regulatory usability of data already provided to a data recipient **SHALL**
+be communicated to that data recipient. This communication is coordinated by
+the Management Representative per QM-001 Section 5.3.2 (Section 4.3).
 
 ### 6.3 Escalation to Other Processes
 (When to trigger SOP-011 CAPA, SOP-003 Risk Management updates)
