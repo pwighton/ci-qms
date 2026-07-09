@@ -169,6 +169,7 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 - **QMS**: Quality Management System
 - **SOP**: Standard Operating Procedure
 - **TMF**: Trial Master File
+- **WI**: Work Instruction
 
 ## 4.0 DOCUMENT CONTROL PROCESS
 
@@ -264,6 +265,12 @@ document identifier from the QA representative.
 In addition to a unique document identifier, each document
 **SHALL** have a revision. Revisions **MAY** be tracked
 automatically by the electronic document management system.
+
+Work Instructions (WIs) are controlled documents subject to this
+procedure and are identified and numbered per this section. A WI
+**SHOULD** be created where an activity requires more detailed
+step-by-step instruction than its governing SOP provides, per the
+documentation tiers of QM-001 Section 4.2.
 
 ### 4.3 Initial Document Creation
 
