@@ -832,9 +832,9 @@ studies subject to the constraints in Section A.3.
 - **QA Representative.** Provides independent quality
   assurance of *observational study* conduct and QMS
   processes. Approves release of controlled documents and
-  records per SOP-002 §4.1. Concurs on study design review
+  records per SOP-002 Section 4.1. Concurs on study design review
   decisions (SOP-005) and on closeout disposition decisions
-  (SOP-002 §5.4.1). Conducts or coordinates internal audits
+  (SOP-002 Section 5.4.1). Conducts or coordinates internal audits
   (SOP-012). The QA Representative **SHALL** be independent
   of the activity being assured.
 
@@ -846,11 +846,11 @@ studies subject to the constraints in Section A.3.
   review decisions (SOP-005). Where __NewInstitute__
   initiates the study, the Study Director is also the
   Sponsor-Investigator; qualification requirements for that
-  scenario are addressed in SOP-001 §4.2.
+  scenario are addressed in SOP-001 Section 4.2.
 
 - **Project Manager** (per study). Responsible for study
   operations, document and records control at the study
-  level (SOP-002 §4.1), and coordination of study-team
+  level (SOP-002 Section 4.1), and coordination of study-team
   activities.
 
 - **Statistician** (per study). Responsible for statistical
@@ -866,7 +866,7 @@ studies subject to the constraints in Section A.3.
 - **Risk Owner** (per risk; one or more per study). Owns the
   assessment and mitigation of a specific risk. Defaults to
   the Study Director unless ownership is explicitly delegated
-  per SOP-003 §4.3.4.
+  per SOP-003 Section 4.3.4.
 
 - **Monitor** (per study). Performs centralized and on-site
   monitoring per SOP-009. May be a __NewInstitute__ employee
