@@ -142,6 +142,7 @@ under SOP-011 (see Section 6.3).
 ### 4.2 Definition of Nonconformance
 
 A nonconformance is any activity, process, or outcome that fails to meet:
+
 - Protocol requirements
 - GCP standards per ICH E6(R2)
 - Applicable regulatory requirements
@@ -149,27 +150,31 @@ A nonconformance is any activity, process, or outcome that fails to meet:
 - Informed consent requirements
 - Data integrity standards
 
-Common types of nonconformances include: 
+Common types of nonconformances include:
+
 - Protocol deviations
 - GCP violations
-- Consent issues
+- Informed consent deficiencies
 - Eligibility violations
 - Data integrity issues
 - Safety reporting failures
 - Training deficiencies
 
 Nonconformances do NOT include:
-- Performance below expectations (unless requirements violated)
-- Potential risks that haven't materialized
-- Recommendations for improvement
 
-Not all findings constitute nonconformances - performance issues or
-observations that do not violate requirements are managed through other quality processes.
+- Performance below expectations, where no requirement is violated
+- Potential risks that have not materialized (managed under SOP-003)
+- Recommendations and opportunities for improvement
+- Quality tolerance limit (QTL) exceedances, which trigger evaluation per
+  SOP-003 Section 5.6.2 and constitute nonconformances only where that
+  evaluation identifies a violated requirement
+- Adverse events and unanticipated problems as such, which are managed under
+  SOP-008; failure to manage a safety event as required (for example, a
+  missed reporting timeline) is a nonconformance
 
-(Drafting note: add boundary exclusions — QTL exceedances are not
-automatically nonconformances per SOP-003 Section 5.6.2; safety events and
-unanticipated problems are managed under SOP-008 and are not automatically
-nonconformances)
+Findings and observations that do not violate a requirement are managed
+through the quality processes that identified them (for example, monitoring
+per SOP-009, audits per SOP-012, or risk management per SOP-003).
 
 ### 4.3 Roles and Responsibilities
 
