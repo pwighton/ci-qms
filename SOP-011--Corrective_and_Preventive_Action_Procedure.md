@@ -214,7 +214,31 @@ Every referral **SHALL** be recorded in the CAPA Log (Section 9.1) and
 evaluated per Section 5.2, whether or not a CAPA is ultimately opened.
 
 ### 5.2 Initial Assessment and Prioritization
-(Risk-based prioritization, timeline assignment based on severity)
+
+The QA Representative **SHALL** coordinate the evaluation of each referral.
+The evaluation determines whether a CAPA is required, its scope (study, QMS
+process, or outsourced activity), and its priority. The decision, including
+a rationale where no CAPA is opened, **SHALL** be recorded in the CAPA Log
+(Section 9.1). Where root cause analysis and corrective and preventive
+action are required by ICH E6(R2) Section 5.20.1 (see SOP-010 Section 6.3),
+a CAPA **SHALL** be opened.
+
+Prioritization **SHALL** be risk-based, using the risk considerations of
+SOP-003 and the impact dimensions of SOP-010 Section 5.2.2 (subject safety,
+data integrity, study validity, and regulatory compliance and downstream
+use), together with the likelihood of recurrence:
+
+- **High**: Potential impact on subject safety, on data integrity for
+  primary endpoints, or on regulatory obligations; or recurrence is likely
+  before a routine timeline would complete. Interim measures
+  (Section 6.2.3) **SHALL** be considered immediately.
+- **Routine**: All other CAPAs.
+
+Target dates **SHALL** be assigned per priority and recorded in the CAPA
+record. As a default, the action plan is approved (Section 6.3) within 30
+calendar days of opening for high-priority CAPAs and within 90 calendar
+days for routine CAPAs; departures from these defaults are permitted with a
+documented rationale.
 
 ### 5.3 CAPA Request Documentation
 (Required information, assignment of CAPA owner)
