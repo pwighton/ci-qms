@@ -376,7 +376,27 @@ disposition and the exit from any containment were implemented as approved
 (Section 4.3).
 
 ### 5.5 Documentation Requirements
-(What must be documented per ICH E6(R2) Section 5.20)
+
+The complete record of each nonconformance **SHALL** include:
+
+- The initial record per Section 5.1
+- The severity classification and impact assessment per Section 5.2
+- Containment actions per Section 5.3
+- The disposition, its rationale, required concurrences, and approvals per
+  Section 5.4
+- Communications and escalations per Section 6.0, including any IRB/IEC
+  reports
+- The closure approval per Section 5.4.2, with dates
+
+For noncompliance that significantly affects subject protection or the
+reliability of study results, ICH E6(R2) Section 5.20.1 requires a root
+cause analysis and appropriate corrective and preventive action. This
+analysis is performed under SOP-011, and the CAPA reference **SHALL** be
+recorded in the Nonconformance Log entry (see Section 6.3).
+
+The Nonconformance Log (Section 7.1) is the index of all nonconformances.
+Supporting records are controlled per SOP-002, maintained in the TMF, and
+cross-referenced from the log entry (Section 9.0).
 
 ## 6.0 COMMUNICATION AND ESCALATION
 
