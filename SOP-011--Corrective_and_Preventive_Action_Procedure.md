@@ -510,7 +510,30 @@ Section 6.2.1). A second not-effective conclusion for the same CAPA
 ## 9.0 CAPA SYSTEM MANAGEMENT
 
 ### 9.1 CAPA Log and Tracking
-(Central repository of all CAPAs and status)
+
+The QA Representative **SHALL** maintain a single CAPA Log covering all
+__NewInstitute__ *observational studies* and QMS operations (Section 4.2).
+The log indexes every referral received under Section 5.1, including
+referrals evaluated and not opened as CAPAs (with the rationale per
+Section 5.2), so that referrals from other QMS processes can be confirmed
+as received and tracked to completion (per SOP-003 Section 7.3.2).
+
+Each entry **SHALL** record, as the CAPA progresses:
+
+- A unique identifier and the scope (study, QMS process, or outsourced
+  activity)
+- The referral source and the evaluation decision (Sections 5.1 and 5.2)
+- The priority and target dates (Section 5.2)
+- The CAPA Owner (Section 5.3)
+- Plan approval, implementation status, and any approved extensions
+  (Sections 6.3, 7.1, and 7.3)
+- The effectiveness verification result (Section 8.2)
+- Closure approval and date (Section 8.3), or reopening per Section 8.4
+- Cross-references to the CAPA record and related records in the TMF
+  (Section 11.0)
+
+The CAPA Log is a controlled record per SOP-002 and is an input to
+scheduled risk reviews per SOP-003 Section 6.1.2.
 
 ### 9.2 Metrics and Trending
 (CAPA performance metrics, overdue rates, effectiveness rates; status and
