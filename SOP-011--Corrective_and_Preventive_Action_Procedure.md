@@ -559,7 +559,14 @@ documented conclusion that no pattern is discernible is an acceptable
 outcome.
 
 ## 10.0 TRAINING
-(Training requirements per the SOP-010 Section 8.0 pattern)
+
+All __NewInstitute__ personnel with responsibilities under Section 4.2,
+including each assigned CAPA Owner, **SHALL** be trained on this procedure
+before exercising those responsibilities and **SHALL** maintain documented
+evidence of training per QM-001 Section 6.1.1.
+
+Retraining **SHALL** be conducted when significant changes are made to this
+procedure.
 
 ## 11.0 RECORDS
 (List of records to maintain in TMF, incl. CAPA Log; retention per SOP-002
