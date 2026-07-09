@@ -5,30 +5,49 @@ subtitle: "SOP-011: Corrective and Preventive Action Procedure"
 
 ## 1.0 PURPOSE
 
-This Standard Operating Procedure (SOP) establishes the systematic approach for
-implementing corrective and preventive actions to address systemic issues,
-prevent recurrence of nonconformances, and drive continuous improvement in
-*observational studies* conducted by __NewInstitute__.
+This Standard Operating Procedure (SOP) establishes the systematic approach
+for corrective and preventive action (CAPA) in *observational studies*
+conducted by __NewInstitute__ and in the operation of its QMS. Corrective
+action eliminates the root cause of a nonconformance that has already
+occurred so that it does not recur; preventive action eliminates the cause
+of a potential nonconformity — identified through analysis of
+*observational study* records, audit findings, and other relevant sources of
+information — before it occurs. Together they prevent recurrence, reduce
+risk, and drive continuous improvement per QM-001 Section 8.3.
 
 ## 2.0 SCOPE
 
 This procedure applies to all corrective and preventive actions arising from
 quality issues, trends, or risks identified during __NewInstitute__
-*observational studies* and QMS operations.
+*observational studies* and QMS operations, including issues involving
+outsourced service providers.
 
-Individual nonconformances are initially managed under
-[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md),
-with systemic issues escalated to this CAPA procedure.
+Individual nonconformances are managed under
+[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md);
+correction of an individual instance is not a CAPA. Nonconformances meeting
+the criteria in SOP-010 Section 6.3 are referred to this procedure; the full
+set of CAPA triggers is described in Section 5.1.
 
-CAPAs may result in changes managed under [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
+Changes resulting from CAPAs are managed under
+[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+where they require a protocol amendment, and under
+[SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+where they change controlled documents such as SOPs, forms, or templates
+(see Section 7.2).
 
-CAPA documentation is controlled under [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
+CAPA documentation is controlled under SOP-002 and maintained in the TMF.
 
-Risk-based decisions for CAPA priorities use
-[SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
+Risk-based prioritization of CAPAs uses
+[SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md);
+CAPA status, effectiveness results, and root cause findings feed back into
+risk management (see Sections 8.3 and 9.2).
 
 Audit findings requiring CAPA are identified through
 [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md).
+
+This procedure applies to all __NewInstitute__ employees and subcontractors
+involved in the conduct of *observational studies* and the operation of the
+QMS. The roles responsible for CAPA management are defined in Section 4.2.
 
 ## 3.0 REFERENCES, TERMS AND ACRONYMS
 
