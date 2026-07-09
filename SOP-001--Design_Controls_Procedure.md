@@ -136,9 +136,9 @@ and subcontractors involved in study design activities.
 ### 3.3 Terms
 
 -   **Clinical Investigation**: The FDA cites the following CFRs (code of 
-    federal regulations) for their definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3(c)), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102(c)),
-    [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3(Clinical%20investigation))
-    and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3(h)).
+    federal regulations) for their definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3%28c%29), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102%28c%29),
+    [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3%28Clinical%20investigation%29)
+    and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3%28h%29).
     This QMS adopts the definition from 21 CFR 50.3(c): any experiment that
     involves a test article and one or more human subjects and that either is
     subject to requirements for prior submission to the Food and Drug
