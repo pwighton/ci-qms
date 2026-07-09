@@ -422,7 +422,27 @@ Representative **SHALL** escalate it to Executive Management promptly
 ## 8.0 EFFECTIVENESS VERIFICATION AND CLOSURE
 
 ### 8.1 Effectiveness Criteria
-(How to determine if CAPA achieved its objective)
+
+Effectiveness criteria are defined in the CAPA plan and approved with it
+(Section 6.3); they are not defined or adjusted at verification time.
+
+Criteria **SHALL** be objective and verifiable from records, source data,
+or derived data, and **SHALL** state:
+
+- The evidence to be examined (for example, the Nonconformance Log, records
+  of the changed activity, or monitoring findings per SOP-009)
+- The result that demonstrates effectiveness (for example, no recurrence of
+  the nonconformance or a related nonconformance within the verification
+  timeframe, or the changed process operating as intended across the
+  occurrences in that period)
+
+Criteria **SHALL** also require that the actions have not introduced new
+problems in the affected process.
+
+Where the affected activity occurs rarely, the criteria **SHALL** define a
+sufficient observation basis (a number of occurrences) rather than relying
+on elapsed time alone, and the verification timeframe is set accordingly
+(Section 8.2).
 
 ### 8.2 Verification Activities
 (Methods to confirm effectiveness, timeframe for verification)
