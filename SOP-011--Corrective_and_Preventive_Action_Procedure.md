@@ -569,5 +569,23 @@ Retraining **SHALL** be conducted when significant changes are made to this
 procedure.
 
 ## 11.0 RECORDS
-(List of records to maintain in TMF, incl. CAPA Log; retention per SOP-002
-Section 5.4)
+
+Records generated under this procedure **SHALL** be maintained per SOP-002
+(in the TMF for study-related CAPAs, and as quality records for QMS-level
+CAPAs) and retained per SOP-002 Section 5.4.
+
+Records **MAY** include but are not limited to:
+- The CAPA Log
+- Referral records and evaluation decisions, including rationales where no
+  CAPA was opened
+- CAPA records, including problem statements, root cause analyses, and
+  approved action plans and their revisions
+- Implementation evidence and completion records
+- Records of interim measures
+- Effectiveness verification records, including not-effective conclusions
+- Closure approvals
+- Cross-references to change records (protocol amendments per SOP-013;
+  controlled-document changes per SOP-002)
+- CAPA status and effectiveness summaries prepared for risk reviews and
+  Management Reviews
+- Training records per Section 10.0
