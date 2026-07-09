@@ -67,7 +67,8 @@ This procedure applies to all __NewInstitute__ personnel involved in:
 2. [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 3. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
 4. [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
-5. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+5. [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
+6. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
 
 ### 3.3 Terms
 
@@ -244,6 +245,10 @@ The auditee **SHALL** respond to audit findings with:
 
 The auditor or audit programme manager **SHALL** verify that corrective actions
 are implemented and effective.
+
+Audit findings that constitute nonconformances (per SOP-010 Section 4.2)
+**SHALL** be managed per
+[SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
 
 Findings requiring systemic corrective or preventive action **SHALL** be
 escalated to
