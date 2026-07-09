@@ -484,7 +484,27 @@ Section 6.2.3.
 ## 7.0 TRACKING AND TRENDING
 
 ### 7.1 Nonconformance Log
-(Central tracking of all nonconformances)
+
+The QA Representative **SHALL** maintain a single Nonconformance Log
+covering all __NewInstitute__ *observational studies* (Section 4.3). The log
+is the central index of all reported nonconformances, including reported
+issues determined not to be nonconformances (Section 5.1).
+
+Each entry **SHALL** record, as the nonconformance progresses:
+
+- A unique identifier and the study affected
+- The initial record content per Section 5.1
+- The severity classification (Section 5.2)
+- Containment actions (Section 5.3)
+- The disposition, its approvals, and closure (Section 5.4)
+- External reports made (Section 6.2)
+- Escalations and their references: CAPA (per SOP-011), amendment (per
+  SOP-013), and risk review (per SOP-003) (Section 6.3)
+- The status (open or closed) and cross-references to supporting records in
+  the TMF (Section 5.5)
+
+The Nonconformance Log is a controlled record per SOP-002 and is an input to
+scheduled risk reviews per SOP-003 Section 6.1.2.
 
 ### 7.2 Metrics and Trend Analysis
 (Identify patterns requiring systemic action; trends reviewed at scheduled
