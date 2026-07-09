@@ -135,7 +135,54 @@ vendors involved in:
 
 ### 3.3 Terms
 
+-   **Audit Trail**: A secure, computer-generated, time-stamped record of
+    the creation, modification, or deletion of electronic records and
+    data, identifying who performed each action and when.
+
+-   **Computerized System**: The hardware, software, and network
+    components of a system, together with its controlled functions and
+    associated documentation, used to create, process, store, transmit,
+    or manage study data or records.
+
+-   **Computer System Validation**: The documented process of establishing
+    that a computerized system consistently performs according to its
+    specifications and is fit for its intended use.
+
+-   **Derived Data**: Data produced by processing, transforming, or
+    analyzing source data, as defined in SOP-002 Section 3.3.
+
+-   **GAMP Category**: The GAMP 5 software classification (Category 1, 3,
+    4, or 5) that scales the required validation activities.
+
+-   **GxP Impact Classification**: The classification of a computerized
+    system as GxP-critical, GxP-relevant, or non-GxP according to its
+    effect on subject safety, data integrity, and regulatory compliance.
+
+-   **Source Data**: All information in original records and certified
+    copies of original records of study findings and observations, as
+    defined in SOP-002 Section 3.3 [ICH E6(R2) 1.51].
+
 ### 3.4 Acronyms
+
+- **ALCOA+**: Attributable, Legible, Contemporaneous, Original, Accurate,
+  plus Complete, Consistent, Enduring, and Available
+- **BIDS**: Brain Imaging Data Structure
+- **CRF**: Case Report Form
+- **DICOM**: Digital Imaging and Communications in Medicine
+- **DS**: Design Specification
+- **EDC**: Electronic Data Capture
+- **FS**: Functional Specification
+- **GAMP**: Good Automated Manufacturing Practice
+- **GxP**: Good Practice regulations and guidance collectively (for
+  example, good clinical, laboratory, and manufacturing practice)
+- **HIPAA**: Health Insurance Portability and Accountability Act
+- **IEC**: Independent Ethics Committee
+- **IQ**: Installation Qualification
+- **IRB**: Institutional Review Board
+- **OQ**: Operational Qualification
+- **PQ**: Performance Qualification
+- **QMS**: Quality Management System
+- **URS**: User Requirements Specification
 
 ## 4.0 COMPUTER SYSTEM VALIDATION
 
