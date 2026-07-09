@@ -112,33 +112,32 @@ disposition, and closure are defined in Section 4.3.
 
 ### 4.1 Overview
 
-This procedure establishes the systematic process for managing nonconforming 
-activities identified during the conduct of observational studies. 
-Nonconformances are activities, processes, or outcomes that fail to meet 
-protocol requirements, GCP standards per ICH E6(R2), regulatory requirements, 
-or established procedures.
+This procedure establishes the systematic process for managing nonconforming
+activities identified during the conduct of *observational studies*.
+Section 4.2 defines what constitutes a nonconformance.
 
-The nonconformance management process includes:
+The nonconformance management process consists of:
 
-- **Identification**: Recognition and reporting of nonconformances from any 
-  source (monitoring, audits, self-reporting, data review, external 
-  notifications)
-- **Assessment**: Classification of severity and evaluation of impact on 
-  subject safety and data integrity
-- **Containment**: Immediate actions to prevent continuation or recurrence
-- **Disposition**: Determination of appropriate corrective actions and data 
-  handling decisions
-- **Documentation**: Recording per ICH E6(R2) Section 5.20 requirements
-- **Communication**: Notification to relevant parties based on severity and 
-  regulatory requirements
-- **Escalation**: Elevation to CAPA process (SOP-011) for systemic issues or 
-  to management/regulatory authorities for critical nonconformances
-- **Tracking**: Maintenance of nonconformance log for trend analysis and 
-  quality metrics
+- **Identification**: Recognition and reporting of nonconformances from any
+  source (Section 5.1)
+- **Assessment**: Classification of severity and evaluation of impact on
+  subject safety, data integrity, and study validity (Section 5.2)
+- **Containment**: Immediate actions to prevent the nonconformance from
+  continuing or spreading (Section 5.3)
+- **Disposition**: Documented decision on correction and the handling of
+  affected data and records (Section 5.4)
+- **Documentation**: Recording per ICH E6(R2) Section 5.20 (Section 5.5)
+- **Communication**: Notification of relevant parties based on severity and
+  regulatory requirements (Sections 6.1 and 6.2)
+- **Escalation**: Hand-off to CAPA (per SOP-011), change control (per
+  SOP-013), or risk management (per SOP-003) where the thresholds in
+  Section 6.3 are met
+- **Tracking**: Maintenance of the Nonconformance Log for trend analysis and
+  quality metrics (Section 7.0)
 
-Systemic issues identified through nonconformance trends are escalated to 
-the CAPA process (SOP-011). Updates to risk assessments based on 
-nonconformance patterns are managed under SOP-003.
+Correction of an individual nonconformance is managed under this procedure;
+root cause analysis and systemic corrective and preventive action are managed
+under SOP-011 (see Section 6.3).
 
 ### 4.2 Definition of Nonconformance
 
