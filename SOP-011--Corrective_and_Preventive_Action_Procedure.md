@@ -267,7 +267,36 @@ Section 5.5.
 ## 6.0 ROOT CAUSE ANALYSIS AND ACTION PLANNING
 
 ### 6.1 Root Cause Investigation
-(Methods: 5 Whys, fishbone, process mapping as appropriate)
+
+The CAPA Owner **SHALL** lead a root cause investigation proportionate to
+the priority and complexity of the issue and **SHALL** document the
+analysis in the CAPA record. Structured methods such as Five Whys, fishbone
+(Ishikawa) diagrams, or process mapping **MAY** be used; for a
+straightforward issue, a brief documented analysis is sufficient.
+
+The investigation **SHALL**:
+
+- Examine the evidence in the source records and, where needed, gather
+  additional evidence (for example, interviews, record review, or process
+  observation)
+- Determine the extent of the underlying cause: whether other activities,
+  studies, or processes are affected by the same cause
+- Establish why existing controls did not prevent or detect the issue
+- Identify the root cause or causes at the process, system, or
+  organizational level (Section 3.3), not the immediate error or the
+  individual involved
+
+The root cause conclusion and its supporting evidence **SHALL** be recorded
+in the CAPA record. Where a root cause cannot be established with
+confidence, the most probable cause **SHALL** be documented as such and the
+action plan designed accordingly; effectiveness verification (Section 8.0)
+then serves as the test of that judgment.
+
+Where the investigation reveals a previously unidentified risk or an
+inadequacy of existing controls, the finding **SHALL** be referred to risk
+management: it is a trigger for an unscheduled risk review per SOP-003
+Section 6.2.1 and informs risk score adjustments per SOP-003
+Section 6.2.3.
 
 ### 6.2 Action Plan Development
 #### 6.2.1 Corrective Actions
