@@ -63,16 +63,17 @@ disposition, and closure are defined in Section 4.3.
 ### 3.2 __NewInstitute__ References
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
-2. [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
-3. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
-4. [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
-5. [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
-6. [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
-7. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
-8. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
-9. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
-10. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
-11. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
+2. [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
+3. [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+4. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
+5. [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+6. [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+7. [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
+8. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+9. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+10. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
+11. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+12. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -189,6 +190,11 @@ report suspected nonconformances promptly per Section 5.1; personnel of
 outsourced service providers report through the mechanisms established in
 their agreements per SOP-006.
 
+Where the responsibilities below are exercised by a delegate, the delegation
+**SHALL** be recorded in the study's Delegation of Authority Log per SOP-001
+Section 5.5.4. Delegation of document approval authority additionally follows
+SOP-002 Section 5.3.3.
+
 | Role | Nonconformance-management responsibilities |
 |---|---|
 | Study Director / Principal Investigator or delegate | Accountable for nonconformance management on the study. Classifies severity (§5.2). Directs containment (§5.3) and correction. Approves dispositions per §5.4.2. Responsible for IRB/IEC reporting per §6.2. |
@@ -203,13 +209,36 @@ their agreements per SOP-006.
 
 ### 5.1 Identification and Initial Documentation
 
-Nonconformances **MAY** be identified through:
-- Monitoring activities (per SOP-009)
-- Risk review activities (per SOP-003)
-- Quality audits (per SOP-012)
-- Self-reporting by study personnel
+Nonconformances can arise from any source. Common identification routes
+include:
+
+- Monitoring activities (per SOP-009 Section 4.5.3)
+- Risk management activities (per SOP-003 Section 6.3.4)
+- Internal and external audits (per SOP-012 Section 6.5)
+- Data integrity incidents (per SOP-004 Section 4.8.3)
 - Data management or medical review
-- External notifications (IRB, regulatory, vendor)
+- Self-reporting by study personnel
+- Notifications from outsourced service providers (per SOP-006 Section 4.6)
+- External notifications (IRB/IEC, regulatory authority, or data recipient)
+
+A person who identifies a suspected nonconformance **SHALL** report it
+promptly to the Study Director or the QA Representative. The identifier
+**SHALL NOT** screen out a suspected nonconformance; whether a reported
+issue constitutes a nonconformance (Section 4.2) is determined during
+classification per Section 5.2.
+
+The QA Representative **SHALL** record each reported nonconformance in the
+Nonconformance Log (Section 7.1). The initial record **SHALL** include:
+
+- A description of the issue and the requirement not met
+- The study activity, records, data, and subjects affected, as known at the
+  time of reporting
+- The date of occurrence (where known) and the date of identification
+- The identification source
+- The person who identified the issue
+
+Reported issues determined not to be nonconformances **SHALL** be closed in
+the Nonconformance Log with the rationale recorded.
 
 ### 5.2 Classification and Severity Assessment
 
