@@ -296,7 +296,35 @@ isolated occurrence or part of a pattern (see Section 7.2). The assessment
 and its conclusions **SHALL** be recorded in the Nonconformance Log.
 
 ### 5.3 Immediate Actions and Containment
-(Stop the nonconformance from continuing or spreading)
+
+The Study Director / Principal Investigator or delegate **SHALL** determine,
+for each nonconformance, whether containment is required and **SHALL** direct
+any containment actions. Containment of a critical nonconformance **SHALL**
+begin immediately upon identification. Containment prevents a nonconformance
+from continuing or spreading while its disposition is determined; it does not
+replace correction (Section 5.4) or corrective action (per SOP-011).
+
+Containment actions are proportionate to the severity and extent of the
+nonconformance and can include:
+
+- Suspending or restricting the affected study activity
+- Flagging or segregating affected records and data in study systems pending
+  disposition (with the Data Manager, per SOP-004)
+- Suspending the affected outsourced activity (per SOP-006 Section 4.6)
+- Additional supervision or instruction for the personnel involved
+- Notifying parties whose prompt awareness is needed to prevent further
+  impact (Section 6.0)
+
+Actions necessary to protect subjects **SHALL NOT** be delayed by this
+procedure. A departure from the protocol to eliminate an immediate hazard to
+study subjects is permitted without prior IRB/IEC approval per ICH E6(R2)
+Section 4.5.4. Such a departure **SHALL** be recorded as a protocol deviation
+under this procedure, reported per Section 6.2, and, where it reveals the
+need for a protocol amendment, **SHALL** trigger SOP-013 per Section 6.3.
+Management of the underlying safety event itself follows SOP-008.
+
+Containment actions, their dates, and the person directing them **SHALL** be
+recorded in the Nonconformance Log.
 
 ### 5.4 Review and Disposition
 
