@@ -367,7 +367,7 @@ be available at all locations for which they are designated,
 used, or otherwise necessary. This is accomplished through
 the electronic document management system.
 
-## 4.7 Documents of External Origin
+### 4.7 Documents of External Origin
 
 Documents of external origin required for the quality system
 or for the conduct of observational studies **SHALL** be
@@ -439,7 +439,7 @@ procedure. Their management is addressed under
 Management
 Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md).
 
-## 5.1 General
+### 5.1 General
 
 Records are established to provide evidence that study
 processes and the quality system conform to QMS requirements.
@@ -455,7 +455,7 @@ records in secure storage with controlled access. The Study
 Protocol **SHALL** document the location and format of
 study-specific records.
 
-## 5.2 Required Content
+### 5.2 Required Content
 
 All records **SHALL** include, at a minimum, the following
 information:
@@ -468,7 +468,7 @@ information:
   attribution for electronic records)
 - Date (and where appropriate, time) the record was created
 
-## 5.3 Good Record Keeping Practices
+### 5.3 Good Record Keeping Practices
 
 The objective of good record keeping practices is to
 consistently produce complete and understandable records that
@@ -484,7 +484,7 @@ The following subsections define requirements for both paper
 and electronic records. Where requirements differ by format,
 this is noted.
 
-### 5.3.1 Requirements for Creating Records
+#### 5.3.1 Requirements for Creating Records
 
 The following requirements **SHALL** be followed when
 creating records:
@@ -519,7 +519,7 @@ creating records:
   identity of the person making the entry and the date and
   time of the entry.
 
-### 5.3.2 Signature and Initial Entries
+#### 5.3.2 Signature and Initial Entries
 
 **Paper records:**
 
@@ -544,7 +544,7 @@ creating records:
   The electronic system **SHOULD** identify when an action
   is performed by a delegate.
 
-### 5.3.3 Delegation of Approval Authority
+#### 5.3.3 Delegation of Approval Authority
 
 A person's direct reporting superior is always authorized to
 approve on that person's behalf.
@@ -560,7 +560,7 @@ representative. The notification **SHALL**:
 - Describe a restricted time frame for the delegation
 - Be approved by the delegator
 
-### 5.3.4 Date and Time Entries
+#### 5.3.4 Date and Time Entries
 
 The following requirements **SHALL** be followed regarding
 date and time entries:
@@ -590,7 +590,7 @@ date and time entries:
 - The electronic system **SHOULD** automatically capture
   date and time of entry where feasible.
 
-### 5.3.5 Modifying Records
+#### 5.3.5 Modifying Records
 
 Records **SHALL** only be modified through formal correction
 processes that preserve the original entry and provide a
@@ -631,7 +631,7 @@ along with the reason for the correction.
 - The system **SHALL** provide a mechanism for recording the
   reason for the correction at the time it is made.
 
-### 5.3.6 Attachments
+#### 5.3.6 Attachments
 
 When attachments are used to complete a record, each
 attachment **SHALL** include a traceable identifier and
@@ -646,7 +646,7 @@ For electronic attachments, the electronic system **SHOULD**
 maintain the association between the attachment and the
 parent record automatically.
 
-### 5.3.7 Digitization of Paper Records
+#### 5.3.7 Digitization of Paper Records
 
 Paper records **MAY** be converted to electronic format. The
 electronic version **SHALL** be verified as a complete and
@@ -660,7 +660,7 @@ are retained after digitization or whether the verified
 electronic version serves as the certified copy for the
 study record.
 
-## 5.4 Retention of Study Records and Study Data
+### 5.4 Retention of Study Records and Study Data
 
 This section establishes the canonical retention policy for
 study records, source data, and derived data under this QMS.
@@ -690,7 +690,7 @@ generally not itself the sponsor of a marketing application,
 but its observational study data may be relied upon by a
 downstream sponsor for such an application.
 
-### 5.4.1 Closeout Disposition Decision
+#### 5.4.1 Closeout Disposition Decision
 
 Because downstream regulatory use of __NewInstitute__
 observational study data may begin years after study end, the
