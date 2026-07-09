@@ -543,5 +543,19 @@ commensurate with those responsibilities before exercising them. Retraining
 **SHALL** be conducted when significant changes are made to this procedure.
 
 ## 9.0 RECORDS
-(List of records to maintain in TMF, incl. Nonconformance Log; retention per
-SOP-002 Section 5.4)
+
+Records generated under this procedure **SHALL** be maintained in the TMF
+per SOP-002 and retained per SOP-002 Section 5.4.
+
+Records **MAY** include but are not limited to:
+- The Nonconformance Log
+- Nonconformance reports and initial records
+- Impact assessments and severity classifications
+- Containment documentation
+- Disposition records, including rationales, Statistician concurrences, and
+  approvals
+- Delegation records per SOP-001 Section 5.5.4
+- Reports to the IRB/IEC, regulatory authorities, and data recipients
+- CAPA referrals and their references
+- Trend summaries prepared for risk reviews and Management Reviews
+- Training records per Section 8.0
