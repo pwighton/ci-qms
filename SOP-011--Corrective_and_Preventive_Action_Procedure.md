@@ -468,7 +468,24 @@ An effective conclusion proceeds to closure per Section 8.3; a
 not-effective conclusion is handled per Section 8.4.
 
 ### 8.3 CAPA Closure
-(Closure criteria, approval requirements, documentation)
+
+A CAPA **SHALL** be closed only when all of the following hold:
+
+- Implementation is complete per Section 7.1
+- The effectiveness verification concluded effective per Section 8.2
+- Interim measures have been retired (Section 6.2.3)
+- Change records arising from the CAPA are approved, in effect, and
+  cross-referenced in the CAPA record (Section 7.2)
+- The CAPA record is complete (Section 11.0)
+
+The QA Representative **SHALL** confirm that these conditions are met, and
+the plan-approval authority for the CAPA (Section 6.3) **SHALL** approve
+the closure. The closure date **SHALL** be recorded in the CAPA Log.
+
+Closure outcomes, including the effectiveness result, feed risk management
+and management reporting per Section 9.2, and effectiveness verification
+results from completed CAPAs inform risk assessment updates per SOP-003
+Section 6.3.4.
 
 ### 8.4 Unsuccessful CAPAs
 (Process when CAPA doesn't achieve objectives)
