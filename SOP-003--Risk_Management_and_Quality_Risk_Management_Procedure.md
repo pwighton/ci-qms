@@ -349,9 +349,10 @@ lifecycle and across studies:
   - Timeliness of risk identification
   - Resource efficiency in risk management
 
-- **Process Refinement**: This procedure and associated tools **SHALL** be 
-  reviewed annually and updated based on accumulated experience, regulatory 
-  updates, and industry best practices.
+- **Process Refinement**: This procedure and associated tools are updated
+  as needs are identified through lessons learned (Section 7.2),
+  regulatory updates, and the annual Management Review (QM-001
+  Section 5.3.3).
 
 ### 4.3 Roles and Responsibilities
 

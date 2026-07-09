@@ -425,6 +425,9 @@ discussion:
 
 -   QMS issues
 
+-   Continued suitability of QMS documents (the Quality Manual, SOPs,
+    and WIs)
+
 -   Staff training needs and investigator qualification requirements
 
 -   Systems, equipment and infrastructure needs to support studies and the QMS
