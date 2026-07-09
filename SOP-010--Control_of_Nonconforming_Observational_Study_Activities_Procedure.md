@@ -51,14 +51,62 @@ disposition, and closure are defined in Section 4.3.
 
 ### 3.1 Guidance and Regulatory References
 
-### 3.2 __NewInstitute__ References 
+- [ICH E6(R2)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r2-good-clinical-practice-integrated-addendum-ich-e6r1):
+  Good Clinical Practice: Integrated Addendum to ICH E6(R1)
+  - Section 4.5 (compliance with protocol)
+  - Section 5.20 (noncompliance)
+
+- [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management
+  systems — Requirements
+  - Section 10.2 (nonconformity and corrective action)
+
+### 3.2 __NewInstitute__ References
+
+1. [QM-001: Quality Manual](QM-001--QualityManual.md)
+2. [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
+3. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
+4. [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
+5. [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+6. [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
+7. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+8. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+9. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
+10. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+11. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
 
 ### 3.3 Terms
 
+-   **Containment**: Immediate action taken to prevent a nonconformance from
+    continuing or spreading while its disposition is determined (see
+    Section 5.3).
+
+-   **Correction**: Action to eliminate a detected nonconformance or its
+    immediate effects. A correction addresses the specific instance; action to
+    eliminate the root cause and prevent recurrence is corrective action,
+    managed under SOP-011.
+
+-   **Disposition**: The documented decision on how a nonconformance and any
+    affected data or records are handled (see Section 5.4.1).
+
+-   **Nonconformance**: Non-fulfillment of a requirement [ISO 9001:2015],
+    including protocol requirements, GCP standards, applicable regulatory
+    requirements, and approved procedures. Section 4.2 defines the boundaries
+    of this term. Equivalent to "nonconformity" as used in SOP-012.
+
+-   **Protocol Deviation**: An unplanned departure from the IRB/IEC-approved
+    protocol that is not prospectively authorized by the sponsor, as defined
+    in SOP-013 Section 3.3. Protocol deviations are managed under this
+    procedure.
+
 ### 3.4 Acronyms
 
-- GCP
-- TMF
+- **CAPA**: Corrective and Preventive Action
+- **GCP**: Good Clinical Practice
+- **IEC**: Independent Ethics Committee
+- **IRB**: Institutional Review Board
+- **QA**: Quality Assurance
+- **QTL**: Quality Tolerance Limit
+- **TMF**: Trial Master File
 
 ## 4.0 NONCONFORMANCE MANAGEMENT FRAMEWORK
 
