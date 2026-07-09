@@ -126,10 +126,19 @@ vendors involved in:
 4.  [SOP-006: Outsourced Activities
     Procedure](SOP-006--Outsourced_Activities_Procedure.md)
 
-5.  [SOP-013: Change Control
+5.  [SOP-007: Study Closeout and Archiving
+    Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
+
+6.  [SOP-009: Monitoring and Oversight
+    Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+
+7.  [SOP-010: Control of Nonconforming Observational Study Activities
+    Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
+
+8.  [SOP-013: Change Control
     Procedure](SOP-013--Change_Control_Procedure.md)
 
-6.  [SOP-015: Observational Study Software Development
+9.  [SOP-015: Observational Study Software Development
     and Validation
     Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
 
