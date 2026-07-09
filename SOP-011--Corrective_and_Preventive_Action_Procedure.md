@@ -156,9 +156,8 @@ activities of an outsourced service provider.
 ### 4.2 Roles and Responsibilities
 
 This section assigns CAPA responsibilities to the roles defined in QM-001
-Appendix A, plus the CAPA Owner defined in Section 3.3. Roles not listed
-here have no standing CAPA duties and act through the trigger procedures
-listed in Section 5.1.
+Appendix A, plus the CAPA Owner. Roles not listed here have no standing
+CAPA duties and act through the trigger procedures listed in Section 5.1.
 
 | Role | CAPA responsibilities |
 |---|---|
@@ -283,8 +282,7 @@ The investigation **SHALL**:
   studies, or processes are affected by the same cause
 - Establish why existing controls did not prevent or detect the issue
 - Identify the root cause or causes at the process, system, or
-  organizational level (Section 3.3), not the immediate error or the
-  individual involved
+  organizational level, not the immediate error or the individual involved
 
 The root cause conclusion and its supporting evidence **SHALL** be recorded
 in the CAPA record. Where a root cause cannot be established with
@@ -299,12 +297,47 @@ Section 6.2.1 and informs risk score adjustments per SOP-003
 Section 6.2.3.
 
 ### 6.2 Action Plan Development
+
+The CAPA Owner **SHALL** develop an action plan that addresses the root
+cause identified in Section 6.1. For each action, the plan **SHALL**
+identify the responsible person, the target completion date, and the
+records that will evidence completion. The plan also includes the
+effectiveness criteria and verification timeframe required for approval by
+Section 6.3.
+
 #### 6.2.1 Corrective Actions
-(Fix the immediate problem)
+
+Corrective actions eliminate the root cause of a nonconformance that has
+occurred so that it does not recur. Correction of the
+individual instance (containment and the disposition of affected activities,
+data, and records) is handled under SOP-010 and is not part of the CAPA
+plan; the plan **SHALL** cross-reference the relevant dispositions.
+
+Examples include revising a procedure or form, adding a verification step
+or control, changing how an activity is scheduled or resourced, and
+adjusting an outsourced arrangement per SOP-006. Where the root cause is a
+deficient procedure or system, retraining alone does not eliminate it;
+training in a corrective role accompanies a change to the underlying
+procedure or system.
+
 #### 6.2.2 Preventive Actions
-(Prevent recurrence and similar issues)
+
+Preventive actions eliminate the cause of a potential nonconformity before
+a nonconformance occurs. The plan **SHALL** consider whether
+the root cause, or the same weakness, exists in other activities, studies,
+or processes (per the extent determination of Section 6.1) and **SHALL**
+extend the actions to them where warranted. A corrective CAPA can therefore
+include preventive actions; a CAPA opened from a preventive trigger
+(Section 5.1) consists of preventive actions alone.
+
 #### 6.2.3 Interim Measures
-(Temporary controls while permanent solution implemented)
+
+Where the permanent action cannot be implemented promptly, interim measures
+**SHALL** be implemented to limit risk in the meantime; for
+high-priority CAPAs they are considered at opening per Section 5.2. Interim
+measures are recorded in the CAPA record with a planned end date, are
+coordinated with (and do not replace) containment under SOP-010
+Section 5.3, and are retired when the permanent action is in place.
 
 ### 6.3 CAPA Plan Approval
 (Approval requirements based on risk/scope)
