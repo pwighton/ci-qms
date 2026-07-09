@@ -406,7 +406,18 @@ An action that depends on such a change is not complete (Section 7.1) until
 the change is approved and in effect under its controlling process.
 
 ### 7.3 Progress Monitoring
-(Regular review, escalation for delayed CAPAs)
+
+The CAPA Owner **SHALL** keep the status of each assigned CAPA current in
+the CAPA record as actions complete (Section 7.1). The QA Representative
+**SHALL** monitor open CAPAs against their target dates through the CAPA
+Log; the status of open CAPAs is reviewed at each scheduled risk review per
+SOP-003 Section 6.1.2 and reported per Section 9.2.
+
+A target date **MAY** be extended with a documented rationale and the
+approval of the plan-approval authority (Section 6.3). A CAPA that passes a
+target date without an approved extension is overdue, and the QA
+Representative **SHALL** escalate it to Executive Management promptly
+(Section 4.2).
 
 ## 8.0 EFFECTIVENESS VERIFICATION AND CLOSURE
 
