@@ -2049,6 +2049,11 @@ Changes to risk management documents after initial approval **SHALL** follow
 
 ## 10.0 TRAINING REQUIREMENTS
 
-### 10.1 Initial Training
+Personnel holding responsibilities under Section 4.3 **SHALL** be trained
+on this procedure commensurate with those responsibilities before
+exercising them, and maintain documented evidence of training per QM-001
+Section 6.1.1.
 
-### 10.2 Ongoing Training
+Retraining **SHALL** be conducted when significant changes are made to
+this procedure. Additional training **MAY** be recommended through the
+lessons-learned process per Section 7.2.2.
