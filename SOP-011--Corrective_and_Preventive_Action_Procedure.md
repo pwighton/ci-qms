@@ -445,7 +445,27 @@ on elapsed time alone, and the verification timeframe is set accordingly
 (Section 8.2).
 
 ### 8.2 Verification Activities
-(Methods to confirm effectiveness, timeframe for verification)
+
+Each CAPA receives a single planned effectiveness verification. The
+verification timeframe is defined in the approved plan (Section 6.3); the
+default is 90 calendar days after implementation completion (Section 7.1).
+A different timeframe **MAY** be set with a documented rationale, for
+example to cover a sufficient observation basis for a rarely occurring
+activity (Section 8.1) or to align with a scheduled audit per SOP-012.
+
+At the planned time, the effectiveness verifier (Section 4.2) **SHALL**
+examine the evidence specified by the effectiveness criteria. Verification
+is typically a review of the specified records, source data, or derived
+data; it **MAY** additionally include observation of the changed activity
+or a focused audit per SOP-012.
+
+The verifier **SHALL** record in the CAPA record:
+
+- The evidence examined and the result against each criterion
+- The conclusion: effective, or not effective
+
+An effective conclusion proceeds to closure per Section 8.3; a
+not-effective conclusion is handled per Section 8.4.
 
 ### 8.3 CAPA Closure
 (Closure criteria, approval requirements, documentation)
