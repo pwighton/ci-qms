@@ -446,7 +446,40 @@ be communicated to that data recipient. This communication is coordinated by
 the Management Representative per QM-001 Section 5.3.2 (Section 4.3).
 
 ### 6.3 Escalation to Other Processes
-(When to trigger SOP-011 CAPA, SOP-003 Risk Management updates)
+
+The QA Representative applies the escalation criteria in this section
+(Section 4.3). Escalation does not suspend the management of the individual
+nonconformance under this procedure; containment, correction, and
+disposition proceed in parallel.
+
+**CAPA (per SOP-011).** A nonconformance **SHALL** be referred for CAPA
+evaluation per SOP-011 when any of the following applies:
+
+- The nonconformance is classified critical (Section 5.2.1)
+- The noncompliance significantly affects subject protection or the
+  reliability of study results, in which case root cause analysis and
+  corrective and preventive action are required per ICH E6(R2)
+  Section 5.20.1
+- The same or a related nonconformance recurs, or trend analysis indicates a
+  potential systemic issue (Section 7.2)
+- The suspected root cause is systemic (for example, a deficient procedure,
+  system, or training program) rather than an isolated error
+
+The CAPA reference **SHALL** be recorded in the Nonconformance Log entry
+(Section 5.5). Nonconformances that meet none of these criteria are
+corrected and closed under this procedure alone.
+
+**Change control (per SOP-013).** If a nonconformance reveals the need for a
+protocol amendment — including following a departure to eliminate an
+immediate hazard (Section 5.3) — the Study Director / Principal Investigator
+or delegate **SHALL** initiate an amendment per SOP-013.
+
+**Risk management (per SOP-003).** A critical or major nonconformance, and a
+nonconformance trend indicating a potential systemic issue, are triggers for
+an unscheduled risk review per SOP-003 Section 6.2.1; the QA Representative
+**SHALL** refer them to the risk review process. Root cause findings from
+nonconformance reviews also inform risk score adjustments per SOP-003
+Section 6.2.3.
 
 ## 7.0 TRACKING AND TRENDING
 
