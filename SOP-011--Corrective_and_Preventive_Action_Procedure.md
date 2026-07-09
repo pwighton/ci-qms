@@ -340,7 +340,32 @@ coordinated with (and do not replace) containment under SOP-010
 Section 5.3, and are retired when the permanent action is in place.
 
 ### 6.3 CAPA Plan Approval
-(Approval requirements based on risk/scope)
+
+The action plan **SHALL** be approved before implementation begins. Interim
+measures per Section 6.2.3 **MAY** be implemented before plan approval.
+
+A plan **SHALL NOT** be approved unless it defines:
+
+- The actions, responsible persons, target dates, and completion evidence
+  per Section 6.2
+- The effectiveness criteria (Section 8.1)
+- The effectiveness verification timeframe (Section 8.2)
+- Any interim measures and their planned end dates
+
+The QA Representative **SHALL** review each plan before approval and
+confirm that it addresses the identified root cause and that its
+effectiveness criteria are objective and verifiable.
+
+Approval authority follows the CAPA's scope (Section 4.2):
+
+| CAPA scope | Plan approval |
+|---|---|
+| Affecting a study | Study Director / Principal Investigator or delegate |
+| QMS-level process, or requiring significant resources | Executive Management |
+
+A CAPA affecting both a study and a QMS-level process **SHALL** be approved
+by both authorities. Material changes to an approved plan **SHALL** be
+approved by the same authorities and documented in the CAPA record.
 
 ## 7.0 IMPLEMENTATION AND TRACKING
 
