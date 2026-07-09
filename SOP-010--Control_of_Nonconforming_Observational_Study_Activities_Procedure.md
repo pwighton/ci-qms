@@ -338,7 +338,7 @@ protocol amendment, escalation follows Section 6.3.
 The disposition consists of one or more of the following, each with a
 documented rationale:
 
-- **Correct**: Eliminate the nonconformance and its effects — for example,
+- **Correct**: Eliminate the nonconformance and its effects; for example,
   complete missing documentation, re-obtain or re-document informed consent,
   or re-perform the affected activity per the protocol.
 
@@ -470,9 +470,9 @@ The CAPA reference **SHALL** be recorded in the Nonconformance Log entry
 corrected and closed under this procedure alone.
 
 **Change control (per SOP-013).** If a nonconformance reveals the need for a
-protocol amendment — including following a departure to eliminate an
-immediate hazard (Section 5.3) — the Study Director / Principal Investigator
-or delegate **SHALL** initiate an amendment per SOP-013.
+protocol amendment (including following a departure to eliminate an
+immediate hazard per Section 5.3), the Study Director / Principal
+Investigator or delegate **SHALL** initiate an amendment per SOP-013.
 
 **Risk management (per SOP-003).** A critical or major nonconformance, and a
 nonconformance trend indicating a potential systemic issue, are triggers for
@@ -534,8 +534,8 @@ SOP-003 Section 6.2.1).
 ## 8.0 TRAINING
 
 All __NewInstitute__ personnel involved in the conduct of *observational
-studies* **SHALL** be trained on this procedure — at minimum on the
-recognition and reporting of nonconformances per Section 5.1 — and maintain
+studies* **SHALL** be trained on this procedure, at minimum on the
+recognition and reporting of nonconformances per Section 5.1, and maintain
 documented evidence of training per QM-001 Section 6.1.1.
 
 Personnel holding responsibilities under Section 4.3 **SHALL** be trained

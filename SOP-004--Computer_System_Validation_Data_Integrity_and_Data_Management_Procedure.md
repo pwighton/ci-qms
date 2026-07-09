@@ -897,7 +897,7 @@ Section 4.0.
 
 Study data management ensures that data collected during
 observational studies is trustworthy, traceable, and
-available throughout its lifecycle — from acquisition through
+available throughout its lifecycle, from acquisition through
 processing to archival.
 
 The study data management approach defined in this section
@@ -999,7 +999,7 @@ documents.
 
 Source data **SHALL** be captured in a manner that preserves
 the original observation or measurement. Data **SHALL** be
-recorded contemporaneously — at the time the activity is
+recorded contemporaneously, at the time the activity is
 performed or as soon as practical thereafter.
 
 The Study Protocol **SHALL** specify the method of capture
@@ -1095,7 +1095,7 @@ alongside the derived data.
 #### 5.4.2 Reproducibility Requirements
 
 Processing of source data into derived data **SHOULD** be
-reproducible — applying the same software, version, and
+reproducible: applying the same software, version, and
 parameters to the same source data **SHOULD** produce the
 same derived data.
 
@@ -1167,7 +1167,7 @@ including:
 - Who has access to the identification key
 
 De-identification **SHALL** preserve the integrity of the
-study data — data elements required for analysis **SHALL
+study data; data elements required for analysis **SHALL
 NOT** be removed or altered during de-identification.
 
 Source data **SHALL** be de-identified before transfer

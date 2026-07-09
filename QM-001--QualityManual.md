@@ -784,15 +784,15 @@ in accordance with the Regulatory Compliance Management Procedure, SOP-014.
 __NewInstitute__'s organization for the design and conduct of
 *observational studies* is structured into three tiers:
 
-- **Tier 1 — Institutional leadership.** Executive Management
+- **Tier 1: Institutional leadership.** Executive Management
   owns the QMS and allocates resources.
-- **Tier 2 — Institutional quality function.** The Management
+- **Tier 2: Institutional quality function.** The Management
   Representative coordinates the QMS; the QA Representative
   provides independent quality oversight of all studies and
   QMS processes. Both report directly to Executive Management
   so that QA's independence from QMS coordination activities
   is preserved.
-- **Tier 3 — Study teams.** Each *observational study* is
+- **Tier 3: Study teams.** Each *observational study* is
   led by a Study Director / Principal Investigator (one role,
   referred to below as "Study Director") and staffed with the
   roles required by the study protocol.
@@ -939,7 +939,7 @@ documentation as part of protocol development per SOP-001.
   - ISO-9001:2015
     - Section 6.2 (Quality objectives and planning to achieve them)
   - ICH E8(R1)
-    - Section 3 (Desining Quality Into Clinical Studies)
+    - Section 3 (Designing Quality Into Clinical Studies)
     - Section 7 (Considerations in Identifying Critical to Quality Factors)
 
 - Resources

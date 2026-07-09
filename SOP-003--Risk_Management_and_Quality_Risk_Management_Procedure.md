@@ -449,7 +449,7 @@ through approval.
 Risk management activities progress through two stages aligned
 with design control phases:
 
-**Stage 1 — Preliminary Risk Identification (SOP-001 Section
+**Stage 1: Preliminary Risk Identification (SOP-001 Section
 5.2: Study Concept and Feasibility)**
 
 During study concept and feasibility, the study team **SHALL**
@@ -469,7 +469,7 @@ development.
 Activities supporting this stage are described in Section 5.2
 (Initial Risk Identification).
 
-**Stage 2 — Comprehensive Risk Assessment (SOP-001 Section 5.3:
+**Stage 2: Comprehensive Risk Assessment (SOP-001 Section 5.3:
 Protocol Development)**
 
 During protocol development, the Initial Risk Management Plan
@@ -1816,7 +1816,7 @@ maintained in the TMF.
 Based on the effectiveness review, the study team **SHALL**
 document:
 
-**Best practices** — approaches that worked well and
+**Best practices**: approaches that worked well and
 **SHOULD** be repeated in future studies, such as:
 - Risk identification methods that proved particularly
   effective
@@ -1827,7 +1827,7 @@ document:
 - Communication practices that supported timely decision
   making
 
-**Improvement recommendations** — specific, actionable
+**Improvement recommendations**: specific, actionable
 suggestions for improving risk management, such as:
 - Additional risk categories or CTQ factors to consider
   in future studies
