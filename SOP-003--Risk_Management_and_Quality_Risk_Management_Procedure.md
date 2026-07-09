@@ -1912,9 +1912,52 @@ TMF as part of the study closeout record.
 
 ## 8.0 RISK MANAGEMENT TOOLS AND TEMPLATES
 
+The templates in this section render the requirements of Sections 5 and 6
+into usable tools. The body sections cited in each template are canonical;
+where a template and the body differ, the body governs. Templates **MAY**
+be adapted to the study, provided the required content is preserved.
+
 ### 8.1 Risk Assessment Matrix Template
 
+The matrix combines the likelihood scale (Section 5.3.1) and the severity
+scale (Section 5.3.2) into the overall risk score and priority level
+(Section 5.3.3). Acceptance authorities per priority level are defined in
+Section 5.3.4.
+
+| Likelihood \ Severity | 1 Negligible | 2 Minor | 3 Moderate | 4 Major | 5 Critical |
+|---|---|---|---|---|---|
+| 5 Almost certain | 5 (Medium) | 10 (High) | 15 (High) | 20 (Critical) | 25 (Critical) |
+| 4 Likely | 4 (Low) | 8 (Medium) | 12 (High) | 16 (High) | 20 (Critical) |
+| 3 Possible | 3 (Low) | 6 (Medium) | 9 (Medium) | 12 (High) | 15 (High) |
+| 2 Unlikely | 2 (Low) | 4 (Low) | 6 (Medium) | 8 (Medium) | 10 (High) |
+| 1 Rare | 1 (Low) | 2 (Low) | 3 (Low) | 4 (Low) | 5 (Medium) |
+
+Cell values are Risk Score (Priority Level). Where a study adopts
+three-factor scoring with Detectability per Section 5.3.3, the adjusted
+matrix and thresholds are documented in the Risk Management Plan.
+
 ### 8.2 Risk Register Template
+
+The Risk Register contains one row per identified risk. The columns
+implement the required fields of Section 5.5.3:
+
+| Column | Content |
+|---|---|
+| Risk ID | Unique risk identifier |
+| Date identified | Date the risk was first recorded |
+| CTQ factor | Associated critical-to-quality factor (§5.2.1) |
+| Risk category | Category per §5.2.3 |
+| Risk description | Description of the risk |
+| Likelihood | Score 1-5 with rationale (§5.3.1) |
+| Severity | Score 1-5 with rationale (§5.3.2) |
+| Risk score / priority | Likelihood × Severity and priority level (§5.3.3) |
+| Controls | Risk control strategy and specific control measures (§5.4) |
+| Residual risk | Residual risk score after controls (§5.4.5) |
+| Acceptance | Acceptance decision and approval authority (§5.3.4) |
+| Risk Owner | Person owning the risk |
+| Indicators / QTLs | Associated risk indicators or QTLs, if applicable |
+| Status | Open, mitigated, accepted, or closed |
+| Last review | Date of last review |
 
 ### 8.3 Risk Management Plan Template
 
