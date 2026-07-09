@@ -121,7 +121,37 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
 ## 4.0 CAPA MANAGEMENT FRAMEWORK
 
 ### 4.1 Overview
-(Covered activities, CAPA sources, distinction between corrective and preventive)
+
+This procedure establishes the systematic process for corrective and
+preventive action. A CAPA addresses causes, not instances: the correction
+and disposition of an individual nonconformance remain with SOP-010, while
+this procedure eliminates the root cause so that the nonconformance does not
+recur (corrective action) or does not occur in the first place (preventive
+action).
+
+The CAPA process consists of:
+
+- **Initiation**: Receipt and logging of CAPA referrals from the trigger
+  sources in Section 5.1
+- **Evaluation**: Documented decision on whether a CAPA is required, and
+  risk-based prioritization (Section 5.2)
+- **Documentation**: The CAPA request record and assignment of a CAPA Owner
+  (Section 5.3)
+- **Root cause analysis**: Structured investigation proportionate to the
+  issue (Section 6.1)
+- **Action planning**: Corrective actions, preventive actions, and interim
+  measures, with predefined effectiveness criteria, approved before
+  implementation (Sections 6.2 and 6.3)
+- **Implementation and tracking**: Execution by the CAPA Owner, change
+  management, and progress monitoring (Section 7.0)
+- **Effectiveness verification and closure**: A planned, criteria-based
+  check, followed by closure — or by reopening where the check fails
+  (Section 8.0)
+- **System management**: The CAPA Log, metrics, and trending feeding risk
+  reviews and the Management Review (Section 9.0)
+
+A CAPA can be opened for a single study, for a QMS process, or for the
+activities of an outsourced service provider.
 
 ### 4.2 Roles and Responsibilities
 (CAPA initiator, CAPA owner, approvers, effectiveness verifier)
