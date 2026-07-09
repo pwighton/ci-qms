@@ -1414,4 +1414,36 @@ this procedure or to the systems on which personnel were trained.
 
 ## APPENDIX A: GAMP CATEGORY DECISION TREE
 
+Apply the following questions, in order, to each system. Where a system
+contains components of different kinds, classify each component
+individually (Section 4.3.1). GAMP 5 does not define a Category 2; it is
+not used.
+
+1. Is the software foundational infrastructure (for example, an operating
+   system, database management system, or network component) that supports
+   application software but contains no study-specific logic?
+   - **Yes**: **Category 1 (Infrastructure Software)**
+   - **No**: continue to question 2
+
+2. Was the software developed specifically for __NewInstitute__, or
+   customized through changes to its source code?
+   - **Yes**: **Category 5 (Custom Software)**. Development is governed by
+     SOP-015; validation by this procedure.
+   - **No**: continue to question 3
+
+3. Is the software configured to meet study-specific needs using the
+   vendor's built-in tools, without modification of the underlying source
+   code?
+   - **Yes**: **Category 4 (Configurable Software)**
+   - **No**: **Category 3 (Non-Configurable Software)**
+
+Note: a configurable product operated entirely with its default,
+out-of-the-box configuration is used "as installed" and is classified
+Category 3.
+
+After determining the GAMP category, assess the system's GxP impact per
+Section 4.3.2. The category and the GxP impact classification together
+determine the required validation activities (Sections 4.4.2 and 4.5, and
+Appendix B).
+
 ## APPENDIX B: VALIDATION DELIVERABLES BY CATEGORY
