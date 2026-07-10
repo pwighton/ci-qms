@@ -352,7 +352,7 @@ __NewInstitute__'s quality policy is as follows:
     distributed ethically and in accordance with the consent of the subjects
     and in a manner that protects their privacy.
 
-### 5.3 Resources 
+### 5.3 Resources
 
 #### 5.3.1 Organization
 
@@ -462,7 +462,7 @@ each Management Review. Meeting minutes of management reviews are filed
 separately from any Trial Master File (TMF) as they are QMS documents and not
 essential study documents subject to inspection.
 
-## 6.0 RESOURCE MANAGEMENT 
+## 6.0 RESOURCE MANAGEMENT
 
 ### 6.1 Provision of Resources
 
