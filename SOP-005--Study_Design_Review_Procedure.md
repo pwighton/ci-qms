@@ -41,12 +41,12 @@ this procedure, while the change process itself is managed under
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf):
   Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf):
   General Considerations for Clinical Studies - Section 3 (Designing Quality
   into Clinical Studies), Section 7 (Considerations in Identifying Critical to
   Quality Factors)
 
-- [ICH E9](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9-statistical-principles-clinical-trials):
+- [ICH E9](https://database.ich.org/sites/default/files/E9_Guideline.pdf):
   Statistical Principles for Clinical Trials
 
 - [ISO 9001:2015](https://www.iso.org/standard/62085.html): Quality management

@@ -92,7 +92,7 @@ involved in:
   (AE/ADR definitions), Section 1.50 (SAE definition), Section 4.8.2 (informing
   subjects of new information), Section 4.11 (investigator safety reporting)
 
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf):
   General Considerations for Clinical Studies - Section 6.2 (participant safety
   during study conduct)
 

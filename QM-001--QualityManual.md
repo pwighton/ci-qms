@@ -85,13 +85,13 @@ this QMS
 
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies): General Considerations for Clinical Studies
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf): General Considerations for Clinical Studies
 
-- [ICH E9](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9-statistical-principles-clinical-trials): Statistical Principles for Clinical Trials (1998)
+- [ICH E9](https://database.ich.org/sites/default/files/E9_Guideline.pdf): Statistical Principles for Clinical Trials (1998)
 
-- [ICH E9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9r1-statistical-principles-clinical-trials-addendum-estimands-and-sensitivity-analysis-clinical): Statistical Principles for Clinical Trials: Addendum: Estimands and Sensitivity Analysis in Clinical Trials (2021)
+- [ICH E9(R1)](https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf): Statistical Principles for Clinical Trials: Addendum: Estimands and Sensitivity Analysis in Clinical Trials (2021)
 
-- [ICH Q9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q9r1-quality-risk-management) Quality Risk Management
+- [ICH Q9(R1)](https://database.ich.org/sites/default/files/ICH_Q9%28R1%29_Guideline_Step4_2023_0126_0.pdf) Quality Risk Management
 
 - [ISO-19011:2018](https://www.iso.org/standard/70017.html): Guidelines for auditing management systems
 

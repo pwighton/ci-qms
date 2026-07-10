@@ -9,8 +9,8 @@ The QMS consists of a Quality Manual and fifteen SOPs implementing applicable
 parts of:
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html)
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf)
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies)
-- [ICH Q9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q9r1-quality-risk-management)
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf)
+- [ICH Q9(R1)](https://database.ich.org/sites/default/files/ICH_Q9%28R1%29_Guideline_Step4_2023_0126_0.pdf)
 - [GAMP 5](https://guidance-docs.ispe.org/doi/book/10.1002/9781946964571)
 - [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11)
 - [21 CFR Part 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54)

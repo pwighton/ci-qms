@@ -68,7 +68,7 @@ involved in monitoring and oversight activities.
   - Section 5.20 (noncompliance)
   - Addendum Section 5.0 (quality management)
 
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf):
   General Considerations for Clinical Studies
   - Section 6 (conduct, safety monitoring, and reporting)
 

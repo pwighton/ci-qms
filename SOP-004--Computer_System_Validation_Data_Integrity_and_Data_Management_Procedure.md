@@ -84,7 +84,7 @@ vendors involved in:
   - Section 5.5 (Trial Management, Data Handling, and
     Recordkeeping)
 
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf):
   General Considerations for Clinical Studies
   - Section 3.2 (Critical to Quality Factors)
 
@@ -92,7 +92,7 @@ vendors involved in:
   A Risk-Based Approach to Compliant GxP Computerized
   Systems
 
-- [ICH Q9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q9r1-quality-risk-management):
+- [ICH Q9(R1)](https://database.ich.org/sites/default/files/ICH_Q9%28R1%29_Guideline_Step4_2023_0126_0.pdf):
   Quality Risk Management
 
 - [FDA Guidance: Computer Software Assurance for Production

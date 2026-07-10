@@ -109,7 +109,7 @@ involved in:
   - Section 4.5 (compliance with protocol)
   - Section 8.3.2-8.3.4 (essential documents for amendments)
 
-- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies):
+- [ICH E8(R1)](https://database.ich.org/sites/default/files/E8-R1_Guideline_Step4_2021_1006.pdf):
   General Considerations for Clinical Studies - Section 6.1.1 (protocol
   adherence and amendment rationale)
 
