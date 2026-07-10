@@ -185,7 +185,7 @@ The following design outputs from SOP-001 Section 5.2.5 **SHALL** be reviewed:
   timeline, budget)
 - Initial Risk Management Plan (critical processes and data, preliminary risk
   categories, high-level mitigation strategies)
-- Investigator's Brochure or Study Information Document (if prepared)
+- Study Brochure (if prepared)
 
 #### 5.1.4 Required Review Perspectives
 
