@@ -288,6 +288,14 @@ If a disclosable financial interest is identified:
 
 Financial disclosure records **SHALL** be retained per SOP-002 Section 5.4.
 
+#### 4.3.6 Provision to Data Recipients
+
+Financial disclosure information and certifications **SHALL** be provided to
+data recipients and downstream applicants when required to support their
+regulatory submissions (for example, FDA Forms 3454 and 3455 under 21 CFR
+54.4). Provision **SHALL** be coordinated by the Management Representative per
+QM-001 Section 5.3.2 and made as certified copies per SOP-007 Section 5.5.1.
+
 ### 4.4 Regulatory Document Management
 
 #### 4.4.1 TMF Regulatory Documents

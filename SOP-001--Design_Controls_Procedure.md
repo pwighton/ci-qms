@@ -1905,9 +1905,8 @@ and **SHALL** be completed and maintained in the TMF. These documents include:
 - **Database Lock Documentation**: Documentation of final database lock
   including date, responsible personnel, and confirmation of data completeness
   and quality
-- **Final Study Report**: Clinical study report per ICH E3 (if applicable) or
-  final observational study report documenting study conduct, results, and
-  conclusions per ICH E6(R2) 8.4.7
+- **Final Study Report**: Final observational study report documenting study
+  conduct, results, and conclusions per ICH E6(R2) 8.4.7
 
 **Product and Sample Documentation (if applicable):**
 
@@ -2124,7 +2123,7 @@ observational study design controls in accordance with ICH E6(R2) requirements.
 | 8.4.5 | Final trial close-out monitoring report | 7.2, see SOP-007 and SOP-009 |
 | 8.4.6 | Treatment allocation and decoding documentation | 7.2 (if applicable), see SOP-007 |
 | 8.4.7 | Final report by investigator to IRB/IEC and regulatory authority(ies) | 7.2, see SOP-007 |
-| 8.4.8 | Clinical study report | 7.2, see SOP-007 |
+| 8.4.8 | Final observational study report | 7.2, see SOP-007 |
 
 ### A.4 Notes
 

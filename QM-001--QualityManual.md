@@ -243,8 +243,6 @@ this QMS
 
 - **ISO**:   International Organization for Standardization
 
-- **NIST**:  National Institute of Standards and Technology
-
 - **QM**:    Quality Manual
 
 - **QMS**:   Quality Management System
@@ -585,8 +583,7 @@ Risk Management Procedure, SOP-003.
 __NewInstitute__ **SHALL** establish and maintain a Computer System Validation,
 Data Integrity and Data Management procedure that minimally addresses
 applicable requirements in ISO-9001:2015 Section 6.1, 21 CFR Part 11, ICH E6(R2)
-Section 5.5, GAMP 5, NIST 800-171, NIST 800-53, and applicable FDA guidance
-documents.
+Section 5.5, GAMP 5, and applicable FDA guidance documents.
 
 All computer system validation, data integrity, and data management activities
 related to *observational studies* **SHALL** be performed and documented in
@@ -801,8 +798,9 @@ This procedure **SHALL** address:
 -   Collection and maintenance of financial disclosure information from all
     investigators (internal and external) as required by 21 CFR Part 54
 -   Documentation of financial interests and arrangements
--   Timely submission of financial disclosure information to regulatory
-    authorities, when required.
+-   Provision of financial disclosure information and certifications to data
+    recipients and downstream applicants for their regulatory submissions, and
+    timely submission to regulatory authorities when required.
     
 Regulatory compliance management activities **SHALL** be performed and
 documented in accordance with the Regulatory Compliance Management Procedure,
@@ -1056,8 +1054,6 @@ documentation as part of protocol development per SOP-001.
     - Section 6.1.3 (Data Management)
     - Section 6.2.3 (Data Monitoring Committee)
   - GAMP 5
-  - NIST 800-171
-  - NIST 800-53
   - 21 CFR 11
 
 ### Study Design Reviews
