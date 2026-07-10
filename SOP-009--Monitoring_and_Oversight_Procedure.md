@@ -224,6 +224,14 @@ procedures, or greater risks to subject safety or data integrity may require
 more intensive monitoring. Studies with lower risk profiles may rely primarily
 on centralized monitoring with limited on-site activities.
 
+The **Monitor** performs centralized and on-site monitoring under this
+procedure and **SHALL** be functionally independent of the on-site study
+conduct activities being monitored, per QM-001 Appendix A. The Monitor may be
+a __NewInstitute__ employee or an external party engaged under SOP-006, and
+**SHALL** sign the monitoring reports. The Monitoring Plan and its amendments
+are approved by the Study Director (or delegate) and the QA Representative
+(Sections 4.2.3 and 4.6.3).
+
 ### 4.2 Monitoring Plan Development
 
 #### 4.2.1 Monitoring Plan Requirements
@@ -291,8 +299,9 @@ The Monitoring Plan **SHALL** include:
 
 #### 4.2.3 Monitoring Plan Review and Approval
 
-The Monitoring Plan **SHALL** be reviewed and approved before study initiation.
-The review **SHALL** confirm that:
+The Monitoring Plan **SHALL** be reviewed and approved by the Study Director
+(or delegate) and the QA Representative before study initiation. The review
+**SHALL** confirm that:
 
 - The monitoring approach is proportionate to identified risks
 - Critical data and processes are adequately addressed
@@ -531,7 +540,7 @@ Changes to the monitoring approach **SHALL** be documented, including:
 - Rationale for the change
 - Specific modifications to monitoring activities
 - Effective date
-- Approval by appropriate personnel
+- Approval by the Study Director (or delegate) and the QA Representative
 
 Significant changes **SHALL** be documented as Monitoring Plan amendments and
 maintained in the TMF.
