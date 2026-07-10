@@ -169,7 +169,10 @@ and subcontractors involved in study design activities.
     identified risks, mitigation strategies, and monitoring approach
 
 -   **Study Brochure**: A compilation of the clinical and nonclinical
-    data that is relevant to the observational study in human subjects
+    data that is relevant to the observational study in human subjects.
+    The observational-study equivalent of the Investigator's Brochure of
+    ICH E6(R2), and optional for observational studies without an
+    investigational product.
 
 -   **Observational Study**: An investigation to observe, measure and analyze
     groups or individuals without administering an intervention.
@@ -495,14 +498,14 @@ Design outputs from the study concept and feasibility phase **SHALL** include:
   This initial plan **SHALL** be developed into a comprehensive Risk Management
   Plan according to [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
 
-- **Investigator's Brochure or Study Information Document** (optional for
-  observational studies): An Investigator's Brochure or equivalent Study
-  Information Document **MAY** be prepared to provide investigators and site
-  staff with comprehensive information about the study rationale, procedures,
-  and data collection methods. While not required for observational studies
-  without an investigational product, such a document can be valuable for
-  training and ensuring consistent understanding across sites. If prepared,
-  it **SHALL** be maintained in the TMF per ICH E6(R2) 8.2.1.
+- **Study Brochure** (optional for observational studies): A Study
+  Brochure **MAY** be prepared to provide investigators and site staff
+  with comprehensive information about the study rationale, procedures,
+  and data collection methods. While not required for observational
+  studies without an investigational product, such a document can be
+  valuable for training and ensuring consistent understanding across
+  sites. If prepared, it **SHALL** be maintained in the TMF per
+  ICH E6(R2) 8.2.1.
 
 All Design Outputs listed above **SHALL** be included in the TMF
 
@@ -969,7 +972,7 @@ Design outputs for regulatory and ethics documentation **SHALL** include:
   - Study advertisements or recruitment materials (if applicable)
   - Data collection instruments
   - Site facilities information
-  - Investigator's Brochure or Study Information Document (if prepared)
+  - Study Brochure (if prepared)
 
 - **IRB/IEC Composition Documentation**: Documentation that the IRB/IEC is
   organized and operates per ICH GCP requirements
@@ -1755,7 +1758,7 @@ required for each study are identified per Section 4.4.
 
 **Protocol and Amendment Documentation:**
 
-- Updates to Investigator's Brochure per ICH E6(R2) 8.3.1
+- Updates to the Study Brochure per ICH E6(R2) 8.3.1
   (if applicable for observational studies)
 - Protocol amendments and Case Report Form revisions per
   ICH E6(R2) 8.3.2, managed per SOP-013
