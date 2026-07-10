@@ -754,14 +754,19 @@ ICH E6(R2) Section 5.19, and ISO-19011:2018.
 
 ### 8.5 Change Control
 
-__NewInstitute__ **SHALL** establish and maintain a Change Control procedure to
-control changes to *observational study* systems, processes, and procedures
-that minimally addresses applicable requirements in ISO-9001:2015 Section 8.5.6
-and ICH E6(R2) Sections 4.5 and 6.
+__NewInstitute__ **SHALL** establish and maintain change control for changes
+to *observational study* systems, processes, and procedures that minimally
+addresses applicable requirements in ISO-9001:2015 Section 8.5.6 and ICH
+E6(R2) Sections 4.5 and 6.
 
-Change control activities related to *observational studies* **SHALL** be
-performed and documented in accordance with the Change Control Procedure,
-SOP-013.
+Change control is implemented across three procedures according to the type
+of change: protocol amendments under SOP-013 (Change Control Procedure);
+changes to Quality Management System documents and procedures under SOP-002
+(Document and Records Controls Procedure); and changes to validated computer
+systems and software under SOP-004 (Computer System Validation, Data
+Integrity and Data Management Procedure). Change control activities related
+to *observational studies* **SHALL** be performed and documented in
+accordance with the applicable procedure.
 
 ### 8.6 Regulatory Compliance Management
 
@@ -1153,7 +1158,9 @@ documentation as part of protocol development per SOP-001.
 - Change Control
   - QM-001 Quality Manual
     - [Section 8.5](QM-001--QualityManual.md#85-change-control)
-  - [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+  - [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md) (protocol amendments)
+  - [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md) (QMS documents and procedures)
+  - [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md) (validated computer systems and software)
   - ISO-9001:2015
     - Section 8.5.6 (Control of changes)
   - ICH E6(R2)

@@ -52,9 +52,8 @@ Software-related documents are controlled under
 Procedure](SOP-002--Document_and_Records_Controls_Procedure.md) and maintained
 in the TMF.
 
-Changes to validated software are managed under
-[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md) with
-validation impact assessment performed per SOP-004.
+Changes to validated software are managed under the validated system and
+software change control process in SOP-004 Section 4.8.1.
 
 This procedure applies to all __NewInstitute__ employees and subcontractors
 involved in:
@@ -98,8 +97,6 @@ involved in:
 
 4. [SOP-006: Outsourced Activities
    Procedure](SOP-006--Outsourced_Activities_Procedure.md)
-
-5. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 
 ### 3.3 Terms
 
@@ -354,7 +351,7 @@ Software maintenance activities **SHALL** include:
 - Preventive maintenance (updates to prevent future problems)
 
 All maintenance changes **SHALL** follow the development practices in this
-procedure and be subject to change control per SOP-013.
+procedure and be subject to change control per SOP-004 Section 4.8.1.
 
 #### 4.8.2 Software Retirement
 

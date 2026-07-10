@@ -70,6 +70,7 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 - [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11): Electronic Records, Electronic Signatures
 
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
+  - Section 8.5.6 (Control of changes)
 
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
@@ -366,6 +367,13 @@ Section 4.4.
 All document changes **SHALL** be formally released through
 document control and the document revision **SHALL** be
 incremented.
+
+Records of each change, comprising the description of the
+change in the Record of Revisions, the outcome of the
+review, and the approvals recorded per Section 4.4,
+**SHALL** be retained per Section 5.4. These records
+provide the review outcome, authorization, and documented
+information required by ISO-9001:2015 Section 8.5.6.
 
 ### 4.6 Availability of Documents
 

@@ -762,15 +762,16 @@ Once a system is validated and released for operational use,
 it **SHALL** be maintained in a validated state throughout
 its operational lifecycle.
 
-#### 4.8.1 Change Control for Validated Systems
+#### 4.8.1 Validated System and Software Change Control
 
-Changes to validated systems **SHALL** be managed per
-[SOP-013: Change Control
-Procedure](SOP-013--Change_Control_Procedure.md).
+Changes to a validated computer system, or to deployed
+custom software validated under SOP-015, **SHALL** be
+managed through the change-control process defined in
+this section before they are released to production.
 
 Before implementation, each proposed change **SHALL** be
-assessed for its impact on the validated state of the
-system. The assessment **SHALL** consider:
+classified and assessed for its impact on the validated
+state of the system. The assessment **SHALL** consider:
 
 - Whether the change affects GxP-critical functionality
 - Whether the change affects data integrity controls
@@ -787,6 +788,15 @@ hardware replacements with equivalent components, operating
 system security patches that do not alter application
 functionality) **MAY** be implemented with documented
 rationale and without retesting.
+
+Each change **SHALL** be approved by the System Owner and
+the QA Representative before release. A change **SHALL** be
+released to production only after the required approvals are
+recorded and any required retesting is complete.
+
+The change description, impact assessment, retesting
+evidence, and approvals **SHALL** be retained as system
+validation records per SOP-002 Section 5.4.
 
 #### 4.8.2 Periodic Review
 
