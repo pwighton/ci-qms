@@ -431,49 +431,61 @@ following minimum responsibilities:
 
 __NewInstitute__ **SHALL** conduct an annual Management Review. This review
 assesses the continuing QMS suitability, adequacy and effectiveness,
-identifying opportunities for improvement and needed changes. At each
-Management Review meeting, the following topics MAY be considered for
-discussion:
+identifying opportunities for improvement and needed changes.
 
--   Status of all *observational study* activities and study portfolio
+At each Management Review, the following **SHALL** be reviewed:
 
--   Subject safety, adverse events, and data integrity issues
-
--   Regulatory, GCP and compliance issues
-
--   Issues with Contract Research Organizations (CROs) and other outsourced
-    service providers
-
--   QMS issues
-
--   Continued suitability of QMS documents (the Quality Manual, SOPs,
-    and WIs)
-
--   Staff training needs and investigator qualification requirements
-
--   Systems, equipment and infrastructure needs to support studies and the QMS
+-   Status of and follow-up on actions from previous Management Reviews
 
 -   Results of audits (internal, regulatory, and sponsor audits)
 
--   Investigator and institutional feedback
-
 -   Process performance and study conduct quality
 
--   Status of preventive and corrective actions (CAPA)
+-   Status of nonconformances and corrective and preventive actions,
+    including the nonconformance trend summary (per SOP-010 Section 7.2) and
+    the CAPA status and effectiveness summary (per SOP-011 Section 9.2)
 
--   Follow-up actions from previous management reviews
+-   Risk status summary from periodic risk reviews (per SOP-003 Section 6.1.3)
 
--   Planned changes that could affect the quality management system
+-   Recommendations for improvement, including best practices and improvement
+    recommendations (per SOP-003 Section 7.2.2)
 
--   Recommendations for improvement
+-   Continued suitability and currency of QMS documents (the Quality Manual,
+    SOPs, and WIs)
+
+-   Performance of Contract Research Organizations (CROs) and other outsourced
+    service providers
+
+-   Investigator and institutional feedback
 
 -   New or revised regulatory requirements and guidance documents
 
+-   Planned changes that could affect the quality management system
+
+-   Adequacy of resources, including staff training needs, investigator
+    qualification requirements, and systems, equipment, and infrastructure
+    needs
+
+The following topics **MAY** also be considered:
+
+-   Status of all *observational study* activities and study portfolio
+-   Subject safety, adverse events, and data integrity issues
+-   Regulatory, GCP and compliance issues
+-   QMS issues
 -   Trial Master File (TMF) completeness and quality metrics
-
 -   Data management and monitoring effectiveness
-
 -   Safety reporting compliance and timeliness
+
+The Management Review **SHALL** produce documented outputs, comprising
+decisions and actions related to:
+
+-   Opportunities for improvement
+-   Any need for changes to the quality management system
+-   Resource needs
+-   Conclusions on the continued suitability and currency of QMS documents
+
+Each output **SHALL** identify the responsible person and due date, and
+**SHALL** be recorded in the meeting minutes.
 
 The Management Representative or designee **SHALL** maintain meeting minutes of
 each Management Review. Meeting minutes of management reviews are filed
