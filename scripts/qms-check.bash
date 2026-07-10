@@ -18,10 +18,16 @@
 #      (GitHub markdown hard line break)
 #
 # Warnings (reported, exit unaffected):
-#  10. Lowercase "should" / "must" occurrences, for reviewer judgment
+#  10. Lowercase "should" / "must" occurrences, for reviewer judgment.
+#      Vetted occurrences are suppressed via the MODAL_ALLOW allowlist,
+#      keyed on filename plus a distinctive line substring (not line number)
+#      so it survives edits that shift line numbers.
 #
 # Additional checks (ERROR = nonzero exit):
 #  11. Document Control block present in every controlled document
+#  12. Concrete retention periods appear only in SOP-002 Section 5.4: a
+#      year/month duration anywhere else is flagged unless allowlisted as a
+#      vetted non-retention duration
 #
 # Run from anywhere; operates on the repo root (parent of this script).
 
@@ -143,8 +149,34 @@ for f in "${FILES[@]}"; do
 done
 
 # --- 10: lowercase should/must (warnings) ----------------------------------
+# MODAL_ALLOW suppresses vetted lowercase should/must occurrences in
+# descriptive or definitional prose. Each entry is "<filename>|<distinctive
+# substring of the line>"; a hit whose line contains the substring for its
+# file is suppressed. Keyed on content, not line number, so it is stable
+# across edits elsewhere in the document. To re-vet an entry, delete its line.
+MODAL_ALLOW='
+QM-001--QualityManual.md|deciding which studies should
+SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md|a risk, should it occur
+SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md|a hazard should it
+SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md|risk controls should first seek
+SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md|that should have been
+SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md|the system must do
+SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md|the database must be unlocked
+SOP-014--Regulatory_Compliance_Management_Procedure.md|interests that must be disclosed
+SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md|software must do
+'
 for f in "${FILES[@]}"; do
     while IFS= read -r hit; do
+        line="${hit#*:}"
+        allowed=0
+        while IFS='|' read -r af sub; do
+            [ -z "$af" ] && continue
+            if [ "$af" = "$f" ] && [[ "$line" == *"$sub"* ]]; then
+                allowed=1
+                break
+            fi
+        done <<< "$MODAL_ALLOW"
+        [ "$allowed" -eq 1 ] && continue
         warn "$f: lowercase should/must (review) -> $hit"
     done < <(grep -nE '\b(should|must)\b' "$f")
 done
@@ -159,6 +191,24 @@ for f in "${FILES[@]}"; do
     if ! grep -qF '**Document Control**' "$f"; then
         err "$f: missing Document Control block"
     fi
+done
+
+# --- 12: retention periods only in SOP-002 Section 5.4 ---------------------
+# SOP-002 Section 5.4 is the single canonical home for retention periods; the
+# README carries a descriptive summary. A concrete year/month duration in any
+# other controlled document is almost always a competing retention rule. The
+# allowlist carries vetted non-retention durations (a disclosure coverage
+# period, a CV-update cadence, and a GCP-training recency window); any new
+# duration must be re-vetted rather than silently added.
+ALLOW_DURATION='one year after study completion|every two years|years from a recognized'
+DURATION='[0-9]+[^A-Za-z0-9]{0,3}(year|month)|\b(one|two|three|four|five|six|seven|eight|nine|ten|fifteen|twenty|twenty-five|thirty)[ -]+(year|month)'
+for f in "${FILES[@]}"; do
+    case "$f" in
+        SOP-002--*|README.md) continue ;;
+    esac
+    while IFS= read -r hit; do
+        err "$f: retention period stated outside SOP-002 Section 5.4 -> $hit"
+    done < <(grep -inE "$DURATION" "$f" | grep -viE "$ALLOW_DURATION")
 done
 
 echo
