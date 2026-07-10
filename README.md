@@ -5,9 +5,15 @@ Boilerplate Quality Management System for an institution conducting
 into future regulatory submissions by other entities (e.g., as real-world
 evidence, natural history data, or control-arm comparators).
 
-The QMS consists of a Quality Manual (QM-001) and fifteen SOPs (SOP-001
-through SOP-015) implementing applicable parts of ISO-9001:2015,
-ICH E6(R2), ICH E8(R1), ICH Q9(R1), GAMP 5, and 21 CFR Parts 11 and 54.
+The QMS consists of a Quality Manual and fifteen SOPs implementing applicable
+parts of:
+- [ISO-9001:2015](https://www.iso.org/standard/62085.html)
+- [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf)
+- [ICH E8(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e8r1-general-considerations-clinical-studies)
+- [ICH Q9(R1)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q9r1-quality-risk-management)
+- [GAMP 5](https://guidance-docs.ispe.org/doi/book/10.1002/9781946964571)
+- [21 CFR Part 11](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11)
+- [21 CFR Part 54](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-54)
 
 Replace the `__NewInstitute__` placeholder with your institution's name
 and adapt the documents to your structure and risk posture.
@@ -43,7 +49,7 @@ and adapt the documents to your structure and risk posture.
   **MAY**) and nothing else; descriptive prose avoids lowercase modals.
 - Cross-references: full markdown link on first introduction, then
   "per SOP-00X Section Y.Z" in prose. "Section X.X" in body text; the
-  section sign (§) only inside tables.
+  section sign (`§`) only inside tables.
 - Each SOP's Section 3.2 lists exactly the documents its body cites.
   Shared terms have one canonical home and are imported by reference
   ("as defined in SOP-002 Section 3.3"); a document's body and its own
