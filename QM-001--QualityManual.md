@@ -132,7 +132,8 @@ the following standards and guidance documents are not considered by this QMS
 -   **Adverse Event**: Any untoward medical occurrence in a patient or clinical
     investigation subject who is administered a pharmaceutical product and which
     does not necessarily have a causal relationship with this treatment.
-    `[ICH E6(R2) 1.2]`
+    `[ICH E6(R2) 1.2]` For *observational studies*, this QMS uses the
+    observational-specific definition in SOP-008 Section 3.3.
 
 -   **Audit**: A systematic and independent examination of trial-related
     activities and documents to determine whether the evaluated trial-related

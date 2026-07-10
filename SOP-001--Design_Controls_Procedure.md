@@ -175,7 +175,8 @@ and subcontractors involved in study design activities.
     investigational product.
 
 -   **Observational Study**: An investigation to observe, measure and analyze
-    groups or individuals without administering an intervention.
+    groups or individuals without administering an intervention, as defined
+    in QM-001 Section 3.3.
 
 -   **Study Protocol**: A document that describes the objective(s), design,
     methodology, statistical considerations, and organization of a trial.

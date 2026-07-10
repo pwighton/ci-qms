@@ -105,10 +105,11 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
   an electronic system, depending on the format of the record
   and the requirements of the applicable procedure.
 
-- **Certified Copy**: A paper or electronic copy of a record
-  that has been verified as an exact, complete, and
-  unaltered reproduction of the original, documented as such
-  by a dated signature or approval.
+- **Certified Copy**: A paper or electronic copy of a record,
+  source datum, or derived datum that has been verified as an
+  exact, complete, and unaltered reproduction of the
+  original, documented as such by a dated signature or
+  approval.
 
 - **Controlled Document**: A document subject to the creation,
   review, approval, distribution, revision, and retirement

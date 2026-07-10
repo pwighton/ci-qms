@@ -168,8 +168,10 @@ vendors involved in:
     effect on subject safety, data integrity, and regulatory compliance.
 
 -   **Source Data**: All information in original records and certified
-    copies of original records of study findings and observations, as
-    defined in SOP-002 Section 3.3 [ICH E6(R2) 1.51].
+    copies of original records of clinical findings, observations, or
+    other activities in a study necessary for the reconstruction and
+    evaluation of the study, as defined in SOP-002 Section 3.3
+    [ICH E6(R2) 1.51].
 
 ### 3.4 Acronyms
 

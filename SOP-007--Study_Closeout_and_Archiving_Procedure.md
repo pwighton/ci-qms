@@ -113,9 +113,10 @@ involved in:
     electronic format.
 
 -   **Source Data**: All information in original records and certified copies
-    of original records of study findings and observations necessary for the
-    reconstruction and evaluation of the study, as defined in SOP-002
-    Section 3.3 [ICH E6(R2) 1.51]. Managed under SOP-004.
+    of original records of clinical findings, observations, or other
+    activities in a study necessary for the reconstruction and evaluation of
+    the study, as defined in SOP-002 Section 3.3 [ICH E6(R2) 1.51]. Managed
+    under SOP-004.
 
 -   **Study Closeout**: The systematic process of completing all study
     activities, finalizing documentation, closing study sites, and preparing
