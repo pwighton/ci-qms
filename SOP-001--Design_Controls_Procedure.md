@@ -155,14 +155,18 @@ and subcontractors involved in study design activities.
 -   **Design Output**: Documented results of the design process (protocol,
     CRFs, SAP, data collection specifications, etc.)
 
--   **Design Verification**: Confirmation that design outputs meet design input
-    requirements
-
 -   **Design Validation**: Confirmation that the study design is fit for its
     intended purpose
 
+-   **Design Verification**: Confirmation that design outputs meet design input
+    requirements
+
 -   **Essential Documents**: Documents per ICH E6(R2) Section 8 that permit
     evaluation of study conduct and data quality
+
+-   **Observational Study**: An investigation to observe, measure and analyze
+    groups or individuals without administering an intervention, as defined
+    in QM-001 Section 3.3.
 
 -   **Risk Management Plan**: A document describing the approach to risk
     management for a specific study, including risk assessment methodology,
@@ -173,10 +177,6 @@ and subcontractors involved in study design activities.
     The observational-study equivalent of the Investigator's Brochure of
     ICH E6(R2), and optional for observational studies without an
     investigational product.
-
--   **Observational Study**: An investigation to observe, measure and analyze
-    groups or individuals without administering an intervention, as defined
-    in QM-001 Section 3.3.
 
 -   **Study Protocol**: A document that describes the objective(s), design,
     methodology, statistical considerations, and organization of a trial.

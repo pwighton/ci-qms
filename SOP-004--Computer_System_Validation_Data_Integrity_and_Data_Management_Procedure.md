@@ -148,14 +148,14 @@ vendors involved in:
     the creation, modification, or deletion of electronic records and
     data, identifying who performed each action and when.
 
+-   **Computer System Validation**: The documented process of establishing
+    that a computerized system consistently performs according to its
+    specifications and is fit for its intended use.
+
 -   **Computerized System**: The hardware, software, and network
     components of a system, together with its controlled functions and
     associated documentation, used to create, process, store, transmit,
     or manage study data or records.
-
--   **Computer System Validation**: The documented process of establishing
-    that a computerized system consistently performs according to its
-    specifications and is fit for its intended use.
 
 -   **Derived Data**: Data produced by processing, transforming, or
     analyzing source data, as defined in SOP-002 Section 3.3.

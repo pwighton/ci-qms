@@ -155,12 +155,12 @@ involved in:
   important medical event that may jeopardize the subject or require
   intervention to prevent one of these outcomes.
 
-- **Severity**: The intensity or magnitude of an adverse event (e.g., mild,
-  moderate, severe). Severity is distinct from seriousness.
-
 - **Seriousness**: A regulatory classification based on specific criteria
   (death, hospitalization, disability, etc.) that determines reporting
   requirements. Seriousness is distinct from severity.
+
+- **Severity**: The intensity or magnitude of an adverse event (e.g., mild,
+  moderate, severe). Severity is distinct from seriousness.
 
 - **Study Procedure**: Any activity performed as part of the research protocol
   that involves interaction with study subjects or collection of data from
