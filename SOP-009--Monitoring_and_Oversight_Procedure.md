@@ -610,7 +610,7 @@ in the Monitoring Plan. Reports **SHALL** include:
 #### 4.8.4 Documentation Retention
 
 All monitoring documentation **SHALL** be maintained in the TMF per SOP-002 and
-retained per applicable regulatory requirements.
+retained per SOP-002 Section 5.4.
 
 ## 5.0 TRAINING
 
@@ -680,7 +680,4 @@ The following records **SHALL** be generated and maintained per this procedure:
 
 All monitoring records **SHALL** be maintained in the TMF per SOP-002.
 
-Records **SHALL** be retained per the retention periods specified in the
-protocol and applicable regulatory requirements, but not less than the period
-required by ICH E6(R2) Section 4.9.5 (investigator records) and Section 5.5.12
-(sponsor records).
+Records **SHALL** be retained per SOP-002 Section 5.4.

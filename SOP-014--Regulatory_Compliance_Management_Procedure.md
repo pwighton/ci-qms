@@ -286,14 +286,7 @@ If a disclosable financial interest is identified:
 
 #### 4.3.5 Retention
 
-Financial disclosure records **SHALL** be retained for the longer of:
-
-- Two years after FDA approval of the marketing application supported by the
-  study, or
-- Two years after the study data are no longer relied upon for FDA submissions
-
-If the study does not support an FDA submission, records **SHALL** be retained
-per SOP-002 retention requirements.
+Financial disclosure records **SHALL** be retained per SOP-002 Section 5.4.
 
 ### 4.4 Regulatory Document Management
 
@@ -380,7 +373,7 @@ The following records **SHALL** be maintained in the TMF or QMS files:
 | IRB/IEC correspondence | TMF | Per SOP-002 |
 | Continuing review submissions | TMF | Per SOP-002 |
 | Study status notifications | TMF | Per SOP-002 |
-| Financial disclosure forms | TMF | Per Section 4.3.5 |
+| Financial disclosure forms | TMF | Per SOP-002 |
 | Investigator CVs and licenses | TMF | Per SOP-002 |
 | FWA documentation | TMF | Per SOP-002 |
 | Regulatory commitment log | TMF | Per SOP-002 |
