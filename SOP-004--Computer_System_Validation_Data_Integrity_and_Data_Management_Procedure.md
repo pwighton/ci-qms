@@ -3,6 +3,26 @@ title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-004: Computer System Validation, Data Integrity and Data Management Procedure"
 ---
 
+**Document Control**
+
+| Document ID | Revision | Effective date |
+|-------------|----------|----------------|
+| SOP-004 | _(assigned on release)_ | _(assigned on release)_ |
+
+**Record of Revisions**
+
+| Revision | Effective date | Author | Description of change |
+|----------|----------------|--------|-----------------------|
+|  |  |  | Initial release |
+
+**Approvals**
+
+| Role | Name | Signature / Date |
+|------|------|------------------|
+| Author |  |  |
+| Approver |  |  |
+| QA Representative |  |  |
+
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the
@@ -50,10 +70,8 @@ identified under
 [SOP-003: Risk Management and Quality Risk Management
 Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md).
 
-Changes to validated systems are managed under
-[SOP-013: Change Control
-Procedure](SOP-013--Change_Control_Procedure.md) with
-validation impact assessment performed according to this
+Changes to validated systems are managed under the
+change control process in Section 4.8.1 of this
 procedure.
 
 Vendor computer systems are subject to vendor assessment
@@ -135,10 +153,7 @@ vendors involved in:
 7.  [SOP-010: Control of Nonconforming Observational Study Activities
     Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
 
-8.  [SOP-013: Change Control
-    Procedure](SOP-013--Change_Control_Procedure.md)
-
-9.  [SOP-015: Observational Study Software Development
+8.  [SOP-015: Observational Study Software Development
     and Validation
     Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
 

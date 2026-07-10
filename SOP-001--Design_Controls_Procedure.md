@@ -3,6 +3,26 @@ title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-001: Design Controls Procedure"
 ---
 
+**Document Control**
+
+| Document ID | Revision | Effective date |
+|-------------|----------|----------------|
+| SOP-001 | _(assigned on release)_ | _(assigned on release)_ |
+
+**Record of Revisions**
+
+| Revision | Effective date | Author | Description of change |
+|----------|----------------|--------|-----------------------|
+|  |  |  | Initial release |
+
+**Approvals**
+
+| Role | Name | Signature / Date |
+|------|------|------------------|
+| Author |  |  |
+| Approver |  |  |
+| QA Representative |  |  |
+
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) provides *minimum*

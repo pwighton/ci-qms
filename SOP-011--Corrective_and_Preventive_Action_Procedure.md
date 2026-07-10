@@ -3,6 +3,26 @@ title: "__NewInstitute__ Quality Manual"
 subtitle: "SOP-011: Corrective and Preventive Action Procedure"
 ---
 
+**Document Control**
+
+| Document ID | Revision | Effective date |
+|-------------|----------|----------------|
+| SOP-011 | _(assigned on release)_ | _(assigned on release)_ |
+
+**Record of Revisions**
+
+| Revision | Effective date | Author | Description of change |
+|----------|----------------|--------|-----------------------|
+|  |  |  | Initial release |
+
+**Approvals**
+
+| Role | Name | Signature / Date |
+|------|------|------------------|
+| Author |  |  |
+| Approver |  |  |
+| QA Representative |  |  |
+
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the systematic approach

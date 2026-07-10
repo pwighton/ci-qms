@@ -20,6 +20,9 @@
 # Warnings (reported, exit unaffected):
 #  10. Lowercase "should" / "must" occurrences, for reviewer judgment
 #
+# Additional checks (ERROR = nonzero exit):
+#  11. Document Control block present in every controlled document
+#
 # Run from anywhere; operates on the repo root (parent of this script).
 
 set -uo pipefail
@@ -144,6 +147,18 @@ for f in "${FILES[@]}"; do
     while IFS= read -r hit; do
         warn "$f: lowercase should/must (review) -> $hit"
     done < <(grep -nE '\b(should|must)\b' "$f")
+done
+
+# --- 11: Document Control block present ------------------------------------
+# Every controlled document (QM-001 and the SOPs, not README) carries the
+# Document Control scaffolding block required for SOP-002 Section 4.3
+# conformance (document ID and revision, Record of Revisions, approvals,
+# effective date).
+for f in "${FILES[@]}"; do
+    [ "$f" = "README.md" ] && continue
+    if ! grep -qF '**Document Control**' "$f"; then
+        err "$f: missing Document Control block"
+    fi
 done
 
 echo
