@@ -31,7 +31,7 @@ ERRORS=0
 err() { echo "ERROR: $*"; ERRORS=$((ERRORS + 1)); }
 warn() { echo "warn:  $*"; }
 
-FILES=(QM-001--QualityManual.md SOP-0*.md)
+FILES=(README.md QM-001--QualityManual.md SOP-0*.md)
 
 # GitHub-style slug for a heading line. Deliberately does NOT trim
 # trailing whitespace: a heading with a trailing space is itself a defect
@@ -77,10 +77,11 @@ for f in "${FILES[@]}"; do
 done
 
 # --- 4: § outside tables ---------------------------------------------------
+# Allowed in table rows and as a backticked mention (`§`).
 for f in "${FILES[@]}"; do
     while IFS= read -r hit; do
         err "$f: § outside a table row -> $hit"
-    done < <(grep -n '§' "$f" | grep -v '^[0-9]*:|')
+    done < <(grep -n '§' "$f" | grep -v '^[0-9]*:|' | grep -v '`§`')
 done
 
 # --- 5: empty sections -----------------------------------------------------
