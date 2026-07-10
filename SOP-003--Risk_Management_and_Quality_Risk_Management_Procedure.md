@@ -908,9 +908,13 @@ conduct begins.
 The RMP is a controlled document subject to
 [SOP-002: Document and Records Controls
 Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
-Changes to the RMP after initial approval **SHALL** follow
-[SOP-013: Change Control
-Procedure](SOP-013--Change_Control_Procedure.md).
+Changes to the RMP after initial approval are routed per
+Section 6.1.3: changes consequential to a protocol amendment
+follow [SOP-013: Change Control
+Procedure](SOP-013--Change_Control_Procedure.md), while
+changes arising solely from risk reassessment follow SOP-002
+version control with review and approval by the Study
+Director or Principal Investigator.
 
 #### 5.5.1 Risk Management Plan Contents
 
@@ -2064,8 +2068,11 @@ the retention schedule defined in
 All risk management documents **SHALL** be version controlled and approved
 according to [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
-Changes to risk management documents after initial approval **SHALL** follow
-[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
+Changes to risk management documents after initial approval are routed per
+Section 6.1.3: changes consequential to a protocol amendment follow
+[SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md), while
+changes arising solely from risk reassessment follow SOP-002 version control
+with review and approval by the Study Director or Principal Investigator.
 
 ## 10.0 TRAINING REQUIREMENTS
 
