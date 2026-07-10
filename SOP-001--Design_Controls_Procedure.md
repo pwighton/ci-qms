@@ -52,7 +52,8 @@ gates at key milestones are managed under
 
 Design changes during the development phase are managed
 under this procedure. Changes to approved protocols and
-study documents after design approval are managed under
+study documents at or after Final Design Approval are
+managed under
 [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
 
 Design outputs produced under this procedure include
@@ -399,9 +400,9 @@ that:
 design progress, identify issues, and make go/no-go decisions. Reviews are
 integrated throughout Sections 5.2 through 5.8.
 
-**Design Changes** during Phase 1 are managed under this procedure. Changes
-after study initiation (Phase 2) are managed per SOP-013: Change Control
-Procedure.
+**Design Changes** before Final Design Approval are managed under this
+procedure. Changes at or after Final Design Approval are managed per SOP-013:
+Change Control Procedure.
 
 This framework ensures that observational study designs are systematically
 developed, thoroughly reviewed, and properly validated before study initiation,
@@ -661,11 +662,12 @@ All design outputs listed above **SHALL** be included in the TMF.
 
 #### 5.3.5 Protocol Amendments
 
-Protocol amendments during Phase 1 (before study initiation) are managed under
-this procedure as part of design development.
+Protocol amendments before Final Design Approval are managed under this
+procedure as part of design development.
 
-Protocol amendments after study initiation (Phase 2) **SHALL** be managed per
-SOP-013: Change Control Procedure.
+Protocol amendments at or after Final Design Approval **SHALL** be managed per
+SOP-013: Change Control Procedure. This includes amendments made after Final
+Design Approval but before study initiation (first subject enrolled).
 
 All protocol amendments **SHALL**:
 

@@ -27,7 +27,7 @@ subtitle: "SOP-013: Change Control Procedure"
 
 This Standard Operating Procedure (SOP) establishes requirements for managing
 protocol amendments and consequential document changes for *observational
-studies* conducted by __NewInstitute__ after study initiation.
+studies* conducted by __NewInstitute__ from Final Design Approval onward.
 
 This procedure ensures that:
 
@@ -42,20 +42,19 @@ This procedure ensures that:
 ## 2.0 SCOPE
 
 This procedure applies to protocol amendments and consequential document changes
-for *observational studies* conducted by __NewInstitute__ after study
-initiation.
+for *observational studies* conducted by __NewInstitute__ from Final Design
+Approval onward.
 
 For purposes of this procedure, a **protocol amendment** is a written
 description of a change to or formal clarification of an approved protocol, per
 ICH E6(R2) Section 1.45.
 
-This procedure applies after:
-
-- Final Design Approval per [SOP-005: Study Design Review
-  Procedure](SOP-005--Study_Design_Review_Procedure.md)
-- Protocol signature per [SOP-001: Design Controls
-  Procedure](SOP-001--Design_Controls_Procedure.md) Section 5.8.3
-- Study initiation (first subject enrolled)
+This procedure applies from Final Design Approval per [SOP-005: Study Design
+Review Procedure](SOP-005--Study_Design_Review_Procedure.md), the point at
+which the design is frozen and the protocol is signed per [SOP-001: Design
+Controls Procedure](SOP-001--Design_Controls_Procedure.md) Section 5.8.3. It
+governs changes made from that point onward, including changes made before and
+after study initiation (first subject enrolled).
 
 This procedure covers:
 
@@ -77,7 +76,7 @@ This procedure covers:
 This procedure does **NOT** apply to:
 
 - **Design phase changes**: Changes to protocol and study documents before
-  study initiation are managed under [SOP-001: Design Controls
+  Final Design Approval are managed under [SOP-001: Design Controls
   Procedure](SOP-001--Design_Controls_Procedure.md).
 
 - **Protocol deviations**: Unplanned departures from the approved protocol are
