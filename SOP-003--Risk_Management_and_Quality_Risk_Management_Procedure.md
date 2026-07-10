@@ -427,7 +427,7 @@ control execution. Responsibilities include:
   risks to the Study Director and the relevant Risk Owner
 - Participation in scheduled and triggered risk reviews when invited
 - Training on this procedure and on the risk management approach for their
-  specific study (per Section 10)
+  specific study (per Section 9)
 
 #### 4.3.4 Risk Owner Responsibilities
 
@@ -1267,8 +1267,8 @@ Risk management documentation **SHALL** include:
 - **QTL and KRI records**: QTL exceedance evaluations and
   KRI reports, including any resulting actions.
 
-All documents listed above are identified in Section 9.1
-(Required Records) and **SHALL** be retained per Section 9.2.
+All documents listed above are identified in Section 10.1
+(Required Records) and **SHALL** be retained per Section 10.2.
 
 Changes to approved risk management documents during study
 conduct **SHALL** follow
@@ -1868,7 +1868,7 @@ for action through the appropriate process:
 - Recommendations indicating a systemic quality issue
   **SHALL** be evaluated for CAPA per SOP-011
 - Recommendations for training **SHALL** be communicated
-  to the appropriate personnel per Section 10.0
+  to the appropriate personnel per Section 9.0
 
 Best practices and improvement recommendations **SHALL**
 be summarized and made available as input to the annual
@@ -2036,9 +2036,20 @@ Section 6.1.2. Minutes are maintained in the TMF per SOP-002.
 | Action items | With responsible persons and due dates |
 | Required updates | To the Risk Management Plan, Risk Register, or monitoring approach (§6.1.3) |
 
-## 9.0 RECORDS AND DOCUMENTATION
+## 9.0 TRAINING
 
-### 9.1 Required Records
+Personnel holding responsibilities under Section 4.3 **SHALL** be trained
+on this procedure commensurate with those responsibilities before
+exercising them, and maintain documented evidence of training per QM-001
+Section 6.1.1.
+
+Retraining **SHALL** be conducted when significant changes are made to
+this procedure. Additional training **MAY** be recommended through the
+lessons-learned process per Section 7.2.2.
+
+## 10.0 RECORDS
+
+### 10.1 Required Records
 
 All risk management documents and records **SHALL** be created, controlled, and
 maintained in accordance with
@@ -2057,13 +2068,13 @@ Master File (TMF):
 - Risk communication records
 - Lessons learned documentation
 
-### 9.2 Record Retention
+### 10.2 Record Retention
 
 Risk management records **SHALL** be retained as part of the TMF according to
 the retention schedule defined in
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
-### 9.3 Document Control
+### 10.3 Document Control
 
 All risk management documents **SHALL** be version controlled and approved
 according to [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
@@ -2073,14 +2084,3 @@ Section 6.1.3: changes consequential to a protocol amendment follow
 [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md), while
 changes arising solely from risk reassessment follow SOP-002 version control
 with review and approval by the Study Director or Principal Investigator.
-
-## 10.0 TRAINING REQUIREMENTS
-
-Personnel holding responsibilities under Section 4.3 **SHALL** be trained
-on this procedure commensurate with those responsibilities before
-exercising them, and maintain documented evidence of training per QM-001
-Section 6.1.1.
-
-Retraining **SHALL** be conducted when significant changes are made to
-this procedure. Additional training **MAY** be recommended through the
-lessons-learned process per Section 7.2.2.

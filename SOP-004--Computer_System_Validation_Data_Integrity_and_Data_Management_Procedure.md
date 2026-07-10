@@ -1410,7 +1410,19 @@ Archived study data **SHALL** be:
 Retention periods for study data **SHALL** comply with
 SOP-002 Section 5.4.
 
-## 6.0 RECORDS AND DOCUMENTATION
+## 6.0 TRAINING
+
+Personnel holding responsibilities under Section 4.2 **SHALL** be trained
+on this procedure commensurate with those responsibilities before
+exercising them, and maintain documented evidence of training per QM-001
+Section 6.1.1.
+
+Users of validated systems **SHALL** be trained on the system functions
+relevant to their role before access is granted (Section 4.7.4).
+Retraining **SHALL** be conducted when significant changes are made to
+this procedure or to the systems on which personnel were trained.
+
+## 7.0 RECORDS
 
 Records generated under this procedure **SHALL** be maintained per SOP-002
 (in the TMF for study-specific records, and as quality records for
@@ -1434,19 +1446,7 @@ Records **MAY** include but are not limited to:
 - Data management records, including the Data Management Plan, data
   transfer records, processing and provenance records, query and data
   cleaning records, and database lock and unlock records
-- Training records per Section 7.0
-
-## 7.0 TRAINING
-
-Personnel holding responsibilities under Section 4.2 **SHALL** be trained
-on this procedure commensurate with those responsibilities before
-exercising them, and maintain documented evidence of training per QM-001
-Section 6.1.1.
-
-Users of validated systems **SHALL** be trained on the system functions
-relevant to their role before access is granted (Section 4.7.4).
-Retraining **SHALL** be conducted when significant changes are made to
-this procedure or to the systems on which personnel were trained.
+- Training records per Section 6.0
 
 ## APPENDIX A: GAMP CATEGORY DECISION TREE
 

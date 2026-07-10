@@ -2045,6 +2045,24 @@ Retraining **SHALL** be conducted when:
 - Personnel demonstrate deficiencies in applying design control procedures
 - Significant findings from audits or inspections indicate training gaps
 
+## 9.0 RECORDS
+
+Records generated under this procedure **SHALL** be maintained in the TMF per
+SOP-002 and retained per SOP-002 Section 5.4. The design and essential
+documents produced across the study lifecycle are enumerated in Sections 6.4
+and 7.2.
+
+Records **MAY** include but are not limited to:
+
+- Design and development plans
+- Design inputs, including user, regulatory, and stakeholder requirements
+- Design outputs, including the protocol, case report forms, and study plans
+- Design review records for each Review Gate (per SOP-005)
+- Design verification and validation records
+- The signed protocol and any amendments
+- Final Design Approval documentation
+- Training records per Section 8.0
+
 ## APPENDIX A: MAPPING TO ICH E6(R2) REQUIREMENTS
 
 This appendix provides a detailed mapping of essential documents required by

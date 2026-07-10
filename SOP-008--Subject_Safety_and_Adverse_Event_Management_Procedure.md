@@ -650,3 +650,32 @@ provide recommendations to the Principal Investigator and/or Sponsor regarding:
 
 DMC meeting minutes and recommendations **SHALL** be documented and maintained
 in the TMF.
+
+## 5.0 TRAINING
+
+All __NewInstitute__ personnel involved in the conduct of *observational
+studies* **SHALL** be trained on this procedure, at minimum on the recognition
+and reporting of adverse events per Section 4.4, and maintain documented
+evidence of training per QM-001 Section 6.1.1.
+
+Personnel holding responsibilities for safety assessment, causality
+determination, or safety reporting **SHALL** be trained commensurate with
+those responsibilities before exercising them. Retraining **SHALL** be
+conducted when significant changes are made to this procedure.
+
+## 6.0 RECORDS
+
+Records generated under this procedure **SHALL** be maintained in the TMF per
+SOP-002 and retained per SOP-002 Section 5.4.
+
+Records **MAY** include but are not limited to:
+
+- Safety Monitoring Plan
+- Adverse event and serious adverse event case report forms
+- Causality and severity assessments
+- IRB/IEC safety reports and expedited reports
+- Safety review documentation
+- Safety communications to subjects, sites, and the IRB/IEC
+- Incidental findings records
+- Data Monitoring Committee charter and meeting minutes
+- Training records per Section 5.0
