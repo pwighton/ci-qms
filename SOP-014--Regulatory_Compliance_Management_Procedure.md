@@ -55,10 +55,11 @@ Regulatory documents are controlled under
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 and maintained in the TMF.
 
-__NewInstitute__ observational studies are not conducted under an Investigational
-New Drug (IND) application; therefore, FDA communications and reporting
-requirements under 21 CFR Part 312 do not apply. If this changes, this procedure
-will be revised to address FDA submission and communication requirements.
+__NewInstitute__ observational studies are not conducted under an
+Investigational New Drug (IND) application; therefore, FDA communications and
+reporting requirements under 21 CFR Part 312 do not apply. If this changes, this
+procedure will be revised to address FDA submission and communication
+requirements.
 
 __NewInstitute__ is not currently subject to regulatory inspections. If this
 changes, this procedure will be revised to address inspection readiness and
@@ -111,9 +112,10 @@ involved in:
 
 - **Clinical Investigator**: For purposes of 21 CFR Part 54, any individual who
   directly participates in the investigation (i.e., who administers or dispenses
-  the test article or performs study procedures), or who acts as a sub-investigator.
-  For observational studies, this includes the Principal Investigator and any
-  sub-investigators who directly interact with subjects or subject data.
+  the test article or performs study procedures), or who acts as a
+  sub-investigator. For observational studies, this includes the Principal
+  Investigator and any sub-investigators who directly interact with subjects or
+  subject data.
 
 - **Continuing Review**: Periodic review of ongoing research by the IRB/IEC to
   ensure continued compliance with regulatory requirements and protection of
@@ -209,7 +211,8 @@ Documentation of IRB/IEC approval **SHALL** be maintained in the TMF, including:
 
 - Initial approval letter
 - Continuing review approval letters
-- Approved protocol versions (with IRB/IEC stamp or acknowledgment if applicable)
+- Approved protocol versions (with IRB/IEC stamp or acknowledgment if
+  applicable)
 - Approved informed consent versions
 - All IRB/IEC correspondence
 

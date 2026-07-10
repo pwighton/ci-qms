@@ -11,7 +11,8 @@ qualifying, contracting, and overseeing external organizations that perform
 
 This procedure ensures that:
 
-- External organizations are qualified before performing study-related activities
+- External organizations are qualified before performing study-related
+  activities
 - Written agreements define transferred duties and responsibilities
 - Oversight is maintained throughout the engagement
 - Quality standards are equivalent to internally conducted work
@@ -79,7 +80,8 @@ involved in:
 
 - [ISO 9001:2015](https://www.iso.org/standard/62085.html):
   Quality management systems — Requirements
-  - Section 8.4 (Control of externally provided processes, products and services)
+  - Section 8.4 (Control of externally provided processes, products and
+    services)
 
 ### 3.2 __NewInstitute__ References
 
@@ -239,7 +241,8 @@ Agreement types include:
 - **Quality Agreement**: Defines quality expectations, responsibilities, and
   communication requirements
 - **Investigator Agreement**: For clinical sites, defines investigator
-  responsibilities and commitments (e.g., Form FDA 1572 equivalent if applicable)
+  responsibilities and commitments (e.g., Form FDA 1572 equivalent if
+  applicable)
 - **Confidentiality Agreement**: Protects confidential information and subject
   data
 

@@ -58,12 +58,14 @@ or pharmaceutical products.  Therefore, the following standards and guidance
 documents are not considered by this QMS
 
 -   ICH E3: Structure and Content of Clinical Study Reports
--   ICH E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting
+-   ICH E2A: Clinical Safety Data Management: Definitions and Standards for
+    Expedited Reporting
 -   FDA Guidance on Data Integrity and Compliance (2018)
 
-Furthermore, __NewInstitute__ does not perform *clinical investigations* to assess
-the performance, effectiveness, and/or safety of medical devices.  Therefore
-the following standards and guidance documents are not considered by this QMS
+Furthermore, __NewInstitute__ does not perform *clinical investigations* to
+assess the performance, effectiveness, and/or safety of medical devices.
+Therefore the following standards and guidance documents are not considered by
+this QMS
 
 -   ISO-14155: Clinical investigation of medical devices for human subjects
 
@@ -165,10 +167,10 @@ the following standards and guidance documents are not considered by this QMS
     are credible and accurate, and that the rights, integrity, and
     confidentiality of trial subjects are protected. `[ICH E6(R2) 1.24]`
 
--   **Investigator**: A person who is responsible for the conduct of the study at a
-    study site. If a study is conducted by a team of individuals at
-    a study site, the investigator is the responsible leader of the team and
-    may be called the principal investigator. `[ICH E6(R2) 1.34]`
+-   **Investigator**: A person who is responsible for the conduct of the study
+    at a study site. If a study is conducted by a team of individuals at a study
+    site, the investigator is the responsible leader of the team and may be
+    called the principal investigator. `[ICH E6(R2) 1.34]`
 
 -   **Monitoring**: The act of overseeing the progress of a study, and
     of ensuring that it is conducted, recorded, and reported in accordance with
@@ -280,8 +282,8 @@ conduct of ethical and reliable *observational studies*:
 ### 4.2 QMS Documentation
 
 Documentation is the cornerstone of an effective QMS. __NewInstitute__
-**“SHALL”** establish and maintain procedures for the control of documents and
-records related to the design, conduct, validation and support of all
+**“SHALL”** establish and maintain procedures for the control of documents
+and records related to the design, conduct, validation and support of all
 *observational studies* under this QMS.
 
 The QMS documentation hierarchy is shown in Figure 1 and includes:
@@ -526,11 +528,11 @@ These activities, at a minimum, **SHALL** include:
 
 ### 7.1 Design Controls
 
-__NewInstitute__ **SHALL** establish and maintain a Design Control procedure that
-minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
-ICH E8(R1), ICH E9, ICH E9(R1) and applicable regulatory guidance documents.
-All *observational study* design activities **SHALL** be performed and
-documented in accordance with the Design Controls Procedure, SOP-001.
+__NewInstitute__ **SHALL** establish and maintain a Design Control procedure
+that minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
+ICH E8(R1), ICH E9, ICH E9(R1) and applicable regulatory guidance documents. All
+*observational study* design activities **SHALL** be performed and documented in
+accordance with the Design Controls Procedure, SOP-001.
 
 ### 7.2 Document and Records Controls
 
@@ -651,10 +653,10 @@ Management Procedure, SOP-008.
 
 ### 7.9 Software Development and Validation
 
-__NewInstitute__ **SHALL** establish and maintain an Observational Study Software
-Development and Validation procedure that minimally addresses applicable
-requirements in 21 CFR Part 11, ICH E6(R2) Sections 4.9 and 5.5, GAMP 5, and
-applicable FDA guidance documents including:
+__NewInstitute__ **SHALL** establish and maintain an Observational Study
+Software Development and Validation procedure that minimally addresses
+applicable requirements in 21 CFR Part 11, ICH E6(R2) Sections 4.9 and 5.5, GAMP
+5, and applicable FDA guidance documents including:
 
 -   "Electronic Systems, Electronic Records, and Electronic Signatures in
     Clinical Investigations" (2023).
@@ -758,7 +760,8 @@ that minimally addresses applicable requirements in ISO-9001:2015 Section 8.5.6
 and ICH E6(R2) Sections 4.5 and 6.
 
 Change control activities related to *observational studies* **SHALL** be
-performed and documented in accordance with the Change Control Procedure, SOP-013.
+performed and documented in accordance with the Change Control Procedure,
+SOP-013.
 
 ### 8.6 Regulatory Compliance Management
 
@@ -988,7 +991,8 @@ documentation as part of protocol development per SOP-001.
     - Section 3 (Study Design Principles)
     - Section 4 (Study Design Elements)
   - ICH E9 (Statistical Principles for Clinical Trials)
-  - ICH E9(R1) (Statistical Principles for Clinical Trials: Addendum: Estimands and Sensitivity Analysis in Clinical Trials)
+  - ICH E9(R1) (Statistical Principles for Clinical Trials: Addendum: Estimands
+    and Sensitivity Analysis in Clinical Trials)
   
 - Document and Records Controls
   - QM-001 Quality Manual
@@ -1053,7 +1057,8 @@ documentation as part of protocol development per SOP-001.
     - [Section 7.6](QM-001--QualityManual.md#76-outsourced-activities)
   - [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
   - ISO-9001:2015
-    - Section 8.4 (Control of externally provided processes, products and services)
+    - Section 8.4 (Control of externally provided processes, products and
+      services)
   - ICH E6(R2)
     - Section 5.2 (Contract Research Organization (CRO))
     - Section 5.23 (Multicenter Trials)
@@ -1067,7 +1072,8 @@ documentation as part of protocol development per SOP-001.
   - ICH E6(R2)
     - Section 4.9 (Records and Reports), 
     - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
-    - Section 8.4 (Essential Documents for the Conduct of a Clinical Trial - After Completion or Termination of the Trial)
+    - Section 8.4 (Essential Documents for the Conduct of a Clinical Trial -
+      After Completion or Termination of the Trial)
   - ICH E8(R1)
     - Section 6.3 (Study Reporting)
   - ISO-9001:2015
@@ -1097,8 +1103,10 @@ documentation as part of protocol development per SOP-001.
     - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
   - GAMP 5 (Good Automated Manufacturing Practice)
   - FDA Guidance
-    - "Electronic Systems, Electronic Records, and Electronic Signatures in Clinical Investigations" (2023)
-    - "Digital Health Technologies for Remote Data Acquisition in Clinical Investigations" (2023)
+    - "Electronic Systems, Electronic Records, and Electronic Signatures in
+      Clinical Investigations" (2023)
+    - "Digital Health Technologies for Remote Data Acquisition in Clinical
+      Investigations" (2023)
 
 ### Measurements, Analysis and Improvement
 

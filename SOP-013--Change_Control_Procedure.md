@@ -463,7 +463,8 @@ The IRB/IEC submission package **SHALL** include:
 - Amendment cover letter describing changes and rationale
 - Amended protocol (track changes and clean versions)
 - Summary of changes
-- Updated informed consent form (track changes and clean versions), if applicable
+- Updated informed consent form (track changes and clean versions), if
+  applicable
 - Other consequential documents as required by IRB/IEC
 - Any supporting documentation (e.g., new safety information prompting the
   amendment)

@@ -19,8 +19,10 @@ This procedure applies to all design and development activities for
 the three temporal phases defined in ICH E6(R2) Section 8:
 
 -   **Phase 1**: Before the conduct of the study (primary focus of this SOP)
--   **Phase 2**: During the conduct of the study (brief coverage with references to other SOPs)
--   **Phase 3**: After completion or termination of the study (brief coverage with references to other SOPs)
+-   **Phase 2**: During the conduct of the study (brief coverage with references
+    to other SOPs)
+-   **Phase 3**: After completion or termination of the study (brief coverage
+    with references to other SOPs)
 
 This procedure defines how to develop study designs through
 systematic phases from concept to final deliverables. Formal
@@ -302,7 +304,8 @@ through final approval and study initiation.
 
 The design controls framework consists of the following key elements:
 
-**Design Inputs --> Design Outputs --> Verification --> Validation --> Transfer**
+**Design Inputs --> Design Outputs --> Verification --> Validation -->
+Transfer**
 
 **Design Inputs** are the requirements and constraints that form the basis for
 study design. Design inputs include:
@@ -1668,8 +1671,8 @@ in the TMF.
 
 #### 5.8.7 Study Initiation
 
-Following Final Design Approval, the study **MAY** be initiated. Study initiation
-means:
+Following Final Design Approval, the study **MAY** be initiated. Study
+initiation means:
 - Sites are authorized to begin screening and enrolling subjects
 - Phase 2 (During the Clinical Conduct of the Trial) begins
 - Study conduct activities are managed per the approved protocol and

@@ -129,27 +129,27 @@ involved in monitoring and oversight activities.
 - **Key Risk Indicator (KRI)**: A metric used to monitor identified risks and
   detect when risk levels exceed acceptable thresholds.
 
-- **Monitoring**: The act of overseeing the progress of a study and ensuring that
-  it is conducted, recorded, and reported in accordance with the protocol, SOPs,
-  GCP, and applicable regulatory requirements. [ICH E6(R2) 1.38]
+- **Monitoring**: The act of overseeing the progress of a study and ensuring
+  that it is conducted, recorded, and reported in accordance with the protocol,
+  SOPs, GCP, and applicable regulatory requirements. [ICH E6(R2) 1.38]
 
-- **Monitoring Plan**: A document that describes the monitoring strategy, methods,
-  responsibilities, and requirements for a specific study, including the
-  rationale for the monitoring approach.
+- **Monitoring Plan**: A document that describes the monitoring strategy,
+  methods, responsibilities, and requirements for a specific study, including
+  the rationale for the monitoring approach.
 
-- **On-Site Monitoring**: In-person evaluation carried out by sponsor personnel or
-  representatives at the sites at which the study is being conducted.
+- **On-Site Monitoring**: In-person evaluation carried out by sponsor personnel
+  or representatives at the sites at which the study is being conducted.
 
 - **Quality Tolerance Limit (QTL)**: A predefined threshold for a quality
   parameter that, if exceeded, triggers evaluation and potential corrective
   action. QTLs are established during study design per SOP-003.
 
-- **Remote Monitoring**: Monitoring activities conducted without physical presence
-  at the study site, such as telephone or video communication with site personnel
-  and remote review of documents.
+- **Remote Monitoring**: Monitoring activities conducted without physical
+  presence at the study site, such as telephone or video communication with site
+  personnel and remote review of documents.
 
-- **Site Initiation Visit (SIV)**: A visit conducted before enrollment begins at a
-  site to confirm site readiness, provide study-specific training, and verify
+- **Site Initiation Visit (SIV)**: A visit conducted before enrollment begins at
+  a site to confirm site readiness, provide study-specific training, and verify
   that all prerequisites for study conduct are in place.
 
 - **Source Data**: All information in original records and certified copies of
@@ -157,12 +157,12 @@ involved in monitoring and oversight activities.
   study necessary for the reconstruction and evaluation of the study.
   [ICH E6(R2) 1.51]
 
-- **Source Data Verification (SDV)**: The process of comparing data entered in the
-  case report form or electronic data capture system against source documents to
-  confirm accuracy and completeness.
+- **Source Data Verification (SDV)**: The process of comparing data entered in
+  the case report form or electronic data capture system against source
+  documents to confirm accuracy and completeness.
 
-- **Source Document**: Original documents, data, and records where source data are
-  first recorded. [ICH E6(R2) 1.52]
+- **Source Document**: Original documents, data, and records where source data
+  are first recorded. [ICH E6(R2) 1.52]
 
 ### 3.4 Acronyms
 

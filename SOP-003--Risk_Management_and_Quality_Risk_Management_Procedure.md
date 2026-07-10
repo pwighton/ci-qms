@@ -7,10 +7,10 @@ subtitle: "SOP-003: Risk Management and Quality Risk Management Procedure"
 
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 identifying, assessing, controlling, communicating, and reviewing risks
-associated with *observational studies* conducted by __NewInstitute__. It ensures
-that risks to study participants, data quality, and study integrity are
-proactively managed throughout the study lifecycle in accordance with ICH
-E6(R2) quality management principles.
+associated with *observational studies* conducted by __NewInstitute__. It
+ensures that risks to study participants, data quality, and study integrity are
+proactively managed throughout the study lifecycle in accordance with ICH E6(R2)
+quality management principles.
 
 ## 2.0 SCOPE
 
@@ -44,9 +44,9 @@ validation rigor and data-integrity controls applied under SOP-004.
 
 The Risk Management Plan developed under this procedure serves as a primary 
 input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md), 
-which executes the monitoring activities identified as necessary through risk 
+which executes the monitoring activities identified as necessary through risk
 assessment. Monitoring reports and Key Risk Indicator (KRI) data generated under
-SOP-009 are reviewed under this procedure to assess whether identified risks are 
+SOP-009 are reviewed under this procedure to assess whether identified risks are
 materializing or controlled as expected.
 
 Study design considerations and protocol development follow 

@@ -8,8 +8,8 @@ subtitle: "SOP-002: Document and Records Controls Procedure"
 This Standard Operating Procedure (SOP) establishes the systematic approach for
 creating, reviewing, approving, distributing, maintaining, and archiving
 documents and records related to *observational studies* conducted by
-__NewInstitute__. It ensures document integrity, traceability and compliance with
-regulatory requirements.
+__NewInstitute__. It ensures document integrity, traceability and compliance
+with regulatory requirements.
 
 ## 2.0 SCOPE
 

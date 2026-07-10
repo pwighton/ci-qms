@@ -6,10 +6,10 @@ subtitle: "SOP-005: Study Design Review Procedure"
 ## 1.0 PURPOSE
 
 This Standard Operating Procedure (SOP) establishes the formal review and
-approval process for *observational studies* designs developed by __NewInstitute__.
-It ensures that study designs are systematically evaluated against scientific,
-ethical, regulatory, operational, and quality requirements at defined decision
-gates.
+approval process for *observational studies* designs developed by
+__NewInstitute__. It ensures that study designs are systematically evaluated
+against scientific, ethical, regulatory, operational, and quality requirements
+at defined decision gates.
 
 ## 2.0 SCOPE
 
@@ -18,7 +18,8 @@ This procedure applies to all formal review and approval of design activities of
 
 This procedure defines:
 
-- **When** design reviews occur (review gates aligned with SOP-001 design phases)
+- **When** design reviews occur (review gates aligned with SOP-001 design
+  phases)
 - **What** is evaluated at each review (review criteria)
 - **Who** participates in reviews (review perspectives and approval authorities)
 - **How** reviews are conducted and documented (review process)
