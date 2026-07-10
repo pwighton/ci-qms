@@ -104,7 +104,7 @@ involved in:
 
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf):
   Good Clinical Practice: Integrated Addendum to ICH E6(R1)
-  - Section 1.45 (protocol amendment definition) 
+  - Section 1.45 (protocol amendment definition)
   - Section 3.3.7 (IRB/IEC procedures for protocol changes)
   - Section 4.5 (compliance with protocol)
   - Section 8.3.2-8.3.4 (essential documents for amendments)

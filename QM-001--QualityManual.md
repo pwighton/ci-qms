@@ -5,16 +5,16 @@ subtitle: "QM-001"
 
 ## 1.0 PURPOSE
 
-__NewInstitute__ is a health-sciences focused institute that designs and 
+__NewInstitute__ is a health-sciences focused institute that designs and
 conducts *observational studies* by collecting human health data in order to
 answer specific scientific questions.
 
 This Quality Manual (QM) establishes the Quality Management System (QMS) for
-__NewInstitute__.  Policies and procedures required for compliance are shown 
+__NewInstitute__.  Policies and procedures required for compliance are shown
 using the word **“SHALL”**.
 
-This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018, 
-21 CFR parts 11 and 54, 45 CFR part 46, ICH E6(R2), ICH E8(R1), ICH E9(R1), 
+This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018,
+21 CFR parts 11 and 54, 45 CFR part 46, ICH E6(R2), ICH E8(R1), ICH E9(R1),
 ICH Q9(R1), GAMP 5, and applicable Clinical Trials Guidance Documents
 published by the FDA.
 
@@ -97,7 +97,7 @@ this QMS
 
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html): Quality management systems — Requirements
 
-### 3.2 __NewInstitute__ Procedures 
+### 3.2 __NewInstitute__ Procedures
 
 1.  [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md)
 
@@ -145,7 +145,7 @@ this QMS
     regulatory requirement(s). `[ICH E6(R2) 1.6]`
 
 -   **Clinical Investigation**: The FDA cites the following CFRs for their
-    definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3%28c%29), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102%28c%29), 
+    definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3%28c%29), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102%28c%29),
     [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3%28Clinical%20investigation%29)
     and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3%28h%29).
     This QMS adopts the definition from 21 CFR 50.3(c): any experiment that
@@ -157,7 +157,7 @@ this QMS
     be submitted later to, or held for inspection by, the Food and Drug
     Administration as part of an application for a research or marketing permit.
 
--   **Contract Research Organization (CRO)**: A person or an organization 
+-   **Contract Research Organization (CRO)**: A person or an organization
     (commercial, academic, or other) contracted by the sponsor to perform one or
     more of a sponsor's trial-related duties and functions. `[ICH E6(R2) 1.20]`
 
@@ -378,7 +378,7 @@ following minimum responsibilities:
     concerning the quality of a *observational study*, the issue is brought
     before Executive Management for resolution.
 
--   Promotes awareness of Good Clinical Practice (GCP) requirements, 
+-   Promotes awareness of Good Clinical Practice (GCP) requirements,
     subject safety, and data integrity throughout the organization.
 
 -   Responsible for coordinating __NewInstitute__'s responses to inquiries
@@ -586,7 +586,7 @@ SOP-004
 ### 7.5 Study Design Reviews
 
 __NewInstitute__ **SHALL** establish and maintain a Study Design Review
-procedure that minimally addresses applicable requirements in ISO-9001:2015 
+procedure that minimally addresses applicable requirements in ISO-9001:2015
 Section 8.3, ICH E6(R2) Sections 5.0, 5.1 and 6.0, ICH E8(R1) Section 5, and
 applicable regulatory guidance documents.
 
@@ -671,7 +671,7 @@ This procedure **SHALL** apply to:
     capture systems)
 -   Software used to process, transform, or analyze subject data
 
-All software development activities related to software used to collect or 
+All software development activities related to software used to collect or
 process *observational study* data **SHALL** be performed and documented in
 accordance with the Observational Study Software Development and Validation
 Procedure, SOP-015.
@@ -741,13 +741,13 @@ SOP-011.
 
 ### 8.4 Internal and External Audits
 
-Audits are a critical tool for improving the QMS and for ensuring the quality, 
+Audits are a critical tool for improving the QMS and for ensuring the quality,
 safety, and reliability of *observational studies* conducted within the QMS.
 __NewInstitute__ is committed to performing and participating in internal and
 external audits.
 
 Activities related to planning, conducting, and documenting internal and
-external audits of *observational studies* **SHALL** be performed and 
+external audits of *observational studies* **SHALL** be performed and
 documented in accordance with the Internal and External Audit Procedure,
 SOP-012 and address applicable requirements in ISO-9001:2015 Section 9.2,
 ICH E6(R2) Section 5.19, and ISO-19011:2018.
@@ -921,14 +921,14 @@ institute:
 Permitted combinations are recorded in study-team
 documentation as part of protocol development per SOP-001.
 
-## Appendix B Cross-Reference Guide 
+## Appendix B Cross-Reference Guide
 
 ### Management Responsibility
 
 - Management Commitment
   - QM-001 Quality Manual
     - [Section 5.1](QM-001--QualityManual.md#51-management-commitment)
-  - ISO-9001:2015 
+  - ISO-9001:2015
     - Section 5.1 (Leadership and commitment)
   - ICH E6(R2)
     - Section 5.0 (Quality Management)
@@ -977,7 +977,7 @@ documentation as part of protocol development per SOP-001.
     - Section 5.1 (Quality Assurance and Quality Control)
 
 ### Design and Document Controls
- 
+
 - Design Controls
   - QM-001 Quality Manual
     - [Section 7.1](QM-001--QualityManual.md#71-design-controls)
@@ -987,7 +987,7 @@ documentation as part of protocol development per SOP-001.
   - ICH E6(R2)
     - Section 5.0 (Quality Management)
     - Section 5.1 (Quality Assurance and Quality Control)
-  - ICH E8(R1) 
+  - ICH E8(R1)
     - Section 3 (Study Design Principles)
     - Section 4 (Study Design Elements)
   - ICH E9 (Statistical Principles for Clinical Trials)
@@ -1000,12 +1000,12 @@ documentation as part of protocol development per SOP-001.
   - [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
   - ISO-9001:2015
     - Sections 7.5 (Documented information)
-  - ICH E6(R2): 
+  - ICH E6(R2):
     - Section 4.9 (Records and Reports)
     - Section 8.0 (Essential Documents for the Conduct of a Clinical Trial)
 
 ### Risk Management
- 
+
 - Risk Management and Quality Risk Management
   - QM-001 Quality Manual
     - [Section 7.3](QM-001--QualityManual.md#73-risk-management-and-quality-risk-management)
@@ -1031,7 +1031,7 @@ documentation as part of protocol development per SOP-001.
     - Section 6.1.3 (Data Management)
     - Section 6.2.3 (Data Monitoring Committee)
   - GAMP 5
-  - NIST 800-171 
+  - NIST 800-171
   - NIST 800-53
   - 21 CFR 11
 
@@ -1070,7 +1070,7 @@ documentation as part of protocol development per SOP-001.
     - [Section 7.7](QM-001--QualityManual.md#77-study-closeout-and-archiving)
   - [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
   - ICH E6(R2)
-    - Section 4.9 (Records and Reports), 
+    - Section 4.9 (Records and Reports),
     - Section 5.5 (Trial Management, Data Handling, and Recordkeeping)
     - Section 8.4 (Essential Documents for the Conduct of a Clinical Trial -
       After Completion or Termination of the Trial)
@@ -1086,7 +1086,7 @@ documentation as part of protocol development per SOP-001.
     - [Section 7.8](QM-001--QualityManual.md#78-subject-safety-and-adverse-event-management)
   - [SOP-008: Subject Safety and Adverse Event Management Procedure](SOP-008--Subject_Safety_and_Adverse_Event_Management_Procedure.md)
   - ICH E6(R2)
-    - Section 4.11 (Safety Reporting), 
+    - Section 4.11 (Safety Reporting),
     - Section 5.17 (Adverse Drug Reaction Reporting)
   - ICH E8(R1)
     - Section 6.2 (Participant Safety during Study Conduct)
@@ -1116,7 +1116,7 @@ documentation as part of protocol development per SOP-001.
   - [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
   - ISO-9001:2015
     - Section 9.1 (Monitoring, measurement, analysis and evaluation)
-  - ICH E6(R2) 
+  - ICH E6(R2)
     - Section 5.18 (Monitoring)
   - ICH E8(R1)
     - Section 6.2.1 (Safety Monitoring)
@@ -1128,7 +1128,7 @@ documentation as part of protocol development per SOP-001.
   - [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
   - ISO-9001:2015
     - Section 10.2 (Nonconformity and corrective action)
-  - ICH E6(R2) 
+  - ICH E6(R2)
     - Section 5.20 (Noncompliance)
 
 - Corrective and Preventive Actions (CAPA)
@@ -1165,6 +1165,6 @@ documentation as part of protocol development per SOP-001.
     - [Section 8.6](QM-001--QualityManual.md#86-regulatory-compliance-management)
   - [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
   - ICH E6(R2)
-    - Section 3.0 (Institutional Review Board/Independent Ethics Committee), 
+    - Section 3.0 (Institutional Review Board/Independent Ethics Committee),
     - Section 4.1 (Investigator's Qualifications and Agreements)
   - 21 CFR Part 54 (Financial Disclosure by Clinical Investigators)

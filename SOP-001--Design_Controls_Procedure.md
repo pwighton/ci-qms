@@ -137,7 +137,7 @@ and subcontractors involved in study design activities.
 
 ### 3.3 Terms
 
--   **Clinical Investigation**: The FDA cites the following CFRs (code of 
+-   **Clinical Investigation**: The FDA cites the following CFRs (code of
     federal regulations) for their definition of *clinical investigation*: [21 CFR 50.3(c)](https://www.ecfr.gov/current/title-21/part-50/section-50.3#p-50.3%28c%29), [56.102(c)](https://www.ecfr.gov/current/title-21/part-56/section-56.102#p-56.102%28c%29),
     [312.3(b)](https://www.ecfr.gov/current/title-21/part-312/section-312.3#p-312.3%28Clinical%20investigation%29)
     and [812.3(h)](https://www.ecfr.gov/current/title-21/part-812/section-812.3#p-812.3%28h%29).

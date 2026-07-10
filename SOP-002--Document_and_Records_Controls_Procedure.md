@@ -73,7 +73,7 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf): Good Clinical Practice: Integrated Addendum to ICH E6(R1)
 
-- [FDA Guidance for Industry: Electronic Source Data in Clinical Investigations](https://www.fda.gov/media/85183/download) 
+- [FDA Guidance for Industry: Electronic Source Data in Clinical Investigations](https://www.fda.gov/media/85183/download)
 
 - [FDA Guidance for Industry: Part 11, Electronic Records; Electronic Signatures — Scope and Application](https://www.fda.gov/media/75414/download)
 
@@ -256,7 +256,7 @@ released through document control.
 ### 4.2 Document Identification and Numbering
 
 Every document **SHALL** have a unique identifier.  A unique
-identifier **MAY** be a document prefix (e.g., SOP-002) or a 
+identifier **MAY** be a document prefix (e.g., SOP-002) or a
 URL to its location in an electronic document management system.
 
 The QA representative **SHALL** maintain a document log. All

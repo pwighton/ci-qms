@@ -14,16 +14,16 @@ quality management principles.
 
 ## 2.0 SCOPE
 
-This procedure applies to all risk management and quality risk management 
-activities for __NewInstitute__ observational studies. It establishes the 
-framework for identifying, assessing, controlling, and reviewing risks that 
+This procedure applies to all risk management and quality risk management
+activities for __NewInstitute__ observational studies. It establishes the
+framework for identifying, assessing, controlling, and reviewing risks that
 could impact study quality, data integrity, and participant safety.
 
 This procedure defines the process for:
-- Identifying and documenting Critical to Quality (CtQ) factors per 
+- Identifying and documenting Critical to Quality (CtQ) factors per
   ICH E8(R1)
 - Conducting risk assessments and creating the Risk Assessment Matrix
-- Developing the Risk Management Plan (RMP) that determines monitoring 
+- Developing the Risk Management Plan (RMP) that determines monitoring
   strategies
 - Establishing Risk Indicators and Quality Tolerance Limits (QTLs)
 - Defining risk mitigation strategies and control measures
@@ -42,31 +42,31 @@ technical and data-management measures implemented under
 The risk assessment conducted under this procedure determines the level of
 validation rigor and data-integrity controls applied under SOP-004.
 
-The Risk Management Plan developed under this procedure serves as a primary 
-input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md), 
+The Risk Management Plan developed under this procedure serves as a primary
+input to [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md),
 which executes the monitoring activities identified as necessary through risk
 assessment. Monitoring reports and Key Risk Indicator (KRI) data generated under
 SOP-009 are reviewed under this procedure to assess whether identified risks are
 materializing or controlled as expected.
 
-Study design considerations and protocol development follow 
+Study design considerations and protocol development follow
 [SOP-001: Design Controls Procedure](SOP-001--Design_Controls_Procedure.md).
 
-Risk management documentation is controlled under 
+Risk management documentation is controlled under
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
 Post-study risk management activities, including final risk
 review and lessons learned, are aligned with study closeout
 per [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md).
 
-Issues identified through risk management activities that constitute 
-nonconformances are managed under [SOP-010: Control of Nonconforming 
+Issues identified through risk management activities that constitute
+nonconformances are managed under [SOP-010: Control of Nonconforming
 Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md).
 
-Corrective and preventive actions arising from risk assessments are managed 
+Corrective and preventive actions arising from risk assessments are managed
 under [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md).
 
-This procedure applies to all __NewInstitute__ employees and subcontractors 
+This procedure applies to all __NewInstitute__ employees and subcontractors
 involved in:
 - Study management and planning
 - Quality assurance
@@ -102,7 +102,7 @@ involved in:
 - [FDA Guidance: Oversight of Clinical Investigations — A Risk-Based Approach to Monitoring](https://www.fda.gov/media/116754/download)
   (August 2013)
 
-### 3.2 __NewInstitute__ References 
+### 3.2 __NewInstitute__ References
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 
@@ -230,53 +230,53 @@ involved in:
 
 ### 4.1 Overview
 
-__NewInstitute__ implements a risk-based quality management approach in 
-accordance with ICH E6(R2) Section 5.0 to ensure the protection of study 
-participants and the reliability of study results. 
+__NewInstitute__ implements a risk-based quality management approach in
+accordance with ICH E6(R2) Section 5.0 to ensure the protection of study
+participants and the reliability of study results.
 
-Risk management activities are integrated throughout the study lifecycle across 
-three phases: before study conduct (Phase 1), during study conduct (Phase 2), 
-and after study completion (Phase 3). These activities are embedded within the 
-QMS and interface with multiple procedures including design controls (SOP-001), 
+Risk management activities are integrated throughout the study lifecycle across
+three phases: before study conduct (Phase 1), during study conduct (Phase 2),
+and after study completion (Phase 3). These activities are embedded within the
+QMS and interface with multiple procedures including design controls (SOP-001),
 monitoring and oversight (SOP-009), and CAPA (SOP-011).
 
-The principles underlying this framework are detailed in Section 4.2, roles 
-and responsibilities in Section 4.3, and phase-specific activities in 
+The principles underlying this framework are detailed in Section 4.2, roles
+and responsibilities in Section 4.3, and phase-specific activities in
 Sections 5.0 through 7.0.
 
 ### 4.2 Risk Management Principles
 
-The following principles guide risk management activities for all 
+The following principles guide risk management activities for all
 *observational studies* conducted by __NewInstitute__:
 
 #### 4.2.1 Proportionate Approach
 
-The level of risk management activity **SHALL** be commensurate with the risks 
-to participant safety and data integrity. Risk management efforts are scaled 
+The level of risk management activity **SHALL** be commensurate with the risks
+to participant safety and data integrity. Risk management efforts are scaled
 based on:
 
 - **Study Complexity**: Simple observational studies may use streamlined risk
   assessments, while complex multi-site studies with multiple endpoints require
   comprehensive risk analysis.
 
-- **Participant Vulnerability**: Studies involving vulnerable populations 
-  (minors, cognitively impaired, economically disadvantaged) require enhanced 
+- **Participant Vulnerability**: Studies involving vulnerable populations
+  (minors, cognitively impaired, economically disadvantaged) require enhanced
   risk consideration.
 
-- **Data Criticality**: Studies supporting regulatory submissions or public 
-  health decisions warrant more rigorous risk management than exploratory 
+- **Data Criticality**: Studies supporting regulatory submissions or public
+  health decisions warrant more rigorous risk management than exploratory
   research.
 
-- **Operational Challenges**: Studies with novel procedures, inexperienced 
-  sites, or challenging logistics require proportionally greater risk 
+- **Operational Challenges**: Studies with novel procedures, inexperienced
+  sites, or challenging logistics require proportionally greater risk
   management focus.
 
 #### 4.2.2 Critical Process and Data Focus
 
-Per ICH E8(R1) Section 3.2 and ICH E6(R2) Section 5.0.1, risk management 
+Per ICH E8(R1) Section 3.2 and ICH E6(R2) Section 5.0.1, risk management
 **SHALL** prioritize Critical to Quality (CTQ) factors that are essential for:
 
-- **Participant Protection**: 
+- **Participant Protection**:
   - Informed consent processes and documentation
   - Participant eligibility and enrollment procedures
   - Safety monitoring and adverse event detection
@@ -295,39 +295,39 @@ Per ICH E8(R1) Section 3.2 and ICH E6(R2) Section 5.0.1, risk management
   - Visit windows and assessment timing
   - Completeness of critical data fields
 
-The study team **SHALL** document identified critical processes and data in the 
+The study team **SHALL** document identified critical processes and data in the
 Risk Management Plan, with clear rationale for their designation as critical.
 
 #### 4.2.3 Risk-Based Decision Making
 
-Risk assessment results **SHALL** drive resource allocation and quality 
+Risk assessment results **SHALL** drive resource allocation and quality
 management decisions throughout the study:
 
-- **Monitoring Strategy**: High-risk sites, procedures, or data receive 
-  increased monitoring frequency and depth, while low-risk areas may use 
+- **Monitoring Strategy**: High-risk sites, procedures, or data receive
+  increased monitoring frequency and depth, while low-risk areas may use
   reduced or remote monitoring approaches.
 
-- **Quality Control Measures**: Enhanced controls (double data entry, 
-  additional training, independent verification) are implemented for high-risk 
+- **Quality Control Measures**: Enhanced controls (double data entry,
+  additional training, independent verification) are implemented for high-risk
   processes.
 
-- **Resource Deployment**: Experienced staff, additional oversight, and 
+- **Resource Deployment**: Experienced staff, additional oversight, and
   enhanced tools are allocated to areas of greatest risk.
 
-- **Contingency Planning**: Formal contingency plans are required for high 
+- **Contingency Planning**: Formal contingency plans are required for high
   risks that cannot be adequately mitigated.
 
-Quality Tolerance Limits (QTLs) **SHALL** be established for critical 
-parameters per ICH E6(R2) Section 5.0.4 to support objective risk-based 
+Quality Tolerance Limits (QTLs) **SHALL** be established for critical
+parameters per ICH E6(R2) Section 5.0.4 to support objective risk-based
 decisions.
 
 #### 4.2.4 Continuous Improvement
 
-Risk management is an iterative process that evolves throughout the study 
+Risk management is an iterative process that evolves throughout the study
 lifecycle and across studies:
 
-- **Dynamic Risk Assessment**: Risk profiles change as studies progress. The 
-  framework **SHALL** support ongoing risk identification, reassessment, and 
+- **Dynamic Risk Assessment**: Risk profiles change as studies progress. The
+  framework **SHALL** support ongoing risk identification, reassessment, and
   adjustment of control strategies based on:
   - Actual vs. expected study performance
   - Emerging safety signals
@@ -335,14 +335,14 @@ lifecycle and across studies:
   - External factors (regulatory changes, public health events)
   - Monitoring and audit findings
 
-- **Knowledge Management**: Lessons learned from risk outcomes **SHALL** be 
+- **Knowledge Management**: Lessons learned from risk outcomes **SHALL** be
   documented and incorporated into:
   - Future study risk assessments
   - Updates to risk libraries and templates
   - Refinement of risk scoring methodologies
   - Training materials and best practices
 
-- **Performance Metrics**: The effectiveness of risk management **SHALL** be 
+- **Performance Metrics**: The effectiveness of risk management **SHALL** be
   measured through:
   - Frequency of realized risks vs. predictions
   - Impact of mitigation strategies
@@ -2016,11 +2016,11 @@ Section 6.1.2. Minutes are maintained in the TMF per SOP-002.
 
 ### 9.1 Required Records
 
-All risk management documents and records **SHALL** be created, controlled, and 
-maintained in accordance with 
+All risk management documents and records **SHALL** be created, controlled, and
+maintained in accordance with
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
-The following risk management records **SHALL** be maintained in the Trial 
+The following risk management records **SHALL** be maintained in the Trial
 Master File (TMF):
 
 - Risk Management Plan (initial and all revisions)
@@ -2035,16 +2035,16 @@ Master File (TMF):
 
 ### 9.2 Record Retention
 
-Risk management records **SHALL** be retained as part of the TMF according to 
-the retention schedule defined in 
+Risk management records **SHALL** be retained as part of the TMF according to
+the retention schedule defined in
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
 ### 9.3 Document Control
 
-All risk management documents **SHALL** be version controlled and approved 
+All risk management documents **SHALL** be version controlled and approved
 according to [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md).
 
-Changes to risk management documents after initial approval **SHALL** follow 
+Changes to risk management documents after initial approval **SHALL** follow
 [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md).
 
 ## 10.0 TRAINING REQUIREMENTS

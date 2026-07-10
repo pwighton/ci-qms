@@ -52,7 +52,7 @@ this procedure, while the change process itself is managed under
 - [ISO 9001:2015](https://www.iso.org/standard/62085.html): Quality management
   systems — Requirements (Section 8.3: Design and development)
   
-### 3.2 __NewInstitute__ References 
+### 3.2 __NewInstitute__ References
 
 1. [QM-001: Quality Manual](QM-001--QualityManual.md)
 
