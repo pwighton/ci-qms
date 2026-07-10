@@ -2065,11 +2065,11 @@ observational study design controls in accordance with ICH E6(R2) requirements.
 | ICH E6(R2) 8.3 | Essential Document | SOP-001 Section |
 |----------------|-------------------|-----------------|
 | 8.3.1 | Investigator's brochure updates | 6.4 |
-| 8.3.2 | Any revision to protocol/amendment(s) and case report form | 6.2, 6.4 |
-| 8.3.2 | Any revision to informed consent form | 6.4 |
-| 8.3.3 | Dated, documented approval of IRB/IEC of protocol amendment(s) | 6.4 |
-| 8.3.3 | Dated, documented approval of IRB/IEC of informed consent form revision(s) | 6.4 |
-| 8.3.3 | Dated, documented approval of IRB/IEC of Continuing review approval | 6.4 |
+| 8.3.2 | Any revision to protocol/amendment(s) and case report form | 6.2, 6.4, see SOP-013 |
+| 8.3.2 | Any revision to informed consent form | 6.4, see SOP-013 |
+| 8.3.3 | Dated, documented approval of IRB/IEC of protocol amendment(s) | 6.4, see SOP-013 |
+| 8.3.3 | Dated, documented approval of IRB/IEC of informed consent form revision(s) | 6.4, see SOP-013 |
+| 8.3.3 | Dated, documented approval of IRB/IEC of Continuing review approval | 6.4, see SOP-014 |
 | 8.3.4 | Regulatory authority authorization/approval/notification of protocol amendment(s) | 6.4 |
 | 8.3.5 | Curriculum vitae for new investigator(s) and/or sub-investigator(s) | 6.4 |
 | 8.3.6 | Updates to normal value(s)/range(s) for medical/laboratory/technical procedures | 6.4 |
@@ -2085,7 +2085,7 @@ observational study design controls in accordance with ICH E6(R2) requirements.
 | 8.3.16 | Notification by originating investigator to sponsor of serious adverse events | 6.4 (adapted; see SOP-008 §4.7) |
 | 8.3.17 | Notification by sponsor and/or investigator to regulatory authority(ies) and IRB(s)/IEC(s) of unexpected serious adverse drug reactions | N/A for observational studies; IRB reporting of unanticipated problems per SOP-008 |
 | 8.3.18 | Notification by sponsor to investigators of safety information | 6.4 |
-| 8.3.19 | Interim or annual reports to IRB/IEC and authority(ies) | 6.4 |
+| 8.3.19 | Interim or annual reports to IRB/IEC and authority(ies) | 6.4, see SOP-014 |
 | 8.3.20 | Subject screening log | 6.4 |
 | 8.3.21 | Subject identification code list | 6.4 |
 | 8.3.22 | Subject enrollment log | 6.4 |
@@ -2099,12 +2099,12 @@ observational study design controls in accordance with ICH E6(R2) requirements.
 |----------------|-------------------|-----------------|
 | 8.4.1 | Investigational product(s) accountability at site | N/A for observational studies |
 | 8.4.2 | Documentation of investigational product destruction | N/A for observational studies |
-| 8.4.3 | Completed subject identification code list | 7.2 |
-| 8.4.4 | Audit certificate (if available) | 7.2 |
-| 8.4.5 | Final trial close-out monitoring report | 7.2 |
-| 8.4.6 | Treatment allocation and decoding documentation | 7.2 (if applicable) |
-| 8.4.7 | Final report by investigator to IRB/IEC and regulatory authority(ies) | 7.2 |
-| 8.4.8 | Clinical study report | 7.2 |
+| 8.4.3 | Completed subject identification code list | 7.2, see SOP-007 |
+| 8.4.4 | Audit certificate (if available) | 7.2, see SOP-012 |
+| 8.4.5 | Final trial close-out monitoring report | 7.2, see SOP-007 and SOP-009 |
+| 8.4.6 | Treatment allocation and decoding documentation | 7.2 (if applicable), see SOP-007 |
+| 8.4.7 | Final report by investigator to IRB/IEC and regulatory authority(ies) | 7.2, see SOP-007 |
+| 8.4.8 | Clinical study report | 7.2, see SOP-007 |
 
 ### A.4 Notes
 
