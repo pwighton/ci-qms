@@ -884,13 +884,14 @@ studies subject to the constraints in Section A.3.
 
 - **Statistician** (per study). Responsible for statistical
   design, the Statistical Analysis Plan, and statistical
-  analyses. Participates in the Protocol Review and Design
-  Output Review (SOP-005).
+  analyses. Participates in the Protocol Review, Design
+  Output Review, and Verification Review (SOP-005).
 
 - **Data Manager** (per study). Responsible for data
   acquisition design, the data management plan, and data
   integrity controls operating under SOP-004. Participates in
-  the Design Output Review.
+  the Protocol Review, Design Output Review, and Validation
+  Review (SOP-005).
 
 - **Risk Owner** (per risk; one or more per study). Owns the
   assessment and mitigation of a specific risk. Defaults to

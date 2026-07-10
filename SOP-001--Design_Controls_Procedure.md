@@ -256,8 +256,8 @@ referenced from this SOP.
 |---|---|
 | Study Director / Principal Investigator (Sponsor-Investigator) | Owns the study design. Authors or directs authorship of the protocol and study-level design outputs. Approves the protocol per §5.8.3. Approves design review decisions at every Review Gate per SOP-005. Holds the combined sponsor and investigator obligations per §4.2.2. |
 | Project Manager | Operationalizes design activities: schedule, document and records control (SOP-002), study-team coordination, and traceability between design inputs (§5.2.4) and design outputs. |
-| Statistician | Statistical design inputs (§5.3.4), sample-size determination, Statistical Analysis Plan (§5.4), and statistical content of design verification (§5.6). Participates in the Protocol Review and Design Output Review per SOP-005. |
-| Data Manager | Data collection design (§5.4), data management plan, and data integrity controls operating under SOP-004. Participates in the Design Output Review and Verification Review per SOP-005. |
+| Statistician | Statistical design inputs (§5.3.4), sample-size determination, Statistical Analysis Plan (§5.4), and statistical content of design verification (§5.6). Participates in the Protocol Review, Design Output Review, and Verification Review per SOP-005. |
+| Data Manager | Data collection design (§5.4), data management plan, and data integrity controls operating under SOP-004. Participates in the Protocol Review, Design Output Review, and Validation Review per SOP-005. |
 | Risk Owner(s) | Owns the assessment and mitigation of a specific risk identified during design, per SOP-003 §4.3.4. Defaults to the Study Director unless explicitly delegated. |
 | QA Representative | Independent quality oversight of design activities. Concurs on each Review Gate decision per SOP-005. Verifies the Sponsor-Investigator's qualification before Final Design Approval, per §4.2.2. Approves release of controlled study documents per SOP-002 §4.1. |
 | System Owner | For each validated computer system in design scope, owns the validation lifecycle per SOP-004 (validation planning, change control, periodic review). |
