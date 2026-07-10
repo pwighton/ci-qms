@@ -1216,8 +1216,9 @@ Design verification activities **SHALL** be conducted by personnel who are:
 
 - Qualified through education, training, and/or experience to perform the
   verification activity
-- Independent of the personnel who developed the design output being verified
-  (verification **SHOULD NOT** be performed solely by the original author)
+- Independent of the personnel who developed the design output being verified;
+  the verifier of a design output **SHALL NOT** be the author of that output,
+  per QM-001 Appendix A.3
 
 Verification **MAY** be conducted by internal personnel or qualified external
 reviewers.

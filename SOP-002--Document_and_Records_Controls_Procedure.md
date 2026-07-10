@@ -585,6 +585,13 @@ creating records:
 A person's direct reporting superior is always authorized to
 approve on that person's behalf.
 
+This automatic authorization, and any delegation under this
+section, **SHALL NOT** apply to QA-role approvals, auditor
+assignments, or monitoring sign-offs. Any delegation of a QA
+approval **SHALL** preserve the independence constraints in
+QM-001 Appendix A.3, and the delegate **SHALL** be
+independent of the activity being assured.
+
 A person **MAY** delegate approval authority to anyone deemed
 qualified. The delegate is responsible for considering
 whether they are qualified to make the approval.

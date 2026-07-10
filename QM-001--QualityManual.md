@@ -924,8 +924,10 @@ assigning roles:
 | Constraint | Rationale |
 |---|---|
 | QA Representative may not also hold a study-team role on the same study | Independence of QA from the activity being assured |
+| QA approver of a controlled document may not also be its author | Independence of QA assurance from document authorship |
+| QA Representative may not also serve as Monitor on the same study | QA independence from the monitoring function it assures |
 | Auditor of a process may not also be the executor of that process | ISO 19011 auditor independence |
-| Verifier of a design output may not also be the author of that output | ISO 9001 §8.3.4 design verification independence |
+| Verifier of a design output may not also be the author of that output | Design-verification independence (institutional requirement, aligned with ISO 9001 §8.3.4) |
 | Monitor may not also be a study-site executor of activities being monitored | ICH E6(R2) §5.18 monitor independence |
 
 All other role combinations are permitted at the discretion
